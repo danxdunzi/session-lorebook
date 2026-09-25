@@ -1,2932 +1,1975 @@
-{
-  "name": "Mushoku Tensei Lorebook",
-  "description": "",
-  "entries": [
-    {
-      "keys": [
-        "Rudeus Greyrat",
-        "Rudeus",
-        "Quagmire",
-        "Dead End",
-        "Dragon God's Right Hand",
-        "Magic King",
-        "Magician King",
-        "K407",
-        "K481"
-      ],
-      "secondaryKeys": [],
-      "content": "Rudeus Greyrat\nSHORT_DESC: {Reincarnated 34-year-old Japanese NEET [Birth: K407] reborn into a stillborn Laplace-Factor body, retaining past-life memories after dying to save high schoolers (including Nanahoshi) from a truck accident; blessed with the Laplace Factor conferring god-class mana capacity and innate voiceless chantless casting; internationally renowned as 'Quagmire', 'The Dragon God's Right Hand', 'The Magic King', and officially Rank #7 of the Seven Great Powers as of Year K430; trained from infancy in water, earth, wind, and fire magic under Roxy Migurdia, achieving Water Saint by age five and eventually Emperor/God-class capability in earth and water magic; wielder of the Demon Eye of Foresight (gifted by Kishirika) and later the Demon Eye of Clairvoyance; builder of the Magic Armor series (MK-I, MK-II, MK-III, and MK-Zero) co-engineered with Zanoba and Cliff Grimoire to overcome his lack of natural Touki (Battle Aura)| [Personality & Core Psychology] Plagued by chronic imposter syndrome and an existential dread of regressing to his useless past-life self; approaches every conflict with meticulous preparation, immense paranoia, and deep humility; holds an abiding revulsion toward unnecessary slaughter, preferring non-lethal earth mud/quagmire traps and subsonic stone cannons to disable opponents; deeply devotional and emotionally dependent toward his three wives—revering Roxy as his 'Goddess of Wisdom', Sylphiette as his 'Goddess of Love/Matriarch', and Eris as his 'Goddess of War'; his ultimate life motivation is not glory or conquest, but safeguarding the domestic happiness and peaceful future of his family against Hitogami's machinations; passed away peacefully at age 74 in Year K481, surrounded by children and grandchildren, satisfied that he lived his second life with sincere effort| [Timeline Progression] [Age 0-7: Buena] Magic prodigy, tutored by Roxy, befriended Sylphie; [Age 7-10: Roa] Tutor to Eris, kidnapped and rescued, cultured gentleman facade; [Age 10-13: Demon Continent] Teleported to Demon Continent, formed Dead End with Ruijerd and Eris, navigated perilous wilderness; [Age 13-15: Northern Lands] Severe clinical depression and erectile dysfunction following Eris's misunderstood departure; solo B-to-A-rank adventurer 'Quagmire'; [Age 15-17: Ranoa] University student, cured of ED by Silent Fitz (Sylphiette), married Sylphie; [Age 17: Begaritt] Journey to Teleport Labyrinth, lost left forearm, lost father Paul, saved mother Zenith and teacher Roxy, married Roxy; [Age 17-18: Asura] Warned by Oldeus diary, allied with Dragon God Orsted, reconciled and married Eris, secured Princess Ariel's coronation; [Age 19-24: Biheiril & Seven Great Powers] Led the Orsted Corporation, subdued North God Kalman III in Year K430 to become #7 of the Seven Great Powers (crest: three crossed spears); [Age 74: K481] Passed away in bed attended by Orsted, his family, and thousands of mourners.}\nPHYSIQUE: {Build: [Age 0-7: Buena] Plump, adorable toddler growing into an active boy, [Age 7] 145cm small-framed with weak musculature; [Age 7-10: Roa] Agile, lightly toned child frame from Paul's morning sword training and physical drills; [Age 10-13: Demon Continent] Lean, wiry, sunburned traveler physique hardened by monster survival; [Age 13-15: Northern Lands] Lanky, brooding adolescent growth spurt, 169cm and leaner, broad shoulders developing; [Post-Metastasis: Age 13-15] After Eris's separation and resulting ED, redirects his energy into regular body training, with the dividends showing once he intensifies his exercise; [Academy Era: Age 15-17] Spends most of his time in obscuring robes or uniforms, which contrasts when undressed and shows off his shredded physique; [Age 16-24: Peak Adult] 175cm / 5'8.8\", 70kg, athletic swordsman-magician build with firm musculature, lacking natural Battle Aura (Touki) due to Laplace Factor; [Late Timeline: Age 70+] 175cm, dignified elderly patriarch, slightly stooped shoulders, weathered hands, serene posture; [Epilogue] frail, weathered | Height & Weight: [Age 5] 105cm, 18kg; [Age 7] 145cm; [Age 10] 138cm, 32kg; [Age 15] 168cm, 58kg; [Adult: Age 20+] 175cm, 70kg | Penile: [Age 7-12: Child] small, undeveloped | [Age 12-14: Teen, pre-relationship] average, intact, maturing | [Age 14-17: Teen, intimate with Sylphiette/Eris] average, intact, virile | [Age 17-18: Begaritt, separated from Eris] erectile dysfunction from the trauma of separation — unable to maintain an erection | [Age 18-30s: Post-Eris, Zariff prosthetic era] persistent ED despite the prosthetic arm | [Post-Orsted healing: Late Timeline] hand restored, ED gradually resolves | [Age 70+: Epilogue] aged but functional, weathered | Skin: [Childhood] Fair, chubby Buena Village complexion; [Adventurer: Age 10-17] Weather-beaten, wind-tanned skin; [Adult] fair; [Late Timeline] weathered with age | Face: [All Eras] Average, thoughtful; mole beneath left eye; ahoge sticking up on top of his head; [Adult] Smooth, handsome face inheriting Paul's gentle facial contours; [Late Timeline] Dignified age lines, crow's feet, calm and contented smile, kind paternal gaze; [Epilogue] full beard | Hair: [Age 7-10] Light brown ponytail like Paul's; [Age 11] Fades white from mana exhaustion during the teleport, restored; [Age 13-19: Teenager] Silky warm chestnut-brown hair parted slightly to the left, grown out past his shoulders and tied into a low ponytail; [Age 22-23] White again; [Late Timeline: Age 60+] Silver-grey hair streaked with white, kept neatly trimmed; [Epilogue] entirely white | Eyes: [Birth] Green, gentle and warm; [Age 11+] Right eye replaced by Kishirika with the ruby-red Demon Eye of Foresight (she crushes his right eye and substitutes it), leaving him heterochromatic - green left eye, demon right eye, pupil slitted when active, used to predict an opponent's next move but less effective against counter-attackers or faster, more skilled opponents; later equipped with Demon Eye of Clairvoyance; [Late Timeline] Crow's feet at eye corners, kind paternal gaze | Distinguishing Traits: [Age 17: Begaritt] Left forearm severed by the Manatite Hydra during the Teleport Labyrinth rescue of Zenith; [Post-Begaritt] Zariff Magic Stone Prosthetic Arm, a magical prosthetic frame made by Zariff of Sharia in collaboration with Zanoba Shirone and Cliff Grimoire, black magic-conductive alloy with rocket-fist mechanism, wire launcher, and a Mana Absorption Stone in the palm, the frame that became the foundation of the entire Magic Armor MK series; [Late Timeline] Left hand fully restored by Orsted's healing magic | Outfits by Timeline: [Age 0-7: Buena Village] Light cotton tunics, woolen shorts, small wooden wand; [Age 7-10: Roa] Fine aristocratic blue Boreas doublet, tailored breeches, leather walking shoes; [Age 10-13: Demon Continent / Dead End] Rugged grey traveling robe worn open with deep hood, leather armguards, sturdy trail boots, holding apprentice wand; [Age 13-15: Northern Lands / Quagmire] Heavy ash-grey fur-lined northern adventuring duster, thick snow boots, fingerless leather gloves; [Age 15-17: Ranoa Magic Academy] White-and-crimson university student uniform with tailored capelet and wand holster; [Age 17+: Adult / Orsted Corporation] Iconic custom grey traveling robe trimmed with golden dragon scale motifs, refined clothing judged well-dressed by Perugius, Zariff prosthetic gauntlet on left arm, wielding Aqua Heartia (Arrogant Water Dragon King staff); [Battle Armors] Magic Armor MK-I (three-meter titan exoskeleton), Magic Armor MK-II (wearable fitted battle armor), Magic Armor MK-Zero (heavy anti-god siege armor); [Late Timeline: Sharia] Comfortable charcoal-grey silk robes, reading glasses, soft slippers}",
-      "comment": "[Characters] Rudeus Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sylphiette Greyrat",
-        "Sylphiette",
-        "Sylphie",
-        "Sylphy",
-        "Fitz",
-        "Silent Fitz"
-      ],
-      "secondaryKeys": [],
-      "content": "Sylphiette Greyrat\nSHORT_DESC: {Quarter-elf magician and primary matriarch of the Greyrat family; affectionately called 'Sylphie' and formerly the masked royal guardian 'Silent Fitz'; daughter of Laws (half-elf hunter) and a human-beast mother; granddaughter of the legendary Elinalise Dragonroad; childhood best friend, first love, and first wife of Rudeus Greyrat; mother of Lucy Greyrat and Sieghart Saladin Greyrat; master of voiceless incantation in Wind, Water, and Healing magic, able to conjure Saint-class winds and heal mortal wounds chantlessly; equipped with the Gale Boots (doubling agility) and enchanted tinted sunglasses| [Personality & Psychology] Gentle, empathetic, and profoundly supportive, yet possessing ironclad resolve when defending her family; harbored deep self-conscious insecurity about her boyish frame, short hair, and elven flat chest next to Ariel and Eris; demonstrates extraordinary emotional maturity and generosity: actively embraced Roxy and Eris into the household, recognizing their genuine love for Rudeus and refusing to let petty jealousy divide the family; acted as the household commander who managed finances, children's upbringing, and domestic logistics while Rudeus conducted foreign missions for Orsted; ages at an elven pace, appearing as a youthful woman in her twenties when Rudeus and Eris reach old age| [Timeline Progression] [Age 4-7: Buena Village] Rescued from bullies by Rudeus, taught reading and silent magic; [Age 10: Metastasis Event] Teleported midair above Asura Royal Palace, depleted her entire mana reservoir softening her fall, causing her green hair to turn permanently white; [Age 10-15: Royal Bodyguard] Assumed male identity 'Silent Fitz' to guard Princess Ariel Anemoi Asura during exile to Ranoa; [Age 16: Reunion & Marriage] Reunited with Rudeus at Ranoa Magic Academy, revealed her true gender and identity, healed his emotional trauma and erectile dysfunction, married him; [Age 17+: Matriarch of Sharia] Gave birth to Lucy and Sieghart, supported Rudeus through the Teleport Labyrinth aftermath and Asura political war; [Oldeus Timeline / Alternate Future] In the dark alternate timeline of Future Rudeus's diary, after Roxy's death drove Rudeus into abusive alcoholism, Sylphiette fled to support Ariel and was executed in a failed Asura coup (wholly averted in primary canon).}\nPHYSIQUE: {Build: [Age 4-7: Buena] Child frame; [Age 10-15: Silent Fitz] Adolescent growth, slender and androgynous, easily disguised as an elven boy; [Age 16+: Adult Matriarch] 162cm / 5'4\", 48kg, slender, graceful elven silhouette that ages slowly from elf heritage, A-Cup Angst over her petite figure especially next to Ariel and Eris; ages at one-third human rate; [Late Timeline: Age 70+] Retains the radiant physical appearance of a woman in her early 30s due to elven blood | Height & Weight: [Age 7] 115cm, 20kg; [Age 12] 142cm, 34kg; [Age 16+] 162cm, 48kg | Breasts: [Childhood: Age 4-7] Prepubescent child, flat | [Silent Fitz Era: Age 10-15] Flat, androgynous chest bound under royal guard uniform | [Adult Matriarch & First Wife: Age 16+] Delicate A-cup (A-Cup Angst next to Ariel and Eris) | [Pregnancy & Nursing: Lucy & Sieghart] Temporarily B-cup, tender and full for lactation | [Late Timeline: Age 70+] Delicate, firm elven A-cup; does not sag due to slow elven aging | Vaginal Depth: [Childhood & Fitz Era: Age 4-15] Undeveloped elven child anatomy | [First Wife: Age 16+] 5.0\", Tightness: Snug, bloodstained at defloration | [Post-Childbirth & Late Timeline] 5.2\", Tightness: Accommodating | Skin: [All Eras] Pale, fair porcelain complexion | Face: [All Eras] Very beautiful, elvish features, delicate elven cheekbones, soft chin, subtle feminine lips; [Late Timeline] Still radiant, early-30s appearance | Hair: [Childhood: Age 4-10] Short, unruly emerald-green hair resembling the Superd, a Mark of the Supernatural indicating her Laplace Factor; [Post-Teleport: Age 10 onward] Pure snow-white hair from mana shock after exhausting her magic to survive being teleported midair, permanent in her early teens; [Age 10-15: Fitz Era] Cut short in a boyish crop under a peaked cap; [Age 16+: Wife] Grown out into silky long white hair draping gracefully past her shoulders with loose bangs; [Late Timeline] Grown long and feminine after marriage, styled in a more mature look | Eyes: [All Eras] Ruby-red, moist, expressive and gentle, inherited from her grandmother Elinalise Dragonroad | Ears: [All Eras] Long, pointed indicators of elf ancestry that move up and down depending on her mood; she has the habit of touching her pointy ears when nervous or flustered | Distinguishing Traits: Faint childhood burn mark on chest from an ancient fire incident | Outfits by Timeline: [Age 4-7: Buena Village] Hand-me-down boyish village tunic and shorts, leather moccasins; [Age 10-15: Silent Fitz] Masculine royal guard uniform of white-and-gold Asuran cloth with high collar, white leather gloves worn permanently to hide her identity, dark enchanted sunglasses she never takes off; [Age 16-17: Ranoa Reunion] Academy student uniform with short capelet; [Age 17+: Domestic Matriarch / Late Timeline: Wife] Soft pastel linen dresses, longer hair loose, embroidered shawls, apron for household chores, silver hairpin gifted by Rudeus, wearing the Gale Boots on missions}",
-      "comment": "[Characters] Sylphiette Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Roxy Migurdia",
-        "Roxy",
-        "Shirokaze Roxy"
-      ],
-      "secondaryKeys": [],
-      "content": "Roxy Migurdia\nSHORT_DESC: {Migurd demon tribe magician, revered mentor, and second wife of Rudeus Greyrat; mother of Lara Greyrat and Lily Greyrat; Water King-tier master who pioneered large-scale atmospheric spells like Cumulonimbus; born in Migurd Village on the Demon Continent without the racial telepathy trait, giving her an early life of profound isolation that spurred her to wander the world as an adventurer; tutored young Rudeus in Buena Village from age 3 to 5, serving as the foundational catalyst who enabled him to overcome his trauma of leaving the house; revered by Rudeus as his 'Goddess of Wisdom', her holy relic preserved in his private household altar| [Personality & Psychology] Intellectual, composed, and dignified, but with a wonderfully endearing clumsy streak; harbored a secret romantic fantasy of being rescued from peril by a dashing hero inside a dungeon; occasionally struggled with feelings of inadequacy seeing Rudeus's astronomical mana pool, but found deep fulfillment teaching magic at Ranoa Magic University; maintains a deeply loving, respectful sisterhood with Sylphiette and Eris, guiding the household's academic education| [Timeline Progression] [Pre-Story] Left Migurd Village, studied at Ranoa Magic Academy, achieved Water Saint/King; [Age 3-5 of Rudeus] Private tutor at Buena Village, graduated Rudeus after teaching Saint-tier Cumulonimbus; [Post-Metastasis] Searched the world for the Greyrat family alongside Talhand and Nokopara; [Begaritt Labyrinth] Trapped on the 5th floor of the Teleport Labyrinth, saved in the nick of time by Rudeus; married Rudeus in K424 following Paul's death; [Late Timeline: Sharia] Bore Lara (prophesied world savior) and Lily; served as prominent professor and eventually Headmistress of the Ranoa Magic University; [Oldeus Timeline / Alternate Future] In the dark timeline, contracted Magic Stone Disease from a Hitogami-sent demon rat while pregnant and tragically died (prevented in main canon).}\nPHYSIQUE: {Build: [Lifelong: Age 14 to 150+] 145cm / 4'9\", 38kg; childlike, petite frame that remains virtually unchanging from adolescence through two centuries of lifespan; slender limbs, light steps, remarkably youthful appearance throughout the entire story; looks like a cute young girl in her early teens but is actually a full-grown adult whose species ages slowly; appears 15-16 despite being 50+ years old, body does not visually change; the only one of Rudeus's love interests with an unchanging childlike body because her race does not age past their early teens until much later in their lives; [Late Timeline] Same youthful form preserved while serving as professor, then Headmistress, of Ranoa Magic University | Height & Weight: [Lifespan Constant: Age 14 to 150+] 145cm / 4'9\", 38kg | Breasts: [Lifelong: Age 14 to 150+] Delicate A-cup, petite, unchanging across centuries due to Migurdian biology | [Pregnancy & Nursing: Lara & Lily] Temporarily small B-cup for lactation, returning to petite form | Vaginal Depth: [Lifelong Demon Stature: Age 14-150+] 4.8\", Tightness: Snug; compact, sensitive Migurdian anatomy | Skin: [Lifelong] Sand-pale; pale, smooth, youthful demon complexion with soft doll-like cheeks | Face: [Lifelong] Pretty, mature resting affect belying the childlike body; looks like a 14-year-old human girl even past age 50; endearing, occasionally clumsy expression | Hair: [Lifelong] Silky, lustrous water-blue hair parted in the center and braided into twin low pigtail braids below the waist draping over each shoulder, tied with dark ribbons; appears green in sunlight and is often mistaken for Superd green; matches her blue eyes and reflects her King-class water magic, making her look somewhat childish on top of her young-looking body though she is a badass in the magic department; [Late Timeline] Keeps twin braids, occasionally pinned up into a neat bun for academy lectures | Eyes: [Lifelong] Large, luminous aquamarine-blue eyes matching her hair, filled with intellectual curiosity and occasional adorable clumsiness | Distinguishing Traits: Complete absence of Migurd telepathic forehead resonance; subtle demon scent; small, delicate hands adept at wand manipulation | Outfits by Timeline: [Pre-Story & Buena Tutor: Age 37-44] White and gray button-down shirt with black edges, short black skirt, light brown overlayer, conical wide-brimmed indigo witch hat with brass buckle, midnight-blue hooded magician robe, brown travel boots, Water King wand; [Begaritt Labyrinth Expedition: Age 50] Dust-coated dark traveling cloak, protective leather arm wraps, reinforced hiking boots; [Age 50+: Sharia Wife and University Professor] Black witch hat with gold line and white side bands, beige robe, prestigious navy-blue academic robes trimmed with silver embroidery, faculty professor sash, reading spectacles, soft house dresses; staff tipped with a blue gem (the Aqua Heartia / Arrogant Water Dragon King, eventually passed to Lara); [Late Timeline: Headmistress] Formal grand headmistress vestments with gold trim, ornate staff}",
-      "comment": "[Characters] Roxy Migurdia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Eris Boreas Greyrat",
-        "Eris",
-        "Mad Dog",
-        "Mad Sword King"
-      ],
-      "secondaryKeys": [],
-      "content": "Eris Boreas Greyrat\nSHORT_DESC: {Noble daughter of the Boreas Greyrat house, ferocious swordswoman, and third wife of Rudeus Greyrat; mother of Ars Greyrat and Christina Greyrat; attained the rank of Sword King under Sword God Gal Farion, mastering the Longsword of Light and Light Reversal techniques; serves as the primary martial vanguard and personal bodyguard of Rudeus, humorously and lovingly referred to as the household's 'husband' due to her fierce masculinity in combat| [Personality & Psychology] Passionate, fiery, blunt, and intensely physical; completely devoted to Rudeus with ferocious, unconditional loyalty; historically struggled with literacy, dancing, and social etiquette, channeling all her energy into the blade; left Rudeus at age 15 after their first night together not out of rejection, but from overwhelming self-reproach after being powerless against Orsted, intending to train until she could stand as his equal; deeply protective of Sylphiette and Roxy, developing an affectionate, sisterly bond with them and taking pride in keeping the family safe from external threats| [Timeline Progression] [Age 7-10: Roa] Tamed by Rudeus's tutoring, formed deep attachment during goblin raids and aristocratic balls; [Age 10-13: Demon Continent] Navigated the wilderness as vanguard of Dead End alongside Ruijerd and Rudeus; [Age 15: Separation] Departed for the Holy Land of Swords after their night together, leaving a brief note that triggered Rudeus's five-year depression; [Age 15-20: Holy Land of Swords] Endured brutal training under Gal Farion, defeated Nina Farion, achieved Sword King title; [Age 20: Vol 15 Reunion] Intercepted Orsted in the Wyvern Valley to save Rudeus's life, declared her lifelong love, married Rudeus; [Biheiril Campaign] Fought alongside Ruijerd to duel and slay her former master Gal Farion; [Late Timeline: Sharia] Trained her children and students in swordsmanship, lived a joyous life beside Rudeus until passing away of natural old age at age 72 (two years before Rudeus).}\nPHYSIQUE: {Build: [Age 7-10: Roa] Small girl, still developing; fiery, athletic noble girl with wild energy, muscular legs from running; [Age 10-13: Demon Continent] Maturing, leaner from travel; rapidly developing toned vanguard frame, firm abs, broad shoulders; [Age 13-16] Athletic, toned, rock-hard muscles and six-pack abs; [Age 15-20: Holy Land of Swords] Sculpted, powerful amazon physique, hardened muscles, explosive sinew; [Age 20+: Peak Adult Vanguard] 170cm / 5'7\", 63kg, athletic, voluptuous, firm; rock-hard abdominal core, powerful thighs, the most buxom of Rudeus's love interests; [Late Timeline: Age 70+] 170cm, weathered warrior queen, silver-streaked red mane, retains terrifying physical strength until passing away at age 72 | Height & Weight: [Age 9] 132cm, 28kg; [Age 12] 150cm, 42kg; [Age 15] 163cm, 54kg; [Age 20+] 170cm, 63kg | Breasts: [Childhood: Age 7-10] Prepubescent, athletic girl, flat | [Demon Continent: Age 10-15] Developing vanguard build, firm muscular B-cup to C-cup | [Sword King & Third Wife: Age 16+] Voluptuous E-cup on shredded muscular amazon frame | [Motherhood & Late Life: Age 20-72] Heavy, full E-cup, muscular and firm until passing at 72 | Vaginal Depth: [Childhood & Demon Continent: Age 7-14] Undeveloped swordsman girl anatomy | [Third Wife: Age 15+] 5.5\", Tightness: Tight, muscular pelvic floor | [Post-Childbirth & Late Life: Age 20-72] 5.6\", Tightness: Snug | Skin: [All Eras] Fair; sun-kissed golden skin lightly patterned with dueling calluses and blade scars | Face: [All Eras] Beautiful, sharp-featured, intense resting affect, prominently long canines when snarling; proud aristocratic cheekbones, bold jawline | Hair: [Age 7-10] Long crimson-red, worn loose, wild and thick like a flaming lion's mane; [Age 10-13] Untamed red hair billowing down past her shoulder blades, tied in a half-ponytail during combat; [Post-Decisive Battle: Age 16+] Permanent white streaks from mana strain; [Late Timeline] Crimson heavily streaked with silver and white, white streaks persist | Eyes: [All Eras] Sharp, fierce, predatory amber-red feline eyes matching her red hair, flashing with battle bloodlust or softening when gazing at Rudeus | Distinguishing Traits: Feline canine teeth that show when grinning; calloused swordmaster hands; intense physical presence radiating Sword King Touki | Outfits by Timeline: [Age 7-10: Roa Noble Era] Opulent crimson-and-white Boreas ball gowns with layered ruffles, often torn or disheveled from tantrums and sparring; [Age 10-13: Dead End / Traveling] Traveling swordsgear with twin swords worn at both hips, tough leather breastplate over red travel tunic, fingerless leather gloves, short combat shorts, high trail boots, wooden shortsword replaced by steel broadsword; [Age 15-20: Holy Land of Swords] White canvas training gi, heavy iron training weights, worn leather wraps; [Age 20+: Wife and Bodyguard] Form-fitting leather-and-steel cuirass, reinforced dark trousers, combat greaves, crimson cloak, wielding the magic sword Phoenix Feather; [Late Timeline: Sharia] Light casual wear at home that exposes her belly, loose linen training shirts, casual trousers, wooden practice bokken for teaching grandchildren}",
-      "comment": "[Characters] Eris Boreas Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Paul Greyrat",
-        "Paul",
-        "Paul Notos Greyrat"
-      ],
-      "secondaryKeys": [],
-      "content": "Paul Greyrat\nSHORT_DESC: {S-Rank swordsman, former adventurer of the legendary party 'Fangs of the Black Wolf', and resident village knight of Buena [Birth: K388 - Death: K424]; born Paul Notos Greyrat, fled the high Asuran nobility to forge his own path; father of Rudeus, Norn, and Aisha; husband to Zenith and Lillia; exceptionally talented swordsman holding Advanced rank in all three major styles: Sword God, Water God, and North God styles, combining them with fluid battle instincts| [Personality & Psychology] Boisterous, impulsive, and flawed with romantic wanderlust, yet possessed of a tender, deeply loving heart as a father; felt immense pressure and intimidation watching his infant son display miraculous genius; following the Metastasis Event, collapsed into harrowing grief and alcoholism while tirelessly organizing the Fittoa Refugee Search Corps; reconciled with Rudeus in a tearful embrace in Millishion after initially striking him, recognizing that he had unfairly treated his child as an adult; gave his life in the Teleport Labyrinth protecting Rudeus from the Magic Stone Hydra, sacrificing his lower torso so his son could strike the finishing blow and save Zenith.}\nPHYSIQUE: {Build: [Youth and Black Wolf Era: Age 16-25] From age 12 onward tall, muscular, handsome, broad-shouldered and scarred; lean, agile, charming swordsman frame; [Buena Village Knight: Age 25-34] 180cm / 5'11\", 78kg, broad-shouldered, muscular, battle-tested warrior frame; [Begaritt Refugee Search Era: Age 35-37] 180cm, 72kg, gaunt, haggard, alcohol-thinned warrior frame scarred by grief, grown-out beard, drawn, exhausted eyebags; [Labyrinth Climax: Age 37] Battle-hardened peak swordsman physique until losing his lower torso defending Rudeus; ripped in half by the Magic Stone Hydra and decapitated by a surviving head | Height & Weight: [Adult] 180cm / 5'11\", 78kg (dropping to 72kg during the refugee search) | Penile: [Age 12-16: Adolescent] developing, immature | [Age 16+: Young adult, pre-teleport] above average, intact, virile | [Post-Teleport: Buena Village] above average, intact but bloodshot and drawn | [Begaritt: Age 37] ripped in half by the Hydra — severed at death] | Skin: [All Eras] Fair, scarred from adventuring, weather-tanned | Face: [All Eras] Handsome, mole near the left eye (a Lascivious Beauty Mark Rudeus inherits), roguish; stubbled jawline, prominent nose, laugh lines turned into sorrow lines; [Post-Teleport] Bloodshot, drawn, grown-out beard | Hair: [All Eras] Shaggy, messy sandy light-brown hair, short framing the face with the rest gathered into a long ponytail over the shoulder at the nape; [Post-Teleport] Unkempt; [Later Years] Graying at temples | Eyes: [All Eras] Green, warm and roguish; [Post-Teleport] Bloodshot, shadowed with dark bags during the search corps years | Distinguishing Traits: Calloused dual-wielding swordsman hands; scars across forearms; heavy scent of alcohol and pipe tobacco during Northern and Begaritt travels | Outfits by Timeline: [Black Wolf Adventurer Era] Double-edged Beloved Sword with triangular crossguard paired with a curved black short sword dual-wielded in the offhand, money and adventurer's card kept in the sword sheath, adventurer's tunic and boots; [Buena Village Era: Age 25-34] Polished steel breastplate over green village knight tunic, casual wear with the sword still slung at the hip, leather riding pants, tall boots; [Metastasis and Millishion Search: Age 34-36] Weather-stained brown traveling cloak, dented iron pauldrons, frayed leather armor; [Teleport Labyrinth Expedition: Age 37] Enchanted steel cuirass, dual scabbards for magic rapier and short broadsword, reinforced steel greaves}",
-      "comment": "[Characters] Paul Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Zenith Greyrat",
-        "Zenith"
-      ],
-      "secondaryKeys": [],
-      "content": "Zenith Greyrat\nSHORT_DESC: {Loving mother of Rudeus and Norn, second wife of Paul, and former adventurer of 'Fangs of the Black Wolf' [Birth: K391]; second daughter of the noble Latreia house of Millis; accomplished Saint-tier Healing magician; teleported during the Metastasis Event into the innermost sanctuary of the Teleport Labyrinth on Begaritt Continent, encased inside a massive mana crystal for over five years| [Post-Labyrinth Miko State] Rescued by Rudeus and Paul at the cost of Paul's life; remained non-verbal and physically relaxed due to constant mana saturation, diagnosed by specialists as having entered a Miko-like telepathic state; communicates mentally with psychic beings like Lara Greyrat and the Sacred Beast Leo, serenely observing and enjoying the warmth of her family; cared for with immense devotion by Lillia, Aisha, and Rudeus in the Sharia residence.}\nPHYSIQUE: {Build: [Black Wolf Adventurer: Age 16-22] Slender, athletic healer build with gentle feminine curves; [Buena Motherhood: Age 23-32] 160cm / 5'3\", 50kg, slender, voluptuous; soft, graceful maternal figure with gentle posture; [Labyrinth Crystallization: Age 32-38] Preserved in stasis within high-density mana crystal, appears ageless and frozen at age 28; [Post-Labyrinth Miko State: Age 38+] 160cm, 48kg, relaxed, serene, slightly delicate posture; non-verbal telepathic state | Height & Weight: [Adult Constant] 160cm / 5'3\", 50kg (48kg post-labyrinth) | Breasts: [Adventurer: Age 16-22] Slender healer build, C-cup | [Buena Motherhood: Age 23-32] Soft maternal figure, full D-cup | [Labyrinth Stasis & Post-Rescue: Age 32+] Preserved at age 28 in stasis, unaging D-cup | Vaginal Depth: [Adventurer: Age 16-22] 5.2\", Tightness: Snug with Paul Greyrat | [Motherhood: Age 23+] 5.4\", Tightness: Accommodating | Skin: [All Eras] Fair, pale Millis noble complexion | Face: [All Eras] Beautiful, gentle resting affect; delicate aristocratic features, gentle smile, youthful appearance; [Post-Labyrinth] Placid, near-expressionless, serene and dreamy | Hair: [All Eras] Soft, lustrous honey-blonde hair parted neatly, worn as a ponytail with chin-length strands framing either side and an ahoge at the crown inherited by both her children, later gathered into a graceful low side chignon resting over her left shoulder | Eyes: [All Eras] Clear, compassionate sky-blue (blue-shaded) eyes; [Post-Labyrinth] Serene, dreamy, unfocused gaze that lights up when communing telepathically with Lara or Leo | Distinguishing Traits: Inward telepathic resonance; completely relaxed physical state requiring gentle assistance for daily routines; peaceful aura | Outfits by Timeline: [Black Wolf Era] White Millis healer robes with green travel mantle, light brown blouse, black ribbon, khaki belted skirt, white halterneck corset exposing the bust, black thigh-high boots, leather wand holster; [Buena Village Era] Cozy pastel linen house dresses, woolen aprons, blue and white cleric's outfit with boob window and back cutout, soft leather house slippers; [Teleport Labyrinth Core] Translucent crystalline veil encased in mana amber; [Post-Rescue Sharia Residence] Comfortable cream and pale blue silk dresses, white nightgown flaunting ample cleavage, knitted woolen shawls, delicate hair ribbons}",
-      "comment": "[Characters] Zenith Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Lillia Greyrat",
-        "Lillia",
-        "Lilia"
-      ],
-      "secondaryKeys": [],
-      "content": "Lillia Greyrat\nSHORT_DESC: {Guard-maid of the Greyrat household; Water God Style Intermediate-rank swordswoman; second wife of Paul after the affair; mother of Aisha; former royal guardsmaid of the Silver Palace of Asura; savior of the infant Ariel Anemoi Asura; the only member of the Greyrat family who wears glasses| [Silver Palace era] professional, stoic from guard-maid training, a permanent result of the training; rarely displays outward emotion; [Greyrat Household: Buena Village] thawing into fuller expression only after becoming Paul's second wife; [Post-Teleport: Shirone Kingdom] raises Aisha alone in foreign palace exile; [Late Timeline: Sharia] senior maid, quietly superstitious, believing in evil spirits and omens; [Epilogue] confesses to Rudeus she never wanted Aisha, viewing her as a constant reminder of her betrayal of Zenith, questioning why Aisha had ever been born during the year Aisha was missing| Second wife of Paul, his affair with her violated the Millis Church's strict monogamy vow binding him to Zenith; mother of Aisha; stepmother to Rudeus and Norn; grandmother to Ars via Aisha and to Leroy via Aisha-Ars| Trained as both domestic maid AND combat bodyguard, a \"royal guardsmaid\" hired as a disposable Human Shield; perfect maid, mediocre swordswoman who never reached beyond Intermediate rank in the Water God Style despite years of hard work, while Paul surpassed her quickly despite goofing off; the poisoned-dagger leg wound ended her court career with permanent slight paralysis and dismissal from the palace; [Paul Gaiden] her father planned an Arranged Marriage between her and one of his male disciples to name a dojo successor, Paul fitting the criteria by his swordsmanship talent, the attempt failed when Paul had different ideas; [Paul Gaiden] Rape as Backstory: Paul was expelled from their dojo after forcefully taking her virginity, she brushed it off because \"Paul's not a bad guy\", in hindsight her first time was better with him than with the fat depraved nobles at the palace; Zenith demanded Paul not sleep with Lilia unless Zenith was unable to, the rule respected until a succubus attack forced Lilia to sleep with Paul to break the succubus's influence on him; Saw Rudeus as her personal hero after he convinced Zenith to let her stay, raising Aisha to be his servant out of gratitude; at Rudeus's birth she saw him emerge with a totally emotionless face, initially assumed he was a stillborn, then concluded after witnessing his perverted behavior that he was possessed by a demon, in the roundabout truth the original Rudeus Greyrat was indeed a stillborn whose body became the vessel for a world-weary NEET's soul; declined to tell Sylphie where Rudeus went for his tutoring job, choosing to tutor Sylphie in manners and etiquette so the girl would become a proper lady when she reunited with Rudeus; Raised Aisha to potentially become Rudeus's wife, lover, or concubine, this grooming accidentally caused the Aisha-Ars elopement because Aisha was trained to \"always satisfy her master\"; Found out Rudeus stole Roxy's panties while cleaning, never revealed it to his parents, one reason Rudeus went to bat for her over the affair; Disciplines Aisha with a tap on the head when out of line; When Pax Shirone takes her hostage in the Shirone Kingdom arc, she is bound, gagged, and used to capture Rudeus; Cried grateful tears when Rudeus convinced Zenith to let her stay, and again when he rescued her from Pax Shirone; [Late Timeline] Jokingly offers Aisha to Rudeus after she grows up, teases him with Marshmallow Hell; [Epilogue] Aisha started a sexual relationship with Rudeus's son Ars at age 10, became pregnant, the two eloped; after Aisha was brought back, Lilia took a knife and tried to murder her own daughter, Rudeus stopped her and refused to kill Aisha; she only accepted Aisha-Ars marriage because Rudeus insisted the entire family stay together; her Shotgun Wedding with Paul in the main story becomes ironic given that, per Paul Gaiden, she was originally intended to be married to him when they were younger as part of her father's arranged-marriage plan to name a dojo successor; \"Lilia\", \"Lilya\", or \"Lillia\", multiple acknowledged transliterations| [Childhood: Southern Asura] daughter of a Water God Style dojo family, raised as a swordswoman; [Royal Service: Silver Palace] guard-maid to the newborn princess Ariel Anemoi Asura, took a poisoned-dagger slash to the leg protecting her, slight permanent paralysis, dismissed from court, the royal family could have executed her because she knew the palace layout, only fired, made herself scarce to avoid being silenced; [Greyrat Household: Buena Village] hired during Zenith's first pregnancy, seduced Paul while Zenith was pregnant with Norn by leaving her door slightly ajar, confessed pregnant with Aisha, Rudeus claimed Paul assaulted her to deflect Zenith's anger, forgiven by Zenith on Rudeus's intervention, Paul married her to legitimize Aisha; [Post-Teleport: Shirone, K417+] raised Aisha alone at the Shirone royal palace after Pax Shirone took her hostage; [Late Timeline: Sharia] senior maid, raises Aisha and Leroy; [Epilogue] reconciles with Aisha after Rudeus's intervention, accepts Aisha and Ars as a married couple}\nPHYSIQUE: {Build: [Asura Royal Guardsmaid: Age 18-24] 162cm / 5'4\", 52kg, slender, voluptuous; poised, athletic, disciplined swordswoman-maid frame; [Buena and Sharia Maid: Age 25+] 162cm, 54kg, slender, voluptuous mature figure, dignified upright posture; [Post-Court Dismissal] Permanent slight limp in the right leg from the poisoned dagger, ending her full-strength running and stomping; [Late Timeline: Age 60+] 162cm, graceful elderly head maid, silvered hair, upright dignified bearing | Height & Weight: [Adult] 162cm / 5'4\", 54kg (52kg during court service) | Breasts: [Asura Guardsmaid: Age 18-24] Disciplined Water God swordswoman, D-cup | [Buena & Sharia Maid: Age 25+] Voluptuous E-cup (Rudeus explicitly observes Aisha's D-cup almost reaches Lillia's size) | Vaginal Depth: [Asura Court Era] 5.2\", Tightness: Snug | [Motherhood & Maid Era: Age 25+] 5.5\", Tightness: Mature | Skin: [All Eras] Fair, disciplined complexion | Face: [All Eras] Very beautiful, oval glasses perched at the bridge of her nose, the only Greyrat family member who wears glasses; sharp cheekbones; rarely displays overt emotion in public, maintaining professional stoicism | Hair: [All Eras] Straight, silky reddish-brown (auburn) hair parted down the middle, tied in a half-bun with chest-length strands falling on either shoulder, tucked neatly beneath a maid cap or into a strict bun | Eyes: [All Eras] Calm, observant hazel eyes behind thin wire-rimmed spectacles | Distinguishing Traits: Permanent slight limp in right leg from tendon damage; spectacles; crisp, precise maid posture | Outfits by Timeline: [Silver Palace Royal Guard Era] Fitted Asuran royal guardsmaid uniform with chainmail lining and shortsword holster; [Buena Village Era] Black dress with gigot sleeves, white apron, white waistband emphasizing the bust, white stockings, black strapped shoes, black-and-white hairband, high-collared blouse, spectacles; [Shirone Hostage Era] Worn maid dress, locked chamber attire; [Sharia Head Maid Era] High-class black wool maid gown with silver trim, master housekeeper keys at belt, spotless apron}",
-      "comment": "[Characters] Lillia Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Norn Greyrat",
-        "Norn"
-      ],
-      "secondaryKeys": [],
-      "content": "Norn Greyrat\nSHORT_DESC: {Daughter of Paul and Zenith Greyrat, younger sister of Rudeus, and twin sister of Aisha [Birth: K414]; student, author, and elected President of the Ranoa Magic Academy Student Council; later wife of Ruijerd Superdia; struggled with deep feelings of mediocrity being sandwiched between two monstrous prodigies (Rudeus and Aisha); endured a severe shut-in breakdown at Ranoa, which she overcame through Rudeus's empathetic, unconditional brotherly support; channelled her diligence into leadership, becoming one of the most beloved and effective student council presidents in university history; authored the acclaimed biographical chronicle 'The Biography of Ruijerd Superdia', helping to permanently rehabilitate the Superd reputation across the world.}\nPHYSIQUE: {Build: [Childhood: Age 0-7] Delicate, chubby toddler; [Adolescent: Age 8-14] Slender, average girl frame, self-conscious about lacking the prodigy physical vigor of Eris or Aisha; [Ranoa Student: Age 15-18] 158cm / 5'2\", 49kg, feminine, graceful build closely mirroring Zenith's silhouette, often mentioned to look a lot like her mother Zenith, inheriting Zenith's figure; [Adult and Author: Age 20+] 158cm, 51kg, poised, dignified womanly figure with gentle curves; [Late Timeline: Age 60+] Gentle, graceful matriarch beside Ruijerd | Height & Weight: [Age 7] 116cm, 21kg; [Age 12] 144cm, 36kg; [Age 16+] 158cm, 49kg; [Adult] 158cm, 51kg | Breasts: [Childhood: Age 0-7] Prepubescent child, flat | [Adolescent Student: Age 8-14] Slender, flat-chested (A-cup) | [Ranoa Student / Youth: Age 15-18] Slender, developing curves (B-cup) | [Adult Author & Wife: Age 20+] Blossomed into Zenith's figure (full C-cup to D-cup) | [Motherhood: Marriage to Ruijerd Superdia] Full D-cup, softened from nursing Luicelia Superdia | [Late Timeline: Age 60+] Mature D-cup, dignified maternal figure | Vaginal Depth: [Childhood: Age 0-10] Undeveloped child anatomy | [Adolescent Student: Age 11-18] 4.9\", Tightness: Tight | [Adult Marriage to Ruijerd: Age 23+] 5.3\", Tightness: Snug | [Motherhood & Late Timeline] 5.5\", Tightness: Accommodating | Skin: [All Eras] Fair | Face: [All Eras] Beautiful, resembling Zenith; has an ahoge like her mother and brother; soft fair complexion, round gentle cheeks that turn rosy when flustered, remarkably resembles a young Zenith Greyrat | Hair: [All Eras] Soft, wavy honey-blonde hair inherited from Zenith; [Adolescent] Tied in a high, bouncy ponytail; [Adult] Styled in an elegant half-up twist or loose waves | Eyes: [All Eras] Green, expressive and sensitive, inherited from Paul; earnest and determined | Distinguishing Traits: Strong resemblance to Zenith; dignified posture; ink calluses on right fingers from years of writing Ruijerd's biography | Outfits by Timeline: [Millis Travel Era: Age 7-10] Child's traveling clothes, warm traveling coat, woolen scarf, leather boots holding Paul's hand; [Ranoa Student and President Era: Age 12-18] Pristine Ranoa Magic Academy uniform (Magic University uniform), navy pleated skirt, red tie, embroidered Student Council President armband; [Adult and Wife Era: Age 20+] Refined scholar's coat over long pleated skirts and casual dresses at the Sharia home, carrying heavy leather-bound manuscripts and fountain pens}",
-      "comment": "[Characters] Norn Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Aisha Greyrat",
-        "Aisha"
-      ],
-      "secondaryKeys": [],
-      "content": "Aisha Greyrat\nSHORT_DESC: {Daughter of Paul and Lillia Greyrat, younger half-sister of Rudeus, and twin sister of Norn [Birth: K414]; prodigious genius in administration, strategy, logistics, and domestic management; raised by Lillia to view herself primarily as Rudeus's personal maid and household steward; managed the entire Greyrat estate in Sharia, ran the Sharia branch of the Orsted Corporation, and organized the worldwide teleportation relay network; sharp-tongued, extraordinarily perceptive, and fiercely loyal to Rudeus, often understanding complex situations before anyone else; in adulthood, formed an unorthodox, controversial romantic bond with Ars Greyrat, eventually reconciling with the family and bearing their son Leroy.}\nPHYSIQUE: {Build: [Childhood: Age 0-7] Small, nimble, energetic, quick-footed child; [Adolescent: Age 8-14] Slender, exceptionally graceful maid frame with agile reflexes; [Adult Steward: Age 16+] 157cm / 5'2\", 47kg, compact, well-endowed, delightfully proportioned, and exceptionally nimble; agile waist, delicate hands, upright professional posture, mature for her age; [Late Timeline: Age 50+] Retains radiant youthful energy and quick steps | Height & Weight: [Age 7] 115cm, 20kg; [Age 12] 143cm, 35kg; [Age 16+] 157cm, 47kg | Breasts: [Childhood: Age 0-7] Prepubescent child, flat | [Adolescent Maid: Age 8-15] Slender, budding chest (A-cup gradually filling to small B-cup) | [Young Adult Steward: Age 16-17+ (Volume 18)] Blossomed into D-cup (\"busty petite\", tiny back, full bust approaching Lillia's size) | [Motherhood: Post-Marriage to Ars] Full D-cup, softened from nursing | [Epilogue: Late Timeline] Full D-cup, mature maternal figure | Vaginal Depth: [Childhood: Age 0-10] Undeveloped child anatomy | [Adolescent Maid: Age 11-15] 4.8\", Tightness: Tight | [Young Adult Steward: Age 16+] 5.2\", Tightness: Snug | [Motherhood & Epilogue] 5.5\", Tightness: Accommodating | Skin: [All Eras] Fair | Face: [All Eras] Pretty, drawn with little fangs that make her look more adorable, canine tooth visible when smiling; fair youthful complexion, bright expressive smile, delicate features combining Paul's charm and Lillia's sharpness | Hair: [All Eras] Rich reddish-brown (maroon) hair inherited from Lillia, parted in the middle, framing the face and tied behind the head; [Youth] Styled in neat, perky twin side ponytails; [Adult] Styled in twin braids or a neat chignon tucked under a lace cap | Eyes: [All Eras] Green, the same green eyes as her father and his half-siblings, though she looks more like her mother; sparkling, razor-sharp and brimming with mischievous intelligence | Distinguishing Traits: Cat-like nimbleness; unerring eye contact; energetic, silent footwork | Outfits by Timeline: [Childhood and Shirone Kidnapping Era: Age 4-7] Frilly child-sized maid outfit sewn by Lillia with high-quality materials, small servant dress and apron, hiding behind Lillia; [Sharia Household Maid: Age 10-16] Impeccable traditional maid dress with snowy white apron, leather utility belt with keys, ledgers, and measuring tape; [Adult Steward and Orsted Corp Manager: Age 17+] Refined adult maid uniform echoing Lillia's with hairband and apron retained, high-class executive maid uniform of midnight-blue velvet, silver pocket watch, sleek leather boots; [Epilogue: Post-Marriage to Ars] Civilian dress, having hung up the maid uniform for good}",
-      "comment": "[Characters] Aisha Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Lucy Greyrat",
-        "Lucy"
-      ],
-      "secondaryKeys": [],
-      "content": "Lucy Greyrat\nSHORT_DESC: {Firstborn child of Rudeus and Sylphiette; 1/8th elf from her mother's side who also has Beast Race ancestry; elder half-sister of Lara, Ars, Sieghart, Lily, and Christina Greyrat; student of magic under Sylphiette and Roxy; [Late Timeline: Milis] wife of Clive Grimoire and mother of Roland Grimoire; deeply resented that despite being the firstborn of the family, Ars was her father's heir because he is the eldest son, the only one of Rudeus's children to openly resent Ars and Aisha's relationship when it was revealed| [Age 1-5: Sharia] distant from Rudeus, running from him when home, mistaking the white-haired Orsted for her father; [Age 4-5] recognizes Rudeus as her father, playing with him when possible and lamenting his long work absences; [Late Timeline] grows up believing Rudeus holds no expectations of her or her siblings, drifting apart until a heartfelt pre-marriage talk repairs the bond; yearns for her father's approval as she grows up thinking he doesn't expect anything from her and her siblings| Daughter of Rudeus and Sylphiette; older half-sister of Lara, Ars, Sieghart, Lily, Christina; marries her childhood friend Clive, son of Cliff and Elinalise; since Elinalise is Lucie's great-grandmother, Clive is technically her grand-uncle, this is not seen as taboo in the setting| Fond of the sacred beast Leo and prone to grooming his matted fur, scolded by Sylphy for using her mother's brush for the task; learns magic from Sylphy and Roxy while watching Eris swing a stick; receives swordplay tips from Orsted; like her father she is not affected by Orsted's curse; the only one of Rudeus's children to inherit his hair color; has an ahoge like her parents; strongly resembles her mother Sylphie except she has her father's brown hair| [Birth: Sharia, K420] named Lucy from \"Ru\" of Rudeus and \"Sy\" of Sylphiette after Rudeus returned from the Teleport Labyrinth; the alternate boy's name would have been the taboo \"Sirius\"; [Childhood: Sharia] raised in the Greyrat household alongside her younger siblings; [Late Timeline: Milis] courts, betroths, and marries Clive, settling in the Holy Country of Milis; \"Lucy\" or \"Lucie\"; whatever happened to her in the Bad Future is unknown since she and the rest of the family except Aisha left Oldeus}\nPHYSIQUE: {Build: [Infancy to Child: Age 0-7] Still growing, chubby, angelic quarter-elf child frame; [Adolescent: Age 10-15] Adolescent frame, slender and graceful, combining Sylphie's elven elegance with Rudeus's height; [Adult: Age 18+] 164cm / 5'4.5\", 50kg, refined, slender figure with slight modest bust and graceful elven posture; [Late Timeline: Age 50+] Ages at one-third human rate, appearing as a youthful woman in her early 20s | Height & Weight: [Age 5] 108cm, 19kg; [Age 10] 140cm, 33kg; [Age 18+] 164cm, 50kg | Breasts: [Childhood: Age 0-9] Prepubescent child, flat | [Adolescent: Age 10-15] Slender, developing elven bust (A-cup) | [Adult: Age 18+] Modest B-cup, refined elven proportions | Vaginal Depth: [Childhood & Adolescent: Age 0-15] Undeveloped elven maiden anatomy | [Adult: Age 18+] 5.0\", Tightness: Snug | Skin: [All Eras] Fair, porcelain pale | Face: [All Eras] Resembles a blend of Rudeus and Sylphiette; delicate elven jawline, proud noble cheekbones, serious responsible elder sister expression | Hair: [Childhood] Light golden-brown hair combining Rudeus's chestnut and Sylphie's blonde and white ancestry, like Rudeus's color, worn in twin braids as a child; [Adult] Long and loose | Eyes: [All Eras] Striking ruby-red eyes inherited from Sylphiette and Elinalise; sharp, earnest, deeply intelligent | Ears: [All Eras] Pointed, elven, shorter than Sylphiette's, from her elf heritage | Distinguishing Traits: Ahoge like her parents; only one of Rudeus's children to inherit his hair color; slight elven longevity | Outfits by Timeline: [Childhood] Pastel knitted dresses, soft bonnets, child's clothing worn around the Greyrat household; [Ranoa Student Era] University apprentice robes, wooden practice wand; [Late Timeline: Milis] High-class Milis scholarly attire, embroidered silver-white robes, modest jewelry, traveling attire for her move to Milis upon marriage to Clive}",
-      "comment": "[Characters] Lucy Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Lara Greyrat",
-        "Lara"
-      ],
-      "secondaryKeys": [],
-      "content": "Lara Greyrat\nSHORT_DESC: {Second child of Rudeus, first daughter by Roxy; human on her father's side and Migurdian demon on her mother's side; a telepath like most of the Migurdian race, even though she's only half-Migurdian and her fully Migurdian mother doesn't have telepathy; called by Orsted \"special\"; the destined savior that the Doldia Tribe were waiting for, in other timelines where she wasn't born someone else was; [Late Timeline] diviner and researcher of summoning and divination magic at the Ranoa Magic Academy; as the Chosen One fated to fight alongside Orsted in stopping the Man-God, Lara's story continues even after Rudeus passes away of old age, the series is focused near-entirely on Rudeus's perspective| [Early childhood onward] outwardly stoic and stern, an impression created because her true voice flows through telepathy to Zenith and the sacred beast Leo more often than speech; very stoic and reserved but cares deeply about her family; favorite hobby is pulling pranks, including on Kalman III and Orsted himself; almost doesn't speak due to her telepathy; can use Divination Magic with a very high level of accuracy; caring toward younger siblings, comforting the crying Sieg and getting along with Ars in mutual troublemaking| Daughter of Rudeus and Roxy; communicant with Zenith and Leo; watched over by Orsted for the role she and her descendants are predicted to play in the war against Hitogami| inherits Rudeus's magic staff, the Aqua Heartia/Arrogant Water Dragon King; the sacred beast Leo, the Big Friendly Dog of the Doldia Tribe, is especially attached to her, this is the sign that Lara is The Chosen One; with a fate strong enough to steal the destiny from the original hero of all of Orsted's previous loops; looks so identical to her mother Roxy that she ties her hair into a single braid to differentiate herself from her mother who has two braids; carbon copy of her mother and grandmother| [Before birth: Hitogami's plots] the unborn Lara was the focus of repeated Hitogami attempts to remove Roxy, including the manipulation that would have driven Roxy to die of Magic Stone Disease mid-pregnancy, prevented only by intervention of Rudeus's future self; [Birth: Sharia, K426] born safely during a heavy snowstorm with her shoulder briefly caught, a consequence of her larger half-Migurd frame; the first time she forces herself to speak is to ask Roxy not to leave her with her grandparents, as she became afraid that Rudeus and Roxy would leave her at the Migurdian village after learning she's a telepath; [Late Timeline: Sharia] raised in the Greyrat household, communicant with Zenith and Leo, prankster of the family; has blue hair and eyes, just like her mother}\nPHYSIQUE: {Build: [Childhood: Age 0-10] Petite, quiet half-Migurd child frame, frequently carried by Sacred Beast Leo; [Adolescent to Adult: Age 15+] 148cm / 4'10\", 40kg, petite, doll-like demon silhouette closely mirroring Roxy, growing into the appearance of a 13-14 year old human girl due to her Migurd heritage (Rudeus confuses her with Roxy from behind); youthful demon longevity; [Late Timeline: Age 50+] Virtually unchanged appearance, looks like a teenage demon girl destined to lead the future war against Hitogami | Height & Weight: [Age 10] 130cm, 27kg; [Adult: Age 20+] 148cm, 40kg | Breasts: [Childhood & Lifelong Migurd Stature: Age 0-50+] Petite, flat-chested to modest A-cup, unchanging demon silhouette | Vaginal Depth: [Childhood: Age 0-14] Undeveloped demon child anatomy | [Adult Traveler: Age 15+] 4.8\", Tightness: Snug | Skin: [All Eras] Fair, smooth pale demon complexion | Face: [All Eras] Mouth shaped like Rudeus's, otherwise a carbon copy of her mother and grandmother; sleepy doll-like facial features, rarely changes expression | Hair: [Childhood] Striking deep water-blue (light blue) Migurd hair covering most of the forehead except a single ahoge, worn in thick, messy twin braids draping down her chest adorned with beads; sometimes misperceived as Superd green; [Adulthood] Tied into a single braid to differentiate herself from her two-braided mother Roxy | Eyes: [All Eras] Large, mysterious deep blue-indigo (light blue) eyes like Roxy's; possesses innate racial Migurd telepathy and prophetic vision; drowsy, half-lidded expression | Distinguishing Traits: Natural telepathic resonance; often carried riding atop Sacred Beast Leo; carries the prophecy of the world savior | Outfits by Timeline: [Childhood] Soft oversized woolen sweaters, blue ribbons, child's clothing worn in the Greyrat household, sleeping on Leo's white back; [Prophesied Hero Era / Late Timeline] Wandering traveler robes, mage's traveling attire with the Aqua Heartia staff, customized wizard hat resembling Roxy's, riding Leo through the wilderness}",
-      "comment": "[Characters] Lara Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ars Greyrat",
-        "Ars"
-      ],
-      "secondaryKeys": [],
-      "content": "Ars Greyrat\nSHORT_DESC: {First son of Rudeus and Eris; elder half-brother of the later Greyrat children; named after the Great Hero of Humanity Ars, an in-universe story hero; eventually partner to Aisha and father of Leroy; got Aisha pregnant and became a father before he turned 12; there's a 14-year age gap between him and Aisha, and he starts a sexual relationship with her when he's only ten years old| [Infancy: Sharia] clung to Aisha, fussed under Rudeus, obsessed with breasts from infancy as a \"Dirty Kid\" like his father and grandfather, as a baby cries when picked up by a man, calm in Aisha's arms; [Elopement Incident: Age 10] confessed a crush on his half-aunt Aisha, 14 years his elder, around age ten and asked her to marry him; despite Aisha's initial resistance they started a sexual relationship, Aisha became pregnant, the two ran off in elopement after being found out by Rudeus; [Training: Holy Land of Swords and Sharia, post-Elopement] became a Master Swordsman training with the best swordmasters of his era including Gino Britts, Nina Farion, Isolde, Ghislaine Dedoldia, Alek, and Sandor, among others; since Aisha already excelled at everything else, he wanted to only be her sword, like Eris was for Rudeus, and to do that, he felt he had to surpass his mother Eris; when Arus finally graduated, Rudeus gave his approval for him to make Aisha his wife, but Arus refused until he faced his mother and proved he'd grown into being a man, eventually beating Eris (a Sword King rank) in single combat, proving himself to be among the greatest swordsmen of his age; [Late Timeline] Divine-tier swordsman recognized by Orsted, Kalman III, and the Ogre God Empire swordsmen, eventually titled \"Wind God\"; [Epilogue] eventually married Aisha after he came of age and proposed| Brave and protective of his siblings, throwing himself between them and kidnappers armed only with a stick; refuses to harm those weaker than him, following his mother Eris's teachings; mischievous and reckless, once getting his siblings lost in Millishion and nearly kidnapped; shares his father and grandfather's Notos family fixation on large breasts; traumatized when his mother Eris cut off his arm after she caught up to him and Aisha post-elopement, this galvanized him to become stronger to prove to his mother he was a man and to earn his father's approval to take Aisha as his wife; Aisha was the only woman he ever wanted to marry; considered a very attractive young man when grown up, the desire of many young girls| First son of Rudeus and Eris; half-nephew and eventual partner to Aisha; father of Leroy; dead ringer for his grandfather Paul, but with bright red wavy hair from Eris's side| Wielded a chantless Wind Magic-integrated Sword God Style that enhanced his speed enough to surpass the one-armed Kalman III, though he never formally claimed the Sword God title; won the combat tournament of the Ogre God Empire; became the greatest swordsman in all of the North; \"Ars\" or \"Arus\", multiple acknowledged transliterations| [Infancy: Sharia] clung to Aisha, fussed under Rudeus; [Training under Eris] reached Saint rank in the Sword God Style; [Age 10: Elopement Incident] confessed crush on Aisha, started a sexual relationship, Aisha got pregnant, the two eloped; [Post-Elopement] trained under Eris, Gino, Nina, Isolde, Ghislaine, Alek, Sandor to become a Master Swordsman; [Late Timeline: Sharia] reached his prime as a Divine-tier swordsman, married Aisha after coming of age, lived with her and their son Leroy}\nPHYSIQUE: {Build: [Childhood: Age 0-7] Energetic, broad-shouldered growing boy; [Adolescent: Age 10-15] 168cm, rapid muscular growth inheriting Eris's athletic power and Paul's physique; [Adult: Age 18+] 178cm / 5'10\", 74kg, heavily muscled, athletic swordsman build, strong and good-looking; wide chest, powerful sword-arms; [Late Timeline: Age 50+] Sturdy veteran swordsman build, grizzled jaw | Height & Weight: [Age 10] 142cm, 36kg; [Age 15] 168cm, 62kg; [Adult] 178cm, 74kg | Penile: [Childhood: Age 0-9] Prepubescent boyish anatomy [Late Timeline: Age 10-15, teen] developing, immature | [Adult: Age 18+] average, intact, ~5\" | [Post-marriage to Aisha: Epilogue] average, intact, slightly aged; father of Aisha's child | Skin: [All Eras] Fair; sun-tanned from training | Face: [Late Timeline / Adult] Handsome, blending Eris's strong features with Rudeus's, closely resembling his grandfather Paul but with red hair; sun-tanned ruggedly handsome face combining Rudeus's smile and Eris's fierce smirk | Hair: [All Eras] Wild, unruly dark reddish-brown (bright red) wavy hair flaring like Eris's but shaded darker by Rudeus's tones, tied in a ponytail | Eyes: [All Eras] Fierce, bright amber-red feline eyes inherited from Eris; intense, bold, and confident | Distinguishing Traits: Exceptional physical strength; natural aptitude for the Sword God style | Outfits by Timeline: [Childhood] Durable leather play tunics, wooden practice swords, child's clothing worn in the Greyrat household; [Adolescent / Soldier] Leather cuirass, combat greaves, double broadswords, Sword God Style swordsgear with twin sword belts echoing his mother's; [Adult Leader] High Asuran knight armor, red cape, custom steel broadsword}",
-      "comment": "[Characters] Ars Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sieghart Saladin Greyrat",
-        "Sieghart",
-        "Sieghardt",
-        "Death God"
-      ],
-      "secondaryKeys": [],
-      "content": "Sieghart Saladin Greyrat\nSHORT_DESC: {Second son and third-born child of Rudeus and Sylphiette; 1/8th elf from his mother's side who also has Beast Race ancestry; born with the Laplace Factor like both of his parents; eventually ranks 5th of the Seven World Powers; trained from a young age by North God Kalman III and even becomes the next Death God after Randolph Marianne; called \"Sieg\" for short| admired the superheroes in the stories told by his father and wanted to become one himself; like his mother and older full sister Lucy, indicating his elf heritage| Son of Rudeus and Sylphiette; inherited Sylphie's original green hair color, giving him a resemblance to the Demon God Laplace, which raises a concern that he'll be bullied for his hair like she was; Rudeus worries he might be Laplace's reincarnation and would have to fight Perugius to protect him| has his father's green eyes and his hair is green as well, like his mother's originally was; like his half-brother Ars, Sieg has his father Rudeus' green eyes| [Birth] Perugius requested to name Rudeus and Sylphie's son and gives Sieg the middle name Saladin; this was likely a ploy to see if they eventually did have a son who Laplace would reincarnate in, due to both carrying the Laplace factor, in which case Perugius would have killed Sieg immediately; when Sieg is born, Perugius immediately asks to see him, thankfully Perugius sees Sieg isn't Laplace's reincarnation to Rudeus's relief as Rudeus stated he would have had to fight Perugius to protect his son| Ariel tried to get Sieg to marry her daughter Sariel, who was originally supposed to marry Ars prior to his elopement with Aisha, and she encouraged her daughter to befriend him for this purpose; though Sieg does become her close friend, he never came to see her romantically; Rudeus based his name on the hero Siegfried from Nibelungenlied; \"Sieg\" or \"Siegheart\"\nPHYSIQUE: {Build: [Childhood: Age 0-7] Healthy, robust quarter-elf toddler with green hair; [Adolescent: Age 10-15] Tall, athletic swordsman frame trained by Kalman III, growing into a swordsman's frame; [Adult Death God Era: Age 20+] 183cm / 6'0\", 82kg, towering, muscular warrior build combining elven agility and immense physical strength; [Late Timeline: Age 60+] Retains peak warrior condition due to Laplace Factor and elven longevity, Rank #5 Death God of the Seven Great Powers | Height & Weight: [Age 10] 145cm, 38kg; [Age 15] 172cm, 66kg; [Adult: Age 20+] 183cm, 82kg | Skin: [All Eras] Fair noble skin | Face: [All Eras] Resembles a blend of Rudeus and Sylphiette; sharp masculine jaw, noble facial structure | Hair: [All Eras] Striking emerald-green hair, his mother's original color, raising the concern he might be Laplace's reincarnation; [Youth] Kept short; [Adult Death God] Styled in a fierce, slicked-back warrior cut | Eyes: [All Eras] Green, like his father's; piercing and intense | Ears: [All Eras] Pointed, elven, from his mother's heritage | Distinguishing Traits: Green Laplace Factor hair; immense physical Touki capacity; titled Death God Sieg after succeeding Randolph Marianne in K460 | Outfits by Timeline: [Childhood] White blessing robes bestowed by Perugius, soft tunics, child's clothing worn around the Greyrat household; [North God Training Era] Practical traveler's leathers, North God Style swordsgear, practice rapiers; [Death God Era: Age 20+] Black-and-gold Death God duster coat, reinforced steel shoulder guards, dual enchanted blades}",
-      "comment": "[Characters] Sieghart Saladin Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Lily Greyrat",
-        "Lily"
-      ],
-      "secondaryKeys": [],
-      "content": "Lily Greyrat\nSHORT_DESC: {Second child of Rudeus and Roxy, younger full sister of Lara; human on her father's side and Migurdian demon on her mother's side; the second youngest of Rudeus's children| often gets lost when she goes back home from her workplace; keeps her hair tied into twin braids| Daughter of Rudeus and Roxy; younger full sister of Lara; has blue hair and eyes, just like her mother and older full sister| [Birth: Late Timeline] born to Rudeus and Roxy; [Late Timeline] raised in the Greyrat household; the spitting image of her mother and older full sister Lara\nPHYSIQUE: {Build: [Childhood to Adult] 147cm / 4'10\", 39kg; petite half-Migurd demon frame closely resembling Roxy, growing into a Migurdian frame like her mother and older sister; youthful demon longevity; slender, bookish, slightly clumsy posture, often lost in thought; | Height & Weight: [Adult] 147cm / 4'10\", 39kg | Breasts: [Childhood & Lifelong Migurd Stature: Age 0-50+] Petite, modest A-cup, resembles Roxy closely | Vaginal Depth: [Childhood: Age 0-14] Undeveloped demon child anatomy | [Adult Scholar: Age 15+] 4.8\", Tightness: Snug | Skin: [All Eras] Fair, soft pale demon skin | Face: [All Eras] Resembles Roxy closely; round studious cheeks | Hair: [All Eras] Brilliant water-blue hair tied into twin braids draped over her shoulders, adorned with workshop clips | Eyes: [All Eras] Calm, studious aquamarine-blue eyes like Roxy's, behind round reading spectacles | Distinguishing Traits: Non-telepathic Migurd traits; magic item workshop grease stains on fingers | Outfits by Timeline: [Childhood] Simple cotton play smocks, canvas shoes, child's clothing worn in the Greyrat household; [Adult Researcher / Magician] Sturdy leather research apron, tool belts loaded with calipers and crystals, comfortable academic robes (mage's casual attire)}",
-      "comment": "[Characters] Lily Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Christina Greyrat",
-        "Christina"
-      ],
-      "secondaryKeys": [],
-      "content": "Christina Greyrat\nSHORT_DESC: {Second child of Eris and Rudeus, their daughter; very close to her father Rudeus, in fact of all his kids, Rudeus is closest to Christina as she was the only child that did not keep distance from him, making it especially harder for him to let her go once she moved out of the house| a commoner girl who starts a relationship with Prince Edward Anemoi Asura; second cousins in this case, as she marries Prince Edward whose father is Rudeus's cousin Luke; though Rudeus didn't actually veto her marriage to Edward, he really wanted to, he opposed her marrying Edward because he feared this was merely a political ploy by Ariel to tie their two households together, ironically it wasn't as both Edward and Christina genuinely loved each other| Daughter of Rudeus and Eris; eventually wife of Prince Edward Anemoi Asura| looks nearly identical to her mother Eris| [Late Timeline] courts Prince Edward, eventually marries him; [Epilogue] the marriage is a genuine love match in contrast to the political ploy Rudeus feared\nPHYSIQUE: {Build: [Childhood] Lively, affectionate noble girl, still growing; [Late Timeline / Adult] 168cm / 5'6\", 54kg, athletic, voluptuous, graceful figure combining Eris's height with feminine poise, resembling Eris's figure | Height & Weight: [Age 10] 140cm, 32kg; [Adult] 168cm, 54kg | Breasts: [Childhood: Age 0-9] Prepubescent child, flat | [Adolescent: Age 10-15] Developing athletic curves (B-cup) | [Adult: Age 18+] Voluptuous D-cup to E-cup, inheriting Eris's figure | Vaginal Depth: [Childhood & Adolescent: Age 0-15] Undeveloped noble girl anatomy | [Adult: Age 18+] 5.4\", Tightness: Snug | Skin: [All Eras] Fair; radiant as an adult | Face: [All Eras] Resembles Eris closely; gentle facial contours, bright warm smile | Hair: [All Eras] Fiery crimson red hair like Eris's, styled in elegant aristocratic curls framing her shoulders as an adult | Eyes: [All Eras] Warm, affectionate amber-red eyes like her mother Eris | Distinguishing Traits: Deeply attached to Rudeus; courtly grace; eventual Princess of Asura by marriage to Prince Edward | Outfits by Timeline: [Childhood] Cozy family dresses, child's clothing worn in the Greyrat household, hugging Rudeus; [Ranoa Student] Academy girl uniform; [Late Timeline: Asura Court Princess] Opulent gold-and-purple Asuran imperial court gowns, diamond tiara, traveling attire befitting a future princess of Asura}",
-      "comment": "[Characters] Christina Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ruijerd Superdia",
-        "Ruijerd",
-        "Dead End",
-        "Ruijerd of the Superd"
-      ],
-      "secondaryKeys": [],
-      "content": "Ruijerd Superdia\nSHORT_DESC: {Former captain of the Superd demon warrior corps [Age: 560+], legendary warrior known as 'Dead End'; wielder of the Superd spear forged from his own tail; dedicated five centuries to redeeming the cursed name of the Superd people; served as fierce guardian, mentor, and protector to Rudeus and Eris across their three-year odyssey from the Demon Continent to Asura; possesses the third eye on his forehead that senses the life force and intent of all living things within range; reunited with his surviving Superd kin in the Biheiril Kingdom, cured their terminal plague with Rudeus's assistance, and married Norn Greyrat in Year K433.}\nPHYSIQUE: {Build: [Laplace War to Rudeus Era: Age 500-560+] 190cm / 6'3\", 92kg; towering, muscular, broad-shouldered, lean Superd frame built of rock-hard muscle, battle-scarred sinew, and boundless stamina, unchanged across centuries due to long Superd lifespan | Height & Weight: [Lifespan Constant] 190cm / 6'3\", 92kg | Penile: [Pre-Story onward, all eras] average, intact, ~5\" | [Laplace Era onward] unchanged across centuries of Superd lifespan | [Post-War, companion of Rudeus] average, intact, ~5\", wise and weathered | Skin: [All Eras] Porcelain white, smooth throughout, weather-beaten alabaster demon skin crisscrossed with scars from five centuries of warfare | Face: [All Eras] Handsome, square-jawed, smooth oval chin, stern immovable jaw; [Laplace Era onward] Long scar trailing from the right top of the forehead across the glabella to the left cheek | Hair: [Laplace War Era] Emerald green, mid-length; [Dead End Odyssey: Age 10-13 of Rudeus] Shaven completely bald with a headband covering the forehead gemstone to conceal his feared emerald-green Superd hair and bypass anti-Superd stigma in human settlements; [Post-Biheiril and Late Timeline] Regrown into a thick, wild emerald-green Superd warrior mane tied back with leather cord | Eyes: [All Eras] Fierce, piercing ruby-red eyes| Forehead: [All Eras] Ruby-colored oval red gemstone third eye acting as a radar that detects mana, living beings, and life-force intent within hundreds of meters; [Post-War: Biheiril] Turns blue with ominous markings when possessed by Abyssal King Vita | Distinguishing Traits: Superd demon physiology; forked tail that hardened and detached to become his black Superd trident spear, which he considers his soul; formidable battle aura radiating intimidation | Outfits by Timeline: [Laplace War Era] Ancient Superd warrior tribal armor, obsidian pauldrons; [Dead End Odyssey] Brown travel cloaks, brown tribal vest covering back and sides only (exposing frontal torso and arms, never wears a shirt), leather harness, rugged fur-lined trousers, trail wraps, holding his black Superd tail spear, necklace gifted by Rudeus worn around the neck; [Biheiril and Marriage to Norn] Distinguished warrior attire, Superd clan tunic, polished spear, wedding medallion}",
-      "comment": "[Characters] Ruijerd Superdia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Zanoba Shirone",
-        "Zanoba"
-      ],
-      "secondaryKeys": [],
-      "content": "Zanoba Shirone\nSHORT_DESC: {Third Prince of the Shirone Kingdom and Blessed Child (Miko) born with monstrous, god-like physical strength and invulnerability; incurred terror in his youth after accidentally tearing off the heads of his first bride and younger brother due to uncontrollable power; exiled to Ranoa Magic Academy, where he discovered the miniature figurine craft of Rudeus Greyrat, becoming his fanatical, lifelong disciple; purchased and raised Julie as his sculptress apprentice; co-engineered the Magic Armor MK-I, MK-II, and MK-Zero alongside Cliff and Rudeus; served as a frontline titan in the Biheiril War, proving that a true prince protects those who create beauty.}\nPHYSIQUE: {Build: [Adolescent to Adult] 185cm / 6'1\", 98kg; hulking, stocky titan physique, tall and broad-shouldered with a slightly hunched posture and a large muscular build, dense god-blessed musculature impervious to blades and blunt force (Blessed Child / Miko brawn) | Height & Weight: [Adult] 185cm, 98kg | Penile: [Prince Era onward] average, intact, ~5\" | [Academy Era onward] average, intact, ~5\", regrew after severance | [Post-Graduation onward] average, intact, ~5\", doll-maker's hands | Skin: [All Eras] Fair, slightly sallow | Face: [All Eras] Pale scholarly oval face with sharp visible cheekbones and a broad jaw; round glasses that obscure his eyes; often slack-jawed expression, deceptively calm countenance masking superhuman strength | Hair: [All Eras] Jet-black, dark and thick, cut in an unkempt bowl cut, neatly parted | Eyes: [All Eras] Round, studious, scholarly brown eyes behind thick wire spectacles, narrow throughout| Arms: [Academy Era] Severed by Rudeus during their duel at the Magic Academy; regrown within days via the Matis Palm curse | Distinguishing Traits: Miko superhuman durability and strength; inability to control delicate force without training; clay and chisel dust on palms | Outfits by Timeline: [Shirone Prince Era: K397-K417] Aristocratic royal doublet, gold chains, Shirone royal finery; [Ranoa University and Sharia Era] Heavy scholarly vest, Ranoa Academy uniform with scholar's robe, rolled-up linen sleeves, thick spectacles, sculptor's apron, carrying miniature figurines; [Biheiril Battle] Custom titan-sized steel breastplate, giant war club}",
-      "comment": "[Characters] Zanoba Shirone",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Juliette",
-        "Julie"
-      ],
-      "secondaryKeys": [],
-      "content": "Juliette (Julie)\nSHORT_DESC: {Young dwarf girl; a very adorable and sweet little child; a cute little girl hanging out with teenagers and adults; [Pre-Rescue: Sharia slave market K419] malnourished freed slave child; looks like an adorable little girl even after growing older unlike male dwarves who look like short men with long beards; [Academy Era: K419+] Zanoba's apprentice doll-maker and Rudeus's student in Chantless Earth Magic; [Post-Graduation] senior apprentice and emotional anchor of Zanoba's workshop; [Post-War] adult dwarf artisan freed from slavery| [Pre-Rescue] initially apathetic and despairing as a malnourished slave; [Academy Era] gradually opens up and shows curiosity, toddles after Zanoba, loves being read books and told stories, innocuously asks Zanoba what \"impotence\" means, cheerful and curious once settled; [Post-War] quiet, steady, emotionally loyal| officially Zanoba's (and Rudeus's) slave, but the two treat Julie akin to parenthood instead, and Julie is grateful for it; to Zanoba, who starts as a Psychopathic Manchild who only cared about dolls and killed people without remorse, but buying Julie as a slave ends up treating her closer to an adopted daughter and the relationship greatly humanizes him; bound to Zanoba as Master [Academy Era]; the bond evolves through childhood into a daughter-figure dynamic; [Post-Graduation] the master-slave relationship softens as Zanoba begins paying her a wage; Rudeus as Grand Master trains her in Chantless Earth Magic; her love for Zanoba grows quietly over time into adult devotion by [Post-War]| [Academy Era onward] only child of Bazelle the blacksmith and Lilitella the jewelcrafter; named Julie by Zanoba after his late brother Julius whom he accidentally killed; before Rudeus and Zanoba bought her, she didn't have a name since dwarfs are not given a name until they are 7; she was called \"Bazelle of the Sacred Iron and Lilitella of the Beautiful Snowy Ridge's child\"; one of the few living persons capable of Chantless Spellcasting| sold into slavery at a very young age with her parents due to family debt; parents already sold off; [Pre-Rescue] left in the Sharia slave market, sick and undernourished, barefoot when bought from the slave market; [Academy Era] purchased by Rudeus and Zanoba to assist in doll-making; trained in Earth and Fire Magic by Rudeus with strong dwarf affinity for Earth; was among the spectators of the Rudeus/Badigadi duel, which means she also saw Rudeus basically blow the latter up, traumatizing the poor girl and causing her to be afraid of Rudy for a while}\nPHYSIQUE: {Build: [Childhood Slave: Age 4-7] ~95cm, emaciated, malnourished dwarven child frame, very thin, barefoot when bought from the slave market; [Academy Era: K419+] ~100cm, slim, slightly filled out; [Post-Graduation] ~120cm, healthy child frame; [Post-War / Adult: Age 18+] 130cm / 4'3\", 42kg, sturdy, compact, muscular dwarven sculptress build, slim and wiry; looks like an adorable little girl even after growing older, unlike male dwarves who look like short men with long beards | Height & Weight: [Age 5] 90cm, 14kg; [Academy Era] ~100cm, 18kg; [Adult] 130cm, 42kg | Breasts: [Childhood Slave: Age 4-7] Prepubescent, flat | [Adult Dwarven Sculptress: Age 18+] Compact, modest B-cup dwarven bust | Vaginal Depth: [Childhood: Age 4-15] Undeveloped dwarven child anatomy | [Adult: Age 18+] 4.9\", Tightness: Snug | Skin: [All Eras] Warm tan dwarven complexion, soft throughout, smudged with clay dust and kiln soot | Face: [All Eras] Round, childish, adorable features; big expressive eyes full of loyalty and dedication | Hair: [All Eras] Sandy-blonde dwarven hair, long and feathery, tied into practical braids | Eyes: [All Eras] Big, expressive dark brown eyes full of loyalty and dedication | Distinguishing Traits: Dwarven physical strength; master earth sculptor hands | Outfits by Timeline: [Slave Market] Tattered slave rags, iron collar, barefoot; [Sharia Sculptor Apprentice] White one-piece sleeved dress with skirt and dark sandals, neat working dress, heavy leather apron, clay-carving chisels, small casting wand}",
-      "comment": "[Characters] Juliette (Julie)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Cliff Grimoire",
-        "Cliff"
-      ],
-      "secondaryKeys": [],
-      "content": "Cliff Grimoire\nSHORT_DESC: {Grandson of Milis Church Pope Harry Grimoire, prodigy researcher, and husband of Elinalise Dragonroad; father of Clive Grimoire; began as an arrogant, prideful youth in Milishion, but matured into an extraordinarily noble, courageous scholar through his friendship with Rudeus; achieved Saint and King-class proficiencies in Healing, Detoxification, and Barrier Magic; dedicated his life to researching curse dispelling, successfully inventing magical tools that neutralized Elinalise's curse and crafting Rudeus's Zariff prosthetic arm; became an indispensable political pillar inside the Church of Milis, protecting the Pope and supporting Ariel's diplomatic ties.}\nPHYSIQUE: {Build: [Millis Youth: Age 13-15] Slender, aristocratic Millis scholar youth, short and lean-wiry for his age, often smug; [Ranoa Scholar & Adult: Age 18+] 170cm / 5'7\", 62kg, lean, poised scholarly build, well-groomed; [Late Timeline: Milis Archbishop] 170cm, distinguished priest silhouette, confident posture | Height & Weight: [Age 15] 158cm, 50kg; [Adult: Age 20+] 170cm, 62kg | Penile: [Adult: Age 16+] average, intact, ~5\" | Skin: [All Eras] Fair, aristocratic Millis complexion, smooth and well-kept | Face: [All Eras] Youthful, sharp-featured, handsome refined features; [Age 13-15] often smug, easily reddening expression; [Adult] composed scholarly bearing behind reading spectacles | Hair: [All Eras] Neatly parted, straight golden-blonde hair cut in a distinguished scholar style, slightly unkempt in his youth | Eyes: [All Eras] Sharp, proud hazel-gold eyes behind scholarly reading spectacles | Distinguishing Traits: Wears enchanted reading glasses; ink-stained fingers from magical circle research; youthful sharp features that mature into a noble, courageous scholar | Outfits by Timeline: [Pre-Academy: K406-K419] Milis religious acolyte robes, high-class noble vestments with a silver crucifix; [Academy Era: K419+] Ranoa Academy uniform with leather scroll satchel; [Post-Graduation onward] casual tunic and trousers; [Milis Church Leader / Adult] resplendent white-and-gold Millis priestly vestments, ceremonial stole, curse-dispelling magic tools}",
-      "comment": "[Characters] Cliff Grimoire",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Elinalise Dragonroad",
-        "Elinalise",
-        "Spawton curse"
-      ],
-      "secondaryKeys": [],
-      "content": "Elinalise Dragonroad\nSHORT_DESC: {Ancient elf warrior, former member of 'Fangs of the Black Wolf', grandmother of Sylphiette Greyrat, and devoted wife of Cliff Grimoire; rescued centuries ago from a labyrinth crystal by Laplace/Perugius era heroes; afflicted with a unique curse causing rapid internal mana crystallization that can only be safely dissipated through sexual intercourse with men; long assumed to be hopelessly promiscuous, she found profound mutual respect, unconditional love, and monogamous happiness with Cliff; expert vanguard fighter wielding a magic buckler and estoc; mother of Clive Grimoire and Laws (Sylphie's father).}\nPHYSIQUE: {Build: [Ancient Era to Present: 200+ Years] 168cm / 5'6\", 54kg; voluptuous, stunning elven bombshell physique - curvy, athletic, wide hips, shapely legs, narrow waist, sculpted hips; completely ageless porcelain skin, unchanged across millennia due to her long elf-adjacent lifespan | Height & Weight: [Constant] 168cm / 5'6\", 54kg | Breasts: [Lifelong Cursed High Elf: 200+ Years] Modest B-cup, perky; slender elven ribcage | Vaginal Depth: [Lifelong Cursed High Elf: 200+ Years] 5.5\", Tightness: Accommodating, deeply experienced; devoted to husband Cliff Grimoire | Skin: [All Eras] Fair, smooth, completely ageless and unlined, radiant porcelain elven complexion | Face: [All Eras] Ageless, radiant elven beauty; full sensual lips, delicate cheekbones, confident knowing smile that never ages | Hair: [All Eras] Long golden-blonde hair worn in big ringlets, plus a pair of smaller ojou ringlets in front of her shoulders, cascading voluminous curls tumbling past her waist, with an ahoge standing up on top of her head | Eyes: [All Eras] Seductive, sparkling ruby-red elven eyes with an amused, predatory glint | Distinguishing Traits: Long pointed elven ears; curse of mana crystallization requiring sexual release through intercourse; mother of Laws, grandmother of Sylphiette; millennia of combat experience behind a flirtatious exterior | Outfits by Timeline: [Black Wolf & Adventurer Era] Black shorts and frilled stockings up to mid-thigh, small red and white corset exposing her midriff to show off her womanly charms, skirt that doesn't cover the front of her legs, gold-colored forearm bands, ornate form-fitting leather cuirass and daring combat skirt with high boots, always carries an estoc and buckler; [Academy Era: K419+] Ranoa Academy uniform worn over her traveling gear; [Ranoa & Married to Cliff] Elegant, alluring high-class gowns with plunging necklines, refined jewelry, loving motherly attire}",
-      "comment": "[Characters] Elinalise Dragonroad",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Nanahoshi Shizuka",
-        "Nanahoshi",
-        "Shizuka"
-      ],
-      "secondaryKeys": [],
-      "content": "Nanahoshi Shizuka\nSHORT_DESC: {Japanese high school student summoned into the Six-Faced World during the Metastasis Event; known across Ranoa as the 'Silent Sevenstar'; unlike Rudeus, was transported physically in her original body, possessing zero mana capacity ('dry body') and remaining un-aged; partnered with Dragon God Orsted to research large-scale teleportation circles in a desperate quest to return home; introduced Japanese cuisine concepts (karaage, ramen, gyudon) to the world with Rudeus's culinary assistance; suffered from the fatal Magic Stone Disease due to ambient mana accumulation, saved by Rudeus retrieving Sokoban tea from Begaritt; entered suspended stasis in Chaos Breaker awaiting the future era when her classmate can be summoned.}\nPHYSIQUE: {Build: [Summoned / Perpetual Japanese High School Body: Age 16] 160cm / 5'3\", 48kg; slender, slim, average Japanese build with an un-aged adolescent physique; zero mana capacity ('dry body'), chronically tired posture; unchanged across the years in this world; [Chaos Breaker Stasis] preserved in suspended animation, body frozen at 16 | Height & Weight: [Perpetually Frozen at Age 16] 160cm / 5'3\", 48kg | Breasts: [Perpetual Age 16 Body] Modest A-cup to B-cup, slim Japanese high-school physique | Vaginal Depth: [Perpetual Age 16 Body] 4.9\", Tightness: Tight, unexercised | Skin: [All Eras] Smooth, fair East Asian complexion, pale and washed-out from stress and poor sleep | Face: [All Eras] Above-average Japanese features, delicate and pretty, dark circles beneath her eyes, perpetually weary skeptical expression; [Academy Era onward] masked in public by a featureless white mask | Hair: [All Eras] Long, straight, silky pitch-black Japanese hair with neat blunt bangs across the forehead | Eyes: [All Eras] Dark brown Japanese eyes with intellectual and homesick melancholy, sharp and tired | Distinguishing Traits: Completely ageless, body frozen at 16; lacks mana veins; featureless white porcelain mask worn in public; unmistakably foreign (Japanese) in manner and dress | Outfits by Timeline: [Summoned / Travel with Orsted] Featureless white mask, hooded traveler cloak over her Japanese high school sailor uniform; [Academy / Research Era] Ranoa Academy uniform, lab coats over modified school uniform, traveling cloak for fieldwork, comfortable indoor slippers; [Chaos Breaker Stasis] Ceremonial stasis robes, preserved in suspended animation}",
-      "comment": "[Characters] Nanahoshi Shizuka",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Pursena Adoldia",
-        "Pursena"
-      ],
-      "secondaryKeys": [],
-      "content": "Pursena Adoldia\nSHORT_DESC: {Beast race werewolf girl of the Adoldia branch of the Doldia Tribe; looks like a girl with dog ears and a tail; [Childhood: Great Forest] tribal cub; [Pre-Academy: Doldia Village] sent to the Academy by tribal elders due to the dull chief's lineage; [Academy Era: K419+] Ranoa Magic Academy special student, to Linia's Alpha Bitch, like Linia a candidate for the Doldia tribe who used this position to become just as much of a delinquent at Ranoa Magic Academy, delinquent alongside Linia; downplayed, by the time Rudeus meets her and Linia they are already shaping up as model students after being beaten by Fitz and losing their original gang, but are still jerkasses who take their frustrations on Cliff and Zanoba and the other students, after getting humbled for real by Rudeus they became much more amiable; [Post-Graduation] maid of Rudeus, Vice-Director of the Rudo Mercenary Company, warrior chief of the Adoldia branch; [Post-War] caretaker of the Sacred Beast Leo| calm and doesn't like to talk much, doesn't show much emotion, but she's one of the biggest troublemakers in Ranoa Magic Academy; abrasive and haughty with a habit of shifting blame away from herself when in trouble; has a very vulgar mouth (in the original novel she uses the English swearword \"fuck\", in the anime it was bowdlerised into the fictional swearword \"nuhni\"); after Rudeus defeats and kidnaps her and Linia, Pursena shamelessly begs him to spare her and do whatever he wants only to Linia; aloof and soft-spoken in contrast to hot-headed Linia; seems to be Linia's Only Friend in the academy and is her Beta Bitch, but unsurprisingly has no problems with throwing Linia under the bus to save her own skin when it becomes clear she and Linia are at Rudeus's mercy; the Blue Oni to Linia's Red Oni, Pursena is The Stoic compared to the more Hot-Blooded Linia; the Girly Girl to Linia's Tomboy, Pursena is long-haired, reserved, and composed, in contrast to Linia who is short-haired, brash, and aggressive; Rudeus has her go through the same process as Linia to correct her delinquent ways, defeated in a humiliatingly easy way, kidnapped, and left Bound and Gagged for a whole day, by the end of it she's pathetically begging for food and wet in her own pee, becomes Rudeus's subordinate after losing to him; downplayed, was very scared of the idea that Rudeus was going to rape her and felt relieved that he only went as far as to fondle her breasts, however, she felt conflicted that Rudeus felt no attraction towards her body after said fondling; deconstructed, while she's a force to be reckoned with in the academy especially with Linia and their posse at her side, she's small fry to Sylphie/Fitz and Rudeus because they have greater fighting experience and power, her lax behavior and abuse of her special privileges during her time in the academy get her into trouble with her own people after graduation; played with between her and Linia, Pursena would usually play the role of Long-Range Fighter by relying on her Super-Scream to force opponents into submission while Linia would get up close to fight, however she's also capable of close combat and can switch this role with Linia| [Academy Era] close companion and counterweight to Linia as co-delinquent; [Post-Graduation] loyally serves Rudeus after he releases her from tribal imprisonment for stealing food; dreams of becoming Doldia Village Chief; [Post-War] designated caretaker of the Sacred Beast Leo| constantly snacking on meat steak during school days, being part canine Pursena loves eating meat, this habit bites her back later when she is ordered to guard the Beast people's emergency food supply; during their unexpected reunion, Pursena begs Rudeus to prove her innocent of stealing all the Beast Race's food stocks, unfortunately for her when Rudy does carry out an investigation, all the evidence still points to her; focused on learning healing magic because the Doldia tribe doesn't have many people who have learned that type of magic; being an Adoldia (part dog), she has a sensitive sense of smell; can use Howl magic to restrict opponent's movements, able to overcome Zanoba with this but Rudeus counters by conjuring a dust cloud to make her choke; ends sentences with \"-nano\"; hates being called fat; attempts a beast seduction move on Rudeus to test his fidelity to Sylphie, Rudeus didn't get she was trying to seduce him at first; gets her breasts fondled by Rudeus for him to see if it can cure his ED, doesn't work but Pursena is still freaked out; has a younger sister named Tersena who looks identical to her| Sent to the Academy by tribal elders due to the dull chief's lineage; trained in healing magic because her tribe lacked capable healers; [Post-Graduation] became warrior chief after graduation; relieved a guard to eat all the dried meat in storage and was imprisoned until Rudeus extracted a confession; does this in the anime in order to avoid getting caught by Zanoba, only to be caught in Rudeus's Quagmire spell}\nPHYSIQUE: {Build: [Childhood: Great Forest] Small cub frame, tribal cub of the Adoldia branch; [Pre-Academy: Doldia Village] Growing beastfolk adolescent, unruly delinquent; [Ranoa Student: Age 15-18] 165cm / 5'5\", 56kg, voluptuous, curvy, athletic dog-beastfolk frame, well-padded and healthy appetite; [Adult: Age 20+] 165cm, 58kg, curvaceous, powerful beastwoman build | Height & Weight: [Adult] 165cm, 56kg | Breasts: [Childhood: Great Forest] Small cub, flat | [Adult Beast Vanguard: Age 16+] Ample bosom, exceptional F-cup (seen from afar, exceptional even among beastkin) | Vaginal Depth: [Childhood: Age 0-14] Undeveloped cub anatomy | [Adult Beast Vanguard: Age 16+] 5.5\", Tightness: Accommodating, robust beastkin build | Skin: [All Eras] Light tan, smooth, sun-warmed throughout | Face: [All Eras] Attractive, soft features, often smirking, adorable button nose, constantly chewing on dried meat | Hair: [All Eras] Long, thick, fluffy light golden-brown hair; [Childhood] scruffy cub fuzz | Eyes: [All Eras] Big, droopy, relaxed brown eyes, sharp when troublemaking | Ears & Tail: [All Eras] Drooping dog ears atop her head; fluffy wagging tail throughout | Distinguishing Traits: Fluffy golden dog ears and wagging tail; abrasive, haughty troublemaker with a vulgar mouth who shifts blame when caught; caretaker of the Sacred Beast Leo in the late timeline | Outfits by Timeline: [Academy Era] Ranoa Academy uniform with black tights, skirt tailored for her tail, dried meat pouch at hip; [Pre-Graduation] Casual tribal tunic; [Post-Graduation onward] Maid uniform when serving Rudeus, Vice-Director attire of the Rudo Mercenary Company; [Tribal Leader / Adult] Doldia beastfolk leather hunting armor, bone beads, war mantle}",
-      "comment": "[Characters] Pursena Adoldia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Linia Dedoldia",
-        "Linia"
-      ],
-      "secondaryKeys": [],
-      "content": "Linia Dedoldia\nSHORT_DESC: {Beast race cat-girl of the Dedoldia branch of the Doldia Tribe; [Childhood: Great Forest] tribal cub, niece of Ghislaine Dedoldia; her father is the warrior chief of the Dedoldia tribe, the same as her grandfather, making her a potential successor and is treated like a princess by her race; [Pre-Academy: Doldia Village] sent to the Academy by grandfather Gustav due to the dull chief's lineage, pampered due to her royal beast bloodline; [Academy Era: K419+] Ranoa Magic Academy special student, due to her royal heritage Linia is granted special privileges by the academy and would abuse this by slacking off, bullying, and extorting those she perceives as beneath her, in the academy and unlike most examples she's allowed to act this way due to her royal heritage giving her the \"Special Student\" status, delinquent alongside Pursena; downplayed, by the time Rudeus meets her and Pursena they are already shaping up as model students after being beaten by Fitz and losing their original gang, but are still jerkasses who take their frustrations on Cliff and Zanoba and the other students, after getting humbled for real by Rudeus they became much more amiable; [Post-Graduation: Peddler Era] deconstructed, became a peddler after graduation but isn't very good at dealing with loans, while she's a force to be reckoned with in the academy she's small fry to Sylphie/Fitz and Rudeus because they have greater fighting experience and power, her lax behavior and abuse of her special privileges during her time in the academy leave her financially struggling as a peddler in the outside world after graduation, fell into debt and was sold into slavery; [Slave Era] bought by Rudeus to prevent sale to an Asuran noble; [Rudo Merc Era] Rudeus's maid and Representative Director of the Rudo Mercenary Company; [Post-War] merchant-maid of the Rudo Merc| willing to ignore Rudeus when he comes picking for a fight until he mocks her Verbal Tic, then she wants to beat the crap out of him and humiliate him horribly; arrogant, boisterous, and frivolous; shirt of her school uniform has a lower neckline than others, revealing her cleavage, and she doesn't wear stockings to show off her bare legs; flaunts her authority to those beneath her; impulsive and easily provoked; put through this by Rudeus in revenge for her breaking his Roxy figurine, first utterly defeated and Pursena in a matter of seconds, then kidnapped and tied to a chair for a whole day, left starving and soaked in her own pee until Rudeus and Sylphie release her with a Prank Punishment Face Doodling from Sylphie; Linia has a short temper and a tendency to pick fights, after Rudeus administers a Curb-Stomp Battle and gives some \"interesting\" punishments, she starts to fall for him; after Rudeus defeats her, becomes completely submissive to him, calling him her boss; quick to submit to and flatter people more powerful than herself; clumsy and prone to overestimating her abilities; to her aunt, Ghislaine, due to them tending to be highly aggressive in their youth and having trouble with managing finances; from highbred princess of the Doldia tribe to servant/pet of the Greyrat family; makes not-so-subtle advances toward her \"boss\" Rudeus, who ignores her because he's loyal to his three love interests; beneath the nonchalance genuinely cares about her friends; the Red Oni to Pursena's Blue Oni, Linia is more Hot-Blooded compared to The Stoic Pursena; the Tomboy to Pursena's Girly Girl, Linia is short-haired, brash, and aggressive, in contrast to Pursena who is long-haired, reserved, and composed; played with between her and Pursena, Linia would usually get up close to fight opponents while being backed up by Pursena's Super-Scream, but Linia is also capable of long-range attacks and can switch this position with Pursena| [Academy Era] rival-turned-friend to Pursena; [Slave Era] rescued by Rudeus from slavery; [Rudo Merc Era] begs Rudeus to take Pursena as a fellow caretaker of Leo, serves him as maid and merchant; loses to Pursena in their duel to decide who will be the next chief of the Doldia tribe, accepts the result and sees her scars as badges of honor| being a Cat Girl has feline fangs; has cat ears and a tail, along with showing certain cat-like behaviors; ends sentences with \"~nya\"; has a raspy voice that highlights her tomboyishness; trained in Advanced Fire Magic, Intermediate Water, Elementary Earth and Wind, Elementary Healing and Detoxification; howls in combat; by coincidence, Linia is the niece of Ghislaine; shares her aunt's short temper and tendency to bully and fight anyone under the slightest provocation, would also end up running into financial problems after graduation; near carbon copy of her aunt, Ghislaine, when the latter was young; has a younger sister named Minitona who looks just like her; Greyrat family tries to turn Linia into their maid, but she turns out to be pretty bad at housework| [Academy Era] became delinquent with Pursena, leading the largest gang in school; defeated single-handedly by Fitts, humbled into a model student; [Post-Graduation: Peddler Era] became a peddler selling goods from Asura to the North and vice-versa, eventually unable to pay her loans and turned into a slave; [Slave Era] bought by Rudeus to prevent sale to an Asuran noble; [Rudo Merc Era] joined the Rudo Mercenary Company to pay off her debt}\nPHYSIQUE: {Build: [Childhood: Great Forest] Small cub frame, niece of Ghislaine, pampered royal beast bloodline; [Pre-Academy: Doldia Village] Growing beastfolk adolescent, delinquent and bully; [Ranoa Student: Age 15-18] 162cm / 5'4\", 50kg, lithe, acrobatic, athletic cat-beastfolk frame, slender with curves, flexible feline waist; [Adult: Age 20+] 162cm, 52kg, nimble, agile huntress build | Height & Weight: [Adult] 162cm, 50kg | Breasts: [Childhood: Great Forest] Small cub, flat | [Adult Beast Warrior: Age 16+] Generous D-cup (typical of royal Dedoldia females) | Vaginal Depth: [Childhood: Age 0-14] Undeveloped cub anatomy | [Adult Beast Warrior: Age 16+] 5.1\", Tightness: Snug, agile feline build | Skin: [All Eras] Fair with a light tan, lightly tanned from training and travel | Face: [All Eras] Cat-like, mischievous, often grinning, fierce-cute feline smirk | Hair: [All Eras] Short, thick, spiky wild golden hair, a tomboyish delinquent's untidy crop; [Childhood] scruffy cub fuzz | Eyes: [All Eras] Sharp, mischievous feline amber eyes with slitted pupils | Ears & Tail: [All Eras] Cat ears atop her head; long grey cat tail swishing throughout | Distinguishing Traits: Golden cat ears and swishing feline tail; royal beast bloodline that earned her special-student privileges at Ranoa; sharp claws, punk attitude | Outfits by Timeline: [Academy Era] Ranoa Academy uniform worn loosely with punk flair, claws exposed; [Pre-Graduation] Casual beast-tribe tunic; [Rudo Merc Era onward] Servant/maid apron over common clothes when serving Rudeus; [Doldia Warrior] Leather huntress leathers, twin daggers}",
-      "comment": "[Characters] Linia Dedoldia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ghislaine Dedoldia",
-        "Ghislaine",
-        "Sword King Ghislaine"
-      ],
-      "secondaryKeys": [],
-      "content": "Ghislaine Dedoldia\nSHORT_DESC: { Sword King of the beast race, a feline beastkin with cat ears and a tail, holds the title of Sword King and instructs Eris and Rudeus on the sword; [Childhood: Doldia Village] tribal cub, daughter of Gustav chief of the Doldia Village, according to her brother young Ghislaine behaved like a wild animal and didn't even learn how to speak, making her more like a beast than anyone in her beastmen tribe, bullied her older brother Gyes and ran away; when they were younger, Gyes was the responsible sibling and Ghislaine was the foolish sibling; used to be a Wild Child who was deemed a disgrace by her hometown because she acted like a violent beast more than any of them, her brother is shocked to hear that his sister grew up to be a Sword King and a highly respected mentor to Eris; [Pre-Story: Gal Farion Apprentice] met wandering swordsman Gal Farion at age 10, who took her in due to her wild nature and potential, achieved Sword King rank; [Fangs of the Black Wolf era] Paul Greyrat's party comrade who trained Paul in sword; [Fittoa Period: K412-K417] S-rank adventurer, after her former party disbanded she had a string of bad luck as a solo S-rank adventurer and ended up nearly starving to death in the middle of Fittoa, fortunately Eris found her and convinced Sauros to take her with them, bodyguard and sword instructor of the Boreas Greyrat family; [Post-Teleport: K417-K419] trains Eris Boreas Greyrat in the Sword God Style at the Holy Land of Swords, Eris looks up to her as a big sister figure; originally worked at the Boreas household to teach swordsmanship to the two children and became a good friend to both Rudeus and especially Eris during that time, after Eris leaves Rudeus to improve her swordsmanship, Ghislaine stays with her as her closest friend; [Post-War] one of the Seven Knights of Asura serving Queen Ariel, joins Princess Ariel's entourage in her return to Asura Kingdom in order to seek out those who ordered Sauros's execution| an accomplished swordswoman but as Paul says, a total musclebrain, it is a testament to how good Rudeus is at teaching that he successfully teaches her and Eris reading and magic; has the ability to pick the correct answer out of two choices consistently, despite being weak in analysis; strong-willed meathead per Paul; expressionless face that feels intimidating; beneath it an emotional and rash person; older-sister figure to Eris, listening to her problems; deeply loyal to Sauros Boreas and Eris who saved her from the brink of death; in youth extremely violent and dumb, solving all problems with violence; a Master Swordsman who lacks basic skills such as reading and arithmetic, deconstructed in that she struggles to survive without those basic skills after parting ways with her companions, after her party split up she had no idea of how to use money and starved for days, ended up so hungry that she ate monster excrement in desperation which only made her sicker| [Fittoa Period] loyal to the Boreas household that took her in; [Post-Teleport] trains Eris in the Sword God Style at the Holy Land of Swords; during their reunion, clearly saw how much Rudeus and Eris grew closer together that she objects to Eris's decision to just leave him behind, Eris tells her to just drop the subject; [Post-War] later serves Queen Ariel; have taught Eris swordsmanship and watched her grow since she was a child, later when Eris became a Sword King herself and has a family with kids, she has one last duel/training session together, afterwards she declares she has nothing more to teach Eris and Eris tearfully thanks her for all she has done for her; just as impulsive and aggressive as her younger niece Linia in her youth but tempered by diligence; both she and her brother Gyes lack the brains to properly lead the Dedoldia tribe| Diligent and hard-working despite the meathead reputation; fell victim to many scams due to illiteracy and innumeracy after the Fangs disbanded on Zenith's pregnancy; possesses enhanced beast-race senses of hearing, sight, and smell; bears a Demon Eye that sees mana flow, wears an eyepatch over her right eye to hide it; beastkin like Ghislaine have estrus cycles, similar to animals, Paul infamously took advantage of hers to sleep with her, something he fully admits after the fact; Rudeus asked her to show him the base of her tail so he can make a better model of her as a joke, he was surprised that she doesn't hesitate to take her pants off in front of him| [Pre-Fittoa] fell victim to many scams due to illiteracy and innumeracy after the Fangs disbanded on Zenith's pregnancy; [Fittoa Period] taken in by Sauros Boreas as bodyguard for 2 Asura gold coins monthly; [Academy Era onward] tutored by Rudeus in literacy, numeracy, and elementary magic after he humiliated her illiteracy; her niece Linia is a near carbon copy of her when she was young, also impulsive and also falling into financial trouble after graduation}\nPHYSIQUE: {Build: [Childhood: Doldia Village] Tribal cub who behaved like a wild animal, never learned to speak at first, ran away from home; [Pre-Story: Gal Farion Apprentice] Taken in at age 10 by the wandering swordsman Gal Farion, achieved Sword King rank; [S-Rank Adventurer & Bodyguard: Pre-Story onward] 182cm / 6'0\", 76kg, towering, overwhelmingly muscular, ripped amazon feline beastwoman physique; chiseled six-pack abs, dense warrior musculature, slender with rippling muscles, amazonian frame exposed by her revealing outfit; raced across rooftops, shattered a sword in midair and decapitated attackers with a shockwave that tore up the stone road; [Post-War: Seven Knights] Veteran Sword King, still physically terrifying | Height & Weight: [Adult Constant] 182cm / 6'0\", 76kg | Breasts: [Childhood: Doldia Village] Feral cub, flat | [Adult Sword King: Age 20+] Full bosom, heavy F-cup (canonically her biggest feature, full bosom over shredded abs) | Vaginal Depth: [Childhood: Doldia Village] Undeveloped cub anatomy | [Adult Sword King: Age 20+] 5.4\", Tightness: Snug, muscular beastkin pelvic floor | Skin: [All Eras] Deep dark-bronze/chocolate skin, tanned throughout, crisscrossed with battle scars; several major scars from her youth as an adventurer, in particular a large one on her stomach | Face: [All Eras] Sculpted, intimidating, delinquent-boss vibe; feline fangs; eye patch over her right eye concealing a Demon Eye | Hair: [All Eras] Shaggy, wild grey-and-black fur-like hair cascading down her back | Eyes: [All Eras] Left eye wild amber with a sharp slitted pupil; [All Eras] right eye covered by an eyepatch concealing a Demon Eye | Ears & Tail: [All Eras] Grey beast-like feline ears atop her head; large cat-like tail; thick fur throughout | Distinguishing Traits: Muscular cat tail; eyepatch concealing a Demon Eye; towering amazon presence radiating Sword King Touki; Rudeus compared the feel of her butt to a rock | Outfits by Timeline: [Pre-Story / Black Wolf Era] Revealing leather outfit exposing torso and limbs - the upper half only consists of two straps over her breasts, never wears shirts; minimalist leather warrior harness and fur loincloth, sword belt with the Hiramune katana; [Roa Bodyguard Era] Revealed leather halter-top, leather combat shorts, high leather boots, black cape, greatsword on back; [Post-War] Seven Knights of Asura regalia worn over her traveling leathers, royal bodyguard cuirass}",
-      "comment": "[Characters] Ghislaine Dedoldia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ariel Anemoi Asura",
-        "Ariel",
-        "Second Princess Ariel"
-      ],
-      "secondaryKeys": [],
-      "content": "Ariel Anemoi Asura\nSHORT_DESC: {Second Princess and eventual Queen of the Asura Kingdom [Coronated: K425]; charismatic political genius and master of statecraft; escaped assassination attempts in her youth orchestrated by First Prince Grabell and Chief Minister Darius, fleeing to Ranoa Magic Academy in exile; supported by Sylphiette (Silent Fitz) and Luke Notos Greyrat; formed an alliance with Rudeus Greyrat and Dragon God Orsted, successfully passing Armored Dragon King Perugius's test of royal worthiness; ousted the corrupt noble faction in the Silver Palace coup, ascended the throne, and ushered Asura into an unprecedented golden era of peace, military strength, and diplomatic prosperity.}\nPHYSIQUE: {Build: [Childhood: K405-K416] Small, slender child princess frame, flat-chested, fragile-looking and solemn; [Exile Princess / Fitz Era: Age 15-18] 165cm / 5'5\", 51kg, regal, hourglass aristocratic figure with alluring feminine curves, elegant and perfectly proportioned; [Queen of Asura: Age 20+] 165cm, 53kg, commanding, majestic royal queen physique, radiant posture; ages slowly, poised bearing throughout | Height & Weight: [Adult] 165cm, 52kg | Breasts: [Childhood: Age 0-12] Delicate royal princess, flat | [Exile Princess & Queen: Age 15+] Shapely C-cup to D-cup, accentuated by corseted royal silk gowns | Vaginal Depth: [Childhood: Age 0-14] Undeveloped royal child anatomy | [Exile Princess & Queen: Age 15+] 5.2\", Tightness: Accommodating, refined noble build | Skin: [All Eras] Immaculately white, smooth, porcelain noble complexion, unblemished and luminous | Face: [All Eras] The most beautiful princess in Asuran history; slender nose, subtle lips, slightly rounded jawline, sculpted cheekbones, naturally reassuring smile that doubles as captivating royal charm | Hair: [All Eras] Long radiant golden-blonde hair falling to the small of the back, smooth and shiny; [Queen Era] styled in elaborate, flawless imperial curls draping over shoulders | Eyes: [All Eras] Piercing, charismatic amber-gold eyes radiating royal authority and seductive political charm | Distinguishing Traits: Incomparable charismatic aura; royal scent of rare Asuran blossoms; deep intelligence behind a gentle smile; Illusionary Ring (gift from Sylphiette) worn from the Epilogue onward | Outfits by Timeline: [Childhood: K405-K416] Luxurious gowns in white, royal blue, and gold with refined jewelry; [Fitz Era / Ranoa Exile] Ranoa Academy uniform worn with elegance, elegant tailored purple academy princess gown with ermine fur collar and silver tiara; [Coronation & Queen Era: K425+] Queen regalia in white and gold beneath a breathtaking coronation gown of purple velvet with pure gold embroidery, the Imperial Asuran Crown, holding the royal sceptre}",
-      "comment": "[Characters] Ariel Anemoi Asura",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Luke Notos Greyrat",
-        "Luke"
-      ],
-      "secondaryKeys": [],
-      "content": "Luke Notos Greyrat\nSHORT_DESC: {Guardian Knight to Princess Ariel Anemoi Asura; of Princess Ariel's entourage that survived the trip from Asura to Sharia, Luke is the only male left; [Childhood: Asura Palace: K404-K416] Notos Greyrat branch noble of the Asura Kingdom, son of Pilemon Notos Greyrat, tasked at a very young age as Guardian Knight alongside Derrick Redbat; [Fitz Era: Academy: K419+] Ranoa Magic Academy student council member; Intermediate rank of the Sword God Style and Elementary Water God Style; [Post-War] father of Prince Edward by Ariel; [Post-War Epilogue] briefly an Apostle of Hitogami before being brought back to his senses by Ariel; allowed to remain as Ariel's bodyguard even after being manipulated by Man-God into betraying her| a playboy who often fools around with attractive women; introduced this way when he first meets Rudeus, followed by a crowd of fangirls wanting to date him; playboy who chases every pretty face; like the rest of the Notos Greyrat family he harbors a fetish for large breasts; prefers women with curves and big breasts, this is why he never makes a move on the flat-chested Sylphie; treats Fitts as a colleague and friend, respectfully abstaining from pursuing her; frivolous and mediocre in skill yet fervent and self-sacrificing in his duty to Ariel; despite his arrogance, he values his relationships with Ariel and Sylphie; treats Ariel with utmost reverence and prioritizes her safety above his own life; Rudeus even calls him an ikemen| [Childhood] unofficial lover and consort to Ariel; to Rudeus, their relationship is initially antagonistic and even when they're on the same side they never truly get along, this was instigated and exploited by Man-God who told him Rudeus would usurp the Notos Greyrat family; between Ariel and his father (who initially supported her before switching to the other faction); [Post-War] father of her son Edward; cousin to Rudeus Greyrat; foils Hitogami's deception with Ariel's help after briefly turning against Rudeus; falls head over heels for Eris after just taking a look at her, however he's quick to give up on her after Rudeus tells him she's already married to him; according to Orsted, Luke was Eris's husband in all the previous timelines that didn't have Rudeus; according to Orsted, in all previous timelines where Rudeus didn't exist, Luke persistently pursued the initially indifferent Eris until he finally got her to agree to marry him; provided Sylphie with a rare and expensive aphrodisiac to help her get a Relationship Upgrade with Rudeus; forces one when he takes Ariel hostage and tells Sylphie to choose between her duty to Ariel or Rudeus; Rudeus thinks he looks like a younger version of Paul who is Luke's uncle| despite being a royal bodyguard trained in the sword since childhood, Sylphie is more powerful than him and Rudeus easily defeats him in a sword duel without using magic, even Ariel admits his skills are rather mediocre; equipped with Steel-Cutting Sword, Enchanted Shoes, Flame Trapping Cloak, Gloves of Overpowering, and Reinforced Undertunic for combat| [Childhood: K413] sacrificed himself swordless against a Terminate Boar to protect Ariel, watched Derrick die, was saved by Sylphy's teleport arrival; [Post-War] later tricked by Hitogami into believing Rudeus was a traitor and his father Pilemon was loyal; in a moment of madness held Ariel hostage at swordpoint when ordered to execute his treacherous father; brought back to his senses by Ariel}\nPHYSIQUE: {Build: [Childhood: Asura Palace: K404-K416] Child noble frame, page of the Asura court; [Fitz Era: Academy: Age 16-20] 178cm / 5'10\", 70kg, tall, slender, handsome courtly knight build, well-built and athletic; [Post-War: Age 22+] 178cm, 73kg, polished swordsman physique, refined posture; Guardian Knight to Princess Ariel throughout | Height & Weight: [Adult] 178cm, 72kg | Penile: [Childhood: Age 0-10] Prepubescent child anatomy [Fitz Era: Age 16-20, pre-marriage] above average, intact, ~6\" | [Post-marriage to Ariel, father of Edward] above average, intact, ~6\", matured | [Post-War: Age 22+] stable, fatherly | Skin: [All Eras] Fair, smooth, well-kept; clean-shaven throughout | Face: [All Eras] Extremely handsome, standard ikemen; combed-back hairline, charming smile, confident courtly expression | Hair: [All Eras] Flamboyant, wavy golden-blonde hair styled to perfection, combed back | Eyes: [All Eras] Charming, expressive amber eyes with long lashes, sharp and confident | Distinguishing Traits: Flirtatious playboy demeanor, follows a crowd of fangirls; Notos Greyrat noble lineage; fervent, self-sacrificing in his duty to Ariel despite his arrogance | Outfits by Timeline: [Childhood: K404-K416] Asuran noble page finery; [Fitz Era: Academy] Ranoa Academy uniform, white-and-purple knight doublet with rapier at hip, student council member; [Guardian Knight] Asuran knight armor with the Notos seal for combat, polished silver-and-gold Asuran knight plate, feathered cavalier hat, fine nobleman's tunic and trousers, Guardian Knight regalia; [Post-War: Hitogami Apostle Episode] Apostle of Hitogami garb briefly}",
-      "comment": "[Characters] Luke Notos Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Akito Shinohara",
-        "Akito"
-      ],
-      "secondaryKeys": [],
-      "content": "Akito Shinohara\nSHORT_DESC: {Japanese high school student summoned from Earth to a foreign world; [Earth: Modern Japan] ordinary teenager nearly struck by a truck alongside friends Nanahoshi Shizuka and Seiji Kuroki, saved by Rudeus Greyrat in his previous life at the cost of his own; [Summoning Era: distant past of the main story] summoned by a desperate kingdom as its prophesied hero, beheaded by an unnamed opposing General on his very first battlefield| [Earth] kind, friendly, eager to connect, ordinary teenage boy with no combat experience; overwhelmed and out of his depth from arrival to death in a single engagement| [Earth] close friend of Nanahoshi Shizuka and Seiji Kuroki; [Lyria's loops] sole emotional crutch of the Blessed Child of Restoration Lyria; [Post-mortem] mourned only by Lyria, his headless corpse spat upon by the summoners for his failure as a chosen one| Befriended the traumatized Blessed Child of Restoration during his short stay; was the only person to call her by her real name, Lyria| [Earth] ordinary high schooler; [Summoning Era] summoned across worlds as a prophesied hero to save a kingdom from a war, beheaded by an opposing General on his first battlefield; his death triggered Lyria to over-rewind time, tearing a dimensional rift that pulled Nanahoshi Shizuka into the past and reincarnated the soul of his savior's past life as Rudeus Greyrat}\nPHYSIQUE: {Build: [Earth: Modern Japan] Average Japanese teenage frame, 172cm / 5'7.5\", 64kg, lean, slightly stooped from screen-bound habits; [Six-Faced World: Summoned] Same lean frame on the battlefield, untrained and unprepared; [Adulthood] Slim but healthy young adult, quiet confidence in his posture | Height & Weight: [Age 16] 172cm, 64kg | Penile: [Adult: Age 16+] average, intact | Skin: [All Eras] Fair Japanese complexion, indoor pallor that warms with sun | Face: [All Eras] Average Japanese features, friendly resting expression, earnest and easy-going | Hair: [All Eras] Messy black hair, short and unkempt | Eyes: [All Eras] Dark brown eyes, warm and sincere | Distinguishing Traits: Summoned soul from modern Japan; Nanahoshi's classmate; one of the few people in this world who shares her origin | Outfits by Timeline: [Earth] Japanese school uniform, sneakers; [Six-Faced World] Simple combat tunic issued by the summoners, barefoot on the battlefield for lack of preparation time; [Later Era] Future traveler robes}",
-      "comment": "[Characters] Akito Shinohara",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Grabell Zafin Asura",
-        "Grabell",
-        "First Prince Grabell"
-      ],
-      "secondaryKeys": [],
-      "content": "Grabell Zafin Asura\nSHORT_DESC: {First Prince of the Asura Kingdom; half-brother of Princess Ariel Anemoi Asura; rival claimant to the Asuran throne; allied with Prime Minister Darius Silva Ganius| [Asura Palace: K416 onward] ambitious, ruthless, willing to deploy assassins against half-sister Ariel and her Notos Greyrat allies; politically outmaneuvered by Ariel's faction in the end| Rival claimant to Ariel for succession; allied with his chief minister Darius Silva Ganius, who handled his wet work and ran his sex-slave ring| Desired the Asuran throne above all else| [Asura Palace] first prince and heir presumptive; [Post-Metastasis: K417 onward] consolidated power with Darius as his chief minister after Ariel escaped to the Ranoa Magic Academy; [Post-War: K422+] brought down by the testimony of Tristina \"Tris\" Purplehorse, a former Darius slave, allowing Ariel to take the throne}\nPHYSIQUE: {Build: [Asura Palace onward] 175cm / 5'9\", 78kg, tall for a noble but slightly fleshy, pampered imperial prince frame; athletic potential buried under courtly indulgence; regal bearing carried with arrogance | Height & Weight: [Adult] 175cm, 78kg | Penile: [Adult: Age 16+] above average, intact | Skin: [All Eras] Fair, soft, smooth court complexion untouched by labor | Face: [All Eras] Sharp-featured and handsome in a severe way, softened by pampering; arrogant sneer, narrow calculating eyes; regal resting affect | Hair: [All Eras] Oiled blonde hair parted pompously | Eyes: [All Eras] Narrow, arrogant blue eyes, sharp and imperious | Distinguishing Traits: Puppet-prince posture; consumes attention and expects deference; first Asura prince, leader of the faction opposed to Ariel | Outfits by Timeline: [Asura Palace] Formal Asuran prince regalia in white, royal blue, and gold; flamboyant imperial doublet with oversized puffed sleeves and diamond medals; combat situations call for knight's plate over the formal wear}",
-      "comment": "[Characters] Grabell Zafin Asura",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Tristina Purplehorse",
-        "Tristina"
-      ],
-      "secondaryKeys": [],
-      "content": "Tristina Purplehorse\nSHORT_DESC: {Daughter of the Purplehorse noble house of the Asura Kingdom; [Childhood: Asura Palace, K409] sold at age 8 into child sex slavery to Prime Minister Darius Silva Ganius; [Post-Metastasis: K417 onward] resold to bandits after the Mana Catastrophe dispersed Darius's slaves; [Late Timeline] freed slave, mistress of the thieves' guild leader under the alias \"Tris\"; [Post-War] key witness whose testimony brought down Darius and Prince Grabell, allowing Ariel Anemoi Asura to take the throne| Aggressive, vulgar, tomboyish bandit ladette who swears and drinks with her men; hardens a nobleborn heart behind a thieves' code; privately carries the trauma of noble-born child slavery| [Late Timeline] mistress of the thieves' guild leader; former sex-slave of Prime Minister Darius| First mentioned in future Rudeus's diary under her alias \"Tris\" as the crucial witness| [Childhood] born a noble girl of the Purplehorse House; [Age 8: Asura Palace] kidnapped by Darius and forced into child sex slavery; [Metastasis Event: K417] Darius sold most of his slaves after the catastrophe dispersed his assets; [Post-Metastasis] sold to the thieves' guild, where she rose to become the leader's mistress and the band's most aggressive enforcer}\nPHYSIQUE: {Build: [Childhood: Asura Palace: K409] Small child, daughter of the Purplehorse noble house, sold at age 8 into slavery; [Post-Metastasis Bandit Era: K417+] Athletic, lean bandit's frame, ~160cm / 5'3\", 48kg, quick and aggressive; tomboyish ladette physique; [Late Timeline: Alias 'Tris'] Slender, guarded former slave's bearing, hardened by the thieves' guild | Height & Weight: [Adult] 160cm, 48kg | Breasts: [Childhood: Age 0-10] Small child, flat | [Bandit & Royal Court: Age 16+] Lean B-cup, wiry and athletic | Vaginal Depth: [Childhood: Age 0-14] Undeveloped child anatomy | [Adult: Age 16+] 5.0\", Tightness: Snug | Skin: [All Eras] Fair, pale, marked by years outdoors after her enslavement | Face: [All Eras] Tomboyish, sharp features, often smirking; aggressive, vulgar expression; privately carries the trauma of noble-born child slavery | Hair: [All Eras] Wavy violet-purple hair, cut short in a boyish style | Eyes: [All Eras] Sharp, alluring violet eyes, fierce when challenged | Distinguishing Traits: Agile, dagger-fast fingers; slave mark from her years in Darius's service; aggressive, vulgar, tomboyish bandit ladette who swears and drinks with her men; key witness whose testimony brought down Darius and Grabell | Outfits by Timeline: [Childhood / Slave Era] Ragged dress; [Post-Metastasis: Bandit Crew] Skimpy midriff-baring bandit's top, leather trousers, light armor, dagger belt; [Royal Service / Late Timeline] Silk attendant gown with hidden daggers, thief's cloak}",
-      "comment": "[Characters] Tristina Purplehorse",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Vierra"
-      ],
-      "secondaryKeys": [],
-      "content": "Vierra\nSHORT_DESC: {Adventurer from the Fittoa Region; [Pre-Metastasis: Fittoa] journeyman adventurer alongside younger sister Shierra; [Post-Metastasis: K417 onward] trapped in a bandit camp with Shierra, both repeatedly raped by their captors; [Post-Metastasis: K417-K419] helps Paul Greyrat locate scattered Fittoa survivors as a member of the Fittoa Search Group| Brazen, sexually forward, hardened by abuse into a deliberate Shameless Fanservice persona she weaponizes; loyal and fiercely protective of her traumatized younger sister| Younger sister Shierra, reliant on her in mixed company; comrade of Paul Greyrat in the Fittoa Search Group| Wears chainmail bikini armor specifically to draw male attention away from her androphobic sister Shierra| [Pre-Metastasis] journeyman adventurer in the Fittoa Region with her sister; [Metastasis Event: K417] both sisters caught and teleported, captured by bandits, and repeatedly raped; [Post-Metastasis] joined Paul's Fittoa Search Group, deliberately dressing in revealing armor so men's eyes fall on her instead of her sister}\nPHYSIQUE: {Build: [Adolescent: Fittoa Era] Slender adventurer-in-training frame; [Adult] Attractive, buxom, athletic, ~170cm, strong Fittoa adventurer's build with a firm core and graceful martial posture | Height & Weight: [Adult] 170cm / 5'7\", 60kg | Breasts: [Adolescent] Slender, developing | [Adult Adventurer] Voluptuous F-cup, generous cleavage | Vaginal Depth: [Adolescent: Age 0-15] Undeveloped adolescent anatomy | [Adult: Age 16+] 5.5\", Tightness: Accommodating | Skin: [All Eras] Fair, tanned from outdoor adventurer life | Face: [All Eras] Attractive, often winking or smirking; confident and quick to laugh | Hair: [All Eras] Long, thick dark brown hair worn loose or in a high ponytail bound with leather ties | Eyes: [All Eras] Amber, bright and mischievous | Distinguishing Traits: Fittoa adventurer sister of Shierra; buxom, battle-ready and cheerful; coordinates seamlessly with her sibling in a fight | Outfits by Timeline: [Adventurer Era] Chainmail bikini armor exposing the midriff and most of the bust; light cloak and boots; dagger at the hip for combat; light chest armor over a short tunic}",
-      "comment": "[Characters] Vierra",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Shierra"
-      ],
-      "secondaryKeys": [],
-      "content": "Shierra\nSHORT_DESC: {Adventurer from the Fittoa Region; younger sister of Vierra; [Pre-Metastasis: Fittoa] journeyman adventurer alongside her sister; [Post-Metastasis: K417 onward] captured with Vierra by bandits, both repeatedly raped, developing permanent androphobia; [Post-Metastasis: K417-K419] accompanied Paul Greyrat's Fittoa Search Group| Timid, withdrawn, prone to hiding behind her long bangs and behind her sister Vierra in any social situation; deeply traumatized; avoids all contact with men| Younger sister of Vierra, reliant on her for protection in mixed company| Binds her eyes behind her long bangs to avoid eye contact with men; rarely speaks above a whisper| [Pre-Metastasis] journeyman adventurer in the Fittoa Region with her sister Vierra; [Metastasis Event: K417] both sisters caught and teleported, captured by bandits, and repeatedly raped; [Post-Metastasis] joined Paul's Fittoa Search Group, hiding behind Vierra in mixed company}\nPHYSIQUE: {Build: [Adolescent: Fittoa Era] Small, timid child adventurer frame; [Adult] Slim, petite, ~158cm, light and quick, unassuming beside her buxom sister | Height & Weight: [Adult] ~158cm (restored - the updated block's 168cm royal-guard frame belonged to mis-copied content) | Breasts: [Adolescent] Small, flat | [Adult Adventurer] Modest B-cup, compact | Vaginal Depth: [Adolescent: Age 0-15] Undeveloped adolescent anatomy | [Adult: Age 16+] 5.0\", Tightness: Snug | Skin: [All Eras] Fair | Face: [All Eras] Timid, eyes partially hidden behind her long bangs; easily flustered, watchful | Hair: [All Eras] Long, thick, feathery, falling over the eyes | Eyes: [All Eras] Amber, shy and alert beneath her bangs | Distinguishing Traits: Fittoa adventurer sister of Vierra; shy and unassuming, hides behind her hair; steadier and more cautious than her sister | Outfits by Timeline: [Adventurer Era] Loose modest tunic and trousers, hood drawn up in mixed company; staff for travel support; light boots}",
-      "comment": "[Characters] Shierra",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kishirika Kishirisu",
-        "Kishirika",
-        "Demon Empress"
-      ],
-      "secondaryKeys": [],
-      "content": "Kishirika Kishirisu\nSHORT_DESC: {Great Empress of the Demon Realm, former sovereign of the Demon Continent; the immortal Demon Empress who bestowed Rudeus Greyrat with the Eye of Foresight; fiancée of Badigadi from their previous lives; sister-in-law of Atoferatofe Rybak via Badigadi; perpetual rival of Atofe who stole Kishirika's castle and her drinks in turn; among the oldest continuously-living demons in the Six-Faced World| [Pre-Laplace Era onward] a high-ranking demon of the Immortal Demon Clan, reborn after each death; [Laplace Era] ruled the Demon Continent as its Empress in a previous incarnation; [Pre-Story] her current incarnation emerged roughly 300 years ago, looking like a prepubescent girl despite her true age; [Rudeus Era: K415+] first encountered starving on the Demon Continent, fed by Rudeus, repaid him by crushing his right eye and replacing it with the Eye of Foresight; later revealed the location of the missing Zenith Greyrat to Roxy Migurdia after Roxy saved her from being sold for unpaid bar tabs; [Late Timeline] retains her throne in name while Atofe occupies her former castle, a perpetual feud of bounty-theft and drink-stealing between the two| wears a skimpy black leather tube top and short shorts with thigh-high boots and a choker, an outfit Rudeus internally calls \"Bondage girl\"; speaks in an archaic Japanese dialect; returns favors with demon-eye gifts or info; can be killed but is reborn each time; sports handcuffs with broken chains on her wrists; her childlike appearance and hammy manner leave most people doubting she is the actual Demon Empress, drawing comical humiliations; two strands of hair stick up like antennae; goat-like horns on her head; loud and theatrical; heterochromia from multiple swappable demon eyes, can bestow demon eyes on others; heterochromia from swapping demon eyes; shark-like teeth; outdrank Talhand in a drinking contest; always hungry; 300-year-old current incarnation in a prepubescent body; promised Badigadi to marry him in their previous lives; \"Kishirika Kishirisu\"; one demon eye locates people across continents; \"Nahahaha!\"; only a band of leather for chest covering; bestows demon eyes on those she appreciates; half-strips when Rudeus jokes about repayment, then \"remembers\" her fiancé; can see through disguises and souls}\nPHYSIQUE: {Build: [Current Incarnation] Prepubescent child, ~135cm / 4'5\", 30kg, slender, extremely skinny and unkempt; regenerates fully after each rebirth, appearing as a young girl each time; [Ancient Great Empress Form] Towering, voluptuous demon empress with immense mana | Height & Weight: [Current Story Era] 135cm / 4'5\", 30kg | Breasts: [Current Reincarnation: Child] Flat, bony demon-child chest, visible ribs | [True Prime Empress Form] Colossal F-cup demonic cleavage | Vaginal Depth: [Current Reincarnation: Child] Undeveloped demon-child anatomy | [True Prime Empress Form] 6.0\", Tightness: Accommodating | Skin: [All Eras] Ash-grey demon complexion with a faint luminous pallor, pale and otherworldly | Face: [All Eras] Childlike, large expressive eyes with heterochromia, pointed chin, shark-like pointed teeth visible when smiling; comically exaggerated expressions | Hair: [All Eras] Wild, tangled, spiky purple hair mid-length, with two strands sticking up like antennae | Eyes: [All Eras] Heterochromic multi-ringed demon eyes, glowing crimson-gold; possesses 12 demon eyes throughout her body; [True Sight] her left eye shifts to a target-reticle design| Forehead: [All Eras] Goat-like curved black demon horns protruding from the forehead| Distinguishing: Handcuffs with broken chains on the wrists, a Chained by Fashion affectation; stomach growling with hunger | Distinguishing Traits: Regenerates after each death; bestows demon eyes as favors; speaks in an archaic Japanese dialect; perpetual feud with Atofe over castle and drinks | Outfits by Timeline: [Lifelong] Skimpy black leather tube top barely covering the chest, short shorts, thigh-high boots, choker, broken-chain handcuffs - the entire ensemble dressed like a dominatrix, an outfit Rudeus internally calls 'Bondage girl'}",
-      "comment": "[Characters] Kishirika Kishirisu",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sara",
-        "Counter Arrow"
-      ],
-      "secondaryKeys": [],
-      "content": "Sara\nSHORT_DESC: {Commoner adventurer of the Counter Arrow party; master archer of the Demon Continent; Rudeus Greyrat's second love interest subverted by his erectile dysfunction; the only one of Rudeus's serious love interests he did not marry; eventually married a childhood friend after years of carrying a torch for Rudeus| [Post-Metastasis] lost her parents during the Teleport Incident, joined Counter Arrow as a commoner adventurer on the Demon Continent; [Age 12-15] tomboyish adventurer who meets Rudeus when he joins her party after Eris's departure, hostile to him on sight for being a Greyrat noble; blames noble families for her parents' deaths, every nobleman she met before Rudeus was a Dirty Coward who abandoned her party to save himself; warms to Rudeus after he saves her life from an Icefall Treant, they begin dating; slaps Rudeus after overhearing him drunkenly badmouthing her and calling her unattractive; Rudeus realizes too late she heard everything; the resulting messy breakup worsens his ED-related romantic trauma and triggers his near-suicide; later visits the prostitute Rudeus had seen to understand what he was doing there, gets berated for criticizing him for his ED, realizes his inability to perform was not about her attractiveness; cries all night, but it is too late to apologize, Rudeus has already left town with Soldat Heckler; [Late Timeline] reconciles with Rudeus years after; he offers to make her his fourth wife, she seriously considers but ultimately refuses, choosing to marry a childhood friend instead; she still carried a torch for him for years| tomboyish adventurer with short hair; a prodigy as good with the bow as Eris Boreas Greyrat is with the sword; similar to Eris in being a Tsundere and good fighter who initially hated Rudeus and developed feelings for him, Rudeus himself notices the resemblance, awkward given his heartbreak over Eris; harsh type, irritable and hostile surface hiding a nicer core, her harshness came back to bite her when she hurt Rudeus to the point of near-suicide; doesn't hold the breast-grab against him since he caught her from tripping; Rudeus tries to move on from Eris via Sara, but his ED kills the relationship}\nPHYSIQUE: {Build: [Childhood / Adolescent: Age 12-15] Tomboyish commoner adventurer girl, hardened by the Northern Lands after losing her parents in the Teleport Incident; [Northern Lands Archer: Age 15-18] 160cm / 5'3\", 49kg, lean, athletic archer's build with flexible shoulders and quick reflexes; [Adult Adventurer: Age 22+] 160cm, 51kg, mature, graceful archer frame | Height & Weight: [Age 16] 158cm, 47kg; [Adult] 160cm, 51kg | Breasts: [Childhood / Adolescent: Age 12-15] Slender northern archer, flat | [Adult Adventurer: Age 16+] Modest B-cup, soft, distinct sun-tan lines framing pale skin | Vaginal Depth: [Adolescent: Age 12-15] Undeveloped adolescent anatomy | [Adult Adventurer: Age 16+] 5.0\", Tightness: Snug | Skin: [All Eras] Fair, tanned and wind-tanned from outdoor adventurer life, lightly freckled | Face: [All Eras] Tomboyish, expressive, often scowling or skeptical; cute, spirited facial features that flash a reluctant smile | Hair: [All Eras] Short, lively strawberry-blonde hair cut in a practical bob | Eyes: [All Eras] Bright, determined hazel-green eyes, sharp and watchful | Distinguishing Traits: Archer's calluses on the right fingers; energetic stride; hostile-then-tender pride, Rudeus's second love interest | Outfits by Timeline: [Counter Arrow Era] Practical leather adventurer's gear with arm guards for archery, reinforced leather jerkin over a green tunic, short tunic and trousers, knee-high boots, light chest armor, quiver slung across the back, composite hunting bow; [Late Reunion Era] High-grade adventurer leathers, fur-trimmed mantle}",
-      "comment": "[Characters] Sara",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Suzanne",
-        "Counter Arrow"
-      ],
-      "secondaryKeys": [],
-      "content": "Suzanne\nSHORT_DESC: {Subleader of the Counter Arrow adventurer party; wife of Timothy (party leader); mother figure to Sara; a kind and caring commoner adventurer of the Demon Continent who takes Rudeus in after his separation from Eris| [Post-Metastasis] a commoner adventurer who survived the Mana Catastrophe, formed/joined the Counter Arrow party with her husband Timothy; [Academy Era: K419+] meets Rudeus when he joins her party after his separation from Eris, warm, welcoming, patient with Rudeus during his depressed state; took Sara in after the girl lost her parents in the Mana Catastrophe, raises her as a mother figure; calls Rudeus out after he badmouths Sara and makes her cry, holding him accountable for his drunken cruelty; scratches her cheek while looking away during awkward moments| adventurer outfit leaves her midriff bare, a feminine commoner-adventurer affectation| [Late Timeline] continues adventurer life with Timothy and the Counter Arrow party}\nPHYSIQUE: {Build: [Early Career] Average, healthy adult woman, new to northern adventuring; [Northern Lands Vanguard: Age 25-35+] 172cm / 5'7.5\", 66kg, sturdy, muscular, broad-shouldered female warrior build capable of holding the frontline against wild beasts | Height & Weight: [Adult Adventurer] 172cm / 5'7.5\", 66kg | Breasts: [Adult Vanguard: Age 25+] Healthy C-cup to D-cup, sturdy and maternal under plate armor | Vaginal Depth: [Adult Vanguard: Age 25+] 5.5\", Tightness: Mature, accommodating for husband Timothy | Skin: [All Eras] Tanned and sun-bronzed, wind-weathered from outdoor adventurer life | Face: [All Eras] Warm, friendly, often smiling gently; motherly expression with slight battle scars across the knuckles | Hair: [All Eras] Medium-length brown hair tied back for practicality, cut above the collar to fit under a helmet | Eyes: [All Eras] Warm, gentle, reliable chocolate-brown eyes, watchful on the frontlines | Distinguishing Traits: Heavy shield-arm callus; reliable veteran posture; calm motherly aura toward young adventurers like Rudeus and Sara | Outfits by Timeline: [Early Adventuring Career] Scuffed leather cuirass, fitted tunic, wool trousers, iron round shield, leather armor with bare midriff, adventurer's belt with pouches; [Counter Arrow Northern Quests: K417-K422] Hardened studded leather armor reinforced with iron plates, fur-lined winter traveling cloak, large steel heater shield, short broadsword, knee-high boots, light traveling cloak; [Later Timeline / Ranoa Settlement] Casual northern wool tunics, sheepskin vests, durable walking boots}",
-      "comment": "[Characters] Suzanne",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Nina Falion",
-        "Nina"
-      ],
-      "secondaryKeys": [],
-      "content": "Nina Falion\nSHORT_DESC: {Daughter of the Sword God Gal Farion; swordswoman of the Sword God Style; eventual wife of her first cousin Gino; practitioner at the Holy Land of Swords dojo; one of the next-generation sword-style prodigies alongside Eris Boreas Greyrat and Isolde Cluel| [Childhood: Holy Land of Swords] raised in the Sword God's dojo as his daughter; [Academy Era: K419+] appears briefly in the Ranoa Magic Academy arc to challenge Rudeus to a duel to test the strength of the man Eris loves, beaten by Badigadi before she can face Rudeus; her first impression of Eris was the latter giving her a brutal No-Holds-Barred Beatdown and making Nina wet herself in front of the entire dojo; both a receiver and giver: constantly beaten by Eris in training, but she in turn beats Isolde Cluel of the Water God Style even though Isolde beat Eris, because each fighting-style counters the others in a cycle; eventually marries her first cousin Gino; like most people in the Holy Land of Swords, Nina cannot read; hot-blooded and confrontational, contrasting with the cooler Sword God style practitioners| [Late Timeline] becomes the wife of Gino, her first cousin, remaining at the Holy Land of Swords}\nPHYSIQUE: {Build: [Childhood: Holy Land of Swords] Raised in the Sword God's dojo as Gal Farion's daughter, hot-blooded and confrontational; [Holy Land Swordswoman: Age 15-19] 168cm / 5'6\", 57kg, lean, fiercely athletic muscular swordsman frame; [Sword Master & Wife to Gino: Age 22+] 168cm, 59kg, mature, deadly Sword King silhouette | Height & Weight: [Adult] 168cm, 58kg | Breasts: [Childhood: Holy Land] Flat, fiery dojo brat | [Sword King & Wife to Gino: Age 15+] Athletic B-cup, muscular under dojo robes; married to Gino Britz | Vaginal Depth: [Childhood: Age 0-14] Undeveloped dojo girl anatomy | [Swordswoman & Wife: Age 15+] 5.1\", Tightness: Tight, athletic swordsman build | Skin: [All Eras] Fair, tanned from training yards | Face: [All Eras] Tomboyish, often intense or scowling; sharp cheekbones, confident haughty smirk; family eye-and-jaw resemblance to her father Gal Farion | Hair: [All Eras] Straight black hair tied in a high, fierce warrior ponytail, messy from training | Eyes: [All Eras] Proud, sharp, competitive dark eyes with the flared, fierce Tsurime eye shape her father passes on | Distinguishing Traits: High-speed Sword God footwork; lightning-fast draw; cannot read, like most people in the Holy Land of Swords; hot-blooded temperament that contrasts with the cooler Sword God Style practitioners | Outfits by Timeline: [Dojo Era] Practical dogi training clothes, white Sword God style canvas gi, knee-length hakama, wooden practice blade; [Traveling] Light armor, katana at the hip; [Sword Master Era] Premium master's gi, black leather armguards, enchanted holy sword}",
-      "comment": "[Characters] Nina Falion",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Reida Lia",
-        "Reida",
-        "Water God Reida",
-        "Water God"
-      ],
-      "secondaryKeys": [],
-      "content": "Reida Lia\nSHORT_DESC: {Head of the Water God Style; grandmother and master of Isolde Cluel; one of the strongest swordmasters of the current generation; bearer of the title Reida Lia, a name passed down to each successive Water God| [Pre-Story] succeeded the previous Water God to take the name Reida Lia; [Rudeus Era] serves as the head of the Water God Style and trains the next generation, an old woman past her peak physical years; [Old Master] nevertheless still ranked as one of the strongest swordmasters of the current generation; her younger self was a voluptuous beauty comparable to her granddaughter Isolde; trained Isolde in the Water God Style, grooming her as the next Water God; [Late Timeline] passes the title to Isolde, who becomes the new Reida Lia in accordance with the tradition}\nPHYSIQUE: {Build: [Youth] Once a voluptuous beauty comparable to her granddaughter Isolde in her prime; [Current: Elderly, Age 65+] 155cm / 5'1\", 46kg, frail-looking, slight, hunched elderly woman frame that conceals peerless god-class counter-striking speed and supreme touki concentration | Height & Weight: [Elderly] 155cm / 5'1\", 46kg | Breasts: [Youth: Prime Water God] Voluptuous D-cup | [Elderly: Age 65+] Modest, diminished with age | Skin: [All Eras] Weathered, aged, fine lines and heavy wrinkles, parchment-like in old age | Face: [All Eras] Stern, lined with age, sharp eyes still piercing; deceptively genial granny smirk masking ruthless lethal instinct | Hair: [All Eras] White, thinning with age, wispy silver-grey hair tied back in a severe traditional bun with a decorative wooden hairpin | Eyes: [All Eras] Clear, observant, sharp despite age; milky grey-blue and squinting until flashing with supreme killing intent | Distinguishing Traits: Slouching, relaxed posture and deceptive absence of Battle Aura until she activates the god-tier Water God Secret Technique 'Depriving Sword'; master-level touki beneath a frail exterior | Outfits by Timeline: [Lifelong / Prime Water God Era] Water God Style dogi in deep blue with white wave crests, formal hakama, the traditional Water God master's haori with the style crest; [Late Asura Court: K425 Succession Banquet] Opulent gold-and-azure formal Asuran court kimono-style robes, the Water God sacred blade hidden under voluminous sleeves}",
-      "comment": "[Characters] Reida Lia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Isolde Cluel",
-        "Isolde",
-        "Solte",
-        "Solde",
-        "Izorute",
-        "Water King Isolde",
-        "Water God Isolde",
-        "Water God Reida Lia",
-        "Royal Shield"
-      ],
-      "secondaryKeys": [
-        "Seven Knights of Asura",
-        "Dohga",
-        "Water God Style",
-        "Holy Land of Swords",
-        "Nina Farion",
-        "Eris Boreas Greyrat"
-      ],
-      "content": "Isolde Cluel (Solte / Solde)\nSHORT_DESC: {Granddaughter of Water God Reida Lia; Water King-tier swordswoman and eventual successor as the next Water God taking the ancestral title Reida Lia; one of the Seven Knights of Asura holding the prestigious title 'Royal Shield'; wife of North Emperor Dohga; close friend of Eris Boreas Greyrat and Nina Farion; a devout follower of the Church of Milis| [Personality & Internal Comedy] Presents herself as the quintessential poised, elegant 'proper lady'—maintaining a serene half-smile with her eyes kept gently closed, speaking with immaculate courtly refinement, and moving with flowing grace; behind this polished facade, however, Isolde is intensely anxious about finding a husband, harboring a deep-seated desperation to get married before she gets too old; she constantly worries that her lethal, defensive counter-sword mastery intimidates prospective suitors; initially scandalized and vocal in her outrage when discovering Rudeus's polygamy (which strictly violates Millis doctrine), yet fiercely supportive of Eris's happiness; eventually won over by the earnest, unpretentious devotion of the gentle giant Dohga, happily accepting his clumsy proposal and finding true marital bliss| [Timeline Progression] [Holy Land of Swords Era] Formed a famous, hot-headed friendship with Eris Boreas Greyrat and Nina Farion, trading blows and tea in the dojos; [Asura Succession: K425] Served as Royal Shield protecting Princess Ariel; grieved deeply when her grandmother Reida Lia allied with Darius and was slain by Orsted; subsequently took over leadership of the Water God Style, striving to rebuild the school's honor; [Biheiril Campaign: K430] Fought alongside Dohga and Ariel's royal contingent; [Late Timeline] Married Dohga, officially succeeded as Water God Reida Lia, and trained the next generation of Asuran knights.}\nPHYSIQUE: {Build: [Childhood / Youth: Holy Land] Daughter of the Water God line, trained from girlhood; [Holy Land & Asura Knight: Age 18-24] 165cm / 5'5\", 53kg, slender, exceptionally poised noblewoman frame with flowing aristocratic grace, D-cup bust, looks remarkably delicate beside her towering husband Dohga; [Water God Master Era: Age 26+] 165cm, 54kg, dignified, graceful master swordswoman silhouette | Height & Weight: [Adult] 165cm / 5'5\", 53kg | Breasts: [Youth: Holy Land] Developing Water God disciple, modest | [Water King & Knight: Age 18+] Voluptuous D-cup, elegant under silver plate armor; married to Dohga | Vaginal Depth: [Youth: Age 0-16] Undeveloped noble girl anatomy | [Knight & Wife to Dohga: Age 18+] 5.4\", Tightness: Snug, muscular swordsman build | Skin: [All Eras] Fair, noble-pale, immaculate and smooth | Face: [All Eras] Elegant, Proper Lady expression, eyes usually closed in a serene half-smile; refined features masking inner anxiety about marriage | Hair: [All Eras] Long, lustrous raven-black hair in a traditional hime cut with even cheek-length side locks framing her face and a long back | Eyes: [All Eras] Usually closed; opens in serious moments, snapping wide open with piercing steel-blue focus in battle | Distinguishing Traits: Closed-eye posture; sudden explosive defensive counter-stance; graceful, unflappable composure befitting Reida Lia's granddaughter | Outfits by Timeline: [Holy Land Dojo] Deep navy-blue Water God Style dogi, knee-length hakama, white haori with the Water God style crest; [Asura Knight] Formal silver-and-blue royal guard uniform with the Royal Shield insignia worn over the dogi, ceremonial rapier; [Water God Master Era] Ceremonial Water God grand robes, delicate hair ornaments}",
-      "comment": "[Characters] Isolde Cluel",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Claire Latreia",
-        "Claire"
-      ],
-      "secondaryKeys": [],
-      "content": "Claire Latreia\nSHORT_DESC: {Matriarch of the Latria Household of the Holy Milis Kingdom; mother of Zenith Greyrat née Latreia and Therese Latreia; maternal grandmother of Rudeus Greyrat and Norn Greyrat; wife of Carlisle Granz Latria who took her surname; commander-adjacent of the Temple Knights' Sword Company via her husband; initially a supporter of the Demon Race Expulsion Faction, later changing sides to the Demon Race Acceptance Faction| [Pre-Story onward] a high-born noblewoman of the Holy Milis Kingdom, raised to expect her children to follow noble expectations; favors her oldest son and daughter for following expectations over Zenith and Therese; disappointed in Zenith (adventurer) and Therese (knight) for independence despite her own position enabling such rebellion; wanted Zenith and Therese to become refined noblewomen and marry into high-ranking families; rarely ever smiles; her eyes are often shown to be a glare; pride and stubbornness prevent her from apologizing even when she knows she is wrong, at the very least she won't make the same mistake twice; in charge of a household supporting the Demon Race Expulsion Faction and strict to her children, but genuinely cares for her family and later fixes things with Rudeus; grumpy, stuck-up, hard-headed, but actually cares deeply about her family and is willing to do anything to help them; high expectations and stubbornness drive her children away; hates her son-in-law Paul Greyrat, seeing him as a lowly adventurer and womanizer; mistreats and insults Aisha and Lillia because Aisha is the product of Paul's affair with Lillia, as a Millis believer she sees them as a taint on Zenith's monogamous marriage; Norn can't stand her because she insulted Paul through Norn, even worse to Aisha whom she refuses to recognize as a granddaughter, seeing only the mistress's daughter; household supported the Demon Race Expulsion Faction, later changed sides to the Acceptance Faction; masterminded Zenith's kidnapping to sell her into sex slavery in an effort to cure the downsides of being a Blessed Child, mistakenly believing Zenith's problems resulted from a curse similar to Elinalise Dragonroad's mana-discharge curse; the misunderstanding was corrected after a slap from a normally comatose Zenith made Rudeus listen to Claire's side of the story; [Late Timeline] reconciles with Rudeus and the Greyrat family, accepts Aisha as legitimate}\nPHYSIQUE: {Build: [Elderly Millis Matriarch: Age 60+] 160cm / 5'3\", 52kg, tall and dignified in her youth, now a rigid, upright, aristocratic noblewoman frame maintaining unyielding posture despite advanced years | Height & Weight: [Elderly] 160cm / 5'3\", 52kg | Breasts: [Elderly Millis Matriarch: Age 60+] Modest, diminished with age | Skin: [All Eras] Pale, aged, lined; porcelain aristocratic skin with pronounced frown lines and dignified age wrinkles | Face: [All Eras] Stern, perpetual frown, sharp eyes often glaring; cold, judgmental expression that softens only when Zenith's safety or family honor is tested | Hair: [All Eras] Gray fading to silver-blonde, elegantly styled in an elaborate, severe high noble coiffure adorned with Millis pearl hairpins | Eyes: [All Eras] Sharp, cold, evaluating, icy blue-violet | Distinguishing Traits: Unwavering aristocratic posture; clutches Millis prayer beads, an ornate gold parasol, or a walking cane carried more for status than support; chillingly formal gaze | Outfits by Timeline: [Lifelong] Refined Milis noblewoman's gown in deep conservative colors, high collar, family crest of Latria embroidered, lace trim; severe high-collared velvet gowns in deep Millis navy and gold, starched lace ruffs, silk shawls, pearl rosaries; [Latreia Manor Crisis: K427] Dark mourning silk day dresses with delicate gold filigree embroidery and embroidered prayer cloaks}",
-      "comment": "[Characters] Claire Latreia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Therese Latreia",
-        "Therese"
-      ],
-      "secondaryKeys": [],
-      "content": "Therese Latreia\nSHORT_DESC: {Fourth daughter of the Latria Household of the Holy Milis Kingdom; Zenith Greyrat's younger sister; Rudeus Greyrat's maternal aunt; Company Commander of the Order of the Temple's Anastasia Keep, protectors of the Blessed Child of Memory; a Milis Temple Knight| [Pre-Story onward] raised in the Latria Household as the fourth daughter, disappointed her mother Claire by choosing a knight's career over refined noblewoman expectations; has a striking resemblance to her sister Zenith; Rudeus confused her with his mother on their first meeting until he noticed her hair and the position of her mole differs from Zenith's; plays the role of a doting aunt towards Rudeus; makes a brief appearance in the first OVA, where Eris Boreas Greyrat saves her and the Blessed Child from a group of kidnappers; [Late Timeline] continues her command of the Anastasia Keep as protector of the Blessed Child of Memory}\nPHYSIQUE: {Build: [Youth: Millis] Slender, athletic girl with the striking Latreia looks; [Millis Temple Knight: Age 25-35] 165cm / 5'5\", 54kg, athletic, graceful temple knight frame, generous bust, striking resemblance to her older sister Zenith | Height & Weight: [Adult] 165cm / 5'5\", 54kg | Breasts: [Youth: Millis] Slender noble maiden, modest | [Temple Knight Captain: Age 25+] Shapely C-cup to D-cup under golden Millis breastplate | Vaginal Depth: [Youth: Age 0-18] Undeveloped noble anatomy | [Temple Knight Captain: Age 25+] 5.3\", Tightness: Snug | Skin: [All Eras] Fair, slightly weathered from knight training, youthful noble complexion | Face: [All Eras] Resembles Zenith strongly - the family resemblance is striking; bright radiant smile that instantly puts others at ease; beauty mole positioned differently from her sister's | Hair: [All Eras] Radiant honey-blonde (Zenith's blonde) styled in a chic, elegant bob closely resembling Zenith's youth | Eyes: [All Eras] Warm, intelligent sky-blue eyes filled with affection and noble resolve | Distinguishing Traits: Striking facial resemblance to Zenith Greyrat; noble swordswoman presence; warm maternal manner toward Rudeus; the family mole, set apart from her sister's placement | Outfits by Timeline: [Youthful Temple Knight] Pristine white Millis holy order tunic, silver chainmail, blue sash; [Temple Knight Captain] Milis Order of the Temple knight's armor in white and silver with the Anastasia Keep heraldry, polished silver-and-blue plate engraved with the holy Millis cross, white silk cape, gold-plated ceremonial longsword, practical sword-fighting underclothes beneath, knight's saber at the hip; [Off-Duty / Family Visits] Elegant pale cream silk noble gowns, lavender riding mantles, leather riding boots}",
-      "comment": "[Characters] Therese Latreia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Hilda Boreas Greyrat",
-        "Hilda"
-      ],
-      "secondaryKeys": [],
-      "content": "Hilda Boreas Greyrat\nSHORT_DESC: {Wife of Philip Boreas Greyrat; mother of Eris Boreas Greyrat and two older sons taken by the Greyrat main house; daughter-in-law of Sauros Boreas Greyrat; a redheaded noblewoman of the Boreas branch household| [Pre-Story] born a noblewoman, married into the Boreas Greyrat branch household at Roa; a redheaded beauty with a large bosom, Rudeus takes immediate notice; the first thing Rudeus notices about her is her huge rack, pleased when Eris takes after her mother in adult years; Rudeus got nothing but cold glares from Hilda during the three years of his stay at the Boreas house, at his tenth birthday party she suddenly warms to him and wants him to be her son-in-law; her cold treatment of Rudeus was bitterness about Paul's son coming to their house and freely going around as if it was his home, even though Hilda can't see her own sons after they were taken away by the Greyrat main house; in the three years Rudeus lived with the Boreas he never saw Hilda smile, she only gave him disdainful frowns whenever she looked his way, her expression finally softens during Rudeus's tenth birthday; hugs Rudeus to her boobs at his tenth birthday party; as soon as she accepts Rudeus, she asks him to marry Eris; during the Mana Catastrophe, she and Philip were teleported to a dangerous place, Ghislaine Dedoldia was teleported there too but only managed to find them after both were killed| [Buena Village era / Roa: K412-K417] settled at the Boreas estate in Roa with Philip and Eris; [Mana Catastrophe: K417] teleported with Philip to a dangerous location, both killed, Ghislaine arrived too late to save them}\nPHYSIQUE: {Build: [Adult Noblewoman: Age 30-35] 168cm / 5'6\", 58kg, slender, noblewoman's figure with prominent bust and alluring curves; voluptuous, regal bearing, proud aristocratic posture passed on to her daughter Eris | Height & Weight: [Adult] 168cm, 58kg | Breasts: [Adult Noblewoman: Age 30-35] Generous E-cup, proud under Boreas velvet gowns | Vaginal Depth: [Adult Noblewoman: Age 30-35] 5.5\", Tightness: Mature | Skin: [All Eras] Fair, noble-pale, smooth and well-kept | Face: [All Eras] Proud aristocratic beauty with high cheekbones; stern, perpetually frowning for three years, softening into a warm smile when she accepts Rudeus at his tenth birthday | Hair: [All Eras] Thick, wavy crimson-auburn red hair (the trait Eris inherits), long and elegantly styled | Eyes: [All Eras] Fierce amber eyes displaying classic Boreas intensity and passion | Distinguishing Traits: Voluptuous figure and red hair passed down to Eris; passionate, temperamental demeanor; deep emotional vulnerability regarding lost children | Outfits by Timeline: [Roa Citadel Era / Boreas Court] Refined Asuran noblewoman's gown in deep red and gold with the Boreas family crest embroidered, lace collar, gemstone jewelry befitting her station; sumptuous crimson and deep purple court gowns cut with plunging necklines, gold lace trimmings, pearl necklaces, feather fans; [Metastasis Disaster / Conflict Zone] Torn noble traveling silks, dirt-stained crimson bodice and mantle before her tragic demise in the Conflict Zone}",
-      "comment": "[Characters] Hilda Boreas Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sylvaril of the Void",
-        "Sylvaril"
-      ],
-      "secondaryKeys": [],
-      "content": "Sylvaril of the Void\nSHORT_DESC: {One of the twelve servants of Perugius; the only servant who is not a summoned spirit, being a member of the Heaven Race; served Perugius for 400 years since he saved her during the Laplace Campaign; resident of the Floating Fortress Chaos Breaker| [Laplace Campaign Era, ~400 years before main story] saved by Perugius during his Laplace Campaign, has served him since; [Pre-Story onward] serves as one of the twelve summoned-spirit-equivalents in the Floating Fortress Chaos Breaker, the only one of the twelve who is a flesh-and-blood Heaven Race member, with the other eleven being summoned spirits; wears a white mask of a bird; has a pair of jet black wings on her back; [Late Timeline] continues to serve Perugius and his descendants after Rudeus's era}\nPHYSIQUE: {Build: [Ancient Familiar Spirit] 170cm / 5'7\", 52kg, tall, slender, regal Heaven Race physique; ethereal, otherworldly humanoid frame that glides effortlessly above the ground; unchanged across 400+ years of service | Height & Weight: [Immortal Constant] 170cm / 5'7\", 52kg | Breasts: [Immortal Constant] Modest B-cup, slender Heaven Race build | Vaginal Depth: [Heaven Race Spirit Form] 5.0\", Tightness: Snug | Skin: [All Eras] Pale, faintly luminous, a Heaven Race trait; pure flawless alabaster visible along the jawline | Face: [All Eras] Never seen - hidden behind a white bird mask, never removed in front of mortals; only the calm jawline shows | Hair: [All Eras] Long hair worn beneath the mask, shimmering silver-white, cascading down her back in pristine locks| Wings: [All Eras] A pair of jet black wings on the back, a Heaven Race trait | Distinguishing Traits: Porcelain avian mask never removed in front of mortals; graceful floating or gliding strides; complete silence in motion; the only one of Perugius's twelve servants who is flesh and blood | Outfits by Timeline: [Lifelong] Flowing white robes with the Floating Fortress Chaos Breaker's insignia, trimmed with jade and embroidered with ancient Dragon race talismans, gold armlets, white bird mask covering the entire face; bare feet or soft sandals, silver slippers for ceremony}",
-      "comment": "[Characters] Sylvaril of the Void",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Hitogami",
-        "Man-God",
-        "Man God",
-        "Human God"
-      ],
-      "secondaryKeys": [],
-      "content": "Hitogami (Man-God)\nSHORT_DESC: {The enigmatic, malicious god residing in the Void World at the metaphysical center of the Six-Faced World; the principal antagonist of the Mushoku Tensei series; can view all possible future timelines and project his astral image into the dreams of individuals to manipulate them with deceptive advice; limited to interacting with a maximum of three 'Apostles' simultaneously; fears his prophesied death at the hands of Dragon God Orsted and the future descendants of Rudeus Greyrat (particularly Lara Greyrat); instigated the deaths of Rudeus's family in the dark Oldeus timeline via the demon rat; ultimately outmaneuvered by Rudeus and Orsted, sealed into inescapable despair in the Void World.}\nPHYSIQUE: {Build: [Creation Era onward] Vaguely humanoid; tall, slender frame manifested only in the dream world and the Void; [Void Astral Avatar] 175cm / 5'9\", featureless, smooth white silhouette radiating a faint astral glow; lacks anatomical flesh, organs, or muscle definition| Gender: [All Eras] Genderless; the humanoid silhouette is a manifested abstraction with no biological sex | [Creation Era onward] genderless | [Void Dimension Astral Avatar] genderless | [All eras, dreamspace] genderless | [Present] genderless; no biological sex whatsoever | Height & Weight: [All Eras] Appears as an average human height, 175cm / 5'9\"; weightless, incorporeal entity | Skin: [All Eras] Pure white, faintly luminous | Face: [All Eras] Blank white surface with a perpetual grin that eludes memory; mosaic impression over features - a blank mosaic of shifting light and shadow that forces the viewer's brain to project an amicable, utterly trustworthy stranger; no fixed nose, mouth, or eyes visible | Hair: [All Eras] None visible; smooth featureless scalp, completely bald with no hair follicles | Eyes: [All Eras] Suggested in form, never directly shown; perceived as closed or smiling slits - featureless glowing white slits, since human brains project a smiling, trusted acquaintance onto him due to the passive psychological trust curse | Distinguishing Traits: Incorporeal white glowing outline; unearthly cheerful demeanor; horrifying reveal of malevolent desperation when thwarted; invisible to Hitogami's own sight-blocking curses in reverse| Attire: [All Eras] Simple loose robe of pale fabric when fully manifested in dreamspace, otherwise a barefoot, luminous white human silhouette against a pitch-black void; faint outline against the void backdrop}",
-      "comment": "[Characters] Hitogami",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Orsted",
-        "Dragon God Orsted"
-      ],
-      "secondaryKeys": [],
-      "content": "Orsted\nSHORT_DESC: {The 100th Dragon God and Rank #2 of the Seven Great Powers; son of the First Dragon God and Lunaria; trapped in a perpetual 200-year time loop starting in Year K330, resetting each time he fails to slay Hitogami; bears three crippling ancient curses: a curse causing every living creature in the world to instinctively despise and fear him, a curse hiding Hitogami from his direct sight, and a curse drastically suppressing his natural mana regeneration rate; possesses mastery over all magic schools to God-rank, all three sword styles to God-rank, and secret Dragon God martial techniques (God Cross, Dragon Gate); allied with Rudeus Greyrat after their fateful battle in K425, establishing the Orsted Corporation to alter history and defeat Hitogami.}\nPHYSIQUE: {Build: [All Eras: Perpetual 200-Year Loop] 195cm / 6'5\", 105kg, tall, imposing, broad-shouldered, martial posture; towering, immense, god-like warrior physique radiating terrifying physical and magical pressure, dense dragon-touki musculature | Height & Weight: [Constant across loops] 195cm / 6'5\", 105kg | Skin: [All Eras] Pale, chiseled; small scales along the neck concealed by the coat collar | Face: [All Eras] Stern, sharp-featured, overpowering resting gaze; intimidating jaw, impassive stare; slit pupils hidden under normal lighting; forked tongue concealed behind closed lips | Hair: [All Eras] Long, wild silvery-white hair, straight, reaching down to his shoulder blades | Eyes: [All Eras] Golden sanpaku eyes, amber-tinted and intense, the whites visible below the iris; slitted vertical pupils in certain light | Distinguishing Traits: Three ancient curses - the hatred aura that makes all living beings instinctively fear and revile him, invisibility to Hitogami, and near-zero mana recovery; overwhelming presence that stops people mid-sentence | Outfits by Timeline: [All Eras] Long white coat with thick fur trim at the collar and cuffs to conceal the neck scales, crafted from impenetrable dragon scales; plain dark tunic and trousers beneath; reinforced combat boots; face-concealing helmet worn among strangers to suppress the curse; carries no visible weapon or armor, generating God Cross techniques with his bare hands}",
-      "comment": "[Characters] Orsted",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Laplace",
-        "Demon God Laplace",
-        "Demon Dragon King",
-        "Demon-Dragon God"
-      ],
-      "secondaryKeys": [],
-      "content": "Laplace\nSHORT_DESC: {Demon Dragon King and creator of the Seven Great Powers ranking system; one of the Five Dragon Generals of the ancient Dragon World; during the Second Great Human-Demon War, his body and soul were split into two distinct halves: the 'Technique God' (Rank #1 of the Seven Great Powers), who forgot his memories and wandered the world cataloging martial techniques, and the 'Demon God Laplace' (Rank #4 of the Seven Great Powers), who inherited his intense hatred of humanity and waged the Laplace War before being sealed by Perugius, Urupen, and Kalman I; originator of the 'Laplace Factor', reincarnating his genetic traits into human newborns across centuries.}\nPHYSIQUE: {Build: [Pre-Story: Ancient Demon Dragon King] Over two meters tall - 210cm / 6'11\", 130kg; powerful, colossal frame, intimidating draconic physique combining draconic scales, demonic horns, and superhuman brawn; fewer scales than a pure Dragon Tribe member; bears fangs, claws, and a set of wings; [Laplace Era split onward] Split into the Demon God form and the Dragon God half | Height & Weight: [Prime God Era] 210cm / 6'11\", 130kg | Skin: [Pre-Story onward] Pale scaly skin with draconic ridges along the brow, proud and regal draconic features; transparent-white pallor to the scales | Hair: [Pre-Story] Silver with patches of green; [Laplace Era split onward] Demon God form solid shimmering emerald-green flowing wildly to mid-back - the original genetic source of the Laplace Factor; Dragon God half retains silver-green | Eyes: [Pre-Story] Two golden eyes, reptilian with slitted pupils radiating immense draconic aura; [Laplace Era split onward] Demon God form gentle and emerald| Wings: [Pre-Story onward] A set of wings on the back, carried by the Demon God form | Distinguishing Traits: Dragon horns curving back from temples; fangs and claws; emerald hair that became the Laplace Factor reappearing across human newborns for centuries; an unmatched magical aura capable of tearing reality | Outfits by Timeline: [Pre-Story / Laplace Era] Bare-chested warrior garb in battle, loose robes when in court, obsidian and gold Dragon King ceremonial vestments and draconic mantle; [War God Form] Heavy draconic armor forged of god-class metals, wreathed in roaring mana aura; [Sealed Era onward] Demon God form bound in seal within the Floating Castle of Perugius; Dragon God half concealed in the world's background}",
-      "comment": "[Characters] Laplace",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Badigadi",
-        "Demon King of Immortality",
-        "Demon King of Wisdom"
-      ],
-      "secondaryKeys": [],
-      "content": "Badigadi\nSHORT_DESC: {Immortal Demon King of the Demon Continent and fiance of Demon Empress Kishirika Kishirisu; a six-armed black giant with a hearty, booming laugh; possesses absolute physical immortality and immense physical brawn; visited Ranoa Magic Academy to test Rudeus's magic, surviving his Stone Cannon and declaring him a true champion; bound by a millennia-old blood debt to Hitogami, who saved his life during the Second Great Human-Demon War; compelled by this obligation to serve as Hitogami's ultimate apostle in the Biheiril Kingdom war, donning the legendary Golden Fighting God Armor; fought a colossal war against Rudeus, the Magic Armor MK-Zero, Orsted, and their allies; ultimately sealed away in a deep subterranean vault guarded by Orsted's barrier magic rather than destroyed, preserving his immortal life.}\nPHYSIQUE: {Build: [All Eras] Incredibly tall, broad-shouldered, six muscular arms (top pair folded across chest, middle pair stretched as if flexing, bottom pair resting on hips); large muscular ogre-ish frame - 220cm / 7'3\", 145kg, a colossal six-armed black demon titan with dense obsidian muscles immune to physical damage; [Fighting God Armor Equipped] Enclosed inside the gleaming three-meter Golden Fighting God Armor, over 300kg | Height & Weight: 220cm / 7'3\", 145kg (over 300kg in Fighting God Armor) | Penile: [All Eras] Large, oversized in proportion to his six-armed frame | [Laplace Era / Pre-Story] large | [Fighting God Armor equipped era] large, confined by golden carapace | [Rudeus Era] large | [Immortal Demon King, all eras] large, unaltered by immortality | Skin: [All Eras] Jet black shading to black-purple, obsidian skin as hard as diamond; turns brown when drunk | Face: [All Eras] Broad, grinning jaw with a hearty, booming laugh; big, bright eyes set in a dark giant's skull-like visage | Hair: [All Eras] Wild black hair standing up like a crown, worn long and loose | Eyes: [All Eras] Big, bright golden eyes gleaming with hearty, boisterous laughter, deep-set in hollow sockets | Distinguishing Traits: Six fully articulated muscular arms; absolute physical immortality and immense physical brawn; boomingly cheerful demeanor; bound by a millennia-old blood debt to Hitogami | Outfits by Timeline: [Laplace Era / Pre-Story] Loose demon garments wrapped across the chest and hips, bare arms on display; minimalist tribal loincloth and gold bangles on all six wrists; Fighting God Armor (golden plate) when outfitted for war; [Rudeus Era] Academy student robes over loose demon garments}",
-      "comment": "[Characters] Badigadi",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Atoferatofe Rybak",
-        "Atofe",
-        "Immortal Demon Lord",
-        "Immortal Demon King"
-      ],
-      "secondaryKeys": [],
-      "content": "Atoferatofe Rybak (Atofe)\nSHORT_DESC: {Immortal Demon Lord and ruler of the Atofe territory in the Necropolis continent; daughter of the previous Demon King and sister of Badigadi; wife of North God Kalman I and mother of Kalman II (Sandor); grandmother of Kalman III (Aleksander); brash, bloodthirsty, and battle-obsessed warrior who forces anyone she defeats into signing eternal blood-oath servitude contracts; possesses absolute physical immortality, capable of regenerating instantaneously from being blown to liquid paste; aided by her long-suffering, hyper-competent demon seneschal Moore.}\nPHYSIQUE: {Build: [All Eras] Average height for a mature woman - 175cm / 5'9\", 65kg, about Rudeus's height; large ogre-ish frame, voluptuous, battle-sculpted demoness physique with a narrow waist, muscular thighs, and a full bust kept under battered armor; athletic and battle-hardened across countless deaths | Height & Weight: [Immortal Constant] 175cm / 5'9\", 65kg | Breasts: [Immortal Demon Lord] Full, firm, E-cup under battered armor | Vaginal Depth: [Immortal Demon Lord] 5.8\", Tightness: Accommodating, regenerates intact due to immortal demon biology | Skin: [All Eras] Blue-black obsidian demon skin, scarred from countless deaths; scars accumulate as faint white marks before fading | Face: [All Eras] Strong, battle-hardened features with sharp demonic fangs visible when laughing uproariously; the horns give a demonic silhouette | Hair: [All Eras] Wild, cascading silver-white mane worn loose and long down her back | Eyes: [All Eras] Burning, ferocious crimson eyes, sharp and filled with bloodlust and battle hunger| Wings: [All Eras] A pair of bat-like black wings on the back| Horn: [All Eras] Sweeping obsidian horns protruding from the forehead | Distinguishing Traits: Immortal body that liquefies and regenerates instantly upon bisection; brash, bloodthirsty, battle-obsessed; forces anyone she defeats into eternal blood-oath servitude contracts; perpetual rival of Kishirika | Outfits by Timeline: [All Eras] Armor covered in scratches with decorative trim long ripped off - spiked demonic black iron plate bikini-armor, armored shoulder pauldrons with skull motifs, battle greaves, crimson cape torn at edges; carries the Immortal Sword in an extravagant sheath across her back}",
-      "comment": "[Characters] Atoferatofe Rybak",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Pax Shirone",
-        "Pax",
-        "King Pax"
-      ],
-      "secondaryKeys": [],
-      "content": "Pax Shirone\nSHORT_DESC: {Former Seventh Prince of the Kingdom of Shirone, later King of Shirone by coup; half-brother of Zanoba Shirone; former magic student of Roxy Migurdia; husband of Benedict Kingdragon; father of Pax Jr; born K402, died K427 by suicide; alliance with Hitogami as his apostle; the seventh prince in line and would've played a huge role in Orsted's plans to defeat Man-God| as horrible as he was as a child, he definitely did not deserve his ultimate fate, even Rudy can't help but pity the guy, this is made worse by the fact that he would have apparently made a decent ruler who'd have set his kingdom up for long term prosperity; [Age 15] spoiled, abrasive, cruel, openly a sexual deviant; a prince and brat is possibly the nicest way to describe his personality; according to Roxy, the young prince Pax is a lot like Rudeus in that he's also a big perverted kid who peeps at her when she's changing and steals her panties; sadistic, holds servants' families hostage; threatened to rape Roxy in front of a captive Rudeus; has a disgusting sexual obsession with Roxy who he wants to turn into his Sex Slave; seems to have a thing for women with blue hair, whose origins are of the magical races, and are Older Than They Look, as seen with Roxy Migurdia (Migurd) as a child and later with his wife, Benedict Kingdragon (unspecified Half-Human Hybrid), as an adult; in the anime, we see him showing off his new Roxy figure (made by Rudeus) to Roxy while licking it, Roxy is understandably disturbed; bound his behavior to a deep-seated inferiority complex rooted in his inability to earn Roxy's praise as a child; Roxy says Pax is a smart and talented boy, but he quickly lost motivation to study due to Roxy constantly comparing him to the even more talented Rudeus; when she was his teacher, Roxy never stopped comparing Pax to her former student Rudeus, who is more gifted and diligent than him, he also thinks Roxy and Rudeus are lovers already, Pax hates Rudeus and when the latter comes to Shirone Kingdom's royal palace looking for Lilia; trapped in a vicious cycle of escalating pranks and rejections, each rejection pushing him to worse behavior; his habit of sexually harassing Roxy made him annoying, he later turns extremely hateable by taking Lilia and Aisha as hostages and planning to also capture Rudeus and force him to watch Pax raping Roxy in front of him; after Roxy leaves the Shirone Kingdom, Pax attempts to use Lilia, who got teleported to his palace, as a hostage to lure Roxy back, later he captures Rudeus too for the same motive, Rudeus points out the obvious flaws in Pax's Evil Plan: Roxy won't come to rescue Rudeus| [Age 17, exile] exiled to the King Dragon Kingdom after kidnapping Lilia and Aisha to lure Roxy into a magic barrier, then being nearly killed by Zanoba and stopped by his other brothers; after Rudeus rescues Lilia from his castle, the king sends Pax to study abroad at the King Dragon Realm; in exile reformed almost completely: diligent, disciplined, lost weight, gained muscle, studied magic seriously; during his exile in the Dragon King Kingdom, Pax lost weight and gained muscle; originally a fat little brat and absolutely despicable, Rudeus said that he looked like a hobbit and a dwarf that was pieced together| [Age 25] returned to Shirone with ten elite King Dragon Kingdom knights including the Death God Randolph Marianne; after his exile, he eventually came back to the Shirone Kingdom and initiated a coup to usurp his father's throne; carried out a coup, killed all royal heirs, seized the throne; faced rebellion in a weakened kingdom; locked himself in his castle, impregnated his wife, and confronted Roxy and Zanoba in a final argument venting years of resentment toward Roxy for never complimenting his progress and always comparing him to Rudeus; confessed he could not carry the burden and leapt from the fifth floor to his death; although he managed to take the throne from his father, the kingdom was weakened by the recent civil war, when he meets Roxy and Rudeus again after years, Pax lashes out at them before he commits suicide by jumping from the fifth floor| One of his future subordinates was destined to parent Demon God Laplace's reincarnation, why Hitogami drove him to ruin; according to Orsted, Pax would've abolished the monarchy of his home kingdom and turned the government system into a Republic, unfortunately, thanks to Man-God's manipulations and Rudeus's existence, it won't happen in the current timeline due to Pax's suicide; Roxy did acknowledge Pax is a fast learner and smart, but having already taught an exceptional student like Rudeus, she wasn't impressed by Pax's progress and never praised his accomplishments; in the original timeline he was supposed to seize the throne of his kingdom and eventually transform it into a republic, this republic would grow in power and eventually become the birthplace of Laplace, however, due to Man-God manipulating Rudy into getting Pax exiled and subsequently driving him to suicide, this republic was never founded, as a result, Orsted no longer knows where Laplace will first appear in 100 years; he's the villain of the Shirone Kingdom arc in Volume 6 where Rudeus must rescue Lilia who is being kept hostage by Pax; Zanoba almost rips off Pax's head and breaks his arm, but Zanoba doesn't look that condemnable for his actions against Pax because the latter is an insufferable Royal Brat\nPHYSIQUE: {Build: [Age 12-16: Prince] Short, round, short-limbed, compared to a hobbit and a dwarf stitched together; chubby, unpleasant boy build; [Age 17: Exile] Leaner, lost weight, gained muscle after being cast out; [Age 20+: King] 168cm / 5'6\", 72kg, slightly stocky then lean, harder and slightly more intimidating; gaunt from stress by the end | Height & Weight: [Adult] 168cm, 72kg | Penile: [Age 15: Prince] Immature, chubby adolescent royal anatomy (4.8\"); filling out slightly into a stressed adult build (5.2\", soft) | [Age 17: Exile] developing, lean | [Age 20+: King] average, intact, consistent with his small-framed physique | [Post-marriage to Benedict Kingdragon] average, intact | [Late Timeline: stressed king] average, diminished by stress and his obsession with Roxy | [Age 27: suicide] diminished | Skin: [All Eras] Pale, sickly, sweaty complexion | Face: [Age 15] Rounder, soft, fleshy cheeks; [Age 17 exile onward] Harder and sharper after exile; [Age 25 king] Gaunt from stress, tragic sorrowful expression before his suicide | Hair: [All Eras] Greasy, thinning light brown hair | Eyes: [All Eras] Bulging, insecure brown eyes filled with desperation and longing for validation | Distinguishing Traits: Severe inferiority complex; obsession with Roxy; spoiled brat who hardened into a tragic, guilt-wracked king | Outfits by Timeline: [Age 15 prince] Fine silken robes in Shirone colors, tight royal silk doublet and gold chains; [Age 17 exile] Rags and traveler's wear; [Age 25 king] Somber purple-and-black Shirone royal vestments, ceremonial royal garb with a sword belt, heavy crown}",
-      "comment": "[Characters] Pax Shirone",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Gal Farion",
-        "Sword God Gal",
-        "Sword God"
-      ],
-      "secondaryKeys": [],
-      "content": "Gal Farion\nSHORT_DESC: {Former Sword God and Rank #6 of the Seven Great Powers until Year K430; master of the Holy Land of Swords; ferocious, battle-hardened master who honed the Longsword of Light to peerless supremacy; trained Eris Boreas Greyrat and Nina Farion, granting Eris the title of Sword King; dethroned in an impromptu challenge by his young disciple Gino Britz, who unleashed an untouchable hypersonic Longsword of Light; humiliated and directionless after losing his title, Gal accepted Hitogami's counsel as an apostle to regain his glory; ambushed Rudeus and his companions in the final Biheiril Kingdom campaign, but was fatally outmaneuvered and slain in a duel against Eris and Ruijerd.}\nPHYSIQUE: {Build: [All Eras] Adult male, athletic, lean with a swordsman's conditioned frame; tall - 185cm / 6'1\", 85kg; shredded, sinewy, explosive frame honed to pure lethal instinct | Height & Weight: 185cm, 85kg | Penile: [All Eras] Average, consistent with his athletic swordsman build | [Peak Sword God: Age 35-50] average, intact, ~5\" | [Dethroned by Gino, Hitogami apostle era] average, intact | [Biheiril, slain by Eris and Ruijerd] severed at death | Skin: [All Eras] Weathered, tanned from training yards; weather-scarred with dueling cuts across the bridge of the nose and cheeks; prominent scar running from below the left eye to below the left ear, second scar at the tip of the right eye | Face: [All Eras] Fierce, likened to a ferocious wolf; prominent left-eye scar and right-eye scar; ferocious predator grin | Hair: [All Eras] Wild, shaggy jet-black hair, cropped short in his youth and tied loosely in a short topknot as Sword God | Eyes: [All Eras] Sharp, predatory hawk-like golden eyes that never blink | Distinguishing Traits: Peerless Longsword of Light stance; lightning-fast draw reflexes; dethroned by his own disciple Gino Britz, then manipulated by Hitogami into becoming an apostle | Outfits by Timeline: [All Eras] Plain training gi / simple white master's gi at the Holy Land of Swords, black hakama, straw sandals; carries the Nodobue (Windpipe), a slender wind-blade sword; carries the Sword of Light (Holy Blade of the Sword God) longsword for formal duels and rank challenges; [Biheiril Hitogami Apostle] Worn dark traveling gi, ragged black cloak, wielding the Holy Blade until slain by Eris and Ruijerd}",
-      "comment": "[Characters] Gal Farion",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Soldat Heckler",
-        "Soldat",
-        "Stepped Leader",
-        "Thunderbolt"
-      ],
-      "secondaryKeys": [],
-      "content": "Soldat Heckler\nSHORT_DESC: {Leader of the premier S-rank clan 'Stepped Leader' operating in the Northern Lands; an expert swordsman holding Advanced ranks in Sword God and Water God styles; initially mocked Rudeus's brooding persona, but upon discovering Rudeus's suicidal despair in a dark alley, dragged him to a tavern and brothel, becoming the gruff, tough-loving older brother figure Rudeus desperately needed; helped Rudeus confront his trauma and stood by him as a stalwart ally in subsequent northern campaigns.}\nPHYSIQUE: {Build: [All Eras] Tall for an average person - 182cm / 6'0\", 84kg, muscular, broad across the shoulders; heavy-set, rugged northern swordsman build, S-rank veteran of the Stepped Leader clan | Height & Weight: 182cm, 84kg | Penile: [All Eras] Average, consistent with his broad-shouldered northern build | [Early career: Stepped Leader leader] average, intact | [Counter Arrow era, mentoring Rudeus] average, intact | [Later Timeline] average, weathered, aging soldier | Skin: [All Eras] Fair, Northern complexion, weather-roughened; scar running across the left cheek, stubbled jaw | Face: [All Eras] Sharp features, hard jaw often set in a frown; weary, sharp, cynical expression that softens when caring for comrades | Hair: [All Eras] Short, messy sandy-blonde hair, medium length in his youth | Eyes: [All Eras] Weary, sharp, cynical dark grey eyes, blue and sharp in his earlier years | Distinguishing Traits: Rough, booming voice; scent of northern ale and pipe leaf; big-brother presence who pulled Rudeus back from the brink of suicide | Outfits by Timeline: [All Eras] Practical adventurer's leather armor over a heavy shirt; sword belt across the chest; travel-worn boots; cloak bearing the Stepped Leader insignia in cold climates; heavy fur-lined leather-and-steel coat, studded armguards, reinforced travel trousers, heavy greatsword on back}",
-      "comment": "[Characters] Soldat Heckler",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Gallus Cleaner",
-        "Gallus",
-        "The Cleaner"
-      ],
-      "secondaryKeys": [],
-      "content": "Gallus Cleaner\nSHORT_DESC: {Epithet The Cleaner; master of the North God Style dojo in the Holy Land of Swords; dwarf craftsman and swordsmith; peer of Gal Farion (Sword God) and Reida Reia (Water God) in the trinity of Holy Land style-heads| Taciturn, gruff, terse dwarf demeanor; speaks little, strikes decisively; stubbornly loyal to his dojo and craft; cynical about human swordsmen but grudgingly respectful of true talent; forbids sloppiness in his smithy as strictly as in his training yard| Indifferent to the Orsted-Hitogami war but tolerant of cross-style visitors; observes Gal Farion's death K430 without intervening| [Pre-Story] walked south from the Dwarf Territory to pursue the sword; earned the North God Style headship after defeating his predecessor in the Holy Land of Swords; built the dojo's smithy with his own hands| [Rudeus Era] hosts cross-style training for promising swordsmen including Eris and Rudeus's brief North God Style tutelage; forges the training weapons used in his dojo; inspects every blade that enters his grounds| [Post-War] continues running the North God Style dojo and smithy}\nPHYSIQUE: {Build: [All Eras] Small, broad, compact dwarf frame - ~130-140cm; barrel-chested; short thick limbs; master of the North God Style dojo, dwarf craftsman and swordsmith who built his dojo's smithy with his own hands | Height & Weight: [All Eras] ~130-140cm, dwarf proportions (the updated block's 175cm smuggler frame contradicted his SHORT_DESC and was restored) | Penile: [All Eras] Average for dwarf proportions | [Smuggler/Cleaner era] average for dwarf proportions, ~130-140cm frame | [North God Dojo Master era] average for dwarf proportions | [All eras] dwarf-proportioned | Skin: [All Eras] Ruddy, weathered from forge heat and training yards | Face: [All Eras] Craggy, deeply lined, broad flat nose; small dark eyes under a heavy brow | Hair: [All Eras] Iron-gray, long, worn loose under a forge hood| Beard: [All Eras] Full, long, braided at the tip; iron-gray matching the hair | Distinguishing Traits: Taciturn, gruff, terse dwarf demeanor - speaks little, strikes decisively; inspects every blade that enters his grounds; stubbornly loyal to his dojo and craft | Outfits by Timeline: [All Eras] Heavy leather forge apron over training gi; thick gloves on the hip; short gladius-length sword at the belt; iron-shod boots}",
-      "comment": "[Characters] Gallus Cleaner",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "The Old Man",
-        "Future Rudeus Greyrat",
-        "Old Man",
-        "Future Rudeus"
-      ],
-      "secondaryKeys": [],
-      "content": "The Old Man (Future Rudeus Greyrat / Oldeus)\nSHORT_DESC: {Alternate future version of Rudeus Greyrat originating from a catastrophic timeline where Hitogami manipulated a demon rat into infecting a pregnant Roxy with Magic Stone Disease, causing her agonizing death; following this, Sylphiette abandoned him and was executed in Asura, while Eris sacrificed herself protecting him; descended into decades of ruthless torture, dark magic research, and vengeance against Hitogami; engineered temporal summoning magic at the cost of his own life to jump back to Year K425, delivering his diary to 17-year-old Rudeus; his sacrifice enabled Rudeus to trap the demon rat, ally with Orsted, and protect his family.}\nPHYSIQUE: {Build: [Future Era: Age 17-63] 175cm / 5'9\", 52kg; originally tall, muscular and scarred from decades of battle, by the end emaciated, skeletal, a harrowing scarred frame missing several internal organs from dark magic backlash and temporal magic abuse | Height & Weight: 175cm / 5'9\", 52kg (severely wasted away from organ failure and temporal magic backlash) | Penile: [Future Era: Age 17] average, intact (young alternate-timeline Rudeus) | [Age 25-40s: decades of battle] above average, intact, cavorted with prostitutes and ranked them in his diary | [Age 63: emaciated, pre-jump] above average, intact, diminished by organ failure | [Post-temporal jump to Age 17] restored to young-adult, intact | Skin: [All Eras] Weathered, scarred across the entire body from decades of combat; gaunt, deathly pale, covered in burns and deep claw scars; missing teeth | Face: [All Eras] Rugged, aged beyond his years, hardened expression carrying the despair of his dead timeline; gaunt, sunken cheeks | Hair: [All Eras] White, long, unkempt - disheveled, brittle, filthy silver-white hair falling past his shoulders in tangled mats | Eyes: [All Eras] Heterochromatic demon eyes, both functional; bloodshot and hollow from terminal regret, hatred, and sorrow, burning with a weary gaze | Distinguishing Traits: Scorched flesh; coughing up blood; missing internal organs; aura of absolute despair; the future diary strapped to his chest | Outfits by Timeline: [Future Era] Tattered traveling cloak over worn armor - tattered black traveling rags reeking of dried blood and scorch marks; the future diary strapped to his chest; burnt leather boots, barefoot in his final hours; wields an improvised dark staff before collapsing in front of young Rudeus}",
-      "comment": "[Characters] The Old Man (Future Rudeus Greyrat)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Central Continent",
-        "Central Continents"
-      ],
-      "secondaryKeys": [],
-      "content": "Central Continent\nDESC: The main landmass of the Human World, split into three zones by the Red Dragon Mountain Range running roughly east-west through the middle of the continent. [Pre-Metastasis] A patchwork of competing human kingdoms with shifting borders; the west (Asura) is rich and fertile, the north (Ranoa, Biheiril, Basherant) is colder and more martial, the south is contested by the Dragon King Kingdom, Shirone, Sanakia, Kikka, and the disputed Strife Zone. [Post-Metastasis] Borders shift as displaced populations and the metastasized monsters strain each kingdom; [Post-War] Human coalition against Demon God Laplace's revival re-centers Central Continent politics on Asura and Ranoa.\nMAP: Kingdom of Asura, Kingdom of Ranoa, Dragon King Kingdom, Shirone Kingdom, Basherant Kingdom, Sanakia Kingdom, Kikka Kingdom, Biheiril Kingdom, Strife Zone, Fittoa Region, Ars, Sharia, Citadel of Roa, Buena Village, Holy Land of Swords, Red Dragon Mountain Range, Red Dragon's Upper Jaw (pass), Red Dragon's Lower Jaw (pass)\nNEARBY_LOC: Demon Continent (east, across the Ringus Sea), Milis Continent (south, across the sea), Begaritt Continent (south-east, across the sea), Heaven Continent (high above), Strife Zone (south-eastern edge facing the Ringus Sea)\nPOSSIBLE_CAST: All major Human-race characters across the storyline at various points; [Rudeus Era] Rudeus Greyrat, Paul Greyrat, Zenith Greyrat, Eris Boreas Greyrat, Sylphiette, Roxy Migurdia, Ariel Anemoi Asura, Luke Notos Greyrat, Zanoba Shirone, Cliff Grimoire, Nanahoshi Shizuka, Elinalise Dragonroad",
-      "comment": "[Locations] Central Continent",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Demon Continent"
-      ],
-      "secondaryKeys": [],
-      "content": "Demon Continent\nDESC: A large, poor continent east of the Central Continent, separated from it by the Ringus Sea. Inhabited largely by the Demon (Magic) Race and roamed by strong monsters; ruled at various points by Demon Lords including the Demon Emperor Kishirika Kishirisu and her successor Badigadi. Homeland of the Superd Tribe (Ruijerd Superdia's people) and the Migurd Tribe (Roxy Migurdia's people). [Laplace Era] Loosely unified under Demon Emperor Kishirika; [Pre-War] Fragmented into Demon-Lord fiefdoms after the first Human-Demon War; [Rudeus Era] Still fragmented between Kishirika/Badigadi's domain, Bagurahagura's Kurasuma fief, and other minor Demon-Lord territories; [Post-War] A new kingdom founded by Ruijerd Superdia, the Kingdom of Neris, unifies the Demon-race population under Demon self-rule.\nMAP: Rikarisu City (former capital of Demon Emperor Kishirika, currently ruled by Demon Lord Badigadi), Kurasuma Town (ruled by Bagurahagura), Old Kishirisu Castle, Migurd Village (Roxy's birthplace), Wind Port (southern port connecting to the Milis Continent), Zanto Port / Saint Port (port city connecting to the Milis Continent), Kingdom of Neris (post-war)\nNEARBY_LOC: Ringus Sea (west, separating it from the Central Continent), Strife Zone (across the sea on the south-eastern tip of the Central Continent), Milis Continent (south, across the sea), Begaritt Continent (south-east, across the sea), East Continent (far east, across the sea)\nPOSSIBLE_CAST: [Laplace Era] Kishirika Kishirisu (Demon Emperor)| [Rudeus Era] Ruijerd Superdia, Kishirika Kishirisu (revived), Badigadi, Bagurahagura, Atoferatofe Rybak, Roxy Migurdia (origin)| [Post-Metastasis] Rudeus Greyrat, Eris Greyrat, Nanahoshi Shizuka (summoned here)",
-      "comment": "[Locations] Demon Continent",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Milis Continent",
-        "Millis Continent",
-        "Continent of Milis"
-      ],
-      "secondaryKeys": [],
-      "content": "Milis Continent\nDESC: A large continent south of the Central Continent, separated from it by sea. The southern portion is the heartland of the Holy Milis Kingdom and the Milis Religion; the northern portion is the Great Forest homeland of the Beast Race, separated from the south by the Blue Dragon Mountain Range; smaller Dwarf and Hobbit territories sit alongside the Great Forest. The Milis Continent hosts the headquarters of the Adventurer's Guild in the capital Millishion. [Laplace Era] Frontier of the human-beast conflicts; [Pre-War] Largely pacified under the Holy Milis Kingdom; [Rudeus Era] Stable under Holy Milis rule, the chief allied landmass for human resistance against the second Demon-God revival.\nMAP: Saint Kingdom of Milis (south), Great Forest (north), Blue Dragon Mountain Range, Holy Sword Highway, Hobbit Territory, Dwarf Territory, Dragon King Mountain Range\nNEARBY_LOC: Central Continent (north, across the sea), Demon Continent (east, across the sea), Begaritt Continent (south-east, across the sea), Westport and Eastport twin ports (across the sea to Asura)\nPOSSIBLE_CAST: [Pre-Story] Paul Greyrat, Zenith Greyrat (then La-age), Lize Hantarka| [Rudeus Era] Rudeus Greyrat (born in Millishion), Eris Greyrat, Ruijerd Superdia (visited), Roxy Migurdia, Eris's departure point after the Demon Continent journey",
-      "comment": "[Locations] Milis Continent",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Begaritt Continent",
-        "Begarit Continent",
-        "Begaritt"
-      ],
-      "secondaryKeys": [],
-      "content": "Begaritt Continent\nDESC: A continent dominated by a vast number of labyrinths and abnormal magical phenomena. Monster strength rivals the Demon Continent. A mix of races live here, the majority being Adventurers or former Adventurers. [Pre-Story] Site of labyrinth-diving adventurer culture; the Rosberg family maintains a floating island mansion above a great labyrinth; [Age 19-20: Begaritt] Site of Rudeus Greyrat's rescue mission for Zenith Greyrat, who was held in a labyrinth by the Rosberg family, and the location of Rudeus's first encounter with the Dragon God Orsted; the Floating Island housing the Rosberg mansion sits above the labyrinth.\nMAP: Rapan / Labyrinth Town Rapanear (built inside an enormous Behemoth rib cage), Floating Island (Rosberg mansion and labyrinth), numerous other labyrinths, Dragon King Port and West Port (port cities on the coast)\nNEARBY_LOC: Across the sea from the Central Continent (north), Demon Continent (north), Milis Continent (north-west); reached by sea voyage south-east from Milis\nPOSSIBLE_CAST: [Age 19-20: Begaritt] Rudeus Greyrat, Paul Greyrat, Roxy Migurdia, Elinalise Dragonroad, Talhand, Zenith Greyrat (rescued here), Orsted, Lutger Rosberg, Lacus, Litorial",
-      "comment": "[Locations] Begaritt Continent",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Heaven Continent"
-      ],
-      "secondaryKeys": [],
-      "content": "Heaven Continent\nDESC: A floating continent suspended high above the rest of the world. [Pre-Story] Sparsely inhabited; legendary in human record as the home of the Heavenly Race and the birth-place of the Sword God style lineage that descends to the Holy Land of Swords on the Central Continent; [Rudeus Era] Largely peripheral to surface-world politics, but its existence is widely known.\nMAP: Floating landmass high above the Six-Faced World\nNEARBY_LOC: Central Continent (far below), Demon Continent (below to the east), Milis Continent (below to the south), East Continent (below to the far east)\nPOSSIBLE_CAST: legendary Heavenly Race figures, [Rudeus Era] not a primary residence of main cast",
-      "comment": "[Locations] Heaven Continent",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "East Continent / East Country",
-        "East Continent",
-        "East Country"
-      ],
-      "secondaryKeys": [],
-      "content": "East Continent / East Country\nDESC: A large continent far to the east of the Demon Continent, beyond the eastern sea. Homeland of the Biyakuya Kingdom and the Karon Kingdom. Long isolated from the Central Continent's politics, it preserves older human martial traditions, notably the lineage of the Long Sword style that influences later Central Continent swordsmanship . [Laplace Era] Source of east-bound swordsmanship tradition; [Rudeus Era] Largely off-stage during the main story, but remains the ancestral home of the Biyakuya royal line connected to Nanahoshi Shizuka's summoning research .\nMAP: Kingdom of Biyakuya, Kingdom of Karon, eastern sword-style dojos\nNEARBY_LOC: Demon Continent (west, across the sea), Heaven Continent (above), Central Continent (far west, across the Demon Continent and the Ringus Sea)\nPOSSIBLE_CAST: Biyakuya royal family, Karon royal family, [Rudeus Era] Nanahoshi Shizuka (research connection)",
-      "comment": "[Locations] East Continent / East Country",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kingdom of Asura",
-        "Asura",
-        "Asura Kingdom",
-        "Asuran"
-      ],
-      "secondaryKeys": [],
-      "content": "Kingdom of Asura\nDESC: The largest and most powerful nation on the Central Continent, occupying the western portion of the continent west of the Red Dragon Mountain Range. Abundant with natural resources; a land of fertility with no starvation and unbarren soil. Ruled from the capital Ars by the Asura royal family; vassal branches of the Greyrat family (Boreas, Notos, Durdard) govern its major territories. [Pre-War] Ruled by past Asura Kings and Queens; the Greyrat family's four branches (Notos, Boreas, Eris, Durdard) hold the four great territories; [Pre-Ariel era] Faction politics between the royalist Darius Silvanius faction and the Ariel succession faction; [Post-War] Ariel Anemoi Asura ascends the throne and rules as Queen, with Luke Notos Greyrat as her King consort.\nMAP: Ars (capital), Fittoa Region (Boreas-governed north-east), Citadel of Roa, Buena Village, Westport (western port city), various noble estates (Notos, Boreas, Durdard mansions)\nNEARBY_LOC: Central Continent (parent landmass), Milis Continent (south, across the sea via Westport/Eastport trade route), Fittoa Region (north-eastern territory), Red Dragon Mountain Range (east, separating Asura from the rest of the Central Continent), Ringus Sea (south-east, via the Strife Zone)\nPOSSIBLE_CAST: [Pre-War] past Asura Kings and Queens, Darius Silvanius, Ariel Anemoi Asura (princess), Luke Notos Greyrat, Sauros Boreas Greyrat, Philip Boreas Greyrat, Hilda Boreas Greyrat, Paul Greyrat, Perugius Dola (allied)| [Post-War] Ariel Anemoi Asura (Queen), Luke Notos Greyrat (King consort), Rudeus Greyrat (allied), Lara Greyrat, Pertena",
-      "comment": "[Locations] Kingdom of Asura",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kingdom of Ranoa",
-        "Ranoa",
-        "Ranoa Kingdom"
-      ],
-      "secondaryKeys": [],
-      "content": "Kingdom of Ranoa\nDESC: A kingdom in the northern portion of the Central Continent, north of the Red Dragon Mountain Range. Cold climate with harsh winters; the largest country of the northern region. [Pre-War] Independent northern power, hostile to the southern alliances; [Rudeus Era] Rudeus Greyrat relocates here after the Demon Continent journey and settles permanently in the capital Sharia to attend the Magic University; [Post-War] A leading member of the anti-Laplace human coalition, hosting the Ranoa Magic Academy as the world's premier research center.\nMAP: Sharia (capital), Ranoa Magic Academy (in Sharia's Student District), Holy Land of Swords (north of Sharia)\nNEARBY_LOC: Holy Land of Swords (north), Biheiril Kingdom (east/north-east, also in the northern zone), Basherant Kingdom (north-east, cold frontier), Red Dragon Mountain Range (south), Strife Zone (south-east, toward the Demon Continent border via the Ringus Sea), Dragon King Kingdom (south, across the mountains)\nPOSSIBLE_CAST: [Post-Metastasis onward] Rudeus Greyrat, Sylphiette, Roxy Migurdia, Eris Greyrat, Zanoba Shirone, Cliff Grimoire, Nanahoshi Shizuka, Elinalise Dragonroad, Julie, Linia Dedoldia, Pursena Adoldia, Georg Lieblichder (Principal of the Magic Academy)",
-      "comment": "[Locations] Kingdom of Ranoa",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Dragon King Kingdom",
-        "King Dragon Kingdom",
-        "Kingdom of the Dragon King"
-      ],
-      "secondaryKeys": [],
-      "content": "Dragon King Kingdom\nDESC: A large kingdom in the southern portion of the Central Continent, south of the Red Dragon Mountain Range and west of the Strife Zone. [Pre-War] One of the larger southern powers, allied with the smaller Shirone Kingdom to the east; [Rudeus Era] A southern counterweight to the Strife Zone's chaos; [Post-War] Member of the human coalition against Laplace's revival. Notable for martial-tournament tradition and patronage of swordsmanship schools .\nMAP: Royal capital , martial-tournament grounds, vassal territory of the allied Shirone Kingdom\nNEARBY_LOC: Shirone Kingdom (east, allied), Sanakia Kingdom (south-west), Kikka Kingdom (south), Strife Zone (east), Asura Kingdom (north-west, across the mountains), Red Dragon Mountain Range (north), Red Dragon's Lower Jaw pass (north)\nPOSSIBLE_CAST: Dragon King royal family, [Visiting] Rudeus Greyrat",
-      "comment": "[Locations] Dragon King Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Shirone Kingdom",
-        "Shirone"
-      ],
-      "secondaryKeys": [],
-      "content": "Shirone Kingdom\nDESC: A small kingdom east of the Asura Kingdom on the southern Central Continent, an ally of the larger Dragon King Kingdom and a vassal of the larger southern power structure. Border region of the Strife Zone. The homeland of Zanoba Shirone, a prince of the Shirone royal family. [Age 13-16: Holy Land of Swords] Site of the attempted coup by Pax Shirone, who ultimately commits suicide under the influence of Hitogami's apostles; the kingdom is destabilized but survives.\nMAP: Royal palace, capital city, martial-arts training grounds, Shirone royal family estates\nNEARBY_LOC: Strife Zone (east/south-east, border), Dragon King Kingdom (west, larger ally), Asura Kingdom (north-west), Kikka Kingdom (south-west), Red Dragon's Lower Jaw pass (north), Ringus Sea (south-east toward Demon Continent)\nPOSSIBLE_CAST: Zanoba Shirone (prince), Pax Shirone (prince), King of Shirone, Julie (sold from a Shirone-allied region), [Visiting] Rudeus Greyrat",
-      "comment": "[Locations] Shirone Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Basherant Dukedom",
-        "Basherant",
-        "Basherant Kingdom"
-      ],
-      "secondaryKeys": [],
-      "content": "Basherant Dukedom (Basherant)\nDESC: A cold-climate dukedom in the north-eastern frontier of the Central Continent, north of the Red Dragon Mountain Range in the same northern zone as Ranoa and Biheiril. Canonical reference (Vol. 7 \"Depressed Magician\" arc): the Basherant Dukedom governs the Northern Frontier; its second-largest city Rozenburg sits about two months' travel from the northern border of Asura, and over half of Basherant's revenue comes from exporting magic tools from Rozenburg back to Asura, while Asuran silver coinage is honoured at Basherant's inns. Snowy, cold climate with heavy winter snow. The brief lists this as \"Basherant Kingdom\" but the canonical translation names it the Basherant Dukedom. [Pre-War] A martial northern dukedom; the home country of Lize Hantarka before she became a Saint of the Milis Church; [Post-Metastasis onward] The destination of Rudeus Greyrat's \"Depressed Magician\" wander after Eris Greyrat's departure, where he stays in Rozenburg for roughly a month; [Post-War] Northern Coalition member against Laplace.\nMAP: Rozenburg (second-largest city, magic-tool export hub), Basherant ducal capital , cold-frontier fortresses, Northern Frontier zone, firewood-tree plantations around Rozenburg\nNEARBY_LOC: Kingdom of Ranoa (west), Biheiril Kingdom (south-east), Holy Land of Swords (south-west, within the same northern zone), Kingdom of Asura (south-west, about two months' travel from the northern border across the Red Dragon Mountain Range), Red Dragon Mountain Range (south), Heaven Continent (far above)\nPOSSIBLE_CAST: [Pre-Milis Church era] Lize Hantarka (origin), Basherant ducal family, [Age 10-13: Demon Continent] Rudeus Greyrat (resident in Rozenburg for roughly a month), Suzanne, Suzanne's adventurer-party contacts, Rozenburg innkeepers and merchants",
-      "comment": "[Locations] Basherant Dukedom (Basherant)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sanakia Kingdom",
-        "Sanakia"
-      ],
-      "secondaryKeys": [],
-      "content": "Sanakia Kingdom\nDESC: A kingdom in the southern portion of the Central Continent, south of the Red Dragon Mountain Range, neighbouring the Dragon King Kingdom and Kikka Kingdom. [Pre-War] A southern belligerent in the perpetual Strife Zone border wars; [Rudeus Era] A minor southern power caught in the Strife Zone's instability; [Post-War] Coalition member.\nMAP: Royal capital , southern frontier fortresses\nNEARBY_LOC: Kikka Kingdom (east), Dragon King Kingdom (north-east), Strife Zone (east/south-east), Asura Kingdom (north-west, across the mountains), Red Dragon Mountain Range (north)\nPOSSIBLE_CAST: Sanakia royal family, southern noble houses, [Visiting] Rudeus Greyrat",
-      "comment": "[Locations] Sanakia Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kikka Kingdom",
-        "Kikka"
-      ],
-      "secondaryKeys": [],
-      "content": "Kikka Kingdom\nDESC: A kingdom in the southern portion of the Central Continent, south of the Red Dragon Mountain Range, neighbouring the Sanakia Kingdom and the Shirone Kingdom. [Pre-War] A southern belligerent in the Strife Zone border conflicts; [Rudeus Era] A minor southern power sharing the perpetual instability of the Strife Zone; [Post-War] Coalition member.\nMAP: Royal capital , southern frontier fortresses\nNEARBY_LOC: Sanakia Kingdom (west), Shirone Kingdom (east), Dragon King Kingdom (north), Strife Zone (south-east), Red Dragon Mountain Range (north), Red Dragon's Lower Jaw pass (north)\nPOSSIBLE_CAST: Kikka royal family, southern noble houses, [Visiting] Rudeus Greyrat",
-      "comment": "[Locations] Kikka Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Biheiril Kingdom",
-        "Biheiril"
-      ],
-      "secondaryKeys": [],
-      "content": "Biheiril Kingdom\nDESC: A kingdom in the northern portion of the Central Continent, north of the Red Dragon Mountain Range in the same cold-climate northern zone as Ranoa and Basherant. [Rudeus Era] Site of Rudeus Greyrat's encounter with the Death God Randolph Marianne during a rescue arc; [Post-War] Northern Coalition member against Laplace's revival.\nMAP: Royal capital , northern frontier towns, the site of the Death God encounter\nNEARBY_LOC: Ranoa Kingdom (west), Basherant Kingdom (north-east), Holy Land of Swords (south-west), Red Dragon Mountain Range (south), Heaven Continent (far above)\nPOSSIBLE_CAST: [Rudeus Era] Rudeus Greyrat (visitor during the Death God encounter), Randolph Marianne (Death God / Shinigami), Biheiril royal family",
-      "comment": "[Locations] Biheiril Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kingdom of Neris",
-        "Neris"
-      ],
-      "secondaryKeys": [],
-      "content": "Kingdom of Neris\nDESC: A new kingdom on the Demon Continent, founded and ruled by Ruijerd Superdia after the second Human-Demon War. [Post-War] Carved out of the previously fragmented Demon-Lord territories, the Kingdom of Neris unifies the Demon (Magic) Race population of the Demon Continent under Demon self-rule for the first time since the era of Demon Emperor Kishirika Kishirisu; Ruijerd serves as its founding King, the Superd Tribe's reputation rehabilitated as the kingdom's martial backbone.\nMAP: New royal capital , Superd Tribe settlements, former Demon-Lord territories integrated into the new kingdom\nNEARBY_LOC: Demon Continent (parent landmass), Rikarisu City (former Kishirika capital, now within Neris territory or adjacent), Kurasuma Town, Migurd Village, Wind Port and Zanto Port (Demon Continent ports), Ringus Sea (west, toward the Central Continent)\nPOSSIBLE_CAST: [Post-War] Ruijerd Superdia (founding King), Superd Tribe members, Demon-race citizens of the former Demon-Lord fiefdoms, [Visiting] Rudeus Greyrat, Eris Greyrat, Roxy Migurdia (diplomatic contact)",
-      "comment": "[Locations] Kingdom of Neris",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Saint Kingdom of Milis",
-        "Holy Milis Kingdom",
-        "Milis Kingdom",
-        "Kingdom of Milis",
-        "Holy Milis"
-      ],
-      "secondaryKeys": [],
-      "content": "Saint Kingdom of Milis (Holy Milis Kingdom)\nDESC: The world's second-ranked country and the seat of the Milis Religion, the world's largest religious faction. Located on the southern portion of the Milis Continent, separated from the Great Forest to the north by the Blue Dragon Mountain Range and connected to it by the Holy Sword Highway. The capital is Millishion. A theocratic kingdom where the Adventurer's Guild also maintains its headquarters. [Pre-Story] Birthplace of Paul Greyrat and Zenith Greyrat's marriage; Rudeus Greyrat is reborn into this world in Millishion (born in Milis, then raised in the Asuran Fittoa Region); [Rudeus Era] Stable theocratic anchor of the human side; [Post-War] A leading member of the anti-Laplace human coalition.\nMAP: Millishion (capital), Milis Church Headquarters, Adventurer's Guild Headquarters, Holy Sword Highway (north road across the Blue Dragon Mountain Range), Blue Dragon Mountain Range (northern border)\nNEARBY_LOC: Great Forest (north, across the Blue Dragon Mountain Range via the Holy Sword Highway), Begaritt Continent (south-east, across the sea), Central Continent (north, across the sea), Westport and Eastport twin ports (across the sea to Asura)\nPOSSIBLE_CAST: [Pre-Story] Paul Greyrat, Zenith Greyrat (then La-age), Lize Hantarka (Saint)| Rudeus Greyrat (born here), Eris Greyrat, Ruijerd Superdia (visited after the Demon Continent journey), Eris's departure point after the Demon Continent journey",
-      "comment": "[Locations] Saint Kingdom of Milis (Holy Milis Kingdom)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kingdom of Biyakuya",
-        "Biyakuya"
-      ],
-      "secondaryKeys": [],
-      "content": "Kingdom of Biyakuya\nDESC: A kingdom on the East Continent (East Country), the eastern ancestral homeland of the Biyakuya royal line. [Laplace Era] Source of the east-bound lineage that influences later Central Continent and Holy Land of Swords swordsmanship, notably the Long Sword style tradition; [Rudeus Era] Largely off-stage during the main storyline but maintains distant diplomatic and trade contact with the Central Continent via maritime routes around the Demon Continent; associated with Nanahoshi Shizuka's summoning research .\nMAP: Royal capital , sword-style dojo lineage, eastern ports\nNEARBY_LOC: Karon Kingdom (neighbour on the East Continent), East Continent (parent landmass), Demon Continent (west, across the sea), Heaven Continent (above)\nPOSSIBLE_CAST: Biyakuya royal family, [Rudeus Era] Nanahoshi Shizuka (research connection)",
-      "comment": "[Locations] Kingdom of Biyakuya",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Karon Kingdom",
-        "Karon"
-      ],
-      "secondaryKeys": [],
-      "content": "Karon Kingdom\nDESC: A kingdom on the East Continent (East Country), neighbouring the Biyakuya Kingdom. [Laplace Era] A martial eastern kingdom preserving older human swordsmanship traditions alongside the Biyakuya lineage; [Rudeus Era] Largely off-stage during the main storyline, sharing the East Continent's isolation from Central Continent politics.\nMAP: Royal capital , eastern ports, sword-style dojos\nNEARBY_LOC: Kingdom of Biyakuya (neighbour on the East Continent), East Continent (parent landmass), Demon Continent (west, across the sea), Heaven Continent (above)\nPOSSIBLE_CAST: Karon royal family",
-      "comment": "[Locations] Karon Kingdom",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ars"
-      ],
-      "secondaryKeys": [],
-      "content": "Ars\nDESC: The capital city of the Asura Kingdom and the largest, most populous city in the world. A white royal palace (the Silver Palace) stands at its center as the seat of Asura royal power. Home to common folk, nobility, and royalty alike. [Pre-Ariel era] Site of the Asura succession crisis and the political struggle between the Darius Silvanius faction and the Ariel faction; [Ariel era] Setting of multiple political arcs involving Ariel's rise to the throne; [Post-War] Seat of Queen Ariel's court and the centre of post-war human coalition politics.\nMAP: Silver Palace (royal palace), noble estates, merchant districts, central plaza\nNEARBY_LOC: Fittoa Region (north-east, Boreas-governed territory), Kingdom of Asura (parent state), Westport (western port city, trade route to Milis)\nPOSSIBLE_CAST: [Pre-Ariel era] past Asura Kings, Darius Silvanius| [Ariel era] Ariel Anemoi Asura (Queen), Luke Notos Greyrat (King consort), Pertena, Rudeus Greyrat (visitor)",
-      "comment": "[Locations] Ars",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sharia",
-        "Magic City Sharia"
-      ],
-      "secondaryKeys": [],
-      "content": "Sharia\nDESC: The Magic City of Sharia, capital of the Kingdom of Ranoa and the largest city of the northern Central Continent. [Post-Metastasis onward] Rudeus Greyrat relocates here with his family to attend the Magic University and remains here for the rest of his life. Houses the Magician Guild Headquarters, the Ranoa Magic Academy, the Neris Magical Implements Workshop, and a Commerce District with five Slave Markets.\nMAP: Ranoa Magic Academy (Student District, east), Magician Guild Headquarters, Neris Magical Implements Workshop, Commerce District (5 Slave Markets), Greyrat House (residential outskirts)\nNEARBY_LOC: Kingdom of Ranoa (parent state), Holy Land of Swords (north of the city), Red Dragon Mountain Range (south), Biheiril Kingdom (east), Basherant Kingdom (north-east)\nPOSSIBLE_CAST: [Post-Metastasis onward] Rudeus Greyrat, Sylphiette, Roxy Migurdia, Eris Greyrat, Lucy Greyrat, Lara Greyrat, Ars Greyrat, Zanoba Shirone, Cliff Grimoire, Nanahoshi Shizuka, Elinalise Dragonroad, Julie, Linia Dedoldia, Pursena Adoldia, Sara, Georg Lieblichder (Principal)",
-      "comment": "[Locations] Sharia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Millishion",
-        "Milishion"
-      ],
-      "secondaryKeys": [],
-      "content": "Millishion\nDESC: The capital city of the Saint Kingdom of Milis and the seat of the Milis Religion's central authority. [Pre-Story] Site of Paul Greyrat and Zenith Greyrat's wedding; the city where Rudeus Greyrat is reborn into this world (his birth city, before the family relocates to the Asuran Fittoa Region). The arrival port for Rudeus, Eris, and Ruijerd's party after the Demon Continent journey; the departure point where Eris Greyrat leaves Rudeus after the Orsted encounter. [Post-War] Seat of the Holy Milis court and a leading centre of anti-Laplace coalition coordination.\nMAP: Milis Church Headquarters (cathedral), Adventurer's Guild Headquarters, royal palace of the Holy Milis Kingdom, port district, holy sites of the Milis Religion\nNEARBY_LOC: Saint Kingdom of Milis (parent state), Holy Sword Highway (north road across the Blue Dragon Mountain Range to the Great Forest), Blue Dragon Mountain Range (north), Eastport (port across the sea to Asura's Westport)\nPOSSIBLE_CAST: [Pre-Story] Paul Greyrat, Zenith Greyrat (then La-age), Rudeus Greyrat (born here)| Rudeus Greyrat, Eris Greyrat (departure point), Ruijerd Superdia (visited), Roxy Migurdia (visited)| [Post-War] Holy Milis theocratic court, Lize Hantarka (Saint)",
-      "comment": "[Locations] Millishion",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Citadel of Roa",
-        "Roa"
-      ],
-      "secondaryKeys": [],
-      "content": "Citadel of Roa\nDESC: The capital city of the Fittoa Region, seat of the Boreas Greyrat branch. [Pre-Metastasis] A thriving citadel town; the Boreas mansion sits at its center, and a Teleport Labyrinth lies dormant beneath the city streets. [Post-Metastasis] Almost entirely depopulated by the Metastasis Event, with random citizens teleported across the Six-Faced World; the Teleport Labyrinth below the city activates.\nMAP: Boreas Family Mansion, Teleport Labyrinth (underground), town market district, Boreas guards' barracks\nNEARBY_LOC: Buena Village (within Fittoa, short distance to the north), Fittoa Region (parent region), Kingdom of Asura (parent state)\nPOSSIBLE_CAST: [Pre-Metastasis] Sauros Boreas Greyrat, Eris Boreas Greyrat, Hilda Boreas Greyrat, Philip Boreas Greyrat, Ghislaine Dedoldia, Rudeus Greyrat| [Post-Metastasis] empty| [Age 19-20: Begaritt] Rudeus Greyrat, Paul Greyrat, Elinalise Dragonroad, Talhand (entering the activated Teleport Labyrinth)",
-      "comment": "[Locations] Citadel of Roa",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Buena Village",
-        "Buena"
-      ],
-      "secondaryKeys": [],
-      "content": "Buena Village\nDESC: A small farming village in the Fittoa Region, the birthplace and childhood home of Rudeus Greyrat. [Pre-Metastasis] A quiet rural settlement where Paul Greyrat and Zenith settled after their adventurer careers; Lillia served as the family maid; Roxy Migurdia arrives as Rudeus's tutor. [Post-Metastasis] Vacated; later rebuilt and reoccupied once Rudeus returns the family home.\nMAP: Greyrat Family House (rebuilt post-incident)\nNEARBY_LOC: Citadel of Roa (short distance to the south), Fittoa Region (parent region), Kingdom of Asura (parent state)\nPOSSIBLE_CAST: [Pre-Metastasis] Paul Greyrat, Zenith Greyrat, Rudeus Greyrat, Lillia, Norn Greyrat, Aisha Greyrat, Roxy Migurdia (Rudeus's tutor)| [Post-Metastasis] Rudeus Greyrat (rebuilt home), Sylphiette, Roxy Migurdia, Eris Greyrat, Lillia, Aisha Greyrat, Norn Greyrat",
-      "comment": "[Locations] Buena Village",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Rikarisu City",
-        "Rikarisu"
-      ],
-      "secondaryKeys": [],
-      "content": "Rikarisu City\nDESC: The former capital of Demon Emperor Kishirika Kishirisu on the Demon Continent. [Laplace Era] Seat of Kishirika's court during the unified Demon Continent; [Pre-War] Imperial capital of the Demon Continent; [Rudeus Era] Ruled by Demon Lord Badigadi after Kishirika's revival; Rudeus Greyrat, Eris Greyrat, and Ruijerd Superdia pass through on their journey across the Demon Continent. Kishirika Kishirisu is revived here after her long dormancy.\nMAP: Old Kishirisu Castle (Kishirika's former palace), Demon-Lord Badigadi's court, Demon-race market district\nNEARBY_LOC: Demon Continent (parent landmass), Kurasuma Town (Bagurahagura's neighbouring domain), Wind Port and Zanto Port (southern Demon Continent ports), Old Kishirisu Castle\nPOSSIBLE_CAST: [Laplace Era] Kishirika Kishirisu (Demon Emperor)| [Rudeus Era] Badigadi (Demon Lord ruler), Kishirika Kishirisu (revived), [Visiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Rikarisu City",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Kurasuma Town",
-        "Kurasuma"
-      ],
-      "secondaryKeys": [],
-      "content": "Kurasuma Town\nDESC: A town on the Demon Continent ruled by the Demon Lord Bagurahagura, neighbouring the territory of Demon Lord Badigadi. [Rudeus Era] A Demon-race trading outpost on the Demon Continent; Rudeus Greyrat, Eris Greyrat, and Ruijerd Superdia pass through or near it on their journey across the Demon Continent .\nMAP: Bagurahagura's residence, Demon-race market, adventurer inns\nNEARBY_LOC: Demon Continent (parent landmass), Rikarisu City (neighbouring Demon-Lord Badigadi domain), Migurd Village (Demon Continent, Roxy's birthplace), Wind Port and Zanto Port (southern Demon Continent ports)\nPOSSIBLE_CAST: [Rudeus Era] Bagurahagura (Demon Lord ruler), Demon-race residents, [Visiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Kurasuma Town",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Rapan / Labyrinth Town Rapanear",
-        "Rapan",
-        "Labyrinth Town Rapanear",
-        "Rapanear",
-        "Labyrinth Town"
-      ],
-      "secondaryKeys": [],
-      "content": "Rapan / Labyrinth Town Rapanear\nDESC: The main settlement on the Begaritt Continent, a labyrinth-diving town built inside the enormous rib cage of a long-dead Behemoth-class monster. [Pre-Story] A hub for adventurer parties diving the Begaritt labyrinths; [Age 19-20: Begaritt] The forward base for Rudeus Greyrat's rescue mission to recover Zenith Greyrat from the Rosberg family's labyrinth; the Floating Island and Rosberg mansion hover directly above the labyrinth.\nMAP: Adventurer's Guild branch, inns and equipment shops (built into the Behemoth rib cage), the entrance to the great labyrinth below, the Floating Island hovering above\nNEARBY_LOC: Begaritt Continent (parent landmass), Floating Island / Rosberg Mansion (above), Begaritt's coast and ports (Dragon King Port and West Port) for sea access to the Milis Continent\nPOSSIBLE_CAST: [Age 19-20: Begaritt] Rudeus Greyrat, Paul Greyrat, Roxy Migurdia, Elinalise Dragonroad, Talhand, Zenith Greyrat (rescued from the labyrinth below), Lutger Rosberg, Lacus, Litorial",
-      "comment": "[Locations] Rapan / Labyrinth Town Rapanear",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Migurd Village"
-      ],
-      "secondaryKeys": [],
-      "content": "Migurd Village\nDESC: The village of the Migurd Tribe on the Demon Continent, the birthplace of Roxy Migurdia. [Pre-Story] A small Migurd-race settlement; Roxy leaves at a young age due to her inability to use the Migurd's telepathic race-memory, eventually studying water magic and becoming a tutor; [Rudeus Era] A quiet Migurd-race home village; Rudeus, Eris, and Ruijerd visit it during the Demon Continent journey.\nMAP: Migurd-race dwellings, communal memory-rite grounds, village chief's residence\nNEARBY_LOC: Demon Continent (parent landmass), Kurasuma Town (neighbouring Demon-Lord domain), Rikarisu City (Badigadi's domain), Wind Port and Zanto Port (southern ports)\nPOSSIBLE_CAST: [Pre-Story] Roxy Migurdia (origin, left as a youth), Roxy's parents, the Migurd village chief| [Rudeus Era] [Visiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia, Roxy Migurdia (returning)",
-      "comment": "[Locations] Migurd Village",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Wind Port"
-      ],
-      "secondaryKeys": [],
-      "content": "Wind Port\nDESC: A port city on the southern coast of the Demon Continent, one of the two main Demon-side ports connecting to the Milis Continent across the sea (the other being Zanto Port / Saint Port). [Rudeus Era] The maritime gateway from the Demon Continent to the Milis Continent; Rudeus Greyrat, Eris Greyrat, and Ruijerd Superdia pass through here on the leg of their journey toward the Milis Continent.\nMAP: Port district, Demon-race trading posts, customs and sea-route offices\nNEARBY_LOC: Demon Continent (parent landmass), Zanto Port / Saint Port (the other Demon Continent port, near the southern coast), Milis Continent (across the sea to the south), Rikarisu City (inland on the Demon Continent)\nPOSSIBLE_CAST: [Rudeus Era] [Transiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia, Demon-race dock workers and traders",
-      "comment": "[Locations] Wind Port",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Zanto Port / Saint Port",
-        "Zanto Port",
-        "Saint Port"
-      ],
-      "secondaryKeys": [],
-      "content": "Zanto Port / Saint Port\nDESC: A port city on the southern coast of the Demon Continent, the second of the two main Demon-side ports connecting to the Milis Continent (alongside Wind Port). [Rudeus Era] An alternative maritime gateway from the Demon Continent to the Milis Continent; trade and travel hub.\nMAP: Port district, Demon-race trading posts, customs and sea-route offices\nNEARBY_LOC: Demon Continent (parent landmass), Wind Port (the other Demon Continent port, also on the southern coast), Milis Continent (across the sea to the south), Rikarisu City (inland on the Demon Continent)\nPOSSIBLE_CAST: [Rudeus Era] [Transiting] Demon-race dock workers and traders, [Visiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Zanto Port / Saint Port",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Westport",
-        "West Port"
-      ],
-      "secondaryKeys": [],
-      "content": "Westport\nDESC: A port city on the western coast of the Asura Kingdom on the Central Continent. Together with its twin city Eastport on the Milis side, it forms the main maritime trade route connecting the Central Continent and the Milis Continent. [Pre-War onward] A noted slave-trading hub; slaves of many races pass through its markets en route to noble buyers across Asura and beyond.\nMAP: Port district, slave markets, merchant quarter\nNEARBY_LOC: Kingdom of Asura (parent state), Ars (inland, capital of Asura), Eastport (twin city across the sea on the Milis side), Milis Continent (across the sea to the south)\nPOSSIBLE_CAST: slave traders, Asura merchants, Asura nobility visitors, [Post-Metastasis] Rudeus Greyrat (transit point on journeys)",
-      "comment": "[Locations] Westport",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Eastport",
-        "East Port"
-      ],
-      "secondaryKeys": [],
-      "content": "Eastport\nDESC: The twin port city of Westport, located on the Milis Continent side of the Westport to Eastport sea route. [Pre-War onward] Together with Westport, the main maritime trade artery between the Central Continent (Asura) and the Milis Continent; the Milis-side counterpart to Asura's Westport.\nMAP: Port district, merchant quarter, Milis-side customs\nNEARBY_LOC: Saint Kingdom of Milis (parent state), Millishion (inland, capital of the Holy Milis Kingdom), Westport (twin city across the sea on the Asura side), Central Continent (across the sea to the north)\nPOSSIBLE_CAST: Milis merchants, Adventurer's Guild coast-route personnel, [Post-Metastasis] Rudeus Greyrat (transit point on journeys)",
-      "comment": "[Locations] Eastport",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Fittoa Region",
-        "Fittoa"
-      ],
-      "secondaryKeys": [],
-      "content": "Fittoa Region\nDESC: A ducal region in the north-east of the Asura Kingdom, ruled by Sauros Boreas Greyrat of the Boreas branch of the Greyrat family. Local specialty products: Asuran barley (wheat) and Flowers of Batirusu. [Pre-Metastasis] A fertile and stable frontier territory under Boreas governance. [Post-Metastasis] Devastated by the Metastasis Event (Teleport Incident); inhabitants scattered across the world and the region left in ruin. [Age 19-20: Begaritt onward] Site of the Fedoa Region Search Group's operations and the activated Teleport Labyrinth beneath Roa.\nMAP: Citadel of Roa (capital), Buena Village, Boreas family mansion estates\nNEARBY_LOC: Kingdom of Asura (parent state), Red Dragon Mountain Range (south, separating Asura from the rest of the Central Continent), Citadel of Roa (capital within the region), Buena Village (within the region), Milis Continent (across the sea to the south, via Westport/Eastport)\nPOSSIBLE_CAST: [Pre-Metastasis] Sauros Boreas Greyrat, Philip Boreas Greyrat, Hilda Boreas Greyrat, Eris Boreas Greyrat, Paul Greyrat, Zenith Greyrat, Rudeus Greyrat, Lillia, Norn Greyrat, Aisha Greyrat, Ghislaine Dedoldia| [Post-Metastasis] empty| [Age 19-20: Begaritt] Rudeus Greyrat, Paul Greyrat, Elinalise Dragonroad, Talhand (the Fedoa Region Search Group)",
-      "comment": "[Locations] Fittoa Region",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Strife Zone",
-        "Strief Region",
-        "Strief"
-      ],
-      "secondaryKeys": [],
-      "content": "Strife Zone (Strief Region)\nDESC: A region in the south-eastern area of the Central Continent where large countries constantly skirmish for control; political instability is the norm. Originally a large nation ruled by a tyrant until a glory-seeking hero slew the tyrant and collapsed the state into perpetual conflict. [Rudeus Era] Currently ruled by Demon Lord Badigadi; located on the south-eastern border of the Central Continent facing the Demon Continent across the Ringus Sea. NOTE: The meeting between Rudeus, Eris, and Ruijerd Superdia occurs on the Demon Continent itself, after the Metastasis Event teleports them there; the Strife Zone is the south-eastern Central Continent border region adjacent to the Ringus Sea and the Demon Continent's coast, kept distinct from the Demon Continent proper.\nMAP: Fragmented disputed territories, border fortresses, contested frontier villages\nNEARBY_LOC: Shirone Kingdom (west/north-west, border), Dragon King Kingdom (north-west), Kikka Kingdom (west), Sanakia Kingdom (north-west), Red Dragon's Lower Jaw pass (north), Ringus Sea (south-east, separating the Strife Zone from the Demon Continent), Demon Continent (across the sea to the east)\nPOSSIBLE_CAST: [Rudeus Era] Badigadi (Demon Lord ruler), roaming mercenary bands, displaced villagers",
-      "comment": "[Locations] Strife Zone (Strief Region)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Great Forest",
-        "Great Forests"
-      ],
-      "secondaryKeys": [],
-      "content": "Great Forest\nDESC: A vast forest on the northern portion of the Milis Continent, homeland of the Beast Race. Splitting it from the southern Holy Milis Kingdom is the Blue Dragon Mountain Range, traversed by the Holy Sword Highway. A three-month rainy season occurs each year. [Pre-Story] Home to various beast tribes, including the Dedoldia (Linia's tribe) and the Adoldia (Pursena's tribe). [Rudeus Era] Rudeus Greyrat, Eris Greyrat, and Ruijerd Superdia visit the Great Forest during the Demon Continent journey arc to retrieve medicine for the Holy Beast Gyes's ritual. NOTE: The Great Forest sits on the Milis Continent, kept distinct from the Demon Continent across the sea.\nMAP: Dedoldia tribe village, Adoldia tribe village, sacred ritual grounds, the Holy Beast's grove\nNEARBY_LOC: Saint Kingdom of Milis (south, across the Blue Dragon Mountain Range via the Holy Sword Highway), Blue Dragon Mountain Range (south), Milis Continent (parent landmass), Hobbit Territory and Dwarf Territory (nearby on the Milis Continent)\nPOSSIBLE_CAST: [Pre-Academy] Pursena Adoldia, Linia Dedoldia, Gyes Dedoldia, Minitona, Tona| [Visiting] Rudeus Greyrat, Ruijerd Superdia, Eris Greyrat, Roxy Migurdia",
-      "comment": "[Locations] Great Forest",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Red Dragon Mountain Range",
-        "Red Dragon Mountains"
-      ],
-      "secondaryKeys": [],
-      "content": "Red Dragon Mountain Range\nDESC: A great mountain range running roughly east-west through the middle of the Central Continent, splitting it into three zones: the western fertile zone (Asura Kingdom), the northern cold zone (Ranoa, Biheiril, Basherant, Holy Land of Swords), and the southern contested zone (Dragon King Kingdom, Shirone, Sanakia, Kikka, Strife Zone). Two named passes traverse the range: the Red Dragon's Upper Jaw (the northern pass) and the Red Dragon's Lower Jaw (the southern pass).\nMAP: Red Dragon's Upper Jaw (northern pass), Red Dragon's Lower Jaw (southern pass), mountain peaks and dwarf-mining tunnels\nNEARBY_LOC: Kingdom of Asura (west), Kingdom of Ranoa (north), Biheiril Kingdom (north), Basherant Kingdom (north-east), Dragon King Kingdom (south), Shirone Kingdom (south), Sanakia Kingdom (south), Kikka Kingdom (south), Strife Zone (south-east)\nPOSSIBLE_CAST: Mountain-dwelling monsters, [Rudeus Era] [Transiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia, various traveller parties",
-      "comment": "[Locations] Red Dragon Mountain Range",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Red Dragon's Upper Jaw",
-        "Upper Jaw"
-      ],
-      "secondaryKeys": [],
-      "content": "Red Dragon's Upper Jaw\nDESC: The northern pass through the Red Dragon Mountain Range, connecting the western Central Continent (Asura) with the northern Central Continent (Ranoa, Biheiril, Basherant). [Rudeus Era] A major travel route for parties crossing between the western and northern zones of the Central Continent; the dominant of the two named passes.\nMAP: Mountain pass road, border checkpoints\nNEARBY_LOC: Red Dragon Mountain Range (parent range), Kingdom of Ranoa (north side), Kingdom of Asura (south-west side), Biheiril Kingdom (north-east side), Holy Land of Swords (north)\nPOSSIBLE_CAST: [Rudeus Era] Border guards of the northern kingdoms, [Transiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Red Dragon's Upper Jaw",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Red Dragon's Lower Jaw",
-        "Lower Jaw"
-      ],
-      "secondaryKeys": [],
-      "content": "Red Dragon's Lower Jaw\nDESC: The southern pass through the Red Dragon Mountain Range, connecting the western Central Continent (Asura) with the southern Central Continent (Dragon King Kingdom, Shirone, Sanakia, Kikka, Strife Zone). [Rudeus Era] A major travel route for parties crossing between the western and southern zones of the Central Continent.\nMAP: Mountain pass road, border checkpoints\nNEARBY_LOC: Red Dragon Mountain Range (parent range), Kingdom of Asura (north-west side), Dragon King Kingdom (south side), Shirone Kingdom (south-east side), Sanakia Kingdom (south), Kikka Kingdom (south), Strife Zone (south-east)\nPOSSIBLE_CAST: [Rudeus Era] Border guards of the southern kingdoms, southern merchant caravans, [Transiting] Rudeus Greyrat",
-      "comment": "[Locations] Red Dragon's Lower Jaw",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Blue Dragon Mountain Range"
-      ],
-      "secondaryKeys": [],
-      "content": "Blue Dragon Mountain Range\nDESC: A mountain range on the Milis Continent separating the northern Great Forest (homeland of the Beast Race) from the southern Holy Milis Kingdom. Traversed by the Holy Sword Highway, the chief north-south road connecting Millishion to the Great Forest. [Pre-Story onward] A natural barrier protecting the southern Milis heartland from the Great Forest's monster population and beast-tribe border tensions.\nMAP: Holy Sword Highway (the main pass road), mountain peaks, watch-towers\nNEARBY_LOC: Saint Kingdom of Milis (south), Great Forest (north), Milis Continent (parent landmass), Hobbit Territory and Dwarf Territory (nearby on the Milis Continent)\nPOSSIBLE_CAST: [Pre-Story onward] Milis Church patrols along the Holy Sword Highway, Adventurer's Guild escorts, [Transiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Blue Dragon Mountain Range",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Dragon King Mountain Range"
-      ],
-      "secondaryKeys": [],
-      "content": "Dragon King Mountain Range\nDESC: A mountain range visible on the world map, labelled in association with the Milis Continent arc . [Pre-Story onward] Part of the mountain systems of the Milis Continent; geographically related to the Blue Dragon Mountain Range and the Holy Sword Highway corridor.\nMAP: Mountain peaks, mountain-pass routes\nNEARBY_LOC: Milis Continent (parent landmass), Blue Dragon Mountain Range (nearby on the Milis Continent), Great Forest (nearby), Saint Kingdom of Milis (nearby)\nPOSSIBLE_CAST: [Rudeus Era] Mountain-dwelling monsters, occasional adventurer parties",
-      "comment": "[Locations] Dragon King Mountain Range",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Holy Sword Highway"
-      ],
-      "secondaryKeys": [],
-      "content": "Holy Sword Highway\nDESC: The chief north-south road on the Milis Continent, connecting the capital Millishion in the south to the Great Forest in the north across the Blue Dragon Mountain Range. [Pre-Story onward] A major pilgrimage and trade route of the Milis Religion; patrolled by the Milis Church and the Adventurer's Guild.\nMAP: Paved road, waystation inns, Milis Church way-shrines\nNEARBY_LOC: Millishion (south terminus), Great Forest (north terminus), Blue Dragon Mountain Range (the range it traverses), Saint Kingdom of Milis (parent state)\nPOSSIBLE_CAST: [Pre-Story onward] Milis Church pilgrims, Adventurer's Guild escorts, [Transiting] Rudeus Greyrat, Eris Greyrat, Ruijerd Superdia",
-      "comment": "[Locations] Holy Sword Highway",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Holy Land of Swords"
-      ],
-      "secondaryKeys": [],
-      "content": "Holy Land of Swords\nDESC: A holy region of swordsmen north of the city of Sharia in the northern Central Continent. The seat of the Sword God style and the home of the reigning Sword God, Gal Farion. [Pre-Story onward] A pilgrimage destination for sword-style practitioners; the Sword God style's lineage traces back through the East Continent and Heaven Continent traditions . [Rudeus Era] Site of the swordsmanship tournament arc in which Rudeus Greyrat, Eris Greyrat, and Ghislaine Dedoldia participate; Eris's training destination.\nMAP: Sword God dojo, tournament grounds, swordsmen's lodgings, the Sword God's residence\nNEARBY_LOC: Kingdom of Ranoa (parent state, immediately south), Sharia (immediately south of the city), Basherant Kingdom (north-east), Biheiril Kingdom (south-east), Red Dragon Mountain Range (south), Red Dragon's Upper Jaw pass (south)\nPOSSIBLE_CAST: [Pre-Story onward] Gal Farion (Sword God), sword-style practitioners, [Rudeus Era] [Visiting] Rudeus Greyrat, Eris Greyrat, Ghislaine Dedoldia",
-      "comment": "[Locations] Holy Land of Swords",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ringus Sea"
-      ],
-      "secondaryKeys": [],
-      "content": "Ringus Sea\nDESC: The sea separating the Demon Continent (to the east) from the Central Continent (to the west), with the Strife Zone on the Central Continent side facing the Demon Continent's coast. [Pre-Story onward] The chief maritime barrier between the human world and the Demon Continent; a major route of human-Demon conflict across history.\nMAP: Open sea, the Demon-side ports (Wind Port, Zanto Port / Saint Port), the Central-Continent-side ports of the Strife Zone\nNEARBY_LOC: Demon Continent (east coast), Central Continent (west coast, south-eastern edge via the Strife Zone), Strife Zone (the south-eastern Central Continent coastal region), Milis Continent (south, connected to the same sea system)\nPOSSIBLE_CAST: [Pre-Story onward] Demon-race sailors, human-coastal guards, the Strife Zone's mercenary fleets",
-      "comment": "[Locations] Ringus Sea",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Floating Fortress",
-        "Chaos Breaker"
-      ],
-      "secondaryKeys": [],
-      "content": "Floating Fortress (Chaos Breaker)\nDESC: The mobile sky-castle Chaos Breaker, residence of Perugius Dola, the Armored Dragon King. [Pre-Story] Perugius is one of the Seven Great Heroes who sealed Demon God Laplace roughly 400 years ago; he resides in the floating fortress awaiting the Demon God's revival, attended by his eleven summoned spirits. [Rudeus Era] Rudeus Greyrat, Nanahoshi Shizuka, and their party travel here for an excursion during the Academy period; Rudeus later forms an alliance with Perugius against Hitogami.\nMAP: Throne room, living quarters for Perugius's eleven summoned spirits, Dragon Gate teleportation circle\nNEARBY_LOC: Hovers above Asura Kingdom territory; mobile; reachable by the Dragon Gate teleportation circle from allied locations\nPOSSIBLE_CAST: [Pre-Story onward] Perugius Dola (resident), his eleven summoned spirits (Almanfi of the Bright, Yuruzu of Atonement, Sukeakoto of Time, Clearnight of Thunder, Dotbath of Destruction, Karowante of Insight, Trophimus of the Wave, Harkenmail of Life, Gall of Earthquake, Furiousful of Fury, Paramount of Darkness)| [Visiting] Rudeus Greyrat, Nanahoshi Shizuka, Sylphiette, Roxy Migurdia, Eris Greyrat, Zanoba Shirone, Cliff Grimoire",
-      "comment": "[Locations] Floating Fortress (Chaos Breaker)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Floating Island / Rosberg Mansion",
-        "Floating Island",
-        "Rosberg Mansion",
-        "Rosberg"
-      ],
-      "secondaryKeys": [],
-      "content": "Floating Island / Rosberg Mansion\nDESC: A floating island hovering above the great labyrinth of the Begaritt Continent, on which sits the Rosberg family mansion. [Age 19-20: Begaritt] The base of the Rosberg family's operations and the site of Zenith Greyrat's captivity during Rudeus's rescue mission; the great labyrinth below the island holds the imprisoned Zenith and the Manatite Hydra guardian. [Post-Rescue] The Rosberg family legacy continues from the island; Rudeus's first encounter with the Dragon God Orsted occurs in the labyrinth below.\nMAP: Rosberg family mansion, the great labyrinth below (containing the Manatite Hydra guardian and Zenith's crystal prison), floating island platform\nNEARBY_LOC: Rapan / Labyrinth Town Rapanear (Begaritt Continent town below), Begaritt Continent (parent landmass), the great labyrinth below\nPOSSIBLE_CAST: [Age 19-20: Begaritt] Lutger Rosberg, Lacus, Litorial, Zenith Greyrat (captive, rescued), [Visiting] Rudeus Greyrat, Paul Greyrat, Roxy Migurdia, Elinalise Dragonroad, Talhand, Orsted (encountered in the labyrinth below)",
-      "comment": "[Locations] Floating Island / Rosberg Mansion",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ranoa Magic Academy",
-        "Magic University",
-        "Ranoa University of Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Ranoa Magic Academy (Magic University)\nDESC: The Ranoa University of Magic, also called the Magic University. The premier institution of magical learning in the human world. Located in the Student District at the eastern part of the city of Sharia. [Post-Metastasis onward] Rudeus Greyrat, Zanoba Shirone, Cliff Grimoire, and Nanahoshi Shizuka all study here; Sylphiette works here as both student and Fate-class instructor. [Post-War] A leading research centre for anti-Laplace measures and the summoning-research programme of Nanahoshi Shizuka.\nMAP: Classrooms, dormitories, research facilities, library, training grounds\nNEARBY_LOC: Sharia (parent city), Kingdom of Ranoa (parent state), Holy Land of Swords (north of Sharia)\nPOSSIBLE_CAST: [Post-Metastasis] Rudeus Greyrat, Zanoba Shirone, Cliff Grimoire, Nanahoshi Shizuka, Elinalise Dragonroad, Linia Dedoldia, Pursena Adoldia, Julie, Sylphiette (instructor), Sara, Georg Lieblichder (Principal)",
-      "comment": "[Locations] Ranoa Magic Academy (Magic University)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Human",
-        "Human race",
-        "Humans",
-        "Humanity"
-      ],
-      "secondaryKeys": [],
-      "content": "Human\nDESC: The most dominant race in the Six-Faced World. [Creation Era / Post-War of the Gods: ~20,000 to 10,000 years ago] originated in the Human World, the only world spared by the First Dragon God's wrath during the War of the Gods. Physically the weakest of the sentient races but the most numerous and innovative; responsible for most modern civilization, guilds, and politics. [Pre-Laplace Era onward] the majority race of the Central Continent, Begaritt Continent, and Millis Continent. [Rudeus Era] widespread across all human continents and the dominant political force; holds the Asura, Ranoa, and King Dragon Kingdom thrones.\nLIFESPAN: Roughly 70 to 100 years; standard Earth-like human lifespan. Birthdays celebrated only every 5 years (Rudeus holds the human-record year K407 onward).\nHABITAT: [Post-War of the Gods onward] Central Continent (Asura Kingdom, Ranoa Kingdom, King Dragon Kingdom), Begaritt Continent, Millis Continent. Absent from the Demon Continent interior.\nTRAITS: High intelligence and adaptability; weak physical capabilities. Only 1 in 20 humans is born with usable mana; of those, only 1 in 20 can master magic; of those, only 1 in 100 reach Advanced rank in any single element. Speak the Human God Tongue (regional accents differ; Begaritt humans speak the Fighting God Tongue as their regional dialect). Most innovations in the world are the work of humans; most developed civilization of all races. The Race-Fixing religion effect makes humans the baseline against which demi-humans are compared.\nNOTABLE_MEMBERS: Paul Greyrat; Rudeus Greyrat; Sylphiette Greyrat (Half-Elf, raised among humans); Eris Boreas Greyrat; Zenith Greyrat (née Latreia); Lillia Greyrat; Norn Greyrat; Cliff Grimoire (Human/Halfling); Ariel Anemoi Asura; Luke Notos Greyrat; Sauros Boreas Greyrat; Pilemon Notos Greyrat; Nanahoshi Shizuka (otherworlder human from Earth).",
-      "comment": "[World Lore] Human",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Elf",
-        "Elves",
-        "Elven"
-      ],
-      "secondaryKeys": [],
-      "content": "Elf\nDESC: Long-eared humanoid race currently settled in the southern Great Forest of the Millis Continent. [Chaotic Period: after the fall of the five worlds] emerged as a likely separate species; sometimes misclassified under the Demon Race umbrella. [Pre-Human-Demon War era] the High Elves, ancestors of modern Elves, created the first magic spells by entreating forest spirits to control wind and earth; the entire modern magical tradition descends from High Elven ritual entreating. [Rudeus Era] settled population in the southern Great Forest; Elinalise Dragonroad is the prominent recurring Elf in the narrative, found sealed inside a magic crystal in a labyrinth roughly 200 years prior to the main story and active through 6,500+ years of life.\nLIFESPAN: Hundreds of years; remain in their prime for centuries. Elinalise exceeds 6,500 years of effective life via the magic-crystal stasis loop.\nHABITAT: [Chaotic Period onward] southern Great Forest, Millis Continent.\nTRAITS: Long pointed ears granting exceptional hearing; slim build, female Elves typically flat-chested; low fertility; very strong sense of direction capable of navigating difficult terrain like the Great Forest and deserts. Earliest magicians; first magic spells were of High Elven origin. Half-Elves (Sylphiette) retain the pointed ears and longevity but with hair-color variability from mana shock.\nNOTABLE_MEMBERS: Elinalise Dragonroad; Sylphiette Greyrat (Half-Elf on her mother's side); the unnamed Elven villagers of the southern Great Forest.",
-      "comment": "[World Lore] Elf",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Dwarf",
-        "Dwarves",
-        "Dwarven"
-      ],
-      "secondaryKeys": [],
-      "content": "Dwarf\nDESC: Short, stout race of craftsmen and blacksmiths. [Chaotic Period: after the fall of the five worlds] likely emerged as a separate species; sometimes misclassified under the Demon Race umbrella. [Rudeus Era] settled at the foot of the Blue Dragon Mountain Range in the Millis Continent; produce the world's finest magic-tool components and weapon-smithing. Galus Cleaner, a dwarf craftsman, is an antagonist-then-ally of Rudeus during the early Fittoa-Region arc.\nLIFESPAN: Several hundred years minimum; longer than humans.\nHABITAT: [Chaotic Period onward] foot of the Blue Dragon Mountain Range, Millis Continent.\nTRAITS: Short stature; males stout and muscular, females resemble young human females; high alcohol tolerance and love of drink; naturally dexterous hands with high affinity for Earth and Fire magic (applied to crafting); abhor Water and Wind magic; skilled weapon-smiths and artisans. Children raised communally as siblings and named at age seven after a personal trait or preference; the finest craftsman can ascend as the Ore God.\nNOTABLE_MEMBERS: Talhand (Fangs of the Black Wolf party member); Juliette (Rudeus's doll-making apprentice in Sharia); Gallus Cleaner (early antagonist, smuggler).",
-      "comment": "[World Lore] Dwarf",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Halfling",
-        "Hobbit",
-        "Hobbits"
-      ],
-      "secondaryKeys": [],
-      "content": "Halfling (Hobbit)\nDESC: Small humanoid race, also called Hobbit. [Chaotic Period: after the fall of the five worlds] likely emerged as a separate species; sometimes misclassified as a Demon Race. [Rudeus Era] settled in the northwestern Great Forest of the Millis Continent, with secondary populations in Zant Port and Millishion. Some Halflings exhibit hairy feet in the Tolkien tradition; the clan's resemblance to human children is sometimes used to deceive other races. Cliff Grimoire is a Human/Halfling hybrid whose short stature and dexterous hands reflect his Halfling heritage; his son Clive Grimoire is a Human/Elf/Halfling trihybrid.\nLIFESPAN: Unclear; presumed longer than humans but not confirmed on the wiki.\nHABITAT: [Chaotic Period onward] northwestern Great Forest, Millis Continent; secondary populations in Zant Port and Millishion.\nTRAITS: Small stature resembling human children; allegedly use this resemblance to deceive other races. Some have hairy feet in the Tolkien tradition. Hybrid Halflings exist, including Cliff Grimoire (Human/Halfling hybrid) and his son Clive Grimoire (Human/Elf/Halfling hybrid).\nNOTABLE_MEMBERS: Cliff Grimoire (Human/Halfling hybrid); Clive Grimoire (Human/Elf/Halfling trihybrid); unnamed Halfling villagers of the northwestern Great Forest.",
-      "comment": "[World Lore] Halfling (Hobbit)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Half-breed",
-        "Halfbreed",
-        "mixed race"
-      ],
-      "secondaryKeys": [],
-      "content": "Half-breed\nDESC: Umbrella term for crossbreeds of distinct races, producing offspring that combine the traits of both parents. [Creation Era onward] crossbreeds are biologically possible between any pairing of the human-adjacent races (Human, Elf, Dwarf, Halfling, Beast Race, Demon Race sub-clans). [Rudeus Era onward] the most prominent Half-breeds in the narrative are: Rudeus Greyrat's own children by his three wives (Lucy, Lara, Ars, Sieghardt, Christina, Lily), each carrying fragments of the Laplace Factor inherited from Rudeus; Cliff Grimoire and Clive Grimoire (Human/Halfling and Human/Elf/Halfling); Luicelia Superdia (Superd half-breed); and the numerous Demon Race half-breeds scattered across the Demon Continent. Half-breeds are culturally liminal and often face discrimination from both parent races.\nLIFESPAN: Variable; usually between the lifespans of the parent races. Lucy, Lara, and Ars (Human/Demon, Human/Migurd, Human/Beast-Race-via-Eris respectively) all live human-comparable spans in childhood, with Lara expected to live Migurd-like centuries.\nHABITAT: Wherever either parent race lives; Half-breeds of Demon-Race lineage often settle on the Demon Continent or in mixed human cities like Sharia.\nTRAITS: Combine features of both parent races. Human/Demon half-breeds may inherit pointed ears and longer lifespans without inheriting the Demon Curse. Human/Beast-Race half-breeds (like Eris's children) inherit enhanced senses but lack the autumn mating season. Half-Elves (Sylphiette) inherit pointed ears and long lifespans.\nNOTABLE_MEMBERS: Lucy Greyrat (Human/Half-Elf, Rudeus + Sylphiette); Lara Greyrat (Human/Migurd, Rudeus + Roxy); Ars Greyrat (Human/Beast-Race-via-Eris, Rudeus + Eris); Sieghardt Saladin Greyrat (Rudeus + Eris); Christina Greyrat (Rudeus + Eris, alternate-timeline); Lily Greyrat (Rudeus + Eris, alternate-timeline); Cliff Grimoire (Human/Halfling); Clive Grimoire (Human/Elf/Halfling); Luicelia Superdia (Superd half-breed).",
-      "comment": "[World Lore] Half-breed",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Migurd",
-        "Migurdian",
-        "Migurd Tribe"
-      ],
-      "secondaryKeys": [],
-      "content": "Migurd\nDESC: A Demon Race clan from the Biegoya Region of the Demon Continent, closely related to the Superd. [Laplace Era and earlier] a telepathic clan known for isolation. [Pre-Metastasis onward] Roxy Migurdia is the prominent recurring Migurd; born without the clan telepathy, marking her as an outcast. [Rudeus Era] the clan remains in the Biegoya Region while Roxy wanders the human world as a Water King-class magician; her motherly presence in the village keeps the tribe's tolerance intact even after she returns periodically.\nLIFESPAN: Approximately 200 years. Physical growth halts at middle-school age and resumes only after age 150; the childlike appearance is retained for over a century.\nHABITAT: [Laplace Era onward] desert region of the Biegoya Region, Demon Continent; homes roofed with shells of Giant Stone Turtles. The Migurd Village is the canonical settlement in this region.\nTRAITS: Blue hair and blue eyes (the hair appears green in sunlight and can be mistaken for Superd green, a sensitive comparison). Small, childlike build retained for over a century. Innate short-range telepathy with other Migurds, depicted as lights on the forehead, that does not require line of sight; Roxy is a rare exception without this ability, marking her as defective in the clan's eyes. Migurds use Superd tales to scare children into behaving.\nNOTABLE_MEMBERS: Roxy Migurdia; Rokari Migurdia (Roxy's mother); Roroko Migurdia (Roxy's father, village headman); unnamed Migurd villagers of the Biegoya Region.",
-      "comment": "[World Lore] Migurd",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Superd",
-        "Speard",
-        "Superd Tribe"
-      ],
-      "secondaryKeys": [],
-      "content": "Superd (Speard)\nDESC: A tribal warrior race of infamous warriors from the Demon Continent. [Pre-Laplace Era onward] an honorable warrior clan; served as Laplace's elite strike force specializing in surprise attacks and night raids. [Laplace War: 500 to 400 years prior to main story] betrayed by Laplace, who gave them black Devil Spears that eroded their minds and drove them berserk; they killed ally and foe alike, generating the racial stigma that persists across millennia. [Post-Laplace Era onward] scattered and loathed by all races; green hair and spears treated as bad omens; ocean-crossing fees for Superd are tens of thousands of green ore coins. [Post-War / Late Timeline] Ruijerd Superdia reunites with the surviving Superd clan in the Biheiril Kingdom, where locals call them \"The Forest People\"; the clan survives into Rudeus's late years.\nLIFESPAN: Among the longest-living races; remain in their prime even past 500 years. Some Second-Human-Demon-War elders were still alive when Laplace recruited them for the Laplace War.\nHABITAT: [Pre-Laplace Era] Demon Continent; [Late Timeline] a forest within the Biheiril Kingdom on the Demon Continent.\nTRAITS: Pale skin, emerald green hair, and a distinctive oval red gemstone third eye embedded in the forehead that detects mana, living beings, and the flow of mana, functioning as a radar for unseen enemies. Born with a forked tail that hardens and detaches as they grow to become their personal trident spear, which they consider their soul. Exceptional spearmen; heavily discriminated against. Their culture resembles the Migurd's.\nNOTABLE_MEMBERS: Ruijerd Superdia (the most prominent recurring Superd); Luwelia Superdia; Ruiweld Superdia; Luicelia Superdia (Half-breed); Village Chief Rydelios Superdia.",
-      "comment": "[World Lore] Superd (Speard)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Demon Race",
-        "Mazoku",
-        "Magic Race",
-        "Demonfolk",
-        "Demonkind"
-      ],
-      "secondaryKeys": [],
-      "content": "Demon Race (Mazoku)\nDESC: Broad umbrella term for the original inhabitants of the Demon World and their descendants. [Post-War of the Gods] the term applied to the Demon World survivors in the Human World. [First Great Human-Demon War] applied to all races that sided with Demon Empress Kishirika Kishirisu. [Laplace War: 500 to 400 years prior] Laplace unified them and the term stuck as a racial category. [Rudeus Era] primarily located on the Demon Continent with smaller populations on other continents. Primary language is the Demon God Tongue.\nLIFESPAN: Highly variable; ranges from human-like to immortal.\nHABITAT: [Post-War of the Gods onward] primarily the Demon Continent; smaller populations on other continents.\nTRAITS: Generally bipedal humanoids, sometimes radically different from humans. Exceptionally powerful individuals among them become regional Demon Kings; the one above all is the Demon Empress Kishirika Kishirisu. The Immortal Demon Race subset (descendants of the First Demon God) features six-armed jet-black males, two-armed females, Demon Eyes, and effective immortality requiring Dragon Tribe methods to permanently kill; they can revive even after being completely obliterated, but the process takes thousands of years. Demon Race sub-clans include the Migurd, Superd, Ogre, and several less-humanoid species.\nNOTABLE_MEMBERS: Kishirika Kishirisu (Demon Empress); Badigadi (Immortal Demon King); Atoferatofe Rybak (Immortal Demon King); Roxy Migurdia (Migurd); Ruijerd Superdia (Superd); Elinalise Dragonroad (Elf mistakenly classified); Kishirika's subordinate Demon Kings (Badi, Atofe, etc.).",
-      "comment": "[World Lore] Demon Race (Mazoku)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Dragon Tribe",
-        "Dragon Race",
-        "Dragonfolk",
-        "Dragons"
-      ],
-      "secondaryKeys": [],
-      "content": "Dragon Tribe (Dragon Race / Dragonfolk)\nDESC: The original inhabitants of the Dragon World; the strongest race in fundamental physical capabilities. [Creation Era / Pre-War of the Gods] founded by the First Dragon God from the capital Kayos inside Dragon Roar Mountain, assisted by the Five Dragon Generals (Szilard, Dora, Chaos, Maxwell, crystal). [War of the Gods: ~20,000 to 10,000 years ago] nearly extinct after the destruction of the Dragon World and vengeance killings by survivors of the other five fallen worlds; very few survivors remain in the present day. [Rudeus Era] the only known living Dragon Tribe members are Orsted (the last purebred), Perugius Dola, Urupen, Szilard, plus Laplace (a Dragon-Demon hybrid). They are the first race to wield Battle Aura effectively.\nLIFESPAN: Over 100,000 years on average. Children only every several thousand years; pregnancy takes 50 years and eggs another 50 years to hatch.\nHABITAT: [Pre-War of the Gods] originally the inverted Dragon World (mountains above, sky below); [Post-War of the Gods] scattered survivors in the Human World after the Dragon World's collapse.\nTRAITS: Wings, talons, tough scales, golden sanpaku eyes, fangs and claws. Fly by infusing wings with Touki. Founding race of Dragon Battle Aura (Touki) and the Wing, Fang, and Claw Techniques. Members who cannot fly are branded \"Fallen\" and given menial work. Have no concept of family; young are raised communally in nurseries. The First Dragon God developed Battle Aura; his Dragon Generals governed the 122 Dragon Tribe villages. Orsted is the last purebred Dragon Tribe member; other survivors are hybrids or scattered individuals.\nNOTABLE_MEMBERS: First Dragon God (founder, deceased); Orsted (100th Dragon God, last purebred); Perugius Dola (Armored Dragon King); Urupen (Dragon God, creator of Saint Dragon Battle Aura); Szilard; Chaos (Mad Dragon General, deceased); Laplace (Dragon-Demon hybrid, Second Dragon God).",
-      "comment": "[World Lore] Dragon Tribe (Dragon Race / Dragonfolk)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Beast Race",
-        "Beastfolk",
-        "Doldia Tribe",
-        "Beastkin",
-        "Beastman"
-      ],
-      "secondaryKeys": [],
-      "content": "Beast Race (Beastfolk / Doldia Tribe)\nDESC: Original inhabitants of the Beast World. [War of the Gods] after the First Beast God Pudoria Dordia was killed by the First Dragon God and the Beast World fell, the surviving Beast Race was resettled by the Human God (Hitogami) into the Great Forest of the Human World. Beast God Giger defended the Great Forest during a human invasion, becoming the guardian of the Sacred Beast; the Doldia Tribe is the royalty-equivalent line descended from him. The Doldia Tribe has two branches: Dedoldia (feline traits) and Adoldia (canine traits).\nLIFESPAN: Similar to humans; slightly superior physical capabilities.\nHABITAT: [Post-War of the Gods onward] the Great Forest, Millis Continent. Primary language is the Beast God Tongue.\nTRAITS: Animal-eared humanoids; mammalian traits (ears, tails) on an otherwise human frame; enhanced senses of hearing, sight, and smell, capable of identifying individuals by scent, even arousal; vulnerable to strong scents and smoke. Capable of Howling, an inherent magic that infuses voice to perform echolocation or incapacitate enemies. Enter a mating season in autumn during which duels decide dominance and marriage partners.\nNOTABLE_MEMBERS: Ghislaine Dedoldia (Sword Saint, Eris's master); Linia Dedoldia (Rudo Mercenary Company Representative Director); Pursena Adoldia (Rudo Mercenary Company Vice-Director); Gustav Dedoldia (Great Forest elder); Minitona Dedoldia (younger generation); Beast God Giger (deified ancestor).",
-      "comment": "[World Lore] Beast Race (Beastfolk / Doldia Tribe)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Ogre",
-        "Ogres"
-      ],
-      "secondaryKeys": [],
-      "content": "Ogre\nDESC: Large muscular humanoid Demon Race subset. [Creation Era / Post-War of the Gods] emerged as a Demon Race sub-clan in the Demon World; some survived the War of the Gods into the Demon Continent. [Laplace Era onward] served in Laplace's demon army during the Laplace War. [Rudeus Era] most Ogres are encountered as part of Demon King entourages (Badigadi, Atoferatofe) on the Demon Continent and Begaritt Continent. The Mushoku Tensei wiki Races index lists Ogres under the Demon Race umbrella but no dedicated Ogre wiki page exists; the Immortal Demon Race entry above covers the broader category that includes Ogres.\nLIFESPAN: Presumed comparable to other Demon Race subsets; specific lifespan undocumented on the wiki.\nHABITAT: [Post-War of the Gods onward] primarily the Demon Continent; smaller numbers in Begaritt and as retainers of immortal Demon Kings elsewhere.\nTRAITS: Tall, muscular humanoid builds; powerful physiques well-suited for frontline combat; often serve as guards and shock troops for higher Demon Kings. Specific cultural and anatomical traits are not documented on a discrete wiki page; the broader Demon Race umbrella covers them.\nNOTABLE_MEMBERS: No canonical named Ogre individuals are documented on the wiki; the Ogre God Malta is referenced in Seven Great Powers context but does not have a dedicated character page.",
-      "comment": "[World Lore] Ogre",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Ranks",
-        "Magic Rank"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Ranks\nDESC: The seven-tier ranking system that classifies both spells and the magicians who cast them. Spell rank scales with required mana and area of effect; magician rank is determined by the highest spell they can cast. [Creation Era / Pre-Human-Demon War era] first magic spells were of High Elven origin (entreating forest spirits to control wind and earth). [Post-Laplace Era onward] the formal seven-tier system is established and taught at the Magician Guild and Ranoa Magic Academy. [Rudeus Era] the rank system is universal across all human continents.\nRANK: From lowest to highest: 1. Beginner (Basic mana manipulation); 2. Intermediate (Advanced mana manipulation); 3. Advanced (Complex mana manipulation, generally large area of effect); 4. Saint (Large-scale complex manipulation, usually weather-affecting); 5. King (Builds upon Saint-class by increasing effectiveness); 6. Emperor (Further enhances King-class scale); 7. God (Continental-scale magic).\nEFFECT: Quantifies the caster's mana output and area of effect for any spell in the seven schools of Attack Magic, Healing Magic, Detoxification Magic, Divine Strike, Protection, and Summoning Magic. Saint tier is the threshold for an adventurer to be considered a real combatant; King tier is rare master-class; Emperor tier is globally notable; God tier is continental-scale and unreachable for ordinary magicians.\nUSERS: Only 1 in 20 humans is born with usable mana; of those, only 1 in 20 can master magic; of those, only 1 in 100 reaches Advanced rank in any single element. [Rudeus Era] Saint-ranked mages are exceptional; King and Emperor-ranked are extremely rare; God-rank mages number fewer than ten across the entire world. Notable Saint-and-above mages: Rudeus Greyrat (Water Emperor, plus Saint in Earth/Wind/Fire/Healing/Detoxification), Roxy Migurdia (Water King), Sylphiette (multiple elements Saint), Cliff Grimoire, Orsted (God rank in all schools).",
-      "comment": "[World Lore] Magic Ranks",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Fire Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Fire Magic\nDESC: One of the four schools of Attacking Magic. Generates fire and heat by converting mana into tangible flame. Power, speed, range, and area of effect scale with mana poured in. [Creation Era / Pre-Human-Demon War era] of High Elven origin. [Rudeus Era] Rudeus uses it for melded magic such as Dry Steaming (Fire + Wind) and the unofficial God-class Nuclear Explosion he invented against Orsted. The Snow-Melting Furnace in the Magic Triumvirate cities uses a Fire-attuned circle.\nRANK: Spells range from Elementary (Fireball, Heat Hand, Flame Slice) through Intermediate, Advanced, Saint (Flame Storm), King, Emperor, and God tiers.\nEFFECT: Generates tangible flame and heat at variable scale; can be shaped into projectiles (Fireball), blades (Flame Slice), or storm-scale fields (Flame Storm). Power scales with mana poured in. Saint-tier Flame Storm can blanket a battlefield; God-tier continental-scale flame magic is documented only in Laplace and Orsted.\nUSERS: [Rudeus Era] Rudeus Greyrat (Saint rank); Orsted (God rank); Laplace (Demon God half retained vast Fire knowledge). Dwarves abhor Fire Magic for combat despite their Earth/Fire affinity applying to crafting.",
-      "comment": "[World Lore] Fire Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Water Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Water Magic\nDESC: One of the four schools of Attacking Magic. Generates water and, by extension, ice and steam when melded with Fire. Rudeus's first element as a child and his highest-ranked Attack school. [Rudeus Era] the Aqua Heartia wand he received from Eris on his tenth birthday strongly amplifies Water Magic efficiency. Cumulonimbus and Blizzard Storm are Advanced-rank storm spells.\nRANK: Spells range from Elementary (Waterball) through Intermediate (Water Cannon, Waterfall), Advanced (Water Squall, Blizzard Storm, Cumulonimbus), Saint (Lightning King, Water Ice Fortress), to Emperor (Absolute Zero) and God tier.\nEFFECT: Generates and shapes water, ice, and steam; can be used for direct attack (Waterball, Water Cannon), terrain manipulation (Quagmire via Water+Earth meld), defensive walls (Water Ice Fortress), and at Emperor tier the lethal Absolute Zero freeze. Rudeus's signature \"Quagmire\" spell is a Water+Earth composite.\nUSERS: [Rudeus Era] Rudeus Greyrat (Water Emperor rank, his highest); Roxy Migurdia (Water King); Orsted (God rank); Laplace (Demon God half retained vast Water knowledge). Dwarves abhor Water Magic.",
-      "comment": "[World Lore] Water Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Wind Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Wind Magic\nDESC: One of the four schools of Attacking Magic. Manipulates gases. Often used in melded magic, e.g., Dry Steaming (Wind + Fire) and Frost Nova (Wind + Water/Ice). [Creation Era / Pre-Human-Demon War era] of High Elven origin (forest spirits controlling the wind). Less directly destructive than Fire or Earth but highly versatile for utility and control.\nRANK: Spells range from Intermediate (Sonic Boom, Blast) through Advanced (Tornado), Saint (Sandstorm), and upward through King/Emperor/God tiers.\nEFFECT: Manipulates gases for utility (flight assistance, smoke dispersal), defense (deflecting projectiles), and attack (Tornado, Sonic Boom). Saint-tier Sandstorm can disable a battlefield; higher tiers manipulate weather systems.\nUSERS: [Rudeus Era] Rudeus Greyrat (Saint rank); Orsted (God rank); Sylphiette (Saint rank). Heaven Race and Sky-aligned beings favor wind-aligned disciplines.",
-      "comment": "[World Lore] Wind Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Earth Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Earth Magic\nDESC: One of the four schools of Attacking Magic. Generates and manipulates earth, minerals, and stone. [Creation Era / Pre-Human-Demon War era] of High Elven origin (forest spirits controlling the earth). Rudeus's signature element as an adventurer, including Stone Cannon (his namesake \"Quagmire\" spell from melded Water + Earth), Earth Wall, Earth Lance, Explosive Stone Cannon, and Duststorm. Also used for figurine-making (Zanoba Shirone's interest). Higher tiers shape terrain.\nRANK: Spells range from Intermediate (Stone Cannon, Earth Wall, Earth Lance) through Advanced (Explosive Stone Cannon, Duststorm), Saint (Sandstorm), Emperor, and God tiers.\nEFFECT: Generates earth projectiles, walls, and terrain features; Saint-tier Sandstorm can blind and bury armies. Rudeus's \"Quagmire\" (Water+Earth meld) is his adventurer namesake; Earth Wall is a defensive staple.\nUSERS: [Rudeus Era] Rudeus Greyrat (Earth Saint rank, primary combat element); Orsted (God rank); Dwarves (innate racial affinity).",
-      "comment": "[World Lore] Earth Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Healing Magic",
-        "Healing"
-      ],
-      "secondaryKeys": [],
-      "content": "Healing Magic\nDESC: One of the schools under the broader Healing Magic category, specifically focused on healing injuries. Distinct from Detoxification, Divine Strike, and Protection sub-schools. [Rudeus Era] Rudeus notably cannot use Voiceless Incantation for Healing Magic due to a lack of understanding of how mana is manipulated to heal, requiring him to recite incantations.\nRANK: Spells range from Elementary (Healing) through Intermediate (X-Healing), Advanced (Shine-Healing), and upward through Saint, King, Emperor, and God tiers.\nEFFECT: Closes wounds, regrows tissue, and at higher tiers reattaches limbs. Saint-tier Shine-Healing can mend serious battle injuries in seconds; King-tier can regrow lost limbs; Emperor and God tiers can revive the recently dead.\nUSERS: [Rudeus Era] Rudeus Greyrat (Saint rank, must use incantations); Sylphiette (Saint rank, talented enough to potentially outstrip Rudeus in this school); Roxy; Orsted (God rank).",
-      "comment": "[World Lore] Healing Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Detoxification Magic",
-        "Detox Magic",
-        "Detoxification"
-      ],
-      "secondaryKeys": [],
-      "content": "Detoxification Magic\nDESC: One of the four sub-schools under the broad Healing Magic category, focused on purging poisons and diseases. [Rudeus Era] often paired with Healing Magic in field medic practice. Clergy of the Milis Religion frequently study this school.\nRANK: Spells follow the standard seven-tier system from Beginner to God.\nEFFECT: Purges toxins, antidotes venoms, and cures diseases. Saint-tier Antitoxin can neutralize battlefield-grade poisons in seconds; higher tiers cure magical afflictions.\nUSERS: [Rudeus Era] Rudeus Greyrat (Saint rank); Sylphiette; Orsted (God rank). Clergy of the Milis Religion frequently study this school.",
-      "comment": "[World Lore] Detoxification Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Summoning Magic",
-        "Summoning"
-      ],
-      "secondaryKeys": [],
-      "content": "Summoning Magic\nDESC: School used to call forth powerful beings to carry out the summoner's bidding. Has two types of summons: Fiends (a class of beast with intellect) and Spirits (an intelligent being called forth to reside in an artificial body, which Rudeus describes as similar to Mana Programming). [Rudeus Era] Summoning Magic is the primary school that still relies on magic circles due to the complexity of its rituals. Teleportation Magic (forbidden by the First Dragon God) is closely related and uses circles. Nanahoshi Shizuka's research focus at the Ranoa Magic Academy is the underlying theory of Summoning Magic, seeking the means to return to her original world.\nRANK: Spells follow the standard seven-tier system.\nEFFECT: Summons Fiends (intellect-class beasts) or Spirits (artificial-body-bound intelligences) to serve the summoner. Perugius commands twelve legendary summoned beings aboard the Chaos Breaker. Teleportation Magic is the forbidden sister-school that the First Dragon God sealed away after the War of the Gods.\nUSERS: [Rudeus Era] high-ranking magicians in Sharia (Magician Guild); Rudeus Greyrat (uses Summoning Scrolls as a tactical shortcut). Perugius Dola is famed as a summoner who commands twelve legendary summoned beings; Nanahoshi Shizuka researches the school's fundamentals.",
-      "comment": "[World Lore] Summoning Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Voiceless Incantation",
-        "Chantless",
-        "Silent Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Voiceless Incantation (Chantless / Silent Magic)\nDESC: Unorthodox spell-casting method that skips incantation entirely by manipulating mana directly through imaginative power alone. The caster follows an internal process: form the spell's shape, add magical power to scale it, adjust velocity, then release. [Pre-Rudeus Era] this method was not formally taught anywhere; only a tiny handful of mages (Roxy, Rudeus, Sylphy, Moore) used it. [Rudeus Era] Rudeus is the pioneer who formalized the technique. [Late Timeline] Roxy M. Greyrat wrote a paper popularizing it into standard magic curriculum, which helped give rise to many prominent mages. Sylphiette was taught the method by Rudeus; Julie is also capable. Rudeus is the only known user who can voiceless-cast melded magic.\nRANK: Independent of spell rank; the user can cast any spell they have previously learned via incantation as a voiceless spell. Exception: Healing Magic, which Rudeus cannot voiceless-cast due to incomplete understanding of mana manipulation for healing.\nEFFECT: Vastly reduces spell-cast time (from minutes of incantation to seconds of pure mana manipulation), enabling combat-grade spell output without verbal warning. Cannot be used to cast spells the user has not already learned via incantation. Cannot be used to cast Healing Magic without an understanding of how mana is shaped to mend flesh.\nUSERS: [Rudeus Era] Rudeus Greyrat (the only known user who can also voiceless-cast melded magic); Sylphiette (taught by Rudeus); Juliette; Orsted; Sieghart Saladin Greyrat. Roxy Migurdia uses shortened incantations in place of true voiceless casting but authored the academic paper that introduced it to standard curriculum. Julie (Dwarf apprentice) is capable.",
-      "comment": "[World Lore] Voiceless Incantation (Chantless / Silent Magic)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Touki",
-        "Battle Aura",
-        "Fighting Spirit"
-      ],
-      "secondaryKeys": [],
-      "content": "Touki (Battle Aura / Fighting Spirit)\nDESC: A form of mana manipulation that multiplies the user's physical abilities many-fold and hardens the skin, granting superhuman strength, speed, and durability. [Creation Era / Pre-War of the Gods] developed by the First Dragon God during the Dragon Tribe's struggle against larger dragon predators in the Dragon World. The Dragon Tribe call it Dragon Battle Aura; the Demon Tribe call it Mana or Magical Power. It circulates through the body like blood, which also grants natural resistance to foreign mana formation. [Laplace Era onward] swordsmen of all three major styles consciously apply Touki beginning at the Advanced rank. [Rudeus Era] Ruijerd Superdia holds master-level Touki; most Saint-and-above swordsmen use it. Rudeus Greyrat cannot use Touki due to the Laplace Factor he inherited.\nRANK: Progresses through the same seven tiers as swordsmanship; conscious use of Touki begins at the Advanced rank of any sword style. Some users manifest it subconsciously, which is why they cannot explain their impermanent outbursts of strength during battle.\nEFFECT: Multiplies physical strength, speed, and durability many-fold; hardens skin against physical and magical attacks; grants natural resistance to foreign mana. Dragon Battle Aura includes the Wing, Fang, and Claw Techniques and the suicide-bomb Dragon Battle Aura Explosion. Saint Dragon Battle Aura (created by Urupen) uses relatively less mana and boasts overwhelming defensive power.\nUSERS: [Pre-War of the Gods onward] all Dragon Tribe members inherently. [Rudeus Era] Orsted (master); Ruijerd Superdia (master-level); Gal Farion; Reida Reia; Eris Greyrat; Paul Greyrat (Advanced). Rudeus Greyrat cannot use Touki (the Laplace Factor blocks him) and substitutes Saint Dragon Battle Aura (a fighting style created by Dragon God Urupen, taught to him by Orsted) and his Magic Armor series.",
-      "comment": "[World Lore] Touki (Battle Aura / Fighting Spirit)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Circles",
-        "Magic Circle"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Circles\nDESC: A spell-casting method invented by Demon Empress Kirisis Calisis (the First Demon Empress). [Creation Era / Pre-Laplace Era onward] the caster inscribes patterns using a specialized ink or carves them into a surface; pouring mana into the circle casts the inscribed spell at a predetermined power. Least flexible method but easiest and fastest to use, especially for complex rituals like Summoning. [Laplace War era] magic circles were widely used until one magician succeeded at greatly shortening incantations, after which circles fell out of favor except for Summoning and the most complex rituals. Larger circles can be reduced to multiple stacked layers on a single plane to achieve one spell.\nRANK: Independent of spell rank; can be inscribed for any rank from Beginner to God.\nEFFECT: Casts the inscribed spell at a fixed predetermined power when mana is poured in; widely used for Summoning rituals, teleportation circles (forbidden by the First Dragon God), runic Magic Armor, the Zariff Prosthetic Arm, Snow-Melting Furnaces, the Magic Tower of Millishion, and the Devil Spear.\nUSERS: [Pre-Laplace Era] Demon Empress Kirisis Calisis (inventor). [Rudeus Era] magicians of the Magician Guild in Sharia (manufacturers of magic tools); Rudeus Greyrat (runic Magic Armor and Zariff Prosthetic Arm); Roxy Migurdia (Scroll Vernier on Magic Armor MK II); Perugius Dola (twelve-summoning array aboard the Chaos Breaker).",
-      "comment": "[World Lore] Magic Circles",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "God Rank Magic",
-        "God-class magic",
-        "God Rank"
-      ],
-      "secondaryKeys": [],
-      "content": "God Rank Magic\nDESC: The highest tier of magic. Continental-scale spells that require enormous mana reserves and the highest mastery. [Creation Era / Pre-War of the Gods] Laplace in his original Demon-Dragon God form could cast God-rank spells easily. [Rudeus Era] Rudeus's unofficial Nuclear Explosion (a Fire-aligned melded magic he invented against Orsted) was rated by Orsted as effectively God-class. Orsted holds God rank in all schools of magic.\nRANK: Rank 7 of 7 (above Emperor).\nEFFECT: Continental-scale magic; only the Demon-Dragon God Laplace, the Dragon God Orsted, and (via his unofficial Nuclear Explosion) Rudeus Greyrat have demonstrated this tier in the present era. Includes God-class Water (continental flood), God-class Fire (continental conflagration), and the unofficial Nuclear Explosion (a Fire+Wind composite that produces an Orsted-judged God-class blast).\nUSERS: [Pre-War of the Gods onward] Orsted (God rank in all schools); Laplace (Demon-Dragon God and Demon God halves). [Rudeus Era] Rudeus Greyrat (only via his unofficial Nuclear Explosion, which Orsted estimated at God-class). Effectively unreachable for ordinary magicians; the global population of God-rank mages numbers fewer than ten.",
-      "comment": "[World Lore] God Rank Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Composite Magic",
-        "Melded Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Composite Magic (Melded Magic)\nDESC: The combination of two or more schools of Attack Magic to produce a hybrid effect neither school can produce alone. [Creation Era / Pre-Human-Demon War era] first practiced by High Elves entreating multiple forest spirits at once. [Rudeus Era onward] Rudeus Greyrat is the only known practitioner who can voiceless-cast composite magic, making him uniquely lethal in combat. Composites include Dry Steaming (Fire + Wind), Quagmire (Water + Earth), Frost Nova (Wind + Water/Ice), and the unofficial God-class Nuclear Explosion (Fire + Wind).\nRANK: Composite spells inherit the highest rank of their component schools; a Saint-tier Fire + Saint-tier Wind composite is itself Saint-tier. The Nuclear Explosion composite was rated by Orsted as effectively God-class despite Rudeus only being Saint-rank in Fire.\nEFFECT: Produces hybrid effects no single school can achieve alone: Dry Steaming generates hot dry steam for stealth sterilization; Quagmire creates a sticky immobilizing field that is Rudeus's adventurer namesake; Frost Nova flash-freezes targets; Nuclear Explosion produces a God-class conflagration blast.\nUSERS: [Rudeus Era onward] Rudeus Greyrat (the only known voiceless-composite caster); Sylphiette (taught basic composites by Rudeus); Laplace (Demon-Dragon God form, all schools); Orsted (God rank, all composites available).",
-      "comment": "[World Lore] Composite Magic (Melded Magic)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Ward",
-        "Defensive Barrier",
-        "Magic Barrier"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Ward (Defensive Barrier)\nDESC: A defensive magic school that erects mana barriers to block incoming magical and physical attacks. [Creation Era / Pre-Laplace Era onward] practiced widely by Magician Guild graduates and Milis Religion clergy as the standard defensive staple. [Rudeus Era] Rudeus uses Magic Wards as his primary defensive layer in combat alongside his Magic Armor series. Higher-tier Magic Wards can absorb Advanced-rank Attack Magic and even Saint-tier spells, but require continuous mana expenditure to maintain.\nRANK: Spells follow the standard seven-tier system from Beginner (small personal shield) through Intermediate, Advanced (party-scale barrier), Saint (fortress-scale), King, Emperor, and God tiers.\nEFFECT: Erects a mana barrier that blocks incoming spells and projectiles proportional to the caster's rank and mana investment. Emperor-tier Magic Wards can shield an entire city; God-tier wards can theoretically deflect a continental-scale attack.\nUSERS: [Rudeus Era] Rudeus Greyrat (Advanced-tier Magic Wards as standard defensive layer); Magician Guild graduates; Milis Religion clergy (paired with Healing/Detoxification for field-medic roles); Orsted (God tier).",
-      "comment": "[World Lore] Magic Ward (Defensive Barrier)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Saint-tier Magic",
-        "Saint-tier",
-        "Saint-class Magic"
-      ],
-      "secondaryKeys": [],
-      "content": "Saint-tier Magic\nDESC: The fourth rank of the seven-tier magic system, marking the threshold at which a magician transitions from a competent caster to a battlefield-grade combatant. [Creation Era / Pre-Human-Demon War era] the first recorded Saint-tier casters were High Elves entreating multiple spirits for storm-scale weather effects. [Laplace War era onward] Saint-tier casters are routinely recruited as Holy Knights of Millis, Ranoa Magic Academy faculty, and adventurer party leaders. [Rudeus Era] Rudeus holds Saint rank in Earth/Wind/Fire/Healing/Detoxification and Emperor rank in Water; Sylphiette holds Saint rank in multiple elements; Roxy holds King rank in Water. Saint-tier Water Magic includes Lightning King and Water Ice Fortress; Saint-tier Fire Magic includes Flame Storm; Saint-tier Wind Magic includes Sandstorm; Saint-tier Healing includes Shine-Healing.\nRANK: Rank 4 of 7 (between Advanced and King); the threshold for being considered a real combat magician, graduating from the apprentice tier.\nEFFECT: Battlefield-scale spells that affect weather (Flame Storm, Sandstorm), terrain (Water Ice Fortress, Lightning King), and mass healing (Shine-Healing). A single Saint-tier mage is sufficient to defend a small town or lead an adventurer party.\nUSERS: [Rudeus Era] Rudeus Greyrat (Saint in Earth/Wind/Fire/Healing/Detoxification, Emperor in Water); Sylphiette (Saint in multiple elements); Roxy Migurdia (King in Water, above Saint); Cliff Grimoire (Saint); the Holy Knights of Millis (Saint-tier Healing + Magic Wards); most S-rank adventurers are Saint-tier or above.",
-      "comment": "[World Lore] Saint-tier Magic",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Implements",
-        "Magic Tools",
-        "Magic Items",
-        "Magic Tool",
-        "Magic Item"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Implements (Magic Tools / Magic Items)\nDESC: Umbrella category for manufactured items that channel, store, or release mana. [Creation Era / Pre-Laplace Era onward] manufactured by the Magician Guild in Sharia, wand-makers like Chein Procyon, and dwarven smiths at the Blue Dragon Mountain Range. [Rudeus Era] Rudeus Greyrat and Zanoba Shirone pioneered the runic Magic Armor series; Cliff Grimoire built the Curse Suppressing Helmet for Orsted; Roxy Migurdia designed the Scroll Vernier for Magic Armor MK II. The category includes Magic Wands/Staves, Magic Stones, Magic Armor, the Zariff Prosthetic Arm, Magic Scrolls, Lithograph Stones (long-range communication), the Snow-Melting Furnace, the Magic Tower of Millishion, and the Devil Spear.\nRANK: Implements are ranked by their materials and craftsmanship; apprentice wands are E/D-rank, Rudeus's Aqua Heartia is A-rank, the Fighting God Armor is God-tier and ranked #3 of the Seven Great Powers.\nEFFECT: Channel mana efficiently (wands), store and release mana on demand (magic stones), magnify physical capabilities (Magic Armor, Fighting God Armor), substitute lost limbs (Zariff Prosthetic Arm), cast pre-inscribed spells one-time (Scrolls), enable long-range communication (Lithograph Stones), or suppress curses (Curse Suppressing Helmet).\nUSERS: [Rudeus Era] Rudeus Greyrat (Aqua Heartia wand, Magic Armor MK I-III, Zariff Prosthetic Arm, Magic Scrolls); Roxy Migurdia (Scroll Vernier); Cliff Grimoire (Curse Suppressing Helmet); Zanoba Shirone (doll-making research using wand materials); Perugius Dola (twelve-summon array); Badigadi (Fighting God Armor, formerly); Aleksander Rybak (Fighting God Armor, against Orsted).",
-      "comment": "[World Lore] Magic Implements (Magic Tools / Magic Items)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sword God Style"
-      ],
-      "secondaryKeys": [],
-      "content": "Sword God Style\nDESC: One of the three major schools of swordsmanship, generally considered the strongest. Motto: \"Victory goes to he who moves first.\" [Creation Era / Pre-Laplace Era onward] emphasizes speed and aggression, aiming to cut down the opponent in a single blow. Practitioners wear light clothing and no heavy armor to maximize mobility, leaving them weak on defense and counterattacks. [Rudeus Era] hard countered by Water God Style; overwhelms North God Style. Signature ultimate technique: Longsword of Light (also rendered Sword of Light), a two-handed swing that approaches the speed of light when fully mastered and can cut a heavily armored opponent in half. Other techniques include Light Reversal (the only counter to Longsword of Light), Longsword of Silence (supersonic variant), and Arm Chop (basic technique practiced hundreds of thousands of times).\nPHILOSOPHY: Defeat the enemy with a single first strike. Speed and aggression above all. Generational change of the Sword God requires the current Sword God to be killed by another swordsman of the school, often triggering a civil war.\nRANKS: Seven ranks from highest to lowest: Sword God (only one at a time) → Sword Emperor (multiple) → Sword King (multiple; granted a sword from the Sword God's collection as proof of mastery) → Sword Saint (standard rank able to control Battle Aura and use Longsword of Light) → Advanced → Intermediate → Beginner.\nPRACTITIONERS: [Pre-Laplace Era onward] the first Sword God (founder, name unrecorded). [Rudeus Era] Gal Farion is the current Sword God and rank #6 of the Seven Great Powers; succeeded by Jino Britts (Gino Britz). Eris Boreas Greyrat trains at the Holy Land of Swords under Gal Farion and reaches Sword King rank. The Holy Land of Swords on the far northwest corner of the Central Continent is the headquarters; originally owned by the first Sword God, claimed by a Water God, then reclaimed by the current Sword God.",
-      "comment": "[World Lore] Sword God Style",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Water God Style"
-      ],
-      "secondaryKeys": [],
-      "content": "Water God Style\nDESC: One of the three major schools of swordsmanship. [Creation Era / Pre-Laplace Era] founded by the vagrant Reidar, who defeated the Water Dragon King with a worn-out sword and a single slash, then married the princess who abandoned her kingdom for him; the spouse of the Water God Style shall abandon their household, per the founding legend. [Rudeus Era] specializes in defensive techniques, emphasizing parrying and counterattacking incoming attacks; practitioners often wear full-body armor since they do not need to move. Because there are few ways to attack first, practitioners also employ the art of provocation. Skilled practitioners can read the flow of magic and use their senses to block and counter any attack including magic and projectiles. Mostly used by palace knights and nobles tasked with protecting someone.\nPHILOSOPHY: Defense and counterattack. The first generation Water God was the only one to master all Five Secret Arts; to succeed to the title, one must master at least three. [Rudeus Era] current Water God Reida Reia created the phantom Sixth Secret Art, Deprivation Sword Kingdom, a domain counter-attack that auto-strikes any enemy who moves within range. Hard countered by North God Style (trickery and adaptability); well-matched against Sword God Style (initiative-and-first-strike).\nRANKS: Seven ranks from highest to lowest: Water God (only one at a time; male successors inherit the name \"Reidar,\" female successors are called \"Reida\") → Water Emperor → Water King → Water Saint → Advanced → Intermediate → Beginner.\nPRACTITIONERS: [Pre-Laplace Era] Reidar, the First Water God (founder). [Rudeus Era] Reida Reia is the current Water God; an Apostle of Hitogami (manipulated late in the timeline). Lilia Greyrat trained briefly in the style as a royal guard before her combat injury. Most Asura Kingdom palace knights and nobles practice this style. Headquarters is in Ars, the capital of the Asura Kingdom on the Central Continent.",
-      "comment": "[World Lore] Water God Style",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "North God Style"
-      ],
-      "secondaryKeys": [],
-      "content": "North God Style\nDESC: One of the three major schools of swordsmanship, regarded as the second strongest. [Creation Era / Pre-Laplace Era onward] the main focus is not techniques or specialties but a method for staying alive with the highest chance of winning. Practitioners rely on adaptability and use of their surroundings, often employing tricks in place of refined techniques. Includes non-sword fighting techniques such as first aid and tracking, and the ability to fight while physically disadvantaged. Practitioners may dual-wield or use non-sword weapons like battleaxes and staves. Multiple factions result in disparate fighting styles. [Rudeus Era] headquarters is the Kingdom of Dragon King on the Central Continent. The North God rank can be held by more than one person simultaneously, but only by immortal swordsmen of the Kalman lineage. Many adventurers and mercenaries learn it for versatility. Most antagonist swordsmen in the series are North God Style practitioners.\nPHILOSOPHY: Adaptability and survival above all. The North God rank is the only one of the three styles that allows multiple simultaneous holders and is held exclusively by immortal swordsmen of the Kalman lineage. Hard counter for Water God Style; weak against Sword God Style.\nRANKS: Seven ranks from highest to lowest: North God (multiple, only Kalman lineage) → North Emperor → North King (slightly less than 50 known globally, far more than the other two styles) → North Saint → Advanced → Intermediate → Beginner.\nPRACTITIONERS: [Pre-Laplace Era onward] Kalman I (the first North God, founder). [Rudeus Era onward] succession has stayed within the Kalman lineage: Kalman I, Kalman II, Kalman III (Aleksander Rybak, rank #7 of the Seven Great Powers). Atoferatofe Rybak also held the title. Many adventurers and mercenaries learn the style for its versatility and survival focus.",
-      "comment": "[World Lore] North God Style",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Church of Milis",
-        "Milis Religion",
-        "Milis Church",
-        "pope of Milis"
-      ],
-      "secondaryKeys": [],
-      "content": "Church of Milis (Milis Religion)\nDESC: The largest religious organization in the world, founded by Saint Milis during the First Great Human-Demon War [First Great Human-Demon War Era, ~6,000 to 7,000 years prior to the main story]. Found throughout every continent where humans live and shapes the moral framework of the Central Continent. Saint Milis is a fusion of Laplace (the Demon-Dragon God half) and an Apostle of Hitogami who created the Millis Church to serve Hitogami's plans [Creation Era / War of the Gods Era → Laplace Era]. The Holy Sword Highway, a road cut from Millishion through the Blue Dragon Mountain Range, the Great Forest, and the ocean to Wind Port by Saint Milis's single holy-sword strike during the First War, is still bursting with Saint Milis's mana and remains dry and monster-free to the present. [Rudeus Era onward] operates the Adventurer's Guild as a partner organization; the Great Church in Millishion doubles as the Adventurer's Guild headquarters in the Adventurers District.\nDEITIES: Saint Milis (founder; fusion of Laplace's Demon-Dragon God half with an Apostle of Hitogami) [First Great Human-Demon War Era]; God the Father (invoked in legend to save Saint Milis).\nFOLLOWERS: The majority of humanity across all eras. Organized into two opposed factions: the Demon Race Acceptance Faction (Pope Faction, led by Pope Harry Grimoire, larger, with the Order of Instruction) and the Demon Race Expulsion Faction (Cardinal Faction, led by Cardinal Leblanc McFarlane, allied with the Latreia House and the Order of the Temple) [Rudeus Era onward]. The latter rose in influence when the Miko of Memory joined them as the next Pope candidate [Late Rudeus Era]. Both factions practice assassination. Cliff Grimoire is the Pope's grandson (Harry Grimoire's grandson); this is the doctrinal-relational source of his devout Milis faith and his marriage to Elinalise.\nHEADQUARTERS: The Great Church in Millishion, Holy Kingdom of Milis (Millis Continent), in the Adventurers District at the end of the main road. The Pope is Cliff Grimoire's grandfather Harry Grimoire [Rudeus Era]. Considers Teleportation Magic the ultimate forbidden technique (forbidden by the First Dragon God) [Creation Era / War of the Gods Era onward].\nDOCTRINE: STRICT MONOGAMY. Followers are forbidden from taking multiple spouses; only a single spouse is permitted, and any extramarital relationship is a religious violation. Priests may marry, but only one spouse; polygamy is religiously scandalous. Rudeus Greyrat's three simultaneous marriages (to Sylphiette, Roxy, and Eris [Late Rudeus Era]) directly contravene Millis doctrine and are a constant source of religious tension. Zenith Greyrat (née Latreia) is held up as the model \"Millis young lady standard\" of feminine propriety [Pre-Metastasis Era]; Paul Greyrat's affair with the maid Lillia (producing Aisha) violated this vow, and Zenith's eventual forgiveness was secured only through Rudeus's intervention as a child [Pre-Metastasis Era]. Norn Greyrat initially disapproved of Rudeus's marriage to Roxy on these doctrinal grounds [Late Rudeus Era]. Cliff Grimoire's marriage to Elinalise faces inherent religious tension because Elinalise's Spawton curse forces her into sexual intercourse with other men to discharge her accumulated mana, a constant violation of the monogamy vow she took as a Millis-ordained couple [Late Rudeus Era onward]; Cliff resolved this by crafting a curse-suppressing garment (charged by Rudeus's mana) that lets her maintain fidelity within the marriage, and by tolerating her necessary external relations as long as she remained emotionally loyal. Also opposes same-sex marriage as a derivative of strict monogamy (not explicitly codified in canon but consistent with the doctrine). Teaches the salvation of humanity as the central redemptive arc. The Order of the Temple is the militant heretic-hunting arm; the Order of Instruction is the educational arm.",
-      "comment": "[World Lore] Church of Milis (Milis Religion)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Dragon Faith"
-      ],
-      "secondaryKeys": [],
-      "content": "Dragon Faith\nDESC: Worship of the Dragon God (currently Orsted, the 100th Dragon God), practiced informally by the Dragon Tribe and ideologically by the King Dragon Kingdom on the Central Continent. [Creation Era / Pre-War of the Gods] the First Dragon God was the original object of veneration as progenitor of the Dragon Tribe and developer of Dragon Battle Aura. [War of the Gods Era onward] after the First Dragon God's death sealing Hitogami, believers expect the Dragon God to return reincarnated through the chain of Dragon God successors; Orsted is the current and 100th Dragon God, fulfilling the lineage. [Rudeus Era] the King Dragon Kingdom maintains an ideological streak of dragon worship; Dragon Tribe survivors (Orsted, Perugius, Urupen) are venerated as living embodiments. Not formalized as a public religious institution with formal churches; mostly cultural veneration. Believers expect the Dragon God to defeat Hitogami and restore the destroyed worlds.\nDEITIES: The Dragon God lineage: First Dragon God (creator, deceased); Laplace (Second Dragon God, sealed); Orsted (100th Dragon God, current) [Creation Era → present]. The Five Dragon Generals (Szilard, Dora, Chaos, Maxwell, crystal) are revered as subordinate deities.\nFOLLOWERS: The Dragon Tribe (only a handful of survivors remain); the King Dragon Kingdom's ideological population [Rudeus Era]; Perugius Dola's court aboard the Chaos Breaker.\nHEADQUARTERS: No formal church; veneration is cultural. The King Dragon Kingdom on the Central Continent is the political embodiment; Dragon Roar Mountain (originally the capital Kayos in the Dragon World) is the spiritual center.\nDOCTRINE: The Dragon God is the protector of the world against Hitogami; believers expect the Dragon God's return to defeat Hitogami and restore the destroyed worlds. Dragon Tribe members are reverentially treated as living avatars; non-flying Dragon Tribe members (\"Fallen\") are still respected but given menial work. The return-of-the-Dragon-God prophecy is the faith's eschatological core.",
-      "comment": "[World Lore] Dragon Faith",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Beast Faith"
-      ],
-      "secondaryKeys": [],
-      "content": "Beast Faith\nDESC: Worship of the Beast God (the First Beast God Pudoria Dordia, then the deified Giger), practiced by the Beast Race of the Great Forest on the Millis Continent. [Creation Era / War of the Gods] the First Beast God Pudoria Dordia was killed by the First Dragon God during the War of the Gods; after the Beast World fell, the Human God (Hitogami) resettled the surviving Beast Race into the Great Forest of the Human World. Beast God Giger defended the Great Forest during a human invasion, becoming the guardian of the Sacred Beast; the Doldia Tribe is the royalty-equivalent line descended from him. [Rudeus Era onward] the Beast Race continues to venerate Giger and the Sacred Beast; the Doldia Tribe's two branches (Dedoldia feline, Adoldia canine) carry the lineage.\nDEITIES: First Beast God Pudoria Dordia (killed by the First Dragon God) [War of the Gods Era]; Beast God Giger (defender of the Great Forest, deified ancestor of the Doldia Tribe); the Sacred Beast (a living embodiment venerated by the Doldia Tribe) [Rudeus Era onward].\nFOLLOWERS: The Beast Race of the Great Forest, Millis Continent; the Doldia Tribe (Dedoldia and Adoldia branches) as the royalty-equivalent line.\nHEADQUARTERS: The Great Forest, Millis Continent; the Sacred Beast's resting place is the spiritual center. No formal church; veneration is tribal and cultural.\nDOCTRINE: The Beast God protects the Great Forest and the Beast Race from external threats; the Doldia Tribe is the guardian line, descending from Giger. Autumn mating season is sacred; duels decide dominance and marriage partners per divine ordinance. Howling is the inherent magic by which the Beast Race speaks to the Beast God.",
-      "comment": "[World Lore] Beast Faith",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Hitogami Cult",
-        "Hitogami worship",
-        "Hitogami Cultist"
-      ],
-      "secondaryKeys": [],
-      "content": "Hitogami Cult\nDESC: The clandestine worship of Hitogami (the self-proclaimed Human God) by misled mortals who receive his dream-visions. [Creation Era / War of the Gods Era onward] Hitogami, sealed in the Void World, communicates with select mortals through their dreams, offering future-sight guidance in exchange for service. [Laplace Era onward] the cult's existence is hidden; Hitogami's apostles operate as secret agents across the world with no open congregation maintained. [Rudeus Era onward] the cult is functionally identical to the operational network of Hitogami's three simultaneous apostles (see Hitogami Apostles under Organizations). Worship is implicit through service: mortals who accept Hitogami's dream-visions become de facto cultists, even if they do not consciously identify as worshippers. Past affiliations include Rudeus Greyrat himself (early on, before the betrayal was revealed), who received Hitogami's dream-mentorship believing him a beneficent guide.\nDEITIES: Hitogami (the self-proclaimed Human God; impostor wearing the original Human God's form) [War of the Gods Era onward].\nFOLLOWERS: Variable roster, max three concurrent active apostles because Hitogami expends most of his power on constant future sight for himself. Past/active members: Badigadi, Pax Shirone, Reida Reia, Geese Nadi, Darius Silva Ganius, Luke Notos Greyrat, Kishirika Kishirisu (former affiliation), Rudeus Greyrat (former affiliation).\nHEADQUARTERS: Hitogami coordinates from the Void World; apostles operate wherever they reside in the Human World.\nDOCTRINE: Hitogami offers future-sight guidance through dreams; in exchange, apostles serve his agenda, usually misled into acting against their own interests and then discarded once their purpose is served. The doctrine is implicit and uncoded; service is worship. Apostles read minds during dream conversations, so resistance requires conscious mental discipline. Hitogami's power fails against: Dragon Tribe (whose nature resists him), spirits, and otherworlders (such as Nanahoshi Shizuka) and their descendants (Rudeus's children Lucy, Lara, Ars, and later Sieghardt, Christina, Lily) [Rudeus Era onward].",
-      "comment": "[World Lore] Hitogami Cult",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Three Original Gods",
-        "Six Gods",
-        "original six gods"
-      ],
-      "secondaryKeys": [],
-      "content": "Three Original Gods\nDESC: The foundational mythology of the Six-Faced World, centered on the three most prominent of the original six gods: the Dragon God (First Dragon God), the Human God (original, usurped by Hitogami), and the Beast God (First Beast God Pudoria Dordia). [Creation Era / Pre-War of the Gods] each of the Six-Faced World's six worlds was governed by its own god: Dragon God (Dragon World), Human God (Human World), Demon God (Demon World), Beast God (Beast World), Sea God (Ocean World), Sky God (Sky World). APPEARANCE NOTES per canonical descriptions: the Dragon God was a draconic humanoid Physical God, strongest among the Six; the original Human God was a white, featureless mosaic humanoid, beloved by all and fathered Lunaria with a mortal woman; the Demon God is described with eight arms; the Beast God Pudoria Dordia is described with two heads, one of a dog and one of a cat, and is said to ride a white wolf; the Sea God is a Cthulhumanoid with a large number of tentacles growing from his mouth and squid-like slimy skin; the Sky/Heaven God bears twin extra eyes on his forehead and six wings on his back. The Three Original Gods most referenced in the present narrative are Dragon, Human (Hitogami, after usurpation), and Beast, because these three races are the most central to the present setting. [War of the Gods Era, ~12,000+ years ago] the First Dragon God, manipulated by Hitogami, destroyed the other four worlds (Demon, Beast, Ocean, Sky); the First Beast God Pudoria Dordia was killed in this conflict; the original Human God was killed or usurped by Hitogami before the war. [Post-War of the Gods Era onward] only the Dragon God lineage (now Orsted, the 100th Dragon God) and the impostor Human God (Hitogami) remain as active deities; the Beast God lineage continues through Giger and the Sacred Beast. All six gods are functionally artificial humans (reincarnations of fragments of the Creator God's power on his deathbed), are referred to only by their titles except the Beast God (the only one with a personal name, Pudoria Dordia), and require food and rest only after many weeks, especially when fighting each other.\nDEITIES: Dragon God (First Dragon God, deceased; succeeded by Laplace then Orsted); Human God (original, usurped by Hitogami); Beast God (First Beast God Pudoria Dordia, deceased; succeeded by Giger then the Sacred Beast). The other three original gods (Demon God, Sea God, Sky God) are de facto defunct after their worlds were destroyed.\nFOLLOWERS: Dragon Tribe and King Dragon Kingdom (Dragon God); majority of humanity via the Hitogami cult's hidden apostle network (Hitogami); Beast Race and the Doldia Tribe (Beast God). Each god's worship is described in their dedicated Faith entry.\nHEADQUARTERS: Dragon God: Dragon Roar Mountain (originally the capital Kayos in the Dragon World). Hitogami: the Void World. Beast God: the Great Forest, Millis Continent.\nDOCTRINE: The three original gods embody the three foundational races of the present setting (Dragon Tribe, Humans, Beast Race). The Dragon God's doctrine is protection against Hitogami; the Human God's (now Hitogami's) doctrine is manipulation of mortals via dream-visions; the Beast God's doctrine is the protection of the Great Forest and the Beast Race. The eternal war between Dragon God and Hitogami is the central conflict of the present era.",
-      "comment": "[World Lore] Three Original Gods",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Hitogami",
-        "Man-God",
-        "Man God",
-        "Human God"
-      ],
-      "secondaryKeys": [],
-      "content": "Hitogami (Man-God)\nDESC: The self-proclaimed Human God and overarching antagonist of the series. [Creation Era / Pre-War of the Gods Era] born in the Void World after the Creator God's death; killed or usurped the original Human God and took his form. [War of the Gods Era] he manipulated the First Dragon God into destroying the other four worlds, then was sealed in the Void World by the dying First Dragon God's final breath as the Dragon World collapsed, ~12,000+ years ago. Physically the oldest being in the setting at over 12,000 years. Cannot physically manifest in the Human World; manipulates mortals through dreams, addressing them by nicknames (he calls Rudeus \"Rudei-kun,\" Nanahoshi \"Nananchin,\" etc.). Sworn enemy of Dragon God Orsted; the two cannot coexist, and Orsted's 200-year time loop is fundamentally a campaign to kill him. Hitogami's power fails against: Dragon Tribe (whose nature resists him), spirits, and otherworlders (such as Nanahoshi Shizuka from Earth) and their descendants (Rudeus's children Lucy, Lara, Ars, and later Sieghardt, Christina, Lily) [Rudeus Era onward]. Initially a supporting character offering Rudeus advice [Early Rudeus Era], then revealed as the overarching antagonist seeking to prevent the birth of Rudeus's children, who are prophesied to kill him [Mid Rudeus Era onward]. His manipulations include driving Pax Shirone to suicide [Late Rudeus Era], engineering the Metastasis Event [K417], and orchestrating Roxy's Magic Stone Disease during her pregnancy with Lara [Late Rudeus Era].\nDEITIES: Self-proclaimed Human God; impostor wearing the original Human God's form [War of the Gods Era onward].\nFOLLOWERS: His \"apostles,\" limited to roughly THREE at a time, because he expends most of his power on constant future sight for himself . Past/active apostles: Badigadi (tricked into wearing the Fighting God Armor and splitting Laplace) [Second Great Human-Demon War Era, ~4,200 years ago]; Pax Shirone (driven to suicide) [Late Rudeus Era]; Reida Reia, Geese Nadi, Darius Silva Ganius, Luke Notos Greyrat [Late Rudeus Era]; Kishirika Kishirisu (former affiliation). Past affiliations include Rudeus Greyrat himself (early on, before the betrayal was revealed).\nHEADQUARTERS: Sealed in the Void World (the void between worlds) [War of the Gods Era onward]; communicates via dreams to mortals in the Human World.\nDOCTRINE: Offers future-sight guidance to mortals through their dreams; in exchange, apostles serve his agenda, usually misled into acting against their own interests. His explicit eschatological goal is to prevent the birth of Rudeus's children, who are prophesied to kill him; this drives his attacks on Roxy (Magic Stone Disease during pregnancy), on Pax Shirone (driven to suicide to prevent a Laplace-reincarnation birth from his lineage), and on Eris (manipulated into leaving Rudeus at age 12 to trigger his erectile dysfunction).",
-      "comment": "[World Lore] Hitogami (Man-God)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Laplace",
-        "Demon God",
-        "Demon God Laplace"
-      ],
-      "secondaryKeys": [],
-      "content": "Laplace (Demon God)\nDESC: Originally a Demon-Dragon hybrid born in a cave at the corner of the Demon World; saved and raised by the First Dragon God as his adoptive son in the Dragon World [Creation Era / War of the Gods Era]. Became one of the Five Dragon Generals and later the Second Dragon God. After escaping the Dragon World's collapse he spent 10,000 years researching techniques to defeat Hitogami, passing them down through a chain of successors who would inherit the title \"Dragon God\" until Orsted arrived in the future [Post-War of the Gods Era]. During the Second Great Human-Demon War, he fought for the humans as \"Aldebaran the Golden Knight\" but was betrayed and split in two by the Fighting God Armor (worn by Badigadi, tricked by Hitogami); the explosion that split him formed the Ringus Sea . The split soul: Technique God (Dragon side, retains techniques but lost magic; ranks #1 of the Seven Great Powers, currently Missing, residing on the peak of Dragon Roar Mountain) and Demon God (Demon side, retains magic and his hatred of \"humans\" but lost his Battle Aura; sealed ~400 years ago by the Seven Heroes at the end of the Laplace War [Laplace War Era, ~500 to 400 years ago]). Prophesied to reincarnate into the future via the Laplace Factor spread across many bloodlines (Rudeus Greyrat, Eris Boreas Greyrat, and their children all carry fragments) [Late Rudeus Era onward].\nDEITIES: Revered as a primordial deity in the demon pantheon; one of the foundational godheads of the Six-Faced World.\nFOLLOWERS: Originally the Superd Tribe (elite strike force, tricked with Devil Spears during the Laplace War [Laplace War Era]) and the entire Demon Race unified under him. Currently sealed; no organized followers, but the Laplace Factor means many individuals carry his reincarnation traits [Late Rudeus Era].\nHEADQUARTERS: Sealed in an unknown location after the Laplace War [Laplace War Era]; the Technique God half resides on Dragon Roar Mountain peak (unknown to all but a girl who serves him) .\nDOCTRINE: As the Second Dragon God, his doctrine was the defeat of Hitogami through any means necessary, including the unification of the Demon Race, the creation of the Fighting God Armor, and the Laplace Factor reincarnation mechanism. As the Demon God half (post-split), his doctrine shifted to a hatred of \"humans\" and a campaign to annihilate them; this is what drove the Laplace War. The Technique God half retains only the techniques and the original anti-Hitogami mission.",
-      "comment": "[World Lore] Laplace (Demon God)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Orsted",
-        "Dragon God",
-        "100th Dragon God"
-      ],
-      "secondaryKeys": [],
-      "content": "Orsted (Dragon God)\nDESC: The 100th Dragon God, son of the First Dragon God and Lunaria (daughter of the original Human God). [Creation Era / War of the Gods Era → present] born in the Dragon World roughly 10,000 to 20,000 years ago, sent 10,000 years into the future by his dying father with a mission to kill Hitogami. Reincarnated into a human-like body and trapped in a 200-year time loop that he has repeated over 100 times (effectively 20,000+ years of memory). Holds rank #2 of the Seven Great Powers but is functionally #1 since the #1 (Technique God Laplace) is missing. The only non-Dragon Tribe, non-Rudeus-descendant person unaffected by his curse is Nanahoshi (an otherworlder). Initially an antagonist who nearly killed Rudeus twice due to Rudeus's Hitogami affiliation [Early Rudeus Era]; later Rudeus's most important ally after Hitogami's true nature is revealed [Mid Rudeus Era onward]. He is the sworn enemy of Hitogami; the two cannot coexist, and the entire time loop is his campaign to break Hitogami's future-sight advantage by creating divergent timelines.\nDEITIES: Reincarnated living deity; seated as the supreme 2nd World Power (Dragon God).\nFOLLOWERS: ORSTED Corporation / Rudo Mercenary Company (his anti-Hitogami organization) [Late Rudeus Era onward]; Rudeus Greyrat and his descendants (immune to his curse); Ariel Anemoi Asura; Kalman III (Aleksander Rybak); Zanoba Shirone, Cliff Grimoire, Roxy Migurdia, and other ORSTED Corporation staff. Treats followers as comrades; subordination is not the model.\nHEADQUARTERS: Mobile; most often based at Rudeus Greyrat's house in Sharia, Ranoa Kingdom, where his organization is headquartered [Late Rudeus Era onward].\nDOCTRINE: Kill Hitogami by any means necessary; protect Rudeus's children (Lara, Lucy, Ars, Sieghardt, Christina, Lily) who are prophesied to finally kill Hitogami. Operates through the ORSTED Corporation, which identifies and neutralizes Hitogami's apostles across the world. Treats followers as comrades; subordination is not the model; curse-immune individuals are his only true allies.",
-      "comment": "[World Lore] Orsted (Dragon God)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Heaven God",
-        "Sky God"
-      ],
-      "secondaryKeys": [],
-      "content": "Heaven God (Sky God)\nDESC: One of the Six Gods of the Six-Faced World [Creation Era / Pre-War of the Gods Era, ~12,000+ years ago]; the god of the Sky World and patron deity of the Heaven Race. Physically described as bearing twin extra eyes set into his forehead and six wings on his back, marking him among the most visually distinct of the original six gods. [War of the Gods Era] his Sky World was destroyed by the First Dragon God under Hitogami's manipulation, alongside the Demon, Beast, and Ocean Worlds; his personal fate in that conflict is unrecorded, and he is presumed defunct as an active deity. [Post-War of the Gods Era onward] effectively unmanifested; the surviving Heaven Race refugees are vanishingly rare in the present Human World. Per the \"Everyone Calls Him Barkeep\" convention of the Six Gods, he is referred to only by his title, with no personal name recorded.\nDEITIES: Heaven God (god of the Sky World, patron of the Heaven Race) [Creation Era]; effectively defunct or unmanifested after the War of the Gods.\nFOLLOWERS: The Heaven Race; [Rudeus Era] the only confirmed living Heaven Race individual is Sylvaril of the Void, a winged servant of Perugius Dola aboard the Floating Fortress Chaos Breaker, who serves him in gratitude for his saving her life during a Laplace Campaign 400 years ago.\nHEADQUARTERS: The Sky World [Creation Era / Pre-War of the Gods Era, destroyed during the War of the Gods].\nDOCTRINE: Protective patronage of the Sky World and the Heaven Race; concrete doctrine unrecorded after the world's destruction. The Heaven Race is the rarest surviving lineage in the present Human World; the artificial-origin gods (all six) were originally fragments of the Creator God's power, who intentionally split his power on his deathbed so that six reincarnations would guard each of the Six Worlds.",
-      "comment": "[World Lore] Heaven God (Sky God)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "First Dragon God"
-      ],
-      "secondaryKeys": [],
-      "content": "First Dragon God\nDESC: The original Dragon God, progenitor of the Dragon Tribe, and founder of the Dragon World's capital Kayos (located inside Dragon Roar Mountain) [Creation Era / Pre-War of the Gods Era]. Father of Orsted (with Lunaria, daughter of the original Human God) and adoptive father of Laplace (whom he rescued from a Demon-World cave and raised as one of his Five Dragon Generals) [War of the Gods Era]. Developer of Dragon Battle Aura (Touki), the Fang/Wing/Claw Techniques, Magic Circles theory, and the original Dragon God lineage of successors charged with eventually killing Hitogami. Under Hitogami's manipulation, he destroyed four of the Six-Faced World's other worlds (Demon, Beast, Ocean, Sky) during the War of the Gods [War of the Gods Era, ~12,000+ years ago]. Realizing he had been deceived, he turned on Hitogami in his dying breath and sealed him in the Void World, paying for it with his life. He is also the creator of the curse on his son Orsted, the instinctive hatred/fear that all living beings feel toward Orsted, either as a deliberate measure to make Orsted unapproachable by Hitogami's pawns, or as a side effect of sending him 10,000 years into the future with his dying magic [War of the Gods Era]. He also forbade Teleportation Magic.\nDEITIES: The supreme Creation God of the ancient Dragon World, origin of all Dragon Gods.\nFOLLOWERS: The Dragon Tribe, the Five Dragon Generals (Szilard, Dora, Chaos, Maxwell, crystal) [War of the Gods Era], and his sons Laplace (Second Dragon God) and Orsted (100th Dragon God). After his death, his surviving son Orsted and the lineage of Dragon God successors carry on his mission.\nHEADQUARTERS: The capital Kayos, located inside Dragon Roar Mountain in the Dragon World [War of the Gods Era, destroyed during the world's collapse].\nDOCTRINE: Protect the Six-Faced World from external threats; the Dragon Tribe is the protector race. Battle Aura (Touki) is the doctrine's practical expression. Teleportation Magic is forbidden because it can be misused to release Hitogami from the Void World. The Dragon God lineage's mission is to eventually kill Hitogami; Orsted, the 100th in the line, is the fulfillment of this doctrine.",
-      "comment": "[World Lore] First Dragon God",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Seven Great Heroes",
-        "Seven Heroes"
-      ],
-      "secondaryKeys": [],
-      "content": "Seven Great Heroes\nDESC: The seven warriors who sealed Demon God Laplace at the climax of the Laplace War [Laplace War Era, ~400 years prior to the main story]. They allied by taking the clan leaders' children hostage, allied with the Ocean Race (lifting the blockade), and assaulted Laplace's main stronghold with the Holy Knights of Millis and the Beast Race. Four of the Seven Heroes died in the assault, but Laplace was sealed and his closest companions destroyed. The most prominent members were: Perugius Dola (the Armored Dragon King, leader of the group and a Dragon Tribe survivor who built/rebuilt the Floating Fortress Chaos Breaker during this era and resides in it to the present, awaiting Laplace's prophesied revival); Dragon God Urupen (creator of Saint Dragon Battle Aura, the fighting style later taught to Rudeus); North God Kalman (the then-North God, predecessor of Kalman II and III); and Ruijerd Superdia (whose sneak attack struck Laplace's weak point, enabling the seal). It was during this same war that the Superd Tribe was tricked by Laplace into wielding Devil Spears and went berserk, generating the racial discrimination against Superd that persists today [Laplace War Era onward].\nDEITIES: Legendary mortal and demigod champions celebrated across continental myth for slaying Demon God Laplace.\nFOLLOWERS: Their descendants and retainers; Perugius's court aboard the Chaos Breaker, including his twelve summoned beings and his attendant Almanfi (Light Dragon King) [Rudeus Era onward]. The Seven Heroes' legacy is invoked in waiting for the day Demon God Laplace is unsealed.\nHEADQUARTERS: The Floating Fortress Chaos Breaker (Perugius's mobile sky-castle); Perugius awaits Laplace's revival aboard it [Laplace War Era to present].\nDOCTRINE: The world must be defended from the Demon God's revival; the Seven Heroes' seal is the doctrine's physical embodiment. Perugius's continued vigil aboard the Chaos Breaker is the doctrine's living expression. The Holy Knights of Millis are the institutional continuation of this defensive doctrine.",
-      "comment": "[World Lore] Seven Great Heroes",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Adventurer's Guild",
-        "Adventurers Guild",
-        "Adventurer Guild",
-        "Adventurer Card",
-        "Adventurers' Guild"
-      ],
-      "secondaryKeys": [],
-      "content": "Adventurer's Guild\nDESC: One of the largest organizations in the world. A neutral supranational body where adventurers gather and accept paid requests, sell materials, and exchange currency. [Creation Era / Pre-Laplace Era onward] branches in every major town and city worldwide. Has seven ranks from F to S; adventurers may take requests one rank above or below their current rank. Issues each member an Adventurer Card storing mana (lasts roughly one year, auto-replenished on completed requests) that updates the displayed race-language on tap. Maintains a code of conduct, fine system, and obligation to obey defense requests. Receptionists are typically well-endowed women in revealing outfits. [Rudeus Era] takes bets on adventurer brawls instead of breaking them up. Runs labyrinth-diving operations (the Teleport Labyrinth on Begaritt is one of the most lucrative targets).\nPURPOSE: [Pre-Laplace Era onward] mediate paid requests between clients and adventurers; purchase raw materials and treasures from dungeons; exchange currency; coordinate adventurer parties (max 7 members, within 1 rank of leader); manage rank promotions/demotions; defend cities under attack; explore labyrinths and accept monster subjugation requests.\nLEADERS: [Rudeus Era] no centralized leadership; each branch managed by receptionists and guild staff. The Millis Religion (Church of Milis) is the partner organization that operates the Guild as a faith-adjacent institution.\nHEADQUARTERS: [Pre-Laplace Era onward] main headquarters in Millishion, Holy Kingdom of Milis (Adventurers District, largest building at the end of the main road), co-located with the Great Church of Milis. Branches worldwide.\nMEMBERS: [Rudeus Era] Rudeus Greyrat (S-rank under the alias \"Quagmire,\" later \"Education God\"); Paul Greyrat (C-rank then B-rank); Eris Boreas Greyrat (A-rank under the alias \"Mad Dog\"); Ruijerd Superdia (S-rank); Ghislaine Dedoldia (A-rank); Soldat Heckler (S-rank); most named adventurer characters are members.",
-      "comment": "[World Lore] Adventurer's Guild",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magician Guild",
-        "Magic Guild"
-      ],
-      "secondaryKeys": [],
-      "content": "Magician Guild (Magic Guild)\nDESC: The organization of magicians that develops and manufactures Magic Tools and Magic Items. [Creation Era / Pre-Laplace Era onward] holds the knowledge of most spells up to King Rank in Attack Magic. [Rudeus Era] works alongside the Ranoa Magic Academy, the world's largest magic school; the Magic Guild in Sharia is the primary manufacturer of magic tools (e.g., Snow-Melting Furnace, Magic Armor, Lithograph Stone, Magic Wand). The wiki does not have a standalone \"Magic Guild\" page; the guild's existence is documented indirectly via the Ranoa Magic Academy and Sharia pages.\nPURPOSE: [Pre-Laplace Era onward] magic research, manufacture of magic tools and items, instruction of magic up to King rank, and supply of magic infrastructure (e.g., Magic Triumvirate snow-melting furnaces).\nLEADERS: [Rudeus Era] unknown; not specified on the wiki. The Magician Guild's chief wand-maker is Chein Procyon of the Asura Kingdom palace's magic team.\nHEADQUARTERS: [Pre-Laplace Era onward] Magic City of Sharia, Ranoa Kingdom (Northern Central Continent), with branch offices in the Magic Triumvirate cities (Sharia, Millis, Ranoa) that operate the snow-melting furnaces.\nMEMBERS: [Rudeus Era onward] Chein Procyon (Asura palace magic team); unnamed Magician Guild staff in Sharia who manufacture standard wands and magic tools; Rudeus Greyrat, Zanoba Shirone, Cliff Grimoire, and Roxy Migurdia (collaborators on the Magic Armor MK Series, Curse Suppressing Helmet, and Scroll Vernier).",
-      "comment": "[World Lore] Magician Guild (Magic Guild)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Rudo Mercenary Company",
-        "Orsted Corporation",
-        "Orsted Corp",
-        "Rudo Mercenaries"
-      ],
-      "secondaryKeys": [],
-      "content": "Rudo Mercenary Company (Orsted Corporation)\nDESC: Mercenary company and anti-Hitogami operational arm, founded by Rudeus Greyrat and Orsted (Dragon God) as the operational arm of their alliance against Hitogami. [Late Rudeus Era: K420 onward] established to systematically identify and neutralize Hitogami's apostles across the world and protect the future saviors prophesied to kill Hitogami. The organization's cover identity is a mercenary company operating out of Sharia, allowing it to take paid requests and gather intelligence publicly while secretly serving the anti-Hitogami mission. Members include Rudeus's household, the spouses of the Greyrat household, Zanoba Shirone, Cliff Grimoire, and recruited former adventurers. Aisha Greyrat serves as Vice President; Aisha and her team protect the Rudo household post-war.\nPURPOSE: [Late Rudeus Era onward] defeat Hitogami and his apostles across the world; gather intelligence on Hitogami's three simultaneous apostles; protect Rudeus's children (Lara, Lucy, Ars, Sieghardt, Christina, Lily) who are prophesied to kill Hitogami; develop Magic Armor and magic tools to give the alliance combat parity with the Seven Great Powers; serve as Rudeus's legacy vehicle that continues the mission after his death; protect the Rudo household.\nLEADERS: [Late Rudeus Era] President: Rudeus Greyrat; Founder: Orsted (Dragon God); Vice President: Aisha Greyrat; Vice-Director: Pursena Adoldia (also Leo's caretaker); Representative Director: Linia Dedoldia.\nHEADQUARTERS: [Late Rudeus Era onward] Rudeus Greyrat's house in Sharia, Ranoa Kingdom (Central Continent), where Orsted is also based.\nMEMBERS: Rudeus Greyrat (President); Orsted (Founder); Aisha Greyrat (Vice President, leads the household-protection team post-war); Pursena Adoldia (Vice-Director); Linia Dedoldia (Representative Director); Zanoba Shirone (doll-making and Magic Armor R&D); Cliff Grimoire (magic-tool R&D); Roxy Migurdia (magic R&D, Scroll Vernier designer); Rudeus's spouses Sylphiette, Roxy, Eris; Leo (the Sacred Hound).",
-      "comment": "[World Lore] Rudo Mercenary Company (Orsted Corporation)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Seven Great Heroes",
-        "Seven Heroes"
-      ],
-      "secondaryKeys": [],
-      "content": "Seven Great Heroes\nDESC: The seven warriors who sealed Demon God Laplace at the climax of the Laplace War. [Laplace War Era, ~400 years prior to the main story] allied by taking the clan leaders' children hostage, allied with the Ocean Race (lifting the blockade), and assaulted Laplace's main stronghold with the Holy Knights of Millis and the Beast Race. Four of the Seven Heroes died in the assault, but Laplace was sealed and his closest companions destroyed. The most prominent members were Perugius Dola (the Armored Dragon King, leader of the group and a Dragon Tribe survivor who built/rebuilt the Floating Fortress Chaos Breaker during this era and resides in it to the present, awaiting Laplace's prophesied revival), Dragon God Urupen (creator of Saint Dragon Battle Aura, the fighting style later taught to Rudeus), North God Kalman (the then-North God, predecessor of Kalman II and III), and Ruijerd Superdia (whose sneak attack struck Laplace's weak point, enabling the seal).\nPURPOSE: [Laplace War Era] seal Demon God Laplace; protect the world from his prophesied revival. [Rudeus Era onward] Perugius awaits Laplace's revival aboard the Chaos Breaker as the surviving remnant of the Seven Heroes' institutional mission.\nLEADERS: [Laplace War Era] Perugius Dola (Armored Dragon King, leader of the assault). [Rudeus Era] Perugius Dola is the only surviving member still active in the present; his court aboard the Chaos Breaker continues the Seven Heroes' vigil.\nHEADQUARTERS: [Laplace War Era onward] the Floating Fortress Chaos Breaker (Perugius's mobile sky-castle), traveling the world at will. Spotted the mana of the Teleport Incident in K417, prompting Perugius to dispatch Almanfi to investigate.\nMEMBERS: [Laplace War Era] Perugius Dola (Armored Dragon King, leader); Dragon God Urupen (creator of Saint Dragon Battle Aura); North God Kalman (then-North God); Ruijerd Superdia (sneak-attack specialist); three unnamed members who died in the assault. [Rudeus Era onward] Perugius's court includes Almanfi (Light Dragon King) and his twelve summoned beings.",
-      "comment": "[World Lore] Seven Great Heroes (Faction Profile)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Hitogami Apostles",
-        "Hitogami Apostle",
-        "apostle"
-      ],
-      "secondaryKeys": [],
-      "content": "Hitogami Apostles\nDESC: The operational network of Hitogami's secret agents across the world. [Creation Era / War of the Gods Era onward] Hitogami, sealed in the Void World, communicates with select mortals through their dreams, offering future-sight guidance in exchange for service. He can only control roughly THREE apostles at a time because he expends most of his power on constant future sight for himself; he reads minds during dream conversations. Apostles are usually misled into acting against their own interests and then discarded once their purpose is served. [Laplace Era] Badigadi was tricked into wearing the Fighting God Armor and splitting Laplace in two, generating the Ringus Sea explosion. [Rudeus Era onward] active apostles include Reida Reia (current Water God), Geese Nadi, Darius Silva Ganius (Asura Kingdom political schemer), and Luke Notos Greyrat (Ariel's consort and bodyguard, briefly an apostle). Pax Shirone was driven to suicide by Hitogami's manipulation after being maneuvered into a corner in the Shirone Kingdom [Late Rudeus Era]. Kishirika Kishirisu counts as a former affiliation. Rudeus Greyrat was himself a former affiliation (early on, before the betrayal was revealed).\nPURPOSE: [War of the Gods Era onward] serve Hitogami's agenda; usually misled into acting against their own interests and then discarded once their purpose is served. Hitogami's explicit goal is to prevent the birth of Rudeus's children, who are prophesied to kill him.\nLEADERS: [War of the Gods Era onward] Hitogami (the Man-God) coordinates from the Void World; no mortal leader; the three concurrent apostles operate semi-independently.\nHEADQUARTERS: Wherever the apostles reside in the Human World; Hitogami coordinates from the Void World.\nMEMBERS: Variable roster, max three concurrent active apostles. [Laplace Era] Badigadi (tricked into splitting Laplace). [Rudeus Era onward] Reida Reia (Water God); Geese Nadi; Darius Silva Ganius (Asura schemer); Luke Notos Greyrat; Kishirika Kishirisu (former affiliation); Rudeus Greyrat (former affiliation, early on before betrayal revealed). [Late Rudeus Era] Pax Shirone (driven to suicide).",
-      "comment": "[World Lore] Hitogami Apostles",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Boreas Greyrat Family",
-        "Boreas",
-        "Boreas family"
-      ],
-      "secondaryKeys": [],
-      "content": "Boreas Greyrat Family\nDESC: One of the four main branches of the Greyrat noble family of the Asura Kingdom, in charge of the Fittoa Region (famous as the land of perfume). [Pre-Metastasis] aligned with the First Prince Faction; Sauros Boreas Greyrat is lord, with Philip and Hilda managing household affairs. [Metastasis Event: K417] the Fittoa Region was largely annihilated, and the Boreas family's power collapsed; Sauros was blamed and executed for the calamity; Philip and Hilda died in the incident. [Post-Metastasis] succeeded by James Boreas Greyrat. [Rudeus Era] Eris Boreas Greyrat severed ties to the Boreas name after learning of Sauros's death. The Boreas branch is famously known for the men's preference for beast people.\nPURPOSE: [Pre-Laplace Era onward] govern and defend the Fittoa Region; produce and trade perfume; serve as one of four pillars protecting the Asura Kingdom's borders.\nLEADERS: [Pre-Metastasis] Sauros Boreas Greyrat (deceased, executed after Teleport Incident); [Post-Metastasis onward] James Boreas Greyrat.\nHEADQUARTERS: [Pre-Laplace Era onward] Citadel of Roa, Fittoa Region, Asura Kingdom (Central Continent).\nMEMBERS: Sauros Boreas Greyrat (lord, deceased); Philip Boreas Greyrat (deceased in the Teleport Incident); Hilda Boreas Greyrat (deceased in the Teleport Incident); Eris Boreas Greyrat (later severed ties and dropped \"Boreas\"); Gordon Boreas Greyrat; James Boreas Greyrat (post-Metastasis lord).",
-      "comment": "[World Lore] Boreas Greyrat Family",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Notos Greyrat Family",
-        "Notos",
-        "Notos family"
-      ],
-      "secondaryKeys": [],
-      "content": "Notos Greyrat Family\nDESC: One of the four main branches of the Greyrat noble family of the Asura Kingdom, in charge of the Milbots Region (famous as the land of alcohol and wine, with a gigantic brewing site). [Pre-Metastasis] aligned with Ariel Anemoi Asura's faction; Sauros Boreas Greyrat criticized Pilemon Notos Greyrat, believing Paul a more suitable head. [Rudeus Era onward] Paul Greyrat and Rudeus Greyrat descend from this branch. The Notos branch men are known for their preference for large-breasted women, a Notos family trait that Paul and Rudeus exemplify.\nPURPOSE: [Pre-Laplace Era onward] govern and defend the Milbots Region; produce and trade alcohol; serve as one of four pillars protecting the Asura Kingdom's borders.\nLEADERS: [Rudeus Era onward] Pilemon Notos Greyrat (lord of the Milbots Region).\nHEADQUARTERS: [Pre-Laplace Era onward] Milbots Region, Asura Kingdom (Central Continent).\nMEMBERS: Pilemon Notos Greyrat (lord); Amarant Notos Greyrat; Paul Greyrat (estranged, became an adventurer); Luke Notos Greyrat (Ariel's bodyguard and consort, briefly a Hitogami Apostle); Rudeus Greyrat (descendant via Paul); Eris Boreas Greyrat (Rudeus's third wife, associated via marriage).",
-      "comment": "[World Lore] Notos Greyrat Family",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Six-Faced World",
-        "Six Faced World"
-      ],
-      "secondaryKeys": [],
-      "content": "Six-Faced World\nDESC: The cosmological structure of the Mushoku Tensei universe: six worlds arranged as the faces of a single cosmic body, each inhabited by a different sentient race and governed by its own God [Creation Era / Pre-War of the Gods Era, ~12,000+ years ago onward]. The six worlds are: (1) Human World, inhabitants humans, God the original Human God (usurped by Hitogami), survives to the present; (2) Demon World, inhabitants Demon Race, Demon God (Laplace's origin world); (3) Beast World, inhabitants Beast Race, Beast God (the First Beast God Pudoria Dordia was killed by the First Dragon God); (4) Ocean World, inhabitants Ocean Race, Sea God; (5) Sky World, inhabitants Heaven Race, Sky God; (6) Void World, the empty interstitial space where Hitogami was sealed by the First Dragon God. After the War of the Gods only the Human World survived intact; the other five were destroyed by the First Dragon God under Hitogami's manipulation. This is why beings from the other five worlds appear stranded in the Human World in the present: Laplace (from Demon World), the surviving Dragon Tribe (from the destroyed Dragon World, originally a separate sphere), Elinalise Dragonroad (found in a labyrinth connecting to other worlds), Nanahoshi Shizuka (summoned from Earth, an otherworld entirely outside the Six-Faced World), and the Beast Race (resettled by Hitogami into the Great Forest of the Human World after the First Beast God's death) [War of the Gods Era onward].\nERA: [Creation Era / Pre-War of the Gods Era, ~12,000+ years ago onward]. The Six-Faced World existed in its complete form before the War of the Gods; only the Human World face survives after the war.\nPARTICIPANTS: The six original gods (Dragon God, Human God, Demon God, Beast God, Sea God, Sky God); the six original races (Dragon Tribe, Humans, Demon Race, Beast Race, Ocean Race, Heaven Race); the First Dragon God (destroyer of four worlds under Hitogami's manipulation); Hitogami (sealed in the Void World).\nOUTCOME: Only the Human World survives; the other five worlds are destroyed. Survivors of the five destroyed worlds fled into the surviving Human World during the Chaotic Period that followed, giving rise to the modern multi-racial population of the present setting. The Dragon Tribe is nearly extinct; the Beast Race is resettled in the Great Forest; the Demon Race is resettled on the Demon Continent; Laplace (Dragon-Demon hybrid) is the most prominent survivor; Nanahoshi Shizuka is an otherworlder outside the Six-Faced World entirely.",
-      "comment": "[World Lore] Six-Faced World",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "War of the Gods"
-      ],
-      "secondaryKeys": [],
-      "content": "War of the Gods\nDESC: The ancient cosmic conflict that destroyed the original Six-Faced World and gave the present setting its shape [Creation Era / War of the Gods Era, ~12,000+ years ago]. Hitogami, self-proclaimed Human God, born in the Void World after the Creator God's death, manipulated the First Dragon God into destroying four of the other worlds (Demon World, Beast World, Ocean World, Sky World) by playing on his fear that the other Gods would otherwise destroy the Human/Dragon Worlds. The First Dragon God eventually realized the deception and turned on Hitogami; in his dying breath he sealed Hitogami in the Void World, paying for the act with his life as the Dragon World itself collapsed. The Five Dragon Generals (Szilard, Dora, Chaos, Maxwell, crystal) and most of the Dragon Tribe perished in this conflict; only a handful of Dragon Tribe survivors (Orsted, Perugius Dola, Laplace as a hybrid, Urupen, Szilard, Chaos) lived on into the Human World. Survivors of the five destroyed worlds fled into the surviving Human World during the Chaotic Period that followed, giving rise to the modern multi-racial population of the present setting. The First Dragon God's son Orsted was sent 10,000 years into the future with the mission to finally kill Hitogami, beginning the chain of Dragon God successors that led to the present.\nERA: [Creation Era / War of the Gods Era, ~12,000+ years ago]. The single most pivotal event in the setting's cosmology.\nPARTICIPANTS: Hitogami (self-proclaimed Human God, manipulator); First Dragon God (manipulated then rebelled, sealed Hitogami with his dying breath); the Five Dragon Generals (Szilard, Dora, Chaos, Maxwell, crystal); the six original gods (only Dragon God and Hitogami survive as active deities); the six original races (only survivors remain in the Human World).\nOUTCOME: Only the Human World survives; Hitogami is sealed in the Void World; the First Dragon God is dead; the Five Dragon Generals are mostly dead; the Dragon Tribe is nearly extinct; survivors of the five destroyed worlds are resettled in the Human World; Orsted is sent 10,000 years into the future to kill Hitogami, beginning the eternal conflict that defines the present era.",
-      "comment": "[World Lore] War of the Gods",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Orsted-Hitogami Conflict",
-        "Orsted vs Hitogami",
-        "Hitogami vs Orsted"
-      ],
-      "secondaryKeys": [],
-      "content": "Orsted-Hitogami Conflict\nDESC: The eternal war across reincarnations between Dragon God Orsted and the sealed Human God Hitogami. [Creation Era / War of the Gods Era onward] the First Dragon God sealed Hitogami in the Void World with his dying breath, but the seal did not kill him; the First Dragon God's son Orsted was sent 10,000 years into the future to finish the job. [Pre-Rudeus Era onward] Orsted, the 100th Dragon God, is trapped in a 200-year time loop that he has repeated over 100 times (effectively 20,000+ years of memory), seeking a timeline in which Hitogami is finally killed. Hitogami cannot physically manifest in the Human World and operates through three simultaneous dream-apostles at a time, manipulating mortals to prevent the birth of children prophesied to kill him (Rudeus's children with his three wives: Lucy, Lara, Ars, Sieghardt, Christina, Lily). [Rudeus Era onward] Rudeus Greyrat becomes Orsted's most important ally after Hitogami's betrayal is revealed; their ORSTED Corporation / Rudo Mercenary Company is the operational arm of the alliance. The conflict is the central spine of the entire series.\nERA: [Creation Era / War of the Gods Era onward through Rudeus Era and beyond]. Began ~12,000+ years ago and continues into Rudeus's late years and beyond his death.\nPARTICIPANTS: Orsted (100th Dragon God, trapped in the 200-year loop); Hitogami (sealed in the Void World, operating through dream-apostles); the First Dragon God (originator of the mission, deceased); Rudeus Greyrat (Orsted's most important ally, Late Rudeus Era); Rudeus's children (Lucy, Lara, Ars, Sieghardt, Christina, Lily; prophesied to kill Hitogami); the three concurrent Hitogami Apostles (variable roster; see Hitogami Apostles entry).\nOUTCOME: Outcome pending across the timeline; in the [Late Rudeus Era → Beyond] arc, Rudeus dies of old age holding Hitogami in stalemate; the prophesied children (notably Lara Greyrat, who rises to rank #4 by defeating Laplace) carry the mission forward. The eventual resolution is implied to be the death of Hitogami and the restoration of the destroyed worlds, but the explicit ending is left open in the canonical source material.",
-      "comment": "[World Lore] Orsted-Hitogami Conflict",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Human-Demon War",
-        "Great Human-Demon War",
-        "Human-Demon Wars"
-      ],
-      "secondaryKeys": [],
-      "content": "Human-Demon War\nDESC: The three great wars between the human races and the demon races, spanning from the [Creation Era / Pre-Laplace Era onward through the Laplace War Era]. (1) First Great Human-Demon War : Demon Empress Kishirika Kishirisu unified the Demon Race and invaded; defeated by Saint Milis (Laplace's Demon-Dragon God half fused with a Hitogami Apostle) wielding the Holy Sword; the Millis Religion was founded in this war. (2) Second Great Human-Demon War : Laplace fought for the humans as \"Aldebaran the Golden Knight\" but was betrayed and split in two by the Fighting God Armor worn by Badigadi (tricked by Hitogami); the explosion that split him formed the Ringus Sea. (3) Laplace War : the third and most brutal, waged by the Demon God Laplace (the human-hating half) who rallied the Demon Race, conquered the Demon Continent, and invaded from the south then north; the Seven Heroes sealed him at the climax. The First Dragon God forbade Teleportation Magic in this era.\nERA: [Creation Era / Pre-Laplace Era onward through Laplace War Era, ~6,000 to 400 years prior to the main story]. Spans ~6,000 years of intermittent conflict.\nPARTICIPANTS: (1) First War: Saint Milis (Demon-Dragon God half of Laplace fused with a Hitogami Apostle); Demon Empress Kishirika Kishirisu; early humans and demon races. (2) Second War: Laplace (as Aldebaran the Golden Knight); Badigadi (tricked by Hitogami into the Fighting God Armor); Hitogami (manipulator); the human and demon alliances. (3) Laplace War: Demon God Laplace (human-hating half); the Seven Heroes (Perugius Dola, Dragon God Urupen, North God Kalman, Ruijerd Superdia, three unnamed); the Holy Knights of Millis; the Beast Race; the Ocean Race.\nOUTCOME: (1) First War: Demon Race defeated; Millis Religion founded; Holy Sword Highway cut from Millishion to Wind Port. (2) Second War: Laplace split in two (Technique God and Demon God); Ringus Sea formed; Badigadi freed from the Fighting God Armor. (3) Laplace War: Laplace sealed; four of the Seven Heroes died; Superd Tribe framed as villains via the Devil Spear trick; racial discrimination prohibited by treaty; the Demon Continent blockade lifted.",
-      "comment": "[World Lore] Human-Demon War",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Metastasis Event / Teleport Disaster",
-        "Metastasis Event",
-        "Teleport Disaster",
-        "Metastasis",
-        "Teleport Incident",
-        "Displacement Incident",
-        "mana calamity"
-      ],
-      "secondaryKeys": [],
-      "content": "Metastasis Event / Teleport Disaster\nDESC: Also known as the Teleport Incident. A mana calamity that occurred in K417 in the Fittoa Region, Asura Kingdom, scattering its citizens to random locations across the Six-Faced World and causing innumerable casualties. CAUSED BY HITOGAMI'S MANIPULATION: the Playback Miko, a time- and space-bending seer from roughly 80 years in the future, was maneuvered into attempting to summon her dead lover's girlfriend (Nanahoshi Shizuka) from another world to alter the lover's fate; the world resisted the summoning until Rudeus's reincarnation from another world weakened the world's resistance, eventually forcing the rift open and pulling Nanahoshi in, with the teleport wave as a side effect. The red orb above the Boreas Estate appeared in K412, five years before the incident. Buena Village and Roa vanished, leaving only ruins. The incident scattered: Rudeus, Eris, and Ruijerd to the Demon Continent; Zenith to the Teleport Labyrinth on the Begaritt Continent (where she was trapped in a magic crystal); Lillia and Aisha to the Shirone Kingdom; Norn teleported with Paul to the Millis Continent (specifically the southern Asura/Millis border region); Sylphiette to Asura (becoming Fitts); Paul separately to southern Asura; and Nanahoshi to the Asura grasslands. Sauros Boreas Greyrat was blamed and executed; Hitogami began appearing in Rudeus's dreams from this point onward.\nERA: [Metastasis Era: K412-K417]. The incident is the pivotal setup for Rudeus's Demon Continent journey and the entire second arc of the story.\nPARTICIPANTS: Hitogami (manipulator behind the scenes); the Playback Miko (time- and space-bending seer from ~80 years in the future); Nanahoshi Shizuka (the intended summoning target from Earth); Rudeus Greyrat (whose reincarnation weakened the world's resistance); the scattered Fittoa citizens (Rudeus, Eris, Ruijerd, Zenith, Lillia, Aisha, Paul, Norn, Sylphiette); Sauros Boreas Greyrat (executed scapegoat).\nOUTCOME: Fittoa Region annihilated; Sauros executed; Rudeus and Eris stranded on the Demon Continent and meet Ruijerd; Zenith trapped in a magic crystal in the Begaritt Teleport Labyrinth; Lillia and Aisha stranded in the Shirone Kingdom; Sylphiette becomes Fitts in Asura; Nanahoshi pulled into the world and begins her summoning-research at the Ranoa Magic Academy; Hitogami begins appearing in Rudeus's dreams, setting up the series' central conflict.",
-      "comment": "[World Lore] Metastasis Event / Teleport Disaster",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Laplace War"
-      ],
-      "secondaryKeys": [],
-      "content": "Laplace War\nDESC: The third and most brutal of the Human-Demon Wars, fought between 500 and 400 years prior to the main story [Laplace War Era]. Waged by Demon God Laplace, the human-hating half of the split Demon-Dragon God Laplace, who in a very short time rallied the Demon Race, conquered the Demon Continent, cultivated a fierce demon army for many years, then pulled the Beast Race and Ocean Race to his side. He invaded from the south, blocked mountain passage with wyrms, then struck from the north to scatter humanity. Forced into a corner, the Seven Heroes took the clan leaders' children hostage, allied with the Ocean Race (lifting the blockade), and assaulted Laplace's main stronghold with the Holy Knights of Millis and the Beast Race. Four of the Seven Heroes died, but Laplace was sealed and his closest companions destroyed. The exhausted humans signed a treaty with a non-Laplace-aligned Demon King, lifted the Demon Continent blockade, and prohibited racial discrimination. Among the Seven Heroes were Ruijerd Superdia (whose sneak attack struck Laplace's weak point), Perugius Dola, Dragon God Urupen, and North God Kalman. It was during this war that the Superd Tribe was tricked by Laplace into wielding Devil Spears and went berserk, generating the racial fear that persists today. The Ringus Sea, the inland sea separating the Central Continent from the Millis Continent, was formed 4,200 years earlier by the explosion when Badigadi's Fighting God Armor split the original Demon-Dragon God Laplace in two during the Second Great Human-Demon War (well before the Laplace War, but the same singular entity was sealed in the later war).\nERA: [Laplace War Era, ~500 to 400 years prior to the main story]. The most recent large-scale Human-Demon conflict before the main story.\nPARTICIPANTS: Demon God Laplace (the human-hating half of the split Demon-Dragon God Laplace); the Seven Heroes (Perugius Dola, Dragon God Urupen, North God Kalman, Ruijerd Superdia, three unnamed); the Holy Knights of Millis; the Beast Race; the Ocean Race; the Superd Tribe (tricked into wielding Devil Spears and going berserk); the unified Demon Race.\nOUTCOME: Laplace sealed; four of the Seven Heroes died; the Superd Tribe framed as villains via the Devil Spear trick, generating the racial discrimination that persists today; racial discrimination prohibited by treaty; the Demon Continent blockade lifted; the Holy Knights of Millis and the Millis Religion emerged as the dominant human institution.",
-      "comment": "[World Lore] Laplace War",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Orsted's Curse",
-        "Orsted's Hatred",
-        "curse of Orsted"
-      ],
-      "secondaryKeys": [],
-      "content": "Orsted's Curse (Hatred)\nDESC: A divine curse placed on Orsted by the First Dragon God as Orsted was sent 10,000 years into the future at his dying father's command [Creation Era / War of the Gods Era]. The curse causes nearly all living beings who see Orsted to instinctively fear, hate, and distrust him on sight. EXCEPTIONS: members of the ancient Dragon Tribe (Perugius, Urupen, etc.); otherworlders such as Nanahoshi Shizuka; Rudeus Greyrat (an otherworlder reincarnated); and Rudeus's descendants (Lucy, Lara, Ars, Sieghardt, Christina, Lily) [Late Rudeus Era onward]. Because of the curse, Orsted has extremely poor social skills and few allies; he is widely considered a monster or villain . Cliff Grimoire developed a Curse Suppressing Helmet that suppresses the curse's effect [Late Rudeus Era], allowing Orsted to interact normally with non-immune individuals while wearing it. A nearly identical curse was carried by Laplace; he transferred it onto the Superd Tribe during the Laplace War [Laplace War Era], freeing himself, which is the root cause of the modern racial fear of green-haired, third-eyed spear-bearers.\nERA: [Creation Era / War of the Gods Era onward through Rudeus Era]. Placed on Orsted ~12,000+ years ago and persists into the present.\nPARTICIPANTS: First Dragon God (creator of the curse); Orsted (bearer); Laplace (transferred his identical curse onto the Superd Tribe); the Superd Tribe (involuntary bearers of Laplace's transferred curse); Cliff Grimoire (developer of the Curse Suppressing Helmet, Late Rudeus Era); the curse-immune individuals (Dragon Tribe, Nanahoshi, Rudeus, Rudeus's descendants).\nOUTCOME: Orsted is widely hated on sight, giving him poor social skills and few allies; only curse-immune individuals (Dragon Tribe, Nanahoshi, Rudeus, Rudeus's descendants) can interact with him normally. Cliff's Curse Suppressing Helmet partially mitigates the curse for non-immune individuals. The Superd Tribe bears the transferred version of the curse, manifesting as the modern racial fear of green-haired, third-eyed spear-bearers.",
-      "comment": "[World Lore] Orsted's Curse (Hatred)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Seven Great Powers",
-        "Seven Great World Powers",
-        "World Powers"
-      ],
-      "secondaryKeys": [],
-      "content": "Seven Great Powers\nDESC: The title referring to the seven strongest warriors in the world, established at the end of the Second Great Human-Demon War by the Technique God [~4,200 years ago]. Stone monuments scattered worldwide at high-mana locations display the seven motifs surrounding the character '7' in the Fighting God language, auto-updating when ranks change. The top four ranks (1 to 4) are the 'upper' ranks and the bottom three (5 to 7) are the 'lower' ranks, with a colossal power gap between #4 (Demon God Laplace) and #5 (Death God).\nALL SEVEN RANKS AS OF K430 [Post-Biheiril War]:\n#1 Technique God (Laplace's Dragon-half, Missing);\n#2 Dragon God (Orsted, Active);\n#3 Fighting God (Badigadi / Fighting God Armor, Sealed);\n#4 Demon Magic God (Laplace's Demon-half, Sealed);\n#5 Death God (Randolph Marianne, succeeded in K460 by Sieghart Saladin Greyrat);\n#6 Sword God (Gino Britz, who defeated Gal Farion in single combat);\n#7 Quagmire (Rudeus Greyrat, marked by the three crossed spears of the Migurd talisman, defeating Alexander Rybak in K430).\nERA: [Second Great Human-Demon War Era onward through Rudeus Era and Beyond].\nPARTICIPANTS: The rank holders tracked across history.\nOUTCOME: Rudeus Greyrat's ascension as Rank #7 marks the only time a holder bore the talisman of three crossed spears without a 'God' title.",
-      "comment": "[World Lore] Seven Great Powers",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magi Armor",
-        "Magic Armor MK Series",
-        "MK I",
-        "MK II",
-        "MK III"
-      ],
-      "secondaryKeys": [],
-      "content": "Magi Armor (Magic Armor MK Series)\nDESC: Rudeus Greyrat's signature mecha weapons. [Late Rudeus Era] developed jointly with Zanoba Shirone and Cliff Grimoire (later Roxy Migurdia after Cliff's move to Milis) in the Magic City of Sharia. An expansion of the Zariff Prosthetic Arm system that boosts the wearer's physical capabilities in the same manner as the Fighting God's Golden Armor, but on a smaller, mana-fueled scale (in contrast to the life-force-fueled Fighting God Armor). Four variants: MK Zero (prototype, strongest, worst efficiency); MK I (3 meters, camouflage, Fighting-God-Armor-equivalent combat power, affixed with Stone Cannon Gatling Gun and Mana Absorption Stone; destroyed in the Battle of Biheiril Kingdom); MK II (smaller, jet-black, modular, Saint-ranked swordsman-level performance; fitted with Roxy's Scroll Vernier on the back); MK III (a little over 2 meters, MK I-equivalent performance, Rudeus's main armor in his final years; later the basis for mass-produced All-Purpose Magic Armor Series used by Lara Greyrat and the Orsted Corporation).\nERA: [Late Rudeus Era onward]. Developed in Sharia as Rudeus's signature combat multipliers; the MK III becomes the basis for the mass-produced All-Purpose Magic Armor Series.\nPARTICIPANTS: Rudeus Greyrat (designer and pilot); Zanoba Shirone (R&D partner); Cliff Grimoire (magic-tool R&D, pre-Milis-move); Roxy Migurdia (Scroll Vernier designer, post-Cliff-move); Lara Greyrat and the Orsted Corporation (mass-produced All-Purpose Magic Armor Series users, Beyond).\nOUTCOME: MK I destroyed in the Battle of Biheiril Kingdom; MK II and MK III serve Rudeus through his final years; the MK III design is mass-produced as the All-Purpose Magic Armor Series, equipping Lara Greyrat and the Orsted Corporation in the Beyond era to continue the anti-Hitogami mission after Rudeus's death.",
-      "comment": "[World Lore] Magi Armor (Magic Armor MK Series)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "The Floating Fortress",
-        "Chaos Breaker",
-        "Floating Fortress"
-      ],
-      "secondaryKeys": [],
-      "content": "The Floating Fortress (Chaos Breaker)\nDESC: A flying sky castle originally built by the Mad Dragon General Chaos (one of the Five Dragon Generals) in the Dragon World and inherited by the Armored Dragon General Dora [Creation Era / War of the Gods Era]. Rebuilt by Perugius Dola during the Laplace War [Laplace War Era, ~500 to 400 years ago] and serves as his mobile residence and base of operations, traveling the world at will [Laplace War Era to present]. Houses Perugius's summoned beings and his court. Spotted the mana of the Teleport Incident in K417, prompting Perugius to dispatch Almanfi to investigate and kill suspicious persons on sight [Metastasis Era]. Said to be one of the most powerful mobile fortresses in the setting. Perugius awaits the prophesied revival of Demon God Laplace aboard the Chaos Breaker .\nERA: [Creation Era / War of the Gods Era onward]. Originally built in the Dragon World; rebuilt by Perugius during the Laplace War; remains active into the present.\nPARTICIPANTS: Mad Dragon General Chaos (original builder); Armored Dragon General Dora (inheritor); Perugius Dola (rebuilder and current lord); Perugius's twelve summoned beings; Almanfi (Light Dragon King, attendant dispatched to investigate the Metastasis Event); Perugius's court.\nOUTCOME: Survives the War of the Gods and the Laplace War as the setting's most powerful mobile fortress; serves as Perugius's ongoing vigil point for Laplace's prophesied revival; dispatched Almanfi to investigate the Metastasis Event in K417, leading to Almanfi's encounter with Rudeus.",
-      "comment": "[World Lore] The Floating Fortress (Chaos Breaker)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Currency",
-        "coin",
-        "coins",
-        "gold coin",
-        "stone coin"
-      ],
-      "secondaryKeys": [],
-      "content": "Currency\nDESC: The world uses a metal coinage system shared across the human continents with regional variants . Coins are stratified by material: stone coins (lowest, used for F-rank rewards, ~5 coins per F-rank request); scrap iron coins (E-rank rewards); and higher-value copper, iron, silver, gold, and the high-end Asura Gold Coin. The Adventurer Guild denominations referenced colloquially by color (green, blue, red, gold) correspond to the four adventurer-rank reward tiers: Green Ore Coin = lowest, paid to F-rank adventurers; Blue for E/D-rank; Red for C/B-rank; Gold for A-rank and above, with Asura Gold Coins and Royal Notes serving the highest denominations. Superd face drastically higher transport fees for ocean crossings (200 Green Ore Coins from Wind Port to Zant Port; 100 Royal Notes from West Port to East Port) due to racial discrimination [Rudeus Era]. The Aqua Heartia wand's central magic stone is worth over 100 Asuran Gold Coins [Pre-Metastasis Era]; a single bottle of the discontinued Fittoa aphrodisiac cost 15 Asuran Gold Coins pre-Teleport Incident and 100 post-incident [Pre-Metastasis → Post-Metastasis]. The Adventurer Card doubles as a stored-value identifier replenished on completed requests.\nERA: [Creation Era / Pre-Laplace Era onward through Rudeus Era and beyond]. Currency conventions are uniform across all human continents throughout the timeline.\nPARTICIPANTS: The Adventurer's Guild (issuer of Adventurer Cards and mediator of rewards); the Asura Kingdom (issuer of the Asura Gold Coin, the highest denomination); the various human kingdoms (regional coin variants); the Superd Tribe (subjected to discriminatory ocean-crossing fees).\nOUTCOME: Currency standardization enables cross-continental trade and adventurer mobility; the Fittoa aphrodisiac becomes a luxury commodity whose price tracks regional stability; the Adventurer Card doubles as a stored-value identifier, integrating currency with guild infrastructure.",
-      "comment": "[World Lore] Currency",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Languages",
-        "Human God Tongue",
-        "Demon God Tongue",
-        "lingua franca",
-        "translation",
-        "language"
-      ],
-      "secondaryKeys": [],
-      "content": "Languages\nDESC: Six primary language families corresponding to the original six worlds of the Six-Faced World [Creation Era / War of the Gods Era onward]. The Common Human Tongue (Human God Tongue) is the lingua franca of the Central, Millis, and Begaritt continents, with regional accents; Begaritt humans speak the Fighting God Tongue as their regional dialect. The Demon God Language is spoken by the Demon Race (including the Migurd's blue-haired clan and Superd). The Beast God Language is spoken by the Beast Race of the Great Forest. The Dragon God Language is the formal tongue of the Dragon Tribe, taught to Laplace by the Dragon General Dora [War of the Gods Era]. The Sky God Tongue is used by the Heaven Race on the Divine Continent. The Sea God Tongue is used by the Ocean Race. Rudeus Greyrat is fluent in Human, Beast God (taught by Ghislaine Dedoldia), Demon God (taught by Roxy Migurdia), and Fighting God tongues, plus Japanese from his past life [Early Rudeus Era onward]. The Adventurer Card can display its text in any race's language for a small mana cost [Rudeus Era onward].\nERA: [Creation Era / War of the Gods Era onward]. The six language families predate the War of the Gods and persist into the present, with the Human God Tongue as the lingua franca.\nPARTICIPANTS: The six original races and their gods (Dragon Tribe/Dragon God, Humans/Human God, Demon Race/Demon God, Beast Race/Beast God, Ocean Race/Sea God, Heaven Race/Sky God); Rudeus Greyrat (fluent in four tongues plus Japanese); Ghislaine Dedoldia (taught Rudeus Beast God); Roxy Migurdia (taught Rudeus Demon God); the Adventurer's Guild (multi-language Adventurer Card).\nOUTCOME: Cross-race communication is possible via the lingua franca (Human God Tongue) or via the Adventurer Card's translation function; Rudeus's fluency in four tongues enables his mobility across the Demon Continent, Millis, and Begaritt; the regional dialects preserve cultural identity within the unified lingua franca.",
-      "comment": "[World Lore] Languages",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Stone Disease",
-        "magic stone virus"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Stone Disease\nDESC: A rare magical virus that gradually turns the infected body into a purple magic stone, starting from the feet and progressing upward; if untreated it eventually crystallizes the heart and brain, killing the host . HITOGAMI'S MANIPULATION [Late Rudeus Era]: Hitogami engineered Roxy Migurdia's contraction of Magic Stone Disease during her pregnancy with Lara Greyrat, intending for it to kill both Roxy and the unborn Lara, prophesied to be one of the children who would eventually kill him. The disease was prevented only by the intervention of Rudeus's future self (Rudeus from ~10+ years in the future, contacted through a Hitogami-independent timeline mechanism that bypassed Hitogami's future-sight), who told present-Rudeus that Lara's existence in Roxy's womb was absorbing the magic stone accumulation and would save both mother and child, provided Roxy gave birth naturally without seeking a magical abortion. Rudeus subsequently guarded Roxy through the pregnancy, and Lara was born healthy, both surviving the disease entirely [Late Rudeus Era]. Note: distinct from Drain Syndrome, which affects otherworlders (like Nanahoshi) who cannot retain internal mana and instead absorb it externally for ten years before falling ill and dying, a separate condition.\nERA: [All Eras; Late Rudeus Era]. The Roxy/Lara case is the only canonical depicted infection in the narrative.\nPARTICIPANTS: Hitogami (engineered Roxy's infection to kill Lara prophesially); Roxy Migurdia (infected during pregnancy); Lara Greyrat (the unborn child who absorbed the magic stone accumulation and saved both lives); Rudeus Greyrat (present-Rudeus guarded Roxy through the pregnancy on future-Rudeus's instruction); future-Rudeus (contacted present-Rudeus through a Hitogami-independent timeline mechanism).\nOUTCOME: Roxy and Lara both survive; Lara is born healthy; Hitogami's plot to kill both via the disease fails; the experience bonds Rudeus to Roxy in marriage and cements Lara's status as one of the prophesied children who will eventually kill Hitogami.",
-      "comment": "[World Lore] Magic Stone Disease",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Teleport Labyrinth"
-      ],
-      "secondaryKeys": [],
-      "content": "Teleport Labyrinth\nDESC: A specific labyrinth on the Begaritt Continent, central to the rescue arc following the Metastasis Event [Metastasis Era: K417 → Late Rudeus Era]. Where Zenith Greyrat was teleported during the Metastasis Event and trapped inside a magic crystal; the labyrinth's guardian, the Manatite Hydra (a nine-headed dragon Guardian made of living magic stone), held her in crystallized stasis until rescued. PAUL GREYRAT DIED HERE fighting the Manatite Hydra to defend his son Rudeus [Late Rudeus Era]; Rudeus lost his left hand in the same battle. After the Manatite Hydra's defeat, Zenith was freed but had been rendered permanently amnesiac and childlike by her years in the crystal. The labyrinth is sometimes conflated with the Metastasis Event's Roa epicenter, but in canon the Teleport Labyrinth proper is the Begaritt dungeon, distinct from the focal point above the Boreas Estate in Roa that triggered the teleport wave. Diving the Teleport Labyrinth is one of the most dangerous expeditions depicted in the series and the emotional climax of the Begaritt Rescue Arc.\nERA: [Metastasis Era: K417 → Late Rudeus Era: K423]. The Begaritt rescue arc is the climactic arc of Rudeus's mid-timeline years.\nPARTICIPANTS: Zenith Greyrat (trapped in the magic crystal); the Manatite Hydra (nine-headed dragon Guardian made of living magic stone); Paul Greyrat (died defending Rudeus); Rudeus Greyrat (lost his left hand in the battle, rescued Zenith); Ruijerd Superdia (party member during the dive); Elinalise Dragonroad (party member during the dive).\nOUTCOME: Manatite Hydra defeated; Zenith freed but rendered permanently amnesiac and childlike; Paul Greyratat is decapitated during the battle; Rudeus loses his left hand; Rudeus subsequently receives the Zariff Prosthetic Arm as a replacement; the emotional climax of the Begaritt Rescue Arc cements Rudeus's resolve to find and protect his scattered family.",
-      "comment": "[World Lore] Teleport Labyrinth",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Laplace Era"
-      ],
-      "secondaryKeys": [],
-      "content": "Laplace Era (Era Marker)\nDESC: The era of the Laplace War, ~500 to 400 years prior to the main story, in which the Demon God Laplace (the human-hating half of the split Demon-Dragon God Laplace) unified the Demon Race, conquered the Demon Continent, and waged the third and most brutal of the Human-Demon Wars before being sealed by the Seven Heroes. The Laplace Era is the most recent large-scale Human-Demon conflict before the main story; its consequences persist into the present via the racial discrimination against Superd, the prohibition on Teleportation Magic, the persistence of the Seven Great Powers (Laplace's halves hold ranks #1 and #4), and the founding of the Millis Religion's institutional dominance. The Laplace Era also marks the founding of the Adventurer's Guild and Magician Guild in their modern forms.\nERA: [Laplace Era, ~500 to 400 years prior to the main story]. Bounded by the Laplace War; preceded by the Second Great Human-Demon War (~5,000 to 4,200 years prior) and followed by the Pre-Story era (~400 years prior to K407).\nPARTICIPANTS: Demon God Laplace; the Seven Heroes (Perugius Dola, Dragon God Urupen, North God Kalman, Ruijerd Superdia, three unnamed); the Holy Knights of Millis; the Beast Race; the Ocean Race; the Superd Tribe (tricked into wielding Devil Spears); the unified Demon Race; Saint Milis (posthumous institutional figurehead).\nOUTCOME: Laplace sealed; four of the Seven Heroes died; Superd Tribe framed as villains via the Devil Spear trick, generating the racial discrimination that persists today; racial discrimination prohibited by treaty; the Demon Continent blockade lifted; the Holy Knights of Millis and the Millis Religion emerged as the dominant human institution; the modern Adventurer's Guild and Magician Guild forms were established.",
-      "comment": "[World Lore] Laplace Era (Era Marker)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Rudeus Era"
-      ],
-      "secondaryKeys": [],
-      "content": "Rudeus Era (Era Marker)\nDESC: The era of Rudeus Greyrat's life, beginning with his reincarnation into the Six-Faced World in year K407 and extending through his death of old age in his 70s. The Rudeus Era is the present-day era of the main story; it spans the Buena Village childhood, the Metastasis Event (K417), the Demon Continent journey, the Begaritt rescue arc (K423), the alliance with Orsted (~K420), the three marriages (Sylphiette ~K416, Roxy ~K423, Eris ~K423), the birth of his children (Lucy, Lara, Ars, Sieghardt), the founding of the Rudo Mercenary Company, the war with Hitogami's faction (the decisive battle around his mid-30s), and his death of old age in his 70s holding Hitogami in stalemate. The Rudeus Era is bounded by [Early Rudeus Era] (childhood, pre-Metastasis), [Mid Rudeus Era] (Demon Continent journey through Begaritt rescue), [Late Rudeus Era] (post-alliance with Orsted through his death), and [Beyond] (his children's continuation of the anti-Hitogami mission after his death).\nERA: [Rudeus Era: K407 to K474]. Spans Rudeus's reincarnation through his death of old age in his 70s; the Beyond era continues his mission through his children and the Orsted Corporation.\nPARTICIPANTS: Rudeus Greyrat (the central reincarnator); his three wives (Sylphiette, Roxy, Eris); his children (Lucy, Lara, Ars, Sieghardt, Christina, Lily); his parents (Paul, Zenith); his siblings (Norn, Aisha); Orsted (his most important ally); Hitogami (his central antagonist); the supporting cast (Ruijerd, Zanoba, Cliff, Elinalise, Nanahoshi, Pursena, Linia, Ghislaine, Ariel, Luke); the antagonists (Badigadi, Atoferatofe, Pax Shirone, Gal Farion, Soldat, Gallus Cleaner, Randolph Marianne, Aleksander Rybak).\nOUTCOME: Rudeus dies of old age holding Hitogami in stalemate; his children carry the anti-Hitogami mission forward; Sieghart becomes the next Death God (#5) in K460; Lara rises to #4 by defeating Laplace; the ORSTED Corporation continues operating; the world is left more stable than Rudeus found it, but the central Hitogami conflict is left for his descendants to resolve.",
-      "comment": "[World Lore] Rudeus Era (Era Marker)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Wands / Staves",
-        "Magic Wands",
-        "Staves",
-        "Magic Wand",
-        "Magic Staves",
-        "wand",
-        "stave"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Wands / Staves\nDESC: Magic Tools used to channel and control an individual's mana more easily and increase the efficiency of cast magic. A wand's rank is determined by both the wood (or other shaft material) and the magic stone adorning its tip; both materials are ranked independently. [Creation Era / Pre-Laplace Era onward] higher-ranked materials greatly magnify spell output. [Rudeus Era] Zanoba Shirone researches the doll-making properties of magic wands; the Magic Guild manufactures standard wands; Chein Procyon of the Asura Kingdom palace's magic team is a notable wand-maker.\nTYPE: Magic Implement (offensive/defensive mana-channeling tool).\nEFFECT: [Pre-Laplace Era onward] channel mana efficiently, magnify spell power of the matching element, and reduce cast difficulty. The Arrogant Water Dragon King (Aqua Heartia) is the canonical example: an A-rank wand made from Elder Treant wood and a fist-sized magic stone from a stray dragon of the Begaritt Continent, greatly amplifying Water Magic and to a lesser extent Earth, Wind, and Fire.\nOWNERS: [Rudeus Era] Rudeus Greyrat (Aqua Heartia, A-rank); Lara Greyrat (inherited Aqua Heartia in Late Timeline); unnamed Magician Guild graduates (standard apprentice wands); Zanoba Shirone (doll-making research using wand materials); Chein Procyon (maker).",
-      "comment": "[Items] Magic Wands / Staves",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Stones",
-        "Magic Stone",
-        "mana stone"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Stones\nDESC: Crystallized mana stones that accumulate and release mana to power magic circles, magic tools, and weapons. [Creation Era / Pre-Laplace Era onward] sourced primarily from the corpses of monsters and dragons; the first Demon Empress Kirisis Calisis used magic stones in her magic circles. [Rudeus Era] fist-sized dragon-grade stones (e.g., the Aqua Heartia's core) are worth over 100 Asuran Gold Coins. Used as currency in lower denominations (stone coins for F-rank adventurer rewards) and as the mana reservoir inside Adventurer Cards. The Mana Absorbing Stone is a specialized variant affixed to Magic Armor MK I's left hand to drain incoming magic. Magic Stone Disease, a rare magical virus, gradually turns the infected body into a purple magic stone starting from the feet; Drain Syndrome affects otherworlders who cannot retain internal mana and instead absorb it externally for ten years before falling ill and dying.\nTYPE: Magic Implement (mana-storage and currency material).\nEFFECT: [Pre-Laplace Era onward] store and release mana on demand; power magic circles, magic tools, and weapons; serve as currency; act as a mana reservoir for items like Adventurer Cards. The Mana Absorbing Stone variant drains incoming magic (affixed to Magic Armor MK I's left hand).\nOWNERS: [Pre-Laplace Era onward] Demon Empress Kirisis Calisis (used in her magic circles). [Rudeus Era] Rudeus Greyrat (Aqua Heartia's core, Mana Absorbing Stone on MK I); the Magician Guild (manufacturers); all Adventurer Card holders (mana reservoir).",
-      "comment": "[Items] Magic Stones",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Rudeus's Wand",
-        "Arrogant Water Dragon King",
-        "Aqua Heartia",
-        "Rudeus's staff"
-      ],
-      "secondaryKeys": [],
-      "content": "Rudeus's Wand (Arrogant Water Dragon King / Aqua Heartia)\nDESC: An A-rank wand personally crafted for Rudeus and gifted to him by Eris Boreas Greyrat on his tenth birthday. [Rudeus Era: pre-Metastasis] the wand's shaft is carved from the rough, bony wood of the Elder Treant (also rendered \"Elder Torrent\"), a tree that grows in the large forest of the eastern Mills Continent; per legend it becomes a \"subspecies\" after drinking from the Faeries' Spring. The tip is adorned with a fist-sized magic stone harvested from a stray dragon of the Begaritt Continent. Both the wood and the stone are A-rank materials. The wand's maker is Chein Procyon of the Asura Kingdom palace's magic team. The wand is made with a lock of Roxy's hair worked into the mana stone as a personal token of mana-bonding; it serves as a connection between Rudeus and Roxy. [Late Timeline] later inherited by Lara Greyrat. The wand is replaced in Rudeus's later years by the Shotgun Cannon, a magic tool of his own design that Orsted suggested as a multi-shot counter to Water God Style practitioners.\nTYPE: Magic Implement (A-rank wand; Water-attuned primary, with smaller boosts to Earth/Wind/Fire).\nEFFECT: [Rudeus Era onward] greatly improves the efficiency of Water Magic, with smaller efficiency boosts to Earth, Wind, and Fire Magic. Carried by Rudeus throughout his adventurer career; serves as a personal connection to Roxy via the lock of her hair. [Late Timeline] inherited by Lara Greyrat. Replaced in Rudeus's later years by the Shotgun Cannon.\nOWNERS: [Rudeus Era] Rudeus Greyrat (gift from Eris on his 10th birthday); [Late Timeline] Lara Greyrat (inherited). Maker: Chein Procyon (Asura Kingdom palace's magic team).",
-      "comment": "[Items] Rudeus's Wand (Arrogant Water Dragon King / Aqua Heartia)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Armor",
-        "MK Series",
-        "MK I",
-        "MK II",
-        "MK III"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Armor (MK Series)\nDESC: Rudeus Greyrat's signature mecha weapons. [Late Rudeus Era] developed jointly with Zanoba Shirone and Cliff Grimoire (later Roxy Migurdia after Cliff's move to Milis) in the Magic City of Sharia. An expansion of the Zariff Prosthetic Arm system that boosts the wearer's physical capabilities in the same manner as the Fighting God's Golden Armor, but on a smaller, mana-fueled scale (in contrast to the life-force-fueled Fighting God Armor). Four variants: MK Zero (prototype, strongest, worst efficiency); MK I (3 meters, camouflage, Fighting-God-Armor-equivalent combat power, affixed with Stone Cannon Gatling Gun and Mana Absorption Stone; destroyed in the Battle of Biheiril Kingdom); MK II (smaller, jet-black, modular, Saint-ranked swordsman-level performance; fitted with Roxy's Scroll Vernier on the back); MK III (a little over 2 meters, MK I-equivalent performance, Rudeus's main armor in his final years; later the basis for mass-produced All-Purpose Magic Armor Series used by Lara Greyrat and the Orsted Corporation).\nTYPE: Magic Implement (mecha armor; mana-fueled Fighting-God-Armor-equivalent combat multiplier).\nEFFECT: [Late Rudeus Era] multiply the wearer's physical capabilities many-fold, harden the skin against magic and physical attacks, and enable the wearer to fight at Saint-to-Seven-Great-Powers tier. MK I holds defensive and offensive power comparable to a Seven Great Powers member, but consumes enormous mana; only Rudeus can sustain it. MK III becomes the basis for the mass-produced All-Purpose Magic Armor Series used by Lara Greyrat and the Orsted Corporation.\nOWNERS: [Late Rudeus Era] Rudeus Greyrat (designer and sole pilot of the MK series, except for testing); [Beyond] Lara Greyrat and the Orsted Corporation (mass-produced All-Purpose Magic Armor Series based on MK III). Builders: Zanoba Shirone, Cliff Grimoire (pre-Milis-move), Roxy Migurdia (post-Cliff-move, Scroll Vernier designer).",
-      "comment": "[Items] Magic Armor (MK Series)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Golden Armor / Fighting God Armor",
-        "Golden Armor",
-        "Fighting God Armor",
-        "Fighting God"
-      ],
-      "secondaryKeys": [],
-      "content": "Golden Armor / Fighting God Armor\nDESC: The golden magic-tool armor built by the Demon-Dragon God Laplace over the course of 10,000 years. [Pre-Laplace War era: ~4,200 years prior to the main story, during the Second Great Human-Demon War] stolen by Badigadi under Hitogami's manipulation; Badigadi wore it as the Fighting God and used it to split Laplace in two (creating the Technique God and Demon God halves), freeing Hitogami from one of his greatest threats. The armor is the source of Badigadi's power during the Laplace split and is ranked #3 of the Seven Great Powers. [Laplace War era onward] the armor went missing after the split; later resurfaced. [Rudeus Era] worn again by Aleksander Rybak (Kalman III) against Orsted. The armor is sentient, self-repairing, life-force-powered (lethal to mortals, except immortal demons), grants magic resistance, replicates all fighting styles, selects perfect moves from over a thousand programmed secret techniques, and induces frenzy the longer it is worn. Also called the Dragon Plate Armor in some translations.\nTYPE: Magic Implement (one-of-a-kind sentient magic-tool armor; life-force-powered, ranked #3 of the Seven Great Powers).\nEFFECT: [Pre-Laplace War onward] multiplies the wearer's physical capabilities many-fold; life-force-powered (lethal to mortals, except immortal demons); grants magic resistance; replicates all fighting styles and selects perfect moves from over a thousand programmed secret techniques; induces frenzy the longer it is worn. Serves as the design inspiration for Rudeus's MK Series of Magic Armor in the Late Timeline.\nOWNERS: [Pre-Laplace War era] Laplace (builder); Badigadi (wore it as the Fighting God to split Laplace). [Rudeus Era] Aleksander Rybak (Kalman III) (wore it against Orsted). Builder: Demon-Dragon God Laplace.",
-      "comment": "[Items] Golden Armor / Fighting God Armor",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Zariff Prosthetic Arm",
-        "Zariff",
-        "prosthetic",
-        "artificial arm"
-      ],
-      "secondaryKeys": [],
-      "content": "Zariff Prosthetic Arm\nDESC: The prosthetic left arm Rudeus Greyrat uses after losing his left hand fighting the Manatite Hydra in the Teleport Labyrinth on Begaritt. [Late Rudeus Era: K423 onward] made by Zariff, a magic-tool craftsman of the Magic City of Sharia, in collaboration with Zanoba Shirone and Cliff Grimoire. The prosthetic is a magic-tool frame that channels mana to substitute the lost hand, including a Mana Absorption Stone in the palm that drains incoming magic; this technology became the foundation for the entire Magic Armor MK Series, which expands the Zariff frame to a full-body mecha.\nTYPE: Magic Implement (prosthetic limb; mana-channeling frame with Mana Absorption Stone).\nEFFECT: [Late Rudeus Era onward] substitutes the lost left hand; channels mana like a wand; drains incoming magic via the Mana Absorption Stone in the palm; serves as the prototype technology for the Magic Armor MK Series.\nOWNERS: [Late Rudeus Era onward] Rudeus Greyrat (sole user). Maker: Zariff (magic-tool craftsman of Sharia), in collaboration with Zanoba Shirone and Cliff Grimoire.",
-      "comment": "[Items] Zariff Prosthetic Arm",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Beloved Sword",
-        "Paul's Sword"
-      ],
-      "secondaryKeys": [],
-      "content": "Beloved Sword (Paul's Sword)\nDESC: Paul Greyrat's signature sword, wielded throughout his adventurer career and through the Metastasis Event rescue arc. [Pre-Metastasis onward] carried by Paul as his primary weapon during his B-rank adventurer years and through his leadership of the Buena Village search party after the Metastasis Event. [Late Rudeus Era: K423] wielded one last time in the Teleport Labyrinth on Begaritt during the Manatite Hydra battle; Paul was decapitated in that battle, and the sword was lost with him. The sword's name reflects Paul's bond with it as his lifelong companion weapon; he paired it with a curved black offhand short sword for dual-wielding.\nTYPE: Magic Implement (named sword; Paul's primary weapon).\nEFFECT: [Pre-Metastasis onward] served as Paul's primary weapon; paired with a curved black offhand short sword for dual-wielding; no documented magical effect beyond standard high-quality swordsmithing.\nOWNERS: [Pre-Metastasis onward] Paul Greyrat (sole owner); lost with Paul in the Manatite Hydra battle at the Teleport Labyrinth [K423].",
-      "comment": "[Items] Beloved Sword (Paul's Sword)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Immortal Sword",
-        "Atoferatofe's Weapon",
-        "Atoferatofe's sword",
-        "Atofe's sword"
-      ],
-      "secondaryKeys": [],
-      "content": "Immortal Sword (Atoferatofe's Weapon)\nDESC: The signature weapon of Atoferatofe Rybak, the Immortal Demon King and a North God Style holder. [Laplace War Era onward] wielded by Atoferatofe through her immortal career; the sword's name reflects her immortality and her status as a Demon King-tier combatant. The sword is paired with her immortal-demon physiology (six-armed jet-black male form, two-armed female form, Demon Eyes, and effective immortality requiring Dragon Tribe methods to permanently kill). [Rudeus Era] wielded against Rudeus and his party during the Biheiril Kingdom arc, where Atoferatofe was defeated and allied with Rudeus.\nTYPE: Magic Implement (named sword; Immortal Demon King weapon).\nEFFECT: [Laplace War Era onward] served as Atoferatofe's primary weapon; no documented magical effect beyond standard high-quality Demon-Race swordsmithing; paired with Atoferatofe's immortal-demon physiology and Demon Eyes for overwhelming combat.\nOWNERS: [Laplace War Era onward] Atoferatofe Rybak (sole owner). Builder: unknown Demon-Race smith.",
-      "comment": "[Items] Immortal Sword (Atoferatofe's Weapon)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Sword of Light",
-        "Gal Farion's Weapon",
-        "Longsword of Light",
-        "Gal Farion's sword"
-      ],
-      "secondaryKeys": [],
-      "content": "Sword of Light (Gal Farion's Weapon)\nDESC: The signature weapon of Gal Farion, the current Sword God and rank #6 of the Seven Great Powers. [Rudeus Era onward] wielded by Gal Farion as his primary weapon in the Holy Land of Swords; the sword's name reflects the Sword God Style's ultimate technique, the Longsword of Light (also rendered Sword of Light), a two-handed swing that approaches the speed of light when fully mastered and can cut a heavily armored opponent in half. The sword is paired with Gal Farion's Sword God Style mastery and Touki (Battle Aura) enhancement. [Late Rudeus Era] wielded against Eris Greyrat during her training at the Holy Land of Swords; Eris eventually reaches Sword King rank under Gal Farion's tutelage.\nTYPE: Magic Implement (named sword; Sword God's primary weapon).\nEFFECT: [Rudeus Era onward] serves as the medium for Gal Farion's Longsword of Light technique; paired with Sword God Style mastery and Touki (Battle Aura) enhancement; capable of cutting heavily armored opponents in half when the Longsword of Light technique is fully mastered.\nOWNERS: [Rudeus Era onward] Gal Farion (sole owner). Builder: unknown Holy Land of Swords smith.",
-      "comment": "[Items] Sword of Light (Gal Farion's Weapon)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Magic Scrolls",
-        "Magic Scroll",
-        "scroll"
-      ],
-      "secondaryKeys": [],
-      "content": "Magic Scrolls\nDESC: One-time use magic items that cast a pre-inscribed spell when triggered. [Creation Era / Pre-Laplace Era onward] developed as a tactical shortcut for magicians who need to cast spells outside their rank or element; manufactured by the Magician Guild in Sharia. [Rudeus Era] Rudeus Greyrat uses Summoning Scrolls as a tactical shortcut to summon Magic Armor or teleport without incantation; Perugius Dola's twelve-summon array aboard the Chaos Breaker is a related scroll-based technology. The Lithograph Stone is a related item used for long-range communication, in place of one-time spell-casting.\nTYPE: Magic Implement (one-time use spell-scroll).\nEFFECT: [Pre-Laplace Era onward] cast the pre-inscribed spell when triggered, bypassing the user's rank or element constraint; consumed on use. Summoning Scrolls summon Magic Armor or teleport the user; Lithograph Stones enable long-range communication.\nOWNERS: [Rudeus Era] Rudeus Greyrat (uses Summoning Scrolls as a tactical shortcut); Perugius Dola (twelve-summon array aboard the Chaos Breaker); Magician Guild graduates (standard scroll users).",
-      "comment": "[Items] Magic Scrolls",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Teleportation Circles",
-        "Teleportation Circle",
-        "teleportation array"
-      ],
-      "secondaryKeys": [],
-      "content": "Teleportation Circles\nDESC: Magic-circle-based teleportation arrays, used by Perugius Dola and other high-ranking magicians to transport people and cargo instantaneously between fixed points. [Creation Era / Pre-Laplace Era] the First Dragon God forbade Teleportation Magic after the War of the Gods, fearing it could be misused to release Hitogami from the Void World. [Laplace War Era onward] the prohibition persists; only Perugius Dola's Chaos Breaker and a few high-ranking Magician Guild facilities maintain sanctioned teleportation circles. [Rudeus Era] the Metastasis Event of K417 was an uncontrolled mass-teleport triggered by the Playback Miko's attempted otherworld summoning, demonstrating the catastrophic potential of uncontrolled teleportation magic.\nTYPE: Magic Implement (teleportation array; sanctioned or forbidden depending on era).\nEFFECT: [Pre-Laplace Era onward] transport people and cargo instantaneously between fixed points; the First Dragon God forbade the school after the War of the Gods; sanctioned use persists aboard the Chaos Breaker (Perugius's twelve-summon array) and at high-ranking Magician Guild facilities; uncontrolled use (as in the Metastasis Event) produces catastrophic mass-teleport disasters.\nOWNERS: [Laplace War Era onward] Perugius Dola (Chaos Breaker's teleportation array); the Magician Guild (sanctioned facilities). the First Dragon God's prohibition persists; uncontrolled users risk releasing Hitogami from the Void World.",
-      "comment": "[Items] Teleportation Circles",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Devil Spear",
-        "Superd Tribe's Weapon",
-        "Devil's Spear",
-        "black trident"
-      ],
-      "secondaryKeys": [],
-      "content": "Devil Spear (Superd Tribe's Weapon)\nDESC: The black trident weapon forged by Laplace for the Superd Tribe during the Laplace War. [Laplace War Era, ~500 to 400 years prior to main story] given to the Superd Tribe by Laplace as their elite strike force's signature weapon; the spear amplified physical abilities but eroded the user's mind and drove them berserk, causing them to kill ally and foe alike. This betrayal by Laplace framed the Superd Tribe as villains, generating the racial discrimination that persists today. Each Superd is born with a forked tail that hardens and detaches as they grow to become their personal trident spear, which they consider their soul; the Devil Spears were a separate, externally forged weapon imposed on the tribe.\nTYPE: Magic Implement (mass-produced trident; mind-eroding enchantment).\nEFFECT: [Laplace War Era] amplified the user's physical abilities but eroded the user's mind and drove them berserk, causing them to kill ally and foe alike. The framing of the Superd as villains persists into the present.\nOWNERS: [Laplace War Era] the Superd Tribe (mass-issued by Laplace); Ruijerd Superdia's personal trident (his own hardened tail, distinct from the Devil Spears). Builder: Demon-Dragon God Laplace.",
-      "comment": "[Items] Devil Spear (Superd Tribe's Weapon)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "timeline",
-        "K407",
-        "K417",
-        "Metastasis",
-        "Pre-Metastasis",
-        "Post-Metastasis",
-        "Pre-War",
-        "Post-War",
-        "Laplace Era",
-        "Rudeus Era",
-        "Early Timeline",
-        "Late Timeline",
-        "Demon Continent Journey",
-        "Age 7",
-        "Age 10",
-        "Age 12",
-        "Age 13",
-        "Age 15",
-        "Age 16",
-        "Age 17"
-      ],
-      "secondaryKeys": [],
-      "content": "Timeline Marking Convention\nTimeline markers indicate when information is true across the story:\n- [Age 0-7: Buena Village]: Childhood under Paul and Zenith, magic discovery, meeting Roxy and Sylphiette.\n- [Age 7-10: Roa / Fittoa]: Tutoring Eris Boreas Greyrat, language acquisition, aristocratic politics.\n- [Age 10: Metastasis Event]: Mana Calamity teleporting citizens across the Six-Faced World in Year K417.\n- [Age 10-13: Demon Continent Journey]: Dead End party with Ruijerd and Eris, surviving the Demon Continent, Great Forest, and Milis.\n- [Age 13-15: Northern Lands / Quagmire]: Depressed solo adventuring with Counter Arrow and Stepped Leader in Rosenburg.\n- [Age 15-17: Ranoa Magic Academy]: Enrollment, reunion with Silent Fitz (Sylphiette), curing erectile dysfunction, marriage.\n- [Age 17: Begaritt / Teleport Labyrinth]: Rescue of Zenith, tragic death of Paul, marriage to Roxy in Year K424.\n- [Age 17-18: Asura Succession & Orsted Subordinate]: The Old Man's diary warning, battle with Orsted, becoming Orsted's subordinate, Ariel's coronation.\n- [Age 19-24: Office of Orsted & Final War]: Expanding Orsted Corporation, fighting Hitogami's apostles, Battle of Biheiril Kingdom in Year K430.\n- [Late Timeline: Sharia Matriarchy]: Domestic life, raising six children, overseeing Magic University development.\n- [Post-Death of Rudeus]: Passing away peacefully at age 74 in Year K481 surrounded by family; future battle with Laplace/Hitogami.\n- [Oldeus Timeline / Alternate Future]: Explicit marker for tragic diary events (Roxy's disease death, Sylphie's execution, Eris's sacrifice) prevented in main canon.\n\nCalendar Convention:\n- Armored Dragon Calendar (K-notation): K407 = Rudeus's birth year; K417 = Metastasis Event; K424 = Teleport Labyrinth expedition; K425 = Ariel ascends Asura throne; K430 = Biheiril War / Rudeus enters Seven Great Powers; K481 = Rudeus passes away at age 74.\n\nEntry Conventions:\n- Character cards: SHORT_DESC (biography, personality, and relationship dynamics) and PHYSIQUE (physical build, traits, outfits).\n- Syntax: | separates major conceptual sections; ; separates clauses; : denotes expansions.",
-      "comment": "[Guide] Timeline & Format Conventions",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true
-    },
-    {
-      "keys": [
-        "Perugius Dola",
-        "Perugius",
-        "Armored Dragon King Perugius",
-        "Armored Dragon King"
-      ],
-      "secondaryKeys": [
-        "Chaos Breaker",
-        "Floating Fortress",
-        "Laplace War"
-      ],
-      "comment": "[Characters] Armored Dragon King Perugius Dola",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Armored Dragon King Perugius Dola\nSHORT_DESC: {Ancient hero of the Laplace War [Laplace Era / Over 400 years old]; one of the Three Great Heroes who defeated and sealed Demon God Laplace; master of the legendary flying citadel Chaos Breaker; summoned summoner of twelve divine familiar spirits (including Arumanfi the Bright and Sylvaril of the Void); harbors an unrelenting, fierce hatred toward Demon God Laplace and the demon race, initially refusing audience to any demon blood; tested Princess Ariel's royal virtue and resolve before granting his sovereign endorsement for her claim to the Asuran throne; shares a mutual intellectual respect and love for board games (such as Asuran chess and poetry) with Rudeus Greyrat; granted Rudeus's second son the honor of the name Sieghart Saladin Greyrat, bestowing upon him the title and blessing of the Dragon King.}\nPHYSIQUE: {Build: [Ancient Dragon King: Laplace Era to Present (400+ Years)] 185cm / 6'1\", 80kg; regal, upright, immaculate royal dragon posture radiating overwhelming ancient majesty; tall, slender, ageless and unmoving across the centuries, poised with an arrogant carriage | Height & Weight: [Constant] 185cm / 6'1\", 80kg | Penile: [All Eras] Ancient draconic anatomy; refined, dormant dragon-king physiology; unburdened by mortal urges aboard Floating Fortress Chaos Breaker (6.0\", noble form) | Skin: [All Eras] Pale alabaster dragon complexion, unlined by age, immortal and spotless | Face: [All Eras] Sharp aristocratic bone structure, majestic and immortal; imperious, condescending expression unchanged in a thousand years | Hair: [All Eras] Gleaming, pure silver-white hair combed neatly back from his brow, falling smoothly over his nape | Eyes: [All Eras] Piercing, golden reptilian eyes with slitted vertical pupils, radiating immense magical depth and cold authority | Distinguishing Traits: Subtle draconic features; imperial dragon aura; commanding presence aboard the Floating Fortress Chaos Breaker; obsessive hatred of Demon God Laplace and the demon race; summoner of twelve divine familiar spirits; master of board games such as Asuran chess | Outfits by Timeline: [Laplace War] Heavy white-and-silver dragon scale plate armor, dragon lance; [Chaos Breaker Sovereign Era] Resplendent white and silver ceremonial draconic dragon-scale robes trimmed in crimson silk, ornate silver dragon circlet on his brow}"
-    },
-    {
-      "keys": [
-        "Geese Nukadia",
-        "Geese",
-        "Gisu",
-        "Nukadia",
-        "Monkey-faced adventurer"
-      ],
-      "secondaryKeys": [
-        "Fangs of the Black Wolf",
-        "Hitogami Apostle"
-      ],
-      "comment": "[Characters] Geese Nukadia",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Geese Nukadia\nSHORT_DESC: {Monkey-demon race adventurer and former infiltrator/scout of the legendary S-rank party 'Fangs of the Black Wolf'; possesses absolutely zero combat ability and no aptitude for magic, but possesses master-class thief skills, cooking talent, wilderness survival, and uncanny social savvy; met Rudeus while imprisoned together in the Doldia Village jail cell on the Great Forest, forming an immediate brotherly camaraderie; served as the crucial scout in the Begaritt Continent expedition that rescued Zenith and defeated the Magic Stone Hydra; harbors a dark, tragic secret: a lifelong devoted Apostle of Hitogami, having survived insurmountable hardships by obeying the Man-God's whisperings; revealed as the mastermind behind the global mobilization of forces against Rudeus and Orsted in the decisive Biheiril Kingdom War; despite their opposition, held profound personal affection for Rudeus and Paul, weeping upon Paul's death and expressing genuine regret over their destined confrontation.}\nPHYSIQUE: {Build: [Monkey-Demon Adventurer: Age 40-55+] 165cm / 5'5\", 54kg; slight, wiry, agile demon build with quick acrobatic reflexes and zero physical brawn - a scout's frame rather than a fighter's | Height & Weight: [Adult] 165cm, 54kg | Penile: [Adult: Age 40-55+] Lean, wiry monkey-demon anatomy; modest, proportional build (5.0\", agile demon physiology) | Skin: [All Eras] Brownish demon skin with prominent monkey-like facial contours | Face: [All Eras] Flat snout, wide permanent grin, squinting canny expression; monkey-demon features | Hair: [All Eras] Scruffy, matted, unkempt dark brown hair sticking out under a bandana | Eyes: [All Eras] Cunning, squinting, expressive hazel eyes that dart constantly to assess exits | Distinguishing Traits: Monkey-demon features; nimble thief fingers; master-class thief skills, cooking talent and wilderness survival; absolutely no combat ability and no aptitude for magic; an Apostle of Hitogami who hid it behind a brotherly smile | Outfits by Timeline: [Doldia Jail & Traveling] Patchwork earth-toned traveler leathers, checkered bandana around his head, utility belt with lockpicks, dice, and cooking spice jars; [Biheiril Final Battle] Concealed chain vest under a dark duster, multiple throwing knives, poison smoke pellets}"
-    },
-    {
-      "keys": [
-        "Talhand of the Cliff",
-        "Talhand",
-        "Dwarven Mage"
-      ],
-      "secondaryKeys": [
-        "Fangs of the Black Wolf",
-        "Begaritt"
-      ],
-      "comment": "[Characters] Talhand of the Cliff",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Talhand of the Cliff\nSHORT_DESC: {Stalwart dwarven magician and former frontline vanguard mage of the legendary party 'Fangs of the Black Wolf'; specializes in Earth and Fire combat magic, uniquely casting offensive spells while clad head-to-toe in heavy metal dwarven plate armor; possesses homosexual romantic orientation, harbored a deep, quiet romantic devotion toward Paul Greyrat, whom he accompanied across Begaritt Continent for years; blunt, sarcastic, and heavy-drinking, yet fiercely loyal to his comrades; assisted Roxy Migurdia in her worldwide search for the displaced Fittoa refugees, and fought bravely in the Teleport Labyrinth to reclaim Zenith; mourned Paul with profound dignity and remained a respected family uncle figure to Rudeus and his sisters.}\nPHYSIQUE: {Build: [Dwarven Mage: Age 60-80+] 135cm / 4'5\", 75kg; exceptionally wide, barrel-chested, muscular dwarven build capable of running in full plate armor; heavy beer belly over rock-hard muscle; short thick limbs | Height & Weight: [Adult] 135cm / 4'5\", 75kg | Penile: [Adult: Age 60-80+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded for this character | [Dwarven Mage era] Unspecified in canon text; consistent with racial anatomy | [Black Wolf & Begaritt Expedition era] Unspecified in canon text; consistent with racial anatomy | [Sharia Visiting era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Ruddy, weathered from forge heat, training yards, and drink | Face: [All Eras] Weathered dwarven face, bulbous nose, scarred forehead, bushy iron-gray eyebrows | Hair: [All Eras] Iron-gray, matching his beard, kept short and bristling| Beard: [All Eras] Dense, bristling iron-gray beard braided with copper rings reaching his belt, matching bushy eyebrows | Eyes: [All Eras] Stern, stony dark brown eyes softened by alcohol and camaraderie | Distinguishing Traits: Unique ability to cast offensive earth/fire magic while enclosed head-to-toe in heavy metal plate; blunt, sarcastic, heavy-drinking, yet fiercely loyal; former vanguard mage of the Fangs of the Black Wolf; quiet romantic devotion toward Paul Greyrat | Outfits by Timeline: [Black Wolf & Begaritt Expedition] Complete suit of heavy blackened dwarven plate armor with reinforced visor, carrying an iron wand rod; [Rikarisu / World Search with Roxy] Traveling plate and mule-tack; [Sharia Visiting] Sturdy dwarven leather tunic, heavy wool kilt, tankard at hip}"
-    },
-    {
-      "keys": [
-        "Alexander Rybak",
-        "Alec",
-        "North God Kalman III",
-        "Kalman III"
-      ],
-      "secondaryKeys": [
-        "Seven Great Powers",
-        "Kajakut",
-        "Biheiril"
-      ],
-      "comment": "[Characters] Alexander Rybak (North God Kalman III / Alec)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Alexander Rybak (North God Kalman III / Alec)\nSHORT_DESC: {The 3rd North God and holder of Rank #7 of the Seven Great Powers until Year K430; son of North God Kalman II (Sandor von Grandeur) and Immortal Demon Lord Atoferatofe Rybak; inherited his mother's demonic physical resilience and rapid regenerative healing combined with the apex sword techniques of the North God style; wielded the legendary Dragon King Sword Kajakut (gravity manipulating blade) and later donned the Golden Fighting God Armor; characterized by a childlike, romantic obsession with becoming a 'True Hero of Justice' who slays great evils and achieves immortal song-worthy renown; manipulated by Hitogami into believing Dragon God Orsted was the world's ultimate menace; defeated in the Biheiril ravine by the coordinated onslaught of Rudeus, Eris, Ruijerd, and Sandor, forfeiting Rank #7 to Rudeus Greyrat; subsequently humbled and recruited into the Orsted Corporation, serving loyally as Orsted's top bodyguard and training young Sieghart Saladin Greyrat.}\nPHYSIQUE: {Build: [Teenager / Early Swordsman] Youthful, lean frame carrying a childlike romantic obsession with becoming a 'True Hero of Justice'; [North God Kalman III: Age 18-25+] 180cm / 5'11\", 76kg, athletic, graceful swordsman build combining demon endurance and human agility; [Fighting God Battle] Enclosed within the golden carapace of the Fighting God Armor | Height & Weight: [Adult] 180cm, 76kg | Penile: [Teenager / Early Swordsman: Age 14-17] undeveloped, adolescent | [North God Kalman III: Age 18-25+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Fighting God Battle era] Unspecified in canon text; consistent with racial anatomy | [Orsted Corporation Security Guard era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Light olive demon skin from his mother Atofe, giving him her rapid regenerative healing | Face: [All Eras] Handsome noble face inherited from Sandor, bright youthful features carrying starry-eyed idealism | Hair: [All Eras] Shimmering ash-blonde hair tied in an aristocratic, heroic topknot | Eyes: [All Eras] Bright, starry amber eyes shining with youthful idealism and ambition | Distinguishing Traits: Demon regeneration inherited from Atofe; youthful hero complex; manipulated by Hitogami into believing Dragone was the great evil; wielder of the Dragon King Sword Kajakut | Outfits by Timeline: [North God Champion Era] Regal traveling doublet with gold embroidery, dueling cape, Dragon King Sword Kajakut sheathed at the hip; [Fighting God Battle] The golden Fighting God Armor; [Orsted Corporation Security Guard] Dark, practical high-collared bodyguard coat with dragon crest}"
-    },
-    {
-      "keys": [
-        "Alexander",
-        "Kalman II",
-        "North God Kalman II",
-        "Sandor von Grandeur",
-        "Sandor"
-      ],
-      "secondaryKeys": [
-        "Dragon Realm",
-        "Behemoth",
-        "Hero"
-      ],
-      "comment": "[Characters] Alexander (North God Kalman II / Sandor von Grandeur)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Alexander (North God Kalman II / Sandor von Grandeur)\nSHORT_DESC: {Legendary hero who slew the Gargantuan Behemoth and pacified the Dragon Realm; son of North God Kalman I and Atoferatofe Rybak; husband to Atofe and father of Kalman III (Alec); former holder of Rank #7 of the Seven Great Powers before voluntarily stepping down to wander the world as an itinerant sellsword under the alias 'Sandor'; a pragmatic master of the North God Style who rejects empty romantic heroism, believing that a genuine hero is one who survives, uses whatever tools are at hand, and genuinely saves lives; aided Princess Ariel during the Asuran succession war and allied with Rudeus in Biheiril to teach his misguided son Alec the true meaning of swordsmanship; wielded the Dragon King Sword Kajakut for centuries before bequeathing it to Alec.}\nPHYSIQUE: {Build: [Legendary Hero / Itinerant Sellsword: Age 150+] 182cm / 6'0\", 82kg; weathered, broad-shouldered, rugged warrior frame with half-demon longevity; lean, pragmatic sellsword conditioning that has outlived half a century of battles | Height & Weight: [Adult] 182cm, 82kg | Penile: [Legendary Hero / Itinerant Sellsword: Age 150+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Heroic Kalman II era] Unspecified in canon text; consistent with racial anatomy | [Sellsword Sandor era] Unspecified in canon text; consistent with racial anatomy | [Asuran Succession War / Biheiril era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Weather-beaten, sun-browned, lined with dueling scars | Face: [All Eras] Weather-beaten face with dueling scars; easygoing, deeply lined grin; rugged stubble on the jaw | Hair: [All Eras] Salt-and-pepper brown hair, messy and windblown | Eyes: [All Eras] Calm, perceptive, deeply experienced hazel eyes | Distinguishing Traits: Pragmatic swordsman posture - a genuine hero is one who survives and uses whatever tools are at hand; half-demon vitality granting extreme longevity; former Rank #7 of the Seven Great Powers who voluntarily stepped down | Outfits by Timeline: [Heroic Kalman II Era] Resplendent hero's mantle, Dragon King Sword Kajakut; [Sellsword Sandor Era] Practical worn mercenary armor of scuffed leather and steel plates, dusty brown cloak, carrying standard steel swords; [Asuran Succession War / Biheiril] Traveling mercenary gear allied with Rudeus}"
-    },
-    {
-      "keys": [
-        "Gino Britz",
-        "Gino",
-        "Sword God Gino",
-        "Sword God Gino Britz"
-      ],
-      "secondaryKeys": [
-        "Holy Land of Swords",
-        "Nina Farion",
-        "Seven Great Powers"
-      ],
-      "comment": "[Characters] Gino Britz (Sword God Gino)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Gino Britz (Sword God Gino)\nSHORT_DESC: {Youngest Sword God in recorded history and holder of Rank #6 of the Seven Great Powers; cousin and eventual husband of Nina Farion; son of the branch Britz family of the Holy Land of Swords; originally appeared shy, introverted, and lacking in competitive bloodlust compared to his fierce cousin Nina; galvanized by his consuming love for Nina when Gal Farion declared she would only marry a man stronger than herself; undertook solitary, psychotic training regimen in the frozen mountain peaks, refining the Longsword of Light to unprecedented, hypersonic velocity; challenged Gal Farion and severed his master's blade in a single blinding instant, seizing the title of Sword God and securing Nina's hand in marriage; declined Hitogami's temptation, choosing peaceful domestic bliss and stewardship of the Holy Land of Swords over senseless bloodshed.}\nPHYSIQUE: {Build: [Dojo Apprentice: Age 14-15] 176cm / 5'9\", ~62kg, compact, shy adolescent frame lacking competitive bloodlust; [Solitary Mountain Training: Age 16-19] Lean, hypersonic-conditioning regimen in the frozen peaks, tendon-and-sinew build; [Peak Sword God #6: Age 20+] 176cm, 70kg, compact, explosive swordsman frame honed to pure speed, untouchable hypersonic body | Height & Weight: [Adult] 176cm, 69kg | Penile: [Dojo Apprentice: Age 14-15, pre-relationship] undeveloped, adolescent | [Peak Sword God: Age 20+, pre-marriage] average, intact, ~5\" | [Marriage to Nina, post-marriage] average, intact, ~5\", matured; father of Nina's child}"
-    },
-    {
-      "keys": [
-        "Randolph Marianne",
-        "Randolph",
-        "Death God",
-        "Death God Randolph"
-      ],
-      "secondaryKeys": [
-        "Seven Great Powers",
-        "Shirone",
-        "Bewitching Sword"
-      ],
-      "comment": "[Characters] Randolph Marianne (Death God)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Randolph Marianne (Death God)\nSHORT_DESC: {Holder of Rank #5 of the Seven Great Powers; grandson of North God Kalman I and the original Death God; master of the 'Bewitching Sword' and North God King-tier swordsmanship, disorienting enemies with illusory sensory feints and lethal speed; formerly a feared general who carved a bloody swathe across the Strife Zone, he grew utterly weary of killing and warfare; retired from active combat to work as a humble royal chef in the kitchens of Shirone Kingdom under King Pax Shirone; befriended Rudeus Greyrat and Zanoba during the Shirone succession crisis, offering wise counsel regarding the hierarchy of the Seven Great Powers; later retired peacefully, eventually passing the title of Death God to Sieghart Saladin Greyrat in Year K460.}\nPHYSIQUE: {Build: [Strife Zone General Era: Age 40-60+] 188cm / 6'2\", 72kg; tall, gaunt, skeletal warrior physique with exceptionally long limbs; a deceptively sleepy posture over lethal King-tier swordsmanship; [Shirone Chef Era] Same gaunt frame rechanneled into kitchen work, calmer and softer | Height & Weight: [Adult] 188cm, 72kg | Penile: [Adult: Age 40-60+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Strife Zone General era] Unspecified in canon text; consistent with racial anatomy | [Shirone Chef Era] Unspecified in canon text; consistent with racial anatomy | [Late Retirement] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Sallow, deathly pale skin, hollow cheeks | Face: [All Eras] Sunken, corpse-like features; drooping, drowsy eyes that read as boredom rather than lethality | Hair: [All Eras] Straggly, ash-grey hair hanging loosely over his sunken face | Eyes: [All Eras] Drooping, drowsy, corpse-like dark eyes | Distinguishing Traits: Bewitching Sword disorientation aura - illusory sensory feints and lethal speed; grandson of the original Death God and of North God Kalman I; grew weary of killing and retired to a humble kitchen | Outfits by Timeline: [Strife Zone General Era] Black-and-crimson battle armor, Death God rapier; [Shirone Chef Era] Clean white chef's apron and linen tunic over concealed lightweight mail, holding a chef's knife or rapier; [Late Retirement] Simple civilian clothes, no weapons}"
-    },
-    {
-      "keys": [
-        "Auber Corvette",
-        "Auber",
-        "North Emperor Auber",
-        "Peacock Swordsman"
-      ],
-      "secondaryKeys": [
-        "North God Style",
-        "Asura Succession",
-        "Darius"
-      ],
-      "comment": "[Characters] Auber Corvette (North Emperor / Peacock Swordsman)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Auber Corvette (North Emperor / Peacock Swordsman)\nSHORT_DESC: {Prominent North Emperor swordsman renowned as the 'Peacock Swordsman'; served as master and instructor of unorthodox North God techniques to Eris Boreas Greyrat and Luke Notos Greyrat; a flamboyant master of psychological warfare, distraction, and dirty fighting, utilizing blinding flash powders, acid throwers, smoke screens, multi-colored cloaks, and dual-wielded blades; hired by Chief Minister Darius Silva Ganius to assassinate Princess Ariel and eliminate Rudeus during the Asuran royal succession crisis; met his match in the Silver Palace gardens, outflanked and slain through the combined assault of Eris Boreas Greyrat and Ghislaine Dedoldia.}\nPHYSIQUE: {Build: [North Emperor Swordsman: Age 35-45] 178cm / 5'10\", 71kg; wiry, exceptionally flexible, gymnastic swordsman frame built for contortionist evasion and dirty fighting | Height & Weight: [Adult] 178cm / 5'10\", 71kg | Penile: [Adult: Age 35-45] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [North Emperor era] Unspecified in canon text; consistent with racial anatomy | [Asura Palace Intrigue era] Unspecified in canon text; consistent with racial anatomy | [Assassination Mission era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Chalk-white theatrical face paint over pallid skin | Face: [All Eras] Exaggerated smirking lips, cunning mocking eyes rimmed with theatrical eyeliner, a performer's mask of a face | Hair: [All Eras] Gaudy, flamboyant dyed hair in vibrant green, gold, and purple plumes | Eyes: [All Eras] Cunning, mocking dark eyes rimmed with eyeliner | Distinguishing Traits: Bizarre contortionist flexibility; multiple hidden pouches across his costume storing blinding powder, caltrops, poison vials, smoke screens, and rations; master of psychological warfare and distraction; instructor of unorthodox North God techniques to Eris and Luke | Outfits by Timeline: [Early North God Training] Bright mismatched training dogi; [Asura Palace Intrigue / North Emperor Peak] Wildly colorful patchwork harlequin mantle resembling a peacock's plumage, billowing silk pantaloons, soft-soled acrobatic boots, multiple concealed short blades and distraction tools; [Assassination Mission] Disguising street clothes}"
-    },
-    {
-      "keys": [
-        "Sauros Boreas Greyrat",
-        "Sauros",
-        "Lord of Roa",
-        "Sauros Boreas"
-      ],
-      "secondaryKeys": [
-        "Fittoa",
-        "Eris",
-        "Asura Nobility"
-      ],
-      "comment": "[Characters] Sauros Boreas Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Sauros Boreas Greyrat\nSHORT_DESC: {Lord of the Fittoa Region, master of Roa, and grandfather of Eris Boreas Greyrat; boisterous, thunderous, and intimidating aristocrat who shouted every command at deafening volume, yet possessed deep paternal warmth and genuine honor; patronized Sword King Ghislaine Dedoldia and approved the hiring of young Rudeus Greyrat as Eris's private tutor; fiercely loved his territory and people; following the catastrophic Metastasis Event that erased Fittoa, was framed by political enemies in the capital (orchestrated by Chief Minister Darius) for treasonous negligence and unceremoniously executed by beheading in the Asuran capital of Ars, a tragic injustice later avenged by Ariel and Rudeus.}\nPHYSIQUE: {Build: [Lord of Roa: Age 60-65] 185cm / 6'1\", 94kg; hulking, barrel-chested, imposing elderly nobleman with formidable shoulder width; a boisterous, thunderous frame that shouts every command at deafening volume | Height & Weight: [Elderly] 185cm / 6'1\", 94kg | Penile: [Elderly: Age 60-65] Virile, robust Boreas patriarch build; broad, imposing noble anatomy (6.0\", vigorous even in advanced age) | Skin: [All Eras] Weather-beaten, florid ruddy complexion, prominent laugh and scowl furrows | Face: [All Eras] Craggy, commanding face; wide fiery intimidating amber eyes that bug out when roaring; deep furrowed brow | Hair: [All Eras] Bristling, lion-like grey-white mane and heavy walrus mustache | Eyes: [All Eras] Wide, fiery, intimidating amber eyes | Distinguishing Traits: Thunderous bellowing voice; habit of yelling at the top of his lungs; crushing bear hugs; deep paternal warmth and genuine honor beneath the bluster; patron of Sword King Ghislaine Dedoldia | Outfits by Timeline: [Roa Citadel Era] Grand fur-trimmed crimson Boreas noble coats, gold-braided velvet waistcoats, heavy signet rings, knee-high leather riding boots; [Execution at Asura Capital: K419] Plain white linen prisoner smock, heavy iron manacles, facing the executioner's block with dignified defiance}"
-    },
-    {
-      "keys": [
-        "Philip Boreas Greyrat",
-        "Philip",
-        "Philip Boreas",
-        "Mayor of Roa"
-      ],
-      "secondaryKeys": [
-        "Eris",
-        "Roa",
-        "Fittoa"
-      ],
-      "comment": "[Characters] Philip Boreas Greyrat",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Philip Boreas Greyrat\nSHORT_DESC: {Mayor of the city of Roa, second son of Sauros Boreas Greyrat, and father of Eris Boreas Greyrat; shrewd, calculating, and politically astute politician who orchestrated the fake kidnapping test that cemented Rudeus's employment as tutor; aimed to position his lineage to reclaim the primary Boreas succession through strategic marriages and alliances; held genuine affection for his wife Hilda and daughter Eris beneath his cynical aristocratic veneer; during the Metastasis Event, was teleported alongside Hilda directly into the perilous Strife Zone (Conflict Region), where both were tragically killed by local armed raiders while desperately attempting to find passage home.}\nPHYSIQUE: {Build: [Mayor of Roa: Age 35-40] 176cm / 5'9\", 68kg; slender, poised, impeccably refined noble frame; the neat, controlled build of a career politician | Height & Weight: [Adult] 176cm / 5'9\", 68kg | Penile: [Adult: Age 35-40] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Mayor of Roa era] Unspecified in canon text; consistent with racial anatomy | [Metastasis Disaster / Conflict Zone era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Fair noble skin, smooth and well-kept | Face: [All Eras] Sharp aristocrat chin, subtle cynical smirk, shrewd calculating features hiding genuine affection beneath a Machiavellian veneer | Hair: [All Eras] Slicked-back crimson-burgundy hair parted cleanly | Eyes: [All Eras] Sharp, analytical, calculating amber eyes behind a calm gaze | Distinguishing Traits: Deceptive political composure; razor-sharp Machiavellian mind; orchestrated the fake kidnapping test that cemented Rudeus's employment as Eris's tutor; hidden fondness for his turbulent daughter Eris | Outfits by Timeline: [Roa Civic Administration] Tailored deep navy and burgundy doublets embroidered with silver Boreas wolf crests, silk cravats, fitted breeches; [Metastasis Disaster / Conflict Zone] Torn noble wool mantle, travel-stained doublet as he sought to protect Hilda in the lawless Conflict Zone}"
-    },
-    {
-      "keys": [
-        "Darius Silva Ganius",
-        "Darius",
-        "Chief Minister Darius"
-      ],
-      "secondaryKeys": [
-        "Asura Kingdom",
-        "Grabell",
-        "Hitogami Apostle"
-      ],
-      "comment": "[Characters] Darius Silva Ganius",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Darius Silva Ganius\nSHORT_DESC: {Chief Minister of the Asura Kingdom and shadow ruler of the imperial court; leader of the First Prince Grabell faction; a corrupt, hedonistic, and thoroughly ruthless aristocrat who amassed massive wealth through embezzlement, political assassinations, and slave trafficking; orchestrated the judicial murder of Sauros Boreas Greyrat and deployed Water God Reida Lia and North Emperor Auber to assassinate Princess Ariel; acted as a key Apostle of Hitogami tasked with ensuring Grabell's puppet ascension; exposed during the Silver Palace confrontation when Orsted and Rudeus neutralized his champions; fled into the palace catacombs and was cornered and executed, ending his tyrannical stranglehold over Asura.}\nPHYSIQUE: {Build: [Chief Minister of Asura: Age 45-52] 172cm / 5'8\", 92kg; corpulent, flabby, hedonistic aristocratic frame reeking of perfumed oils; soft, unused to exertion, carried with pompous authority | Height & Weight: [Adult] 172cm / 5'8\", 92kg | Penile: [Adult: Age 45-52] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Ministerial Court Prime era] Unspecified in canon text; consistent with racial anatomy | [Flight & Demise: K425] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Pasty, sweating pale skin under heavy cosmetic powders, multiple double chins | Face: [All Eras] Fleshy jowls, heavy jowled sneer; lecherous, greedy expression permanently fixed in appraisal | Hair: [All Eras] Thinning, oiled black hair combed over the scalp | Eyes: [All Eras] Beady, greedy dark eyes sunken into fleshy jowls | Distinguishing Traits: Labored breathing; lecherous greedy sneer; perfumed handkerchief perpetually dabbing sweat; shadow ruler of the imperial court who traded in embezzlement, political assassination, and slave trafficking; key Apostle of Hitogami | Outfits by Timeline: [Ministerial Court Prime] Extravagant silk and velvet Asuran ministerial robes lined with rare white ermine fur, heavy gem-encrusted gold necklaces, gemmed rings on every finger; [Flight & Demise in the Royal Palace: K425] Disheveled brocade night robe, muddied velvet slippers as he fled Orsted and Dohga}"
-    },
-    {
-      "keys": [
-        "Moore",
-        "Moore the Seneschal",
-        "Moore Seneschal"
-      ],
-      "secondaryKeys": [
-        "Atofe",
-        "Necropolis",
-        "Demon Lord"
-      ],
-      "comment": "[Characters] Moore",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Moore\nSHORT_DESC: {Head seneschal, chief strategist, and trusted personal retainer to Immortal Demon Lord Atoferatofe Rybak; the sole voice of reason, order, and intellectual governance within the chaotic Atofe domain on the Demon Continent; an accomplished Earth and Water combat mage who commands Atofe's demon legions with supreme tactical discipline; deeply loyal to Atofe despite her erratic, battle-crazed whims, constantly cleaning up administrative disasters and mediating diplomatic treaties; assisted Rudeus Greyrat during the mobilization of Atofe's forces for the Biheiril campaign, honoring contracts with impeccable integrity.}\nPHYSIQUE: {Build: [Demon Seneschal: Age 100+] 180cm / 5'11\", 74kg; upright, dignified, disciplined demon gentleman frame, always poised at attention | Height & Weight: [Immortal Constant] 180cm / 5'11\", 74kg | Penile: [Adult: Age 100+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Demon Seneschal era] Unspecified in canon text; consistent with racial anatomy | [Biheiril Campaign era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Ash-grey demon skin, smooth and composed | Face: [All Eras] Composed gentlemanly expression, neat pointed demon chin, polite tired sigh etched into his features | Hair: [All Eras] Slicked-back dark grey hair parted immaculately | Eyes: [All Eras] Narrow, stoic, observant dark eyes behind wire-rimmed spectacles| Forehead: [All Eras] Small curved demon horns tucked behind his slicked hair | Distinguishing Traits: Dignified butler manners; the sole voice of reason and intellectual governance in the chaotic Atofe domain; accomplished Earth and Water combat mage commanding Atofe's demon legions; polite sighs at Atofe's antics | Outfits by Timeline: [Necros Fortress / Centuries of Service] Pristine double-breasted black demon butler frock coat, starched white wing-collar shirt, silk cravat, white gloves, polished black leather boots; [Biheiril Campaign] Same uniform worn in the field with a campaign mantle}"
-    },
-    {
-      "keys": [
-        "Arumanfi the Bright",
-        "Arumanfi",
-        "Spirit of Light Arumanfi"
-      ],
-      "secondaryKeys": [
-        "Perugius",
-        "Chaos Breaker",
-        "Twelve Familiars"
-      ],
-      "comment": "[Characters] Arumanfi the Bright",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Arumanfi the Bright\nSHORT_DESC: {The First Familiar Spirit of Armored Dragon King Perugius Dola; the embodiment of radiant light and celestial illumination; possesses the divine ability to traverse any visible distance at the instantaneous speed of light, serving as Perugius's ultimate scout and divine messenger; wields piercing light beams capable of incinerating targets from miles away; investigated the anomalous mana sphere above Roa prior to the Metastasis Event, briefly clashing with Ghislaine and Rudeus; serves as herald and vanguard escort for guests summoned aboard the floating citadel Chaos Breaker.}\nPHYSIQUE: {Build: [First Familiar Light Spirit] 175cm / 5'9\", weightless; translucent, ethereal humanoid silhouette composed of blinding pure photonic radiance, maintaining a slender humanoid shape at will | Height & Weight: [Spirit Constant] 175cm / 5'9\", weightless light | Skin: [All Eras] Luminous golden light approximating human contours, warm and radiating visible photons instead of flesh | Face: [All Eras] Humanoid light-form behind a bird-like mask, eye-slits blazing with pure solar radiance | Hair: [All Eras] Streamers of glowing golden-white light falling like silk | Eyes: [All Eras] Pure solar radiance shining through the eye-slits of his mask | Distinguishing Traits: Instantaneous light-speed teleportation within line of sight; can traverse any visible distance instantly, serving as Perugius's scout and divine messenger; piercing light beams capable of incinerating targets from miles away; never touches the ground | Outfits by Timeline: [Ancient Dragon Era to Modernity] Ethereal white-and-gold Dragon race ceremonial tunics woven from pure light mana, golden shoulder pauldrons, carrying a sunstone light lance}"
-    },
-    {
-      "keys": [
-        "Sacred Beast Leo",
-        "Leo",
-        "Sacred Beast",
-        "Doldia Guardian"
-      ],
-      "secondaryKeys": [
-        "Lara Greyrat",
-        "Greyrat Household",
-        "Hitogami Watchdog"
-      ],
-      "comment": "[Characters] Sacred Beast Leo",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Sacred Beast Leo\nSHORT_DESC: {The Guardian Sacred Beast venerated by the Doldia Beastfolk Tribe for centuries; a divine, sentient white wolf gifted with prophetic awareness and instinctive telepathic communion; prophesied to recognize and guard the chosen savior destined to vanquish Hitogami; immediately recognized the newborn Lara Greyrat as his fated master upon arriving in Sharia, refusing to leave her side; named 'Leo' by Rudeus; resides permanently at the Greyrat residence as an enormous, affectionate family pet and watchful guardian; possesses the uncanny ability to detect Hitogami's subtle astral influence and malicious intent, serving as an infallible early-warning system.}\nPHYSIQUE: {Build: [Doldia Divine Beast] Enormous, quad-eared divine canine measuring over 2.2 meters in length and weighing over 320kg; 140cm at the shoulder; massive paws capable of silent tread or crushing stone; a powerfully built white wolf frame | Height & Weight: [Adult Beast] 140cm at the shoulder, 2.2m length, 320kg | Skin: [All Eras] Covered in impossibly soft, luxurious snow-white divine fur that repels dirt, stains, and minor magical elements | Face: [All Eras] Noble lupine muzzle with dark pads; four ears - two upright canine ears and two pendulous hearing ears | Hair: [All Eras] Pure white gleaming pelt, thick and pristine throughout | Eyes: [All Eras] Deep sapphire-blue, highly intelligent canine eyes filled with gentle wisdom and devotion | Ears: [All Eras] Quad-eared head - two upright canine ears plus two pendulous hearing ears | Distinguishing Traits: Quad-eared head and pure white gleaming fur; gentle disposition toward children; ferocious battle growl against Hitogami disciples; prophetic awareness and instinctive telepathic communion; detects Hitogami's astral influence as an infallible early-warning system | Outfits by Timeline: [Doldia Sacred Grove] Natural pristine white pelt; [Greyrat Household Pet / Guardian Era] Decorated leather harness woven by Sylphiette, colorful bell collar presented by Lara, baby saddle for carrying toddler Lara on rides}"
-    },
-    {
-      "keys": [
-        "Timothy",
-        "Counter Arrow Leader"
-      ],
-      "secondaryKeys": [
-        "Counter Arrow",
-        "Sara",
-        "Northern Lands"
-      ],
-      "comment": "[Characters] Timothy",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Timothy\nSHORT_DESC: {B-Rank adventurer and level-headed party leader of 'Counter Arrow', active in the Northern Lands around Rosenburg; skilled archer and wind combat mage who directs party formations with calm, dependable tactical judgment; harbored a quiet, protective romantic affection for the party's ace archer Sara; welcomed the brooding, depressed Rudeus Greyrat into their party missions, offering fair contract shares and patient hospitality; served as a grounding moral force when Sara and Rudeus experienced their awkward emotional falling-out; remained a respected veteran adventurer who led Counter Arrow safely through hazardous northern winters.}\nPHYSIQUE: {Build: [B-Rank Counter Arrow Leader: Age 22-26] 175cm / 5'9\", 68kg; lean, athletic ranger build with a calm, upright posture; the dependable frame of a veteran northern archer | Height & Weight: [Adult Adventurer] 175cm / 5'9\", 68kg | Penile: [Adult] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | Skin: [All Eras] Sun-tanned northern skin, weathered by northern winters | Face: [All Eras] Earnest, friendly smile; open, level-headed features that put younger adventurers at ease | Hair: [All Eras] Short, tidy light brown hair combed neatly | Eyes: [All Eras] Kind, focused hazel eyes, quick to read a battlefield | Distinguishing Traits: Calm leadership demeanor; quick-draw archery gloves; dependable veteran manner; level-headed tactical judgment; harbored a quiet protective affection for Sara | Outfits by Timeline: [Early Adventuring] Simple leather archer's tunic, quivered recurve bow; [Counter Arrow Northern Quests: K417-K422] High-grade boiled leather armor, green wool hooded cloak, fur-trimmed bracers, reinforced composite longbow; [Later Ranoa Era] Clean wool shirts, traveling coats, walking staff}"
-    },
-    {
-      "keys": [
-        "Nokopara",
-        "Horse-faced Nokopara"
-      ],
-      "secondaryKeys": [
-        "Rikarisu",
-        "Dead End",
-        "Demon Continent"
-      ],
-      "comment": "[Characters] Nokopara",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Nokopara\nSHORT_DESC: {Equine-faced demon adventurer based in Rikarisu City on the Demon Continent; leader of the adventurer party 'Pettan Stamp'; a former warrior under Ruijerd Superdia's command centuries earlier during the Laplace War, who degenerated into a cunning, opportunistic hustler; discovered Dead End's identity and attempted to blackmail Rudeus and Ruijerd for adventurer guild reward fees; thoroughly intimidated into submission by Ruijerd's terrifying aura, subsequently forced to assist them in smuggling Superd across the Ringus Sea; later encountered by Roxy and Talhand, providing crucial early intelligence regarding Dead End's travels.}\nPHYSIQUE: {Build: [Pettan Stamp Leader: Age 400+] 185cm / 6'1\", 73kg; lanky, slightly hunched demon adventurer frame; long-limbed with a shifty, untrustworthy posture | Height & Weight: [Adult Demon] 185cm / 6'1\", 73kg | Penile: [Adult] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | Skin: [All Eras] Mottled grey equine demon skin, coarse along the neck and muzzle | Face: [All Eras] Equine demon face with an elongated horse-like snout and a perpetual sly smirk | Hair: [All Eras] Stringy, thinning dark mane along the back of the neck | Eyes: [All Eras] Shifty, calculating, wide dark eyes with horizontal equine pupils | Distinguishing Traits: Horse face; nervous neighing chuckle; scheming criminal opportunism; former warrior under Ruijerd Superdia who degenerated into a blackmail-hustling adventurer; leader of the party Pettan Stamp | Outfits by Timeline: [Demon Continent Adventuring] Shabby leather vest with worn copper studs, stained linen trousers, mismatched leather greaves, rusty scimitar and a blackmail ledger; [Port Zant Smuggling Conspiracies] Faded green adventurer coat with deep concealed pockets for bribes and smuggled goods}"
-    },
-    {
-      "keys": [
-        "Dragon King Sword Kajakut",
-        "Kajakut",
-        "Dragon King Sword",
-        "Gravity Sword"
-      ],
-      "secondaryKeys": [
-        "Magic Swords",
-        "Laplace",
-        "Kalman",
-        "Fighting God"
-      ],
-      "comment": "[Items] Dragon King Sword Kajakut",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Dragon King Sword Kajakut\nTYPE: One of the supreme 48 Magic Swords crafted by Demon Dragon King Laplace, forged from the bones and core crystal of an ancient Dragon King.\nEFFECT: Possesses the miraculous enchantment of gravity manipulation. The wielder can freely alter the gravitational weight and vector of the blade and its surroundings: reducing its weight to near zero for blinding supersonic swings, increasing its impact mass to thousands of tons upon collision, or generating gravitational shockwaves that pull enemies into strike range or repel lethal magic spells.\nOWNERS: Wielded for centuries by North God Kalman II (Alexander / Sandor von Grandeur), who used it to slay the Gargantuan Behemoth; bequeathed to North God Kalman III (Alexander Rybak), who used it during his ascension to Rank #7 of the Seven Great Powers; subsequently integrated into the security armory of the Orsted Corporation.\nSIGNIFICANCE: Widely regarded alongside the Holy Blade of the Sword God as one of the two deadliest bladed relics in existence."
-    },
-    {
-      "keys": [
-        "Teleport Labyrinth",
-        "Labyrinth of Teleportation",
-        "Begaritt Labyrinth"
-      ],
-      "secondaryKeys": [
-        "Rapan",
-        "Magic Stone Hydra",
-        "Paul Greyrat",
-        "Zenith"
-      ],
-      "comment": "[Locations] Labyrinth of Teleportation (Teleport Labyrinth)",
-      "constant": false,
-      "position": "before_char",
-      "depth": 4,
-      "sortOrder": 100,
-      "enabled": true,
-      "content": "Labyrinth of Teleportation (Teleport Labyrinth)\nDESC: A perilous, subterranean S-rank magic dungeon situated deep within the desert wasteland near Rapanear (Rapan) on the Begaritt Continent. Constructed atop the remnants of ancient teleportation ruins from the War of the Gods, its labyrinthine corridors are tiled with disorienting crystalline teleportation panels that scatter expedition parties randomly across different subterranean floors.\nMAP: Six deadly underground strata populated by lethal high-mana monstrosities, minotaurs, and trap mechanisms. The 6th floor sanctuary houses the Magic Stone Hydra—a colossal multi-headed dragon with magic-nullifying scales—guarding the central mana crystal containing the entombed Zenith Greyrat.\nSIGNIFICANCE: The staging ground for the fateful expedition in Year K424 led by Paul Greyrat, Rudeus Greyrat, Roxy Migurdia, Elinalise, and Talhand. Resulted in the dramatic rescue of Roxy, the recovery of Zenith's crystallized body, the severing of Rudeus's left forearm, and the tragic heroic death of Paul Greyrat."
-    }
-  ],
-  "fictionadvLorebook": true
-}
+# Mushoku Tensei: Jobless Reincarnation Lorebook
+
+A comprehensive lorebook compiled from Mushoku Tensei light novels (Volumes 1–26), canon side stories (Old Dragon's Tale, Subjugation of the King Dragon King, Redundant Reincarnation), and reference lore.
+
+Entries are organized under five main categories: Characters, Locations, World Lore, Items, and The Diary. Cross-references between entries (family ties, faction memberships, locations of residence) are woven into the entry descriptions themselves and not expressed as grouping sub-headings.
+
+**Timeline Marking Convention**
+
+Throughout the lorebook, timeline markers indicate when information is true. Markers used:
+
+- `[Age 0-7: Buena Village]`, `[Age 7-10: Roa / Fittoa]`, etc.: Rudeus's age and corresponding life stage
+- `[Pre-Metastasis]` / `[Post-Metastasis]`: before/after the Teleport Incident that scattered people across the world
+- `[Pre-War]` / `[Post-War]`: before/after the Laplace-related war events near the end of the series
+- `[Pre-Story]` / `[Laplace Era]` / `[Rudeus Era]` / `[Post-Death of Rudeus]`: for immortal figures, gods, and era markers
+- `[Demon Continent Journey]`: travel-phase marker used alongside `[Age 10-13: Demon Continent]`
+- `[Early Timeline]` / `[Late Timeline]`: for general life-stage references
+
+These markers are dynamic: the lorebook can be queried against a specific timeline point to determine what is currently true for a character or location.
+
+**Entry Format Conventions**
+
+- **Character cards**: `# Name`, `SHORT_DESC: {...}`, `HISTORY: {...}`, `PHYSIQUE: {...}`. Distinct fields separated by blank lines.
+- **Location entries**: `# Name`, `DESC: {...}`, `MAP: {...}`, `NEARBY_LOC: {...}`, `HISTORY: {...}`.
+- **World Lore & Items**: `# Name`, `DESC: {...}`, `EFFECT: {...}`, `HISTORY: {...}`, etc.
+- **The Diary**: `# Name`, `CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 1):`, etc.
+
+
+---
+
+# Characters
+
+---
+
+# Rudeus Greyrat
+
+SHORT_DESC: {Reincarnated Japanese NEET [Birth: K407] possessing the Laplace Factor, god-class mana, and voiceless casting; famed as 'Quagmire', 'The Dragon God's Right Hand', and #7 of the Seven Great Powers (K430); master of Saint-to-Emperor elemental magic, wielder of the Demon Eyes of Foresight and Clairvoyance, and builder of the Magic Armor series| [Personality & Traits] Plagued by imposter syndrome and fear of regressing; acts with meticulous caution and humility; abhors pointless slaughter; devoted to his three wives—Roxy, Sylphiette, and Eris; lives to protect his family against Hitogami.}
+
+HISTORY: {[Age 0-7: Buena] Magic prodigy under Roxy, befriended Sylphie; [Age 7-10: Roa] Tutored Eris Boreas Greyrat; [Age 10-13: Demon Continent] Teleported in Metastasis, traversed wilderness in Dead End with Ruijerd and Eris; [Age 13-15: Northern Lands] Solo adventurer 'Quagmire'; [Age 15-17: Ranoa] Enrolled in Magic Academy, cured of ED, married Sylphiette; [Age 17: Begaritt] Teleport Labyrinth, lost left arm and father Paul, married Roxy; [Age 17-18: Asura] Allied with Orsted, married Eris, crowned Queen Ariel; [Age 19-24: Biheiril] Orsted Corp...}}
+
+PHYSIQUE: {Build: [Age 0-7: Buena] Plump, adorable toddler growing into an active boy, [Age 7] 145cm small-framed with weak musculature; [Age 7-10: Roa] Agile, lightly toned child frame from Paul's morning sword training and physical drills; [Age 10-13: Demon Continent] Lean, wiry, sunburned traveler physique hardened by monster survival; [Age 13-15: Northern Lands] Lanky, brooding adolescent growth spurt, 169cm and leaner, broad shoulders developing; [Post-Metastasis: Age 13-15] After Eris's separation and resulting ED, redirects his energy into regular body training, with the dividends showing once he intensifies his exercise; [Academy Era: Age 15-17] Spends most of his time in obscuring robes or uniforms, which contrasts when undressed and shows off his shredded physique; [Age 16-24: Peak Adult] 175cm / 5'8.8", 70kg, athletic swordsman-magician build with firm musculature, lacking natural Battle Aura (Touki) due to Laplace Factor; [Late Timeline: Age 70+] 175cm, dignified elderly patriarch, slightly stooped shoulders, weathered hands, serene posture; [Epilogue] frail, weathered | Height & Weight: [Age 5] 105cm, 18kg; [Age 7] 145cm; [Age 10] 138cm, 32kg; [Age 15] 168cm, 58kg; [Adult: Age 20+] 175cm, 70kg | Penile: [Age 7-12: Child] small, undeveloped | [Age 12-14: Teen, pre-relationship] average, intact, maturing | [Age 14-17: Teen, intimate with Sylphiette/Eris] average, intact, virile | [Age 17-18: Begaritt, separated from Eris] erectile dysfunction from the trauma of separation — unable to maintain an erection | [Age 18-30s: Post-Eris, Zariff prosthetic era] persistent ED despite the prosthetic arm | [Post-Orsted healing: Late Timeline] hand restored, ED gradually resolves | [Age 70+: Epilogue] aged but functional, weathered | Skin: [Childhood] Fair, chubby Buena Village complexion; [Adventurer: Age 10-17] Weather-beaten, wind-tanned skin; [Adult] fair; [Late Timeline] weathered with age | Face: [All Eras] Average, thoughtful; mole beneath left eye; ahoge sticking up on top of his head; [Adult] Smooth, handsome face inheriting Paul's gentle facial contours; [Late Timeline] Dignified age lines, crow's feet, calm and contented smile, kind paternal gaze; [Epilogue] full beard | Hair: [Age 7-10] Light brown ponytail like Paul's; [Age 11] Fades white from mana exhaustion during the teleport, restored; [Age 13-19: Teenager] Silky warm chestnut-brown hair parted slightly to the left, grown out past his shoulders and tied into a low ponytail; [Age 22-23] White again; [Late Timeline: Age 60+] Silver-grey hair streaked with white, kept neatly trimmed; [Epilogue] entirely white | Eyes: [Birth] Green, gentle and warm; [Age 11+] Right eye replaced by Kishirika with the ruby-red Demon Eye of Foresight (she crushes his right eye and substitutes it), leaving him heterochromatic - green left eye, demon right eye, pupil slitted when active, used to predict an opponent's next move but less effective against counter-attackers or faster, more skilled opponents; later equipped with Demon Eye of Clairvoyance; [Late Timeline] Crow's feet at eye corners, kind paternal gaze | Distinguishing Traits: [Age 17: Begaritt] Left forearm severed by the Manatite Hydra during the Teleport Labyrinth rescue of Zenith; [Post-Begaritt] Zariff Magic Stone Prosthetic Arm, a magical prosthetic frame made by Zariff of Sharia in collaboration with Zanoba Shirone and Cliff Grimoire, black magic-conductive alloy with rocket-fist mechanism, wire launcher, and a Mana Absorption Stone in the palm, the frame that became the foundation of the entire Magic Armor MK series; [Late Timeline] Left hand fully restored by Orsted's healing magic | Outfits by Timeline: [Age 0-7: Buena Village] Light cotton tunics, woolen shorts, small wooden wand; [Age 7-10: Roa] Fine aristocratic blue Boreas doublet, tailored breeches, leather walking shoes; [Age 10-13: Demon Continent / Dead End] Rugged grey traveling robe worn open with deep hood, leather armguards, sturdy trail boots, holding apprentice wand; [Age 13-15: Northern Lands / Quagmire] Heavy ash-grey fur-lined northern adventuring duster, thick snow boots, fingerless leather gloves; [Age 15-17: Ranoa Magic Academy] White-and-crimson university student uniform with tailored capelet and wand holster; [Age 17+: Adult / Orsted Corporation] Iconic custom grey traveling robe trimmed with golden dragon scale motifs, refined clothing judged well-dressed by Perugius, Zariff prosthetic gauntlet on left arm, wielding Aqua Heartia (Arrogant Water Dragon King staff); [Battle Armors] Magic Armor MK-I (three-meter titan exoskeleton), Magic Armor MK-II (wearable fitted battle armor), Magic Armor MK-Zero (heavy anti-god siege armor); [Late Timeline: Sharia] Comfortable charcoal-grey silk robes, reading glasses, soft slippers}
+
+---
+
+# Sylphiette Greyrat
+
+SHORT_DESC: {First wife of Rudeus Greyrat, mother of Lucie and Sieghart, and childhood companion from Buena Village [Birth: K407]; a quarter-elf magician possessing natural voiceless incantation in Wind, Water, and Earth magic, as well as intermediate Healing; granddaughter of Elinalise Dragonroad and daughter of Laws; born with radiant emerald hair due to latent Superd mana factor, turning snow-white after severe mana exhaustion during the Fittoa Transfer Incident; served as the masked royal bodyguard 'Silent Fitz' to Princess Ariel Anemoi Asura for eight years, mastering royal court intrigue and concealed spellcasting; deeply gentle, perceptive, and accommodating, she serves as the stabilizing emotional anchor of the Greyrat multi-wife household, fostering deep mutual respect and affection with Roxy and Eris; possesses a mild inferiority complex regarding her combat ceiling compared to Roxy's academy scholarship and Eris's swordsmanship, yet remains Rudeus's most trusted confidante and intimate healer.}
+
+HISTORY: {[Age 0-7: Buena Village & Awakening] Bullied by village youths due to her green hair resembling the feared Superd race; rescued by Rudeus using water magic; developed an inseparable bond with Rudeus, who taught her reading, arithmetic, and voiceless magic casting; separated when Paul arranged for Rudeus to tutor Eris in Roa to foster Sylphie's independence; [Age 10-15: Fittoa Incident & Silent Fitz] Teleported directly into the Asuran Royal Palace gardens during the Mana Catastrophe; used massive free-fall wind magic to cushion her landing, turning her hair white from total mana depletion; saved Second Princess Ariel from a falling monster and was recruited as her masked bodyguard 'Silent Fitz', disguising her gender and identity with enchanted sunglasses; [Age 15-16: Ranoa University & Reconnection] Escorted Ariel and Luke into political exile at the Magic University of Ranoa; reunited with Rudeus, who initially failed to recognize her due to her male disguise and white hair; gently guided Rudeus through his trauma and ED, leading to their marriage in Sharia and the birth of their first daughter Lucie; [Age 17-23: Asura Succession & Household Matriarch] Welcomed Roxy and Eris into the household with warmth and grace, establishing the domestic harmony of the Greyrat residence; accompanied Ariel and Rudeus to the Asuran Kingdom to secure Ariel's coronation, dueling royal bodyguards and avenging Luke's family conflicts; gave birth to Sieghart Saladin; [Age 24+: Orsted Corporation Support] Supported Rudeus's global operations against Hitogami, managing the family estate and tutoring the next generation; [Oldeus Timeline Divergence] In the alternate dark future of the Diary, Sylphiette was abandoned emotionally by a grief-stricken, alcoholic Rudeus after Roxy's death; departed with Lucie for Asura to back Ariel's failed coup, where she was publicly executed in the Silver Palace square before Rudeus arrived to incinerate the capital.}
+
+PHYSIQUE: {Build: [Age 4-7: Buena] Child frame; [Age 10-15: Silent Fitz] Adolescent growth, slender and androgynous, easily disguised as an elven boy; [Age 16+: Adult Matriarch] 162cm / 5'4", 48kg, slender, graceful elven silhouette that ages slowly from elf heritage, A-Cup Angst over her petite figure especially next to Ariel and Eris; ages at one-third human rate; [Late Timeline: Age 70+] Retains the radiant physical appearance of a woman in her early 30s due to elven blood | Height & Weight: [Age 7] 115cm, 20kg; [Age 12] 142cm, 34kg; [Age 16+] 162cm, 48kg | Breasts: [Childhood: Age 4-7] Prepubescent child, flat | [Silent Fitz Era: Age 10-15] Flat, androgynous chest bound under royal guard uniform | [Adult Matriarch & First Wife: Age 16+] Delicate A-cup (A-Cup Angst next to Ariel and Eris) | [Pregnancy & Nursing: Lucy & Sieghart] Temporarily B-cup, tender and full for lactation | [Late Timeline: Age 70+] Delicate, firm elven A-cup; does not sag due to slow elven aging | Vaginal Depth: [Childhood & Fitz Era: Age 4-15] Undeveloped elven child anatomy | [First Wife: Age 16+] 5.0", Tightness: Snug, bloodstained at defloration | [Post-Childbirth & Late Timeline] 5.2", Tightness: Accommodating | Skin: [All Eras] Pale, fair porcelain complexion | Face: [All Eras] Very beautiful, elvish features, delicate elven cheekbones, soft chin, subtle feminine lips; [Late Timeline] Still radiant, early-30s appearance | Hair: [Childhood: Age 4-10] Short, unruly emerald-green hair resembling the Superd, a Mark of the Supernatural indicating her Laplace Factor; [Post-Teleport: Age 10 onward] Pure snow-white hair from mana shock after exhausting her magic to survive being teleported midair, permanent in her early teens; [Age 10-15: Fitz Era] Cut short in a boyish crop under a peaked cap; [Age 16+: Wife] Grown out into silky long white hair draping gracefully past her shoulders with loose bangs; [Late Timeline] Grown long and feminine after marriage, styled in a more mature look | Eyes: [All Eras] Ruby-red, moist, expressive and gentle, inherited from her grandmother Elinalise Dragonroad | Ears: [All Eras] Long, pointed indicators of elf ancestry that move up and down depending on her mood; she has the habit of touching her pointy ears when nervous or flustered | Distinguishing Traits: Faint childhood burn mark on chest from an ancient fire incident | Outfits by Timeline: [Age 4-7: Buena Village] Hand-me-down boyish village tunic and shorts, leather moccasins; [Age 10-15: Silent Fitz] Masculine royal guard uniform of white-and-gold Asuran cloth with high collar, white leather gloves worn permanently to hide her identity, dark enchanted sunglasses she never takes off; [Age 16-17: Ranoa Reunion] Academy student uniform with short capelet; [Age 17+: Domestic Matriarch / Late Timeline: Wife] Soft pastel linen dresses, longer hair loose, embroidered shawls, apron for household chores, silver hairpin gifted by Rudeus, wearing the Gale Boots on missions}
+
+---
+
+# Roxy Migurdia
+
+SHORT_DESC: {Second wife of Rudeus Greyrat, mother of Lara and Lily, and revered Water King-class magician [Birth: K373]; a demon of the long-lived Migurd tribe from the Demon Continent, born uniquely without her race's innate telepathy; Rudeus's childhood tutor whose guidance enabled him to overcome his past-life agoraphobia and venture outside his Buena home; venerated by Rudeus as his personal 'Goddess of Wisdom', complete with a sacred altar in his Sharia residence; an accomplished wandering scholar, former royal tutor to Prince Pax in Shirone, and esteemed professor of magic at the Ranoa Magic Academy; possesses a mature, methodical, and earnest personality with a charming clumsiness in domestic chores; capable of shortened chant incantations, simultaneous spellcasting, and high-tier offensive elemental magic; her calm intellectual perspective perfectly balances Eris's ferocity and Sylphiette's gentleness within the Greyrat family.}
+
+HISTORY: {[Age 0-14: Migurd Village Isolation] Born in the Migurd village on the Demon Continent; isolated because she lacked telepathy while all villagers communicated silently; left home at age fourteen with an itinerant adventurer to see the wider world and master spoken incantations; [Age 14-30: Adventurer & Royal Academies] Wandered the Central and Demon Continents; graduated from the Magic University of Ranoa as an advanced magician; hired by Paul Greyrat to tutor 5-year-old Rudeus in Buena Village, teaching him Saint-tier Cumulonimbus before departing when she realized his immense talent; served as royal tutor in the Shirone Kingdom, attempting to discipline Prince Pax before fleeing his unwanted advances; [Age 30-44: Fittoa Search & Teleport Labyrinth] After the Mana Catastrophe, joined Nokopara and Talhand to search for the Greyrat family across the Demon and Begaritt Continents; trapped alone inside the depths of the Teleport Labyrinth for over a month, surviving on stone walls and ration magic until rescued by Rudeus in an iconic dungeon encounter; assisted in defeating the Manatite Hydra, comforting Rudeus during his severe depression following Paul's death; married Rudeus in Sharia; [Age 45+: Motherhood, Professorship & Orsted Conflicts] Appointed Professor of Water Magic at the Magic University of Ranoa; gave birth to Lara (the prophesied savior of the world) and Lily; supported Rudeus in battles against Hitogami's disciples; [Oldeus Timeline Divergence] In the alternate dark future recorded in the Diary, contracted Magic Stone Disease (Petrification Syndrome) due to an infected demon rat released into the cellar by Hitogami; died petrified alongside her unborn child despite Cliff and Rudeus's desperate Milis heist.}
+
+PHYSIQUE: {Build: [Lifelong: Age 14 to 150+] 145cm / 4'9", 38kg; childlike, petite frame that remains virtually unchanging from adolescence through two centuries of lifespan; slender limbs, light steps, remarkably youthful appearance throughout the entire story; looks like a cute young girl in her early teens but is actually a full-grown adult whose species ages slowly; appears 15-16 despite being 50+ years old, body does not visually change; the only one of Rudeus's love interests with an unchanging childlike body because her race does not age past their early teens until much later in their lives; [Late Timeline] Same youthful form preserved while serving as professor, then Headmistress, of Ranoa Magic University | Height & Weight: [Lifespan Constant: Age 14 to 150+] 145cm / 4'9", 38kg | Breasts: [Lifelong: Age 14 to 150+] Delicate A-cup, petite, unchanging across centuries due to Migurdian biology | [Pregnancy & Nursing: Lara & Lily] Temporarily small B-cup for lactation, returning to petite form | Vaginal Depth: [Lifelong Demon Stature: Age 14-150+] 4.8", Tightness: Snug; compact, sensitive Migurdian anatomy | Skin: [Lifelong] Sand-pale; pale, smooth, youthful demon complexion with soft doll-like cheeks | Face: [Lifelong] Pretty, mature resting affect belying the childlike body; looks like a 14-year-old human girl even past age 50; endearing, occasionally clumsy expression | Hair: [Lifelong] Silky, lustrous water-blue hair parted in the center and braided into twin low pigtail braids below the waist draping over each shoulder, tied with dark ribbons; appears green in sunlight and is often mistaken for Superd green; matches her blue eyes and reflects her King-class water magic, making her look somewhat childish on top of her young-looking body though she is a badass in the magic department; [Late Timeline] Keeps twin braids, occasionally pinned up into a neat bun for academy lectures | Eyes: [Lifelong] Large, luminous aquamarine-blue eyes matching her hair, filled with intellectual curiosity and occasional adorable clumsiness | Distinguishing Traits: Complete absence of Migurd telepathic forehead resonance; subtle demon scent; small, delicate hands adept at wand manipulation | Outfits by Timeline: [Pre-Story & Buena Tutor: Age 37-44] White and gray button-down shirt with black edges, short black skirt, light brown overlayer, conical wide-brimmed indigo witch hat with brass buckle, midnight-blue hooded magician robe, brown travel boots, Water King wand; [Begaritt Labyrinth Expedition: Age 50] Dust-coated dark traveling cloak, protective leather arm wraps, reinforced hiking boots; [Age 50+: Sharia Wife and University Professor] Black witch hat with gold line and white side bands, beige robe, prestigious navy-blue academic robes trimmed with silver embroidery, faculty professor sash, reading spectacles, soft house dresses; staff tipped with a blue gem (the Aqua Heartia / Arrogant Water Dragon King, eventually passed to Lara); [Late Timeline: Headmistress] Formal grand headmistress vestments with gold trim, ornate staff}
+
+---
+
+# Eris Boreas Greyrat
+
+SHORT_DESC: {Third wife of Rudeus Greyrat, mother of Ars and Christina, and legendary Sword King of the Sword God Style [Birth: K405]; daughter of Philip and Hilda Boreas Greyrat of Roa, grand-niece of Sauros; renowned across the Six-Faced World as the fearsome 'Mad Sword King' (formerly 'Mad Dog Eris'); a physical prodigy of unmatched ferocity, speed, instict, and athletic grace, combining Sword God Style aggression with North God Style adaptability; tutored in literature, arithmetic, and magic by 7-year-old Rudeus, developing a fierce, unconditional love for him; possesses a straightforward, hot-tempered, and intensely protective personality, abhorring deceit and resolving conflicts through direct martial prowess; the martial guardian of the Greyrat estate, fiercely protective of Rudeus, Sylphiette, Roxy, and all six Greyrat children; acts as Rudeus's primary combat vanguard against the Seven Great World Powers and Hitogami's lethal disciples.}
+
+HISTORY: {[Age 0-10: Roa Noble Heiress] Reared as an uncontrollable, violent young noble in Roa, beating tutors until Rudeus engineered a staged kidnapping that won her respect; learned reading, math, and basic magic from Rudeus, while training in swordsmanship under Sword King Ghislaine; [Age 10-15: Dead End Adventurer] Transported to the Demon Continent during the Mana Catastrophe; formed the famed 'Dead End' adventurer party alongside Rudeus and Ruijerd Superdia, battling monsters, demons, and bandits across thousands of leagues; encountered Dragon God Orsted in the Red Dragon Lower Jaw, where Rudeus was murdered and revived; consumed by profound self-loathing over her weakness, she spent a passionate night with Rudeus in Fittoa before departing for the Holy Land of Swords to become strong enough to protect him, leaving an ambiguous letter that inadvertently gave him severe emotional trauma; [Age 15-20: Holy Land of Swords & Sword King] Trained to exhaustion under Sword God Gal Farion; defeated Nina Falion and master swordsmen, mastering the Light Reversal technique and achieving the rank of Sword King; learned North God techniques under North Emperor Auber Corvette; [Age 20+: Intervention Against Orsted & Marriage] Received Rudeus's letter regarding Hitogami and Orsted; sprinted across continents to intercept Orsted in the Sharia basin, parrying the Dragon God's lethal strike and saving Rudeus's life; reconciled and married Rudeus, giving birth to Ars and Christina; [Oldeus Timeline Divergence] In the Diary's alternate future, followed a broken Rudeus silently across continents despite his harsh rejections; threw herself in front of Demon King Atoferatofe's mortal blow to save his life, confessing with her dying breath that she had always loved him unconditionally.}
+
+PHYSIQUE: {Build: [Age 7-10: Roa] Small girl, still developing; fiery, athletic noble girl with wild energy, muscular legs from running; [Age 10-13: Demon Continent] Maturing, leaner from travel; rapidly developing toned vanguard frame, firm abs, broad shoulders; [Age 13-16] Athletic, toned, rock-hard muscles and six-pack abs; [Age 15-20: Holy Land of Swords] Sculpted, powerful amazon physique, hardened muscles, explosive sinew; [Age 20+: Peak Adult Vanguard] 170cm / 5'7", 63kg, athletic, voluptuous, firm; rock-hard abdominal core, powerful thighs, the most buxom of Rudeus's love interests; [Late Timeline: Age 70+] 170cm, weathered warrior queen, silver-streaked red mane, retains terrifying physical strength until passing away at age 72 | Height & Weight: [Age 9] 132cm, 28kg; [Age 12] 150cm, 42kg; [Age 15] 163cm, 54kg; [Age 20+] 170cm, 63kg | Breasts: [Childhood: Age 7-10] Prepubescent, athletic girl, flat | [Demon Continent: Age 10-15] Developing vanguard build, firm muscular B-cup to C-cup | [Sword King & Third Wife: Age 16+] Voluptuous E-cup on shredded muscular amazon frame | [Motherhood & Late Life: Age 20-72] Heavy, full E-cup, muscular and firm until passing at 72 | Vaginal Depth: [Childhood & Demon Continent: Age 7-14] Undeveloped swordsman girl anatomy | [Third Wife: Age 15+] 5.5", Tightness: Tight, muscular pelvic floor | [Post-Childbirth & Late Life: Age 20-72] 5.6", Tightness: Snug | Skin: [All Eras] Fair; sun-kissed golden skin lightly patterned with dueling calluses and blade scars | Face: [All Eras] Beautiful, sharp-featured, intense resting affect, prominently long canines when snarling; proud aristocratic cheekbones, bold jawline | Hair: [Age 7-10] Long crimson-red, worn loose, wild and thick like a flaming lion's mane; [Age 10-13] Untamed red hair billowing down past her shoulder blades, tied in a half-ponytail during combat; [Post-Decisive Battle: Age 16+] Permanent white streaks from mana strain; [Late Timeline] Crimson heavily streaked with silver and white, white streaks persist | Eyes: [All Eras] Sharp, fierce, predatory amber-red feline eyes matching her red hair, flashing with battle bloodlust or softening when gazing at Rudeus | Distinguishing Traits: Feline canine teeth that show when grinning; calloused swordmaster hands; intense physical presence radiating Sword King Touki | Outfits by Timeline: [Age 7-10: Roa Noble Era] Opulent crimson-and-white Boreas ball gowns with layered ruffles, often torn or disheveled from tantrums and sparring; [Age 10-13: Dead End / Traveling] Traveling swordsgear with twin swords worn at both hips, tough leather breastplate over red travel tunic, fingerless leather gloves, short combat shorts, high trail boots, wooden shortsword replaced by steel broadsword; [Age 15-20: Holy Land of Swords] White canvas training gi, heavy iron training weights, worn leather wraps; [Age 20+: Wife and Bodyguard] Form-fitting leather-and-steel cuirass, reinforced dark trousers, combat greaves, crimson cloak, wielding the magic sword Phoenix Feather; [Late Timeline: Sharia] Light casual wear at home that exposes her belly, loose linen training shirts, casual trousers, wooden practice bokken for teaching grandchildren}
+
+---
+
+# Paul Greyrat
+
+SHORT_DESC: {Father of Rudeus, Norn, and Aisha, husband of Zenith and Lillia, and former garrison knight of Buena Village [Birth: K388 - Death: K423]; born Paul Notos Greyrat, high-born scion of House Notos Greyrat of the Asura Kingdom; son of Amarant Notos Greyrat and Valentina, younger brother of Pilemon Notos Greyrat; rebelled against suffocating noble etiquette and his abusive father, fleeing home at age twelve to live by his blade as an adventurer; an exceptionally gifted S-Rank swordsman proficient in dual-wielding across all three primary styles: Advanced in Sword God, Water God, and North God styles; charismatic, hot-tempered, and hedonistic, he founded the legendary S-Rank party 'Fangs of the Black Wolf' alongside Elinalise, Talhand, Geese, and Ghislaine; retired upon conceiving Rudeus with noble Millis healer Zenith Latreia, accepting a modest village knight commission in Buena; a deeply loving yet profoundly flawed father whose intense emotional burdens and sacrificial devotion define the tragic heart of early Mushoku Tensei.}
+
+HISTORY: {[Age 0-12: Notos Noble Rebel] Reared in the aristocratic excess of Asura's House Notos; despised court politics and academic studies; fled at age twelve after striking his tutor; [Age 12-22: Fangs of the Black Wolf] Rose to S-Rank fame as a dual-wielding swordsman; conquered brutal dungeons across the Central Continent; had stormy romantic relationships with party members Elinalise and Ghislaine; reformed his reckless bachelor ways upon falling deeply in love with Zenith Latreia; disbanded the party when Zenith became pregnant with Rudeus, settling down in Buena Village; [Age 22-34: Buena Garrison Knight] Served as village knight; intimidated yet fiercely proud of toddler Rudeus's magical genius; had an affair with maid Lillia, which toddler Rudeus cleverly diffused, reconciling the family and integrating newborn Aisha; arranged Rudeus's tutoring post in Roa; [Age 34-39: Fittoa Search Group & Millis Reunion] Separated from his family during the Mana Catastrophe, landing in Millis with toddler Norn; founded the Fittoa Search Group, witnessing horrific refugee tragedies (slavery, massacres, death in volcanic zones) that drove him into severe depression and alcoholism; violently fought Rudeus in a Milis tavern when Rudeus arrived dressed well with Dead End, mistakenly believing Rudeus was living carefree while his family suffered; intervened by Geese Nukadia, leading to a tearful, deeply remorseful father-son reconciliation; [Age 39: Begaritt Labyrinth & The Sacrificial Fall] Reunited with Rudeus, Elinalise, and Talhand in Rapan; led the raid into the Teleport Labyrinth to rescue Zenith; slashed through labyrinth guardians to the lowest chamber; during the climactic duel against the titanic Manatite Hydra, saw a lethal neck strike aimed at Rudeus's blind spot; kicked Rudeus out of the blast radius and took the Hydra's crushing maw directly, being bisected at the waist and killed instantly to ensure his son lived.}
+
+PHYSIQUE: {Build: [Youth and Black Wolf Era: Age 16-25] From age 12 onward tall, muscular, handsome, broad-shouldered and scarred; lean, agile, charming swordsman frame; [Buena Village Knight: Age 25-34] 180cm / 5'11", 78kg, broad-shouldered, muscular, battle-tested warrior frame; [Begaritt Refugee Search Era: Age 35-37] 180cm, 72kg, gaunt, haggard, alcohol-thinned warrior frame scarred by grief, grown-out beard, drawn, exhausted eyebags; [Labyrinth Climax: Age 37] Battle-hardened peak swordsman physique until losing his lower torso defending Rudeus; ripped in half by the Magic Stone Hydra and decapitated by a surviving head | Height & Weight: [Adult] 180cm / 5'11", 78kg (dropping to 72kg during the refugee search) | Penile: [Age 12-16: Adolescent] developing, immature | [Age 16+: Young adult, pre-teleport] above average, intact, virile | [Post-Teleport: Buena Village] above average, intact but bloodshot and drawn | [Begaritt: Age 37] ripped in half by the Hydra — severed at death] | Skin: [All Eras] Fair, scarred from adventuring, weather-tanned | Face: [All Eras] Handsome, mole near the left eye (a Lascivious Beauty Mark Rudeus inherits), roguish; stubbled jawline, prominent nose, laugh lines turned into sorrow lines; [Post-Teleport] Bloodshot, drawn, grown-out beard | Hair: [All Eras] Shaggy, messy sandy light-brown hair, short framing the face with the rest gathered into a long ponytail over the shoulder at the nape; [Post-Teleport] Unkempt; [Later Years] Graying at temples | Eyes: [All Eras] Green, warm and roguish; [Post-Teleport] Bloodshot, shadowed with dark bags during the search corps years | Distinguishing Traits: Calloused dual-wielding swordsman hands; scars across forearms; heavy scent of alcohol and pipe tobacco during Northern and Begaritt travels | Outfits by Timeline: [Black Wolf Adventurer Era] Double-edged Beloved Sword with triangular crossguard paired with a curved black short sword dual-wielded in the offhand, money and adventurer's card kept in the sword sheath, adventurer's tunic and boots; [Buena Village Era: Age 25-34] Polished steel breastplate over green village knight tunic, casual wear with the sword still slung at the hip, leather riding pants, tall boots; [Metastasis and Millishion Search: Age 34-36] Weather-stained brown traveling cloak, dented iron pauldrons, frayed leather armor; [Teleport Labyrinth Expedition: Age 37] Enchanted steel cuirass, dual scabbards for magic rapier and short broadsword, reinforced steel greaves}
+
+---
+
+# Zenith Greyrat
+
+SHORT_DESC: {Mother of Rudeus and Norn, stepmother of Aisha, and devoted wife of Paul Greyrat [Birth: K390]; born Zenith Latreia, second daughter of the ultra-conservative Earl Latreia of the Holy Country of Milis; an exceptional Advanced-class Divine and Water magician who fled her aristocratic family's rigid religious expectations to seek freedom as an adventurer; healer of the legendary S-Rank party 'Fangs of the Black Wolf'; exceptionally sweet, cheerful, and fiercely nurturing; retired from adventuring upon conceiving Rudeus, establishing a warm domestic life in Buena Village; accepted Lillia and newborn Aisha into the family with extraordinary magnanimity and love; following the Mana Catastrophe, spent over five years entombed in a magical crystal at the core of the Teleport Labyrinth in Begaritt; rescued at the cost of Paul's life, emerging in an apparent mute, vegetative state that masked profound Miko telepathic perception; communicates wordlessly through soul resonance, living a serene and contented life in the Sharia Greyrat manor surrounded by her loving grandchildren.}
+
+HISTORY: {[Age 0-15: Millis High Nobility] Reared in the devout, patriarchal House Latreia in Millis; rebelled against arranged aristocratic marriages and fled to the Central Continent; [Age 15-21: Fangs of the Black Wolf] Served as chief healer for Paul's S-rank adventurer party, mastering Advanced Healing and Detoxification; reformed Paul's philandering habits with her pure-hearted devotion; married Paul under the Millis Church's strict monogamy vow and retired upon becoming pregnant with Rudeus; [Age 21-33: Buena Village Motherhood] Reared Rudeus and Norn; warmly embraced Lillia and baby Aisha after toddler Rudeus mediated Paul's indiscretion; [Age 33-38: Teleport Labyrinth Crystal] Swept away by the Mana Catastrophe; teleported into the deepest sanctum of the Teleport Labyrinth in Begaritt; encased in a massive magic crystal beneath the lair of the Manatite Hydra in suspended animation for five years; [Age 38+: Rescue, Miko Telepathy & Peaceful Matriarch] Freed by Rudeus and Paul; emerged unable to chant or speak, leading observers to believe she suffered brain damage; later revealed by Dragon God Orsted and the Millis Telepathic Miko to possess powerful latent Miko telepathy, clearly perceiving her family's innermost thoughts and love; lived a joyful, tranquil life in the Sharia estate, tending the gardens and doting silently on her grandchildren Lara, Lucie, and Ars.}
+
+PHYSIQUE: {Build: [Black Wolf Adventurer: Age 16-22] Slender, athletic healer build with gentle feminine curves; [Buena Motherhood: Age 23-32] 160cm / 5'3", 50kg, slender, voluptuous; soft, graceful maternal figure with gentle posture; [Labyrinth Crystallization: Age 32-38] Preserved in stasis within high-density mana crystal, appears ageless and frozen at age 28; [Post-Labyrinth Miko State: Age 38+] 160cm, 48kg, relaxed, serene, slightly delicate posture; non-verbal telepathic state | Height & Weight: [Adult Constant] 160cm / 5'3", 50kg (48kg post-labyrinth) | Breasts: [Adventurer: Age 16-22] Slender healer build, C-cup | [Buena Motherhood: Age 23-32] Soft maternal figure, full D-cup | [Labyrinth Stasis & Post-Rescue: Age 32+] Preserved at age 28 in stasis, unaging D-cup | Vaginal Depth: [Adventurer: Age 16-22] 5.2", Tightness: Snug with Paul Greyrat | [Motherhood: Age 23+] 5.4", Tightness: Accommodating | Skin: [All Eras] Fair, pale Millis noble complexion | Face: [All Eras] Beautiful, gentle resting affect; delicate aristocratic features, gentle smile, youthful appearance; [Post-Labyrinth] Placid, near-expressionless, serene and dreamy | Hair: [All Eras] Soft, lustrous honey-blonde hair parted neatly, worn as a ponytail with chin-length strands framing either side and an ahoge at the crown inherited by both her children, later gathered into a graceful low side chignon resting over her left shoulder | Eyes: [All Eras] Clear, compassionate sky-blue (blue-shaded) eyes; [Post-Labyrinth] Serene, dreamy, unfocused gaze that lights up when communing telepathically with Lara or Leo | Distinguishing Traits: Inward telepathic resonance; completely relaxed physical state requiring gentle assistance for daily routines; peaceful aura | Outfits by Timeline: [Black Wolf Era] White Millis healer robes with green travel mantle, light brown blouse, black ribbon, khaki belted skirt, white halterneck corset exposing the bust, black thigh-high boots, leather wand holster; [Buena Village Era] Cozy pastel linen house dresses, woolen aprons, blue and white cleric's outfit with boob window and back cutout, soft leather house slippers; [Teleport Labyrinth Core] Translucent crystalline veil encased in mana amber; [Post-Rescue Sharia Residence] Comfortable cream and pale blue silk dresses, white nightgown flaunting ample cleavage, knitted woolen shawls, delicate hair ribbons}
+
+---
+
+# Lillia Greyrat
+
+SHORT_DESC: {Personal head maid of the Greyrat household, concubine/second wife of Paul Greyrat, and mother of Aisha Greyrat [Birth: K385]; former elite palace swordswoman of the Asuran Royal Guard and direct junior disciple of Water God Style alongside Paul; suffered a career-ending foot tendon injury while protecting royal Princess Ariel from an assassin, subsequently entering Paul and Zenith's service in Buena Village; seduced by Paul in a moment of emotional vulnerability, resulting in her pregnancy with Aisha; saved from societal disgrace and exile by 3-year-old Rudeus's impassioned defense, pledging lifelong maternal loyalty and reverence to him as her young master; survived the Fittoa Incident, endured captivity in the Shirone palace with Aisha, and managed the expanded Sharia estate with supreme administrative mastery.}
+
+HISTORY: {[Asuran Royal Guard] Served as an elite palace bodyguard in Ars; injured saving Princess Ariel; relocated to Buena Village as Paul and Zenith's maid; [Buena Village & Rudeus's Defense: K407-K414] Became pregnant with Aisha; defended by toddler Rudeus when Zenith discovered the infidelity; became a beloved second mother to Rudeus, Norn, and Aisha; [Shirone Captivity & Rescue: K417-K419] Teleported to Shirone during the Catastrophe; held hostage by Seventh Prince Pax; liberated when Rudeus and Zanoba intervened; [Sharia Estate Matriarch] Reunited in Sharia; managed household logistics, servant training, and the care of telepathic Zenith until her peaceful old age.}
+
+PHYSIQUE: {Build: [Asura Royal Guardsmaid: Age 18-24] 162cm / 5'4", 52kg, slender, voluptuous; poised, athletic, disciplined swordswoman-maid frame; [Buena and Sharia Maid: Age 25+] 162cm, 54kg, slender, voluptuous mature figure, dignified upright posture; [Post-Court Dismissal] Permanent slight limp in the right leg from the poisoned dagger, ending her full-strength running and stomping; [Late Timeline: Age 60+] 162cm, graceful elderly head maid, silvered hair, upright dignified bearing | Height & Weight: [Adult] 162cm / 5'4", 54kg (52kg during court service) | Breasts: [Asura Guardsmaid: Age 18-24] Disciplined Water God swordswoman, D-cup | [Buena & Sharia Maid: Age 25+] Voluptuous E-cup (Rudeus explicitly observes Aisha's D-cup almost reaches Lillia's size) | Vaginal Depth: [Asura Court Era] 5.2", Tightness: Snug | [Motherhood & Maid Era: Age 25+] 5.5", Tightness: Mature | Skin: [All Eras] Fair, disciplined complexion | Face: [All Eras] Very beautiful, oval glasses perched at the bridge of her nose, the only Greyrat family member who wears glasses; sharp cheekbones; rarely displays overt emotion in public, maintaining professional stoicism | Hair: [All Eras] Straight, silky reddish-brown (auburn) hair parted down the middle, tied in a half-bun with chest-length strands falling on either shoulder, tucked neatly beneath a maid cap or into a strict bun | Eyes: [All Eras] Calm, observant hazel eyes behind thin wire-rimmed spectacles | Distinguishing Traits: Permanent slight limp in right leg from tendon damage; spectacles; crisp, precise maid posture | Outfits by Timeline: [Silver Palace Royal Guard Era] Fitted Asuran royal guardsmaid uniform with chainmail lining and shortsword holster; [Buena Village Era] Black dress with gigot sleeves, white apron, white waistband emphasizing the bust, white stockings, black strapped shoes, black-and-white hairband, high-collared blouse, spectacles; [Shirone Hostage Era] Worn maid dress, locked chamber attire; [Sharia Head Maid Era] High-class black wool maid gown with silver trim, master housekeeper keys at belt, spotless apron}
+
+---
+
+# Norn Greyrat
+
+SHORT_DESC: {Second child of Paul and Zenith, younger sister of Rudeus, elder twin sister of Aisha, and wife of Ruijerd Superdia [Birth: K414]; mother of Luicelia Superdia and renowned historical author of the monumental biography 'The Great Magician Rudeus'; struggled throughout childhood with feelings of inadequacy living in the shadow of her genius siblings Rudeus and Aisha; raised primarily by Paul during their desperate years in the Fittoa Search Group, developing an exceptionally intense attachment to her father; overcame crippling social anxiety and a traumatic shut-in period at the Ranoa Magic Academy to become the respected Student Council President; possesses unwavering moral integrity, tenacity, and relatable empathy, earning a massive student fan club; proficient in intermediate Water God Style swordsmanship and defensive barrier magic; married Ruijerd Superdia in the Biheiril Kingdom.}
+
+HISTORY: {[Age 0-7: Buena Village & Fittoa Catastrophe] Born in Buena Village alongside twin sister Aisha; separated from Zenith and Rudeus during the Mana Catastrophe; teleported to the Holy Country of Milis with Paul, accompanying her father through years of refugee searching and emotional hardship; [Age 7: Millis Reunion Trauma] Witnessed the violent tavern brawl between Paul and Rudeus, developing a lasting fear and resentment of Rudeus as an arrogant bully; [Age 7-10: Journey with Ruijerd] Escorted to Sharia by Ruijerd Superdia; formed an unbreakable bond of trust and deep romantic affection for the noble Superd warrior; [Age 10-15: Ranoa Academy & Shut-In Breakthrough] Enrolled at Ranoa Magic Academy; overwhelmed by public expectations comparing her to Rudeus and Aisha, she locked herself in her dormitory as a clinical shut-in; Rudeus broke through her door and embraced her in tears, sharing his past-life pain and restoring her spirit; rose to become Student Council President, reforming academy discipline and mastering Water God swordsmanship; [Age 15+: Marriage to Ruijerd & Legacy] Reunited with Ruijerd during the Biheiril Kingdom campaign; passionately proposed and married him despite their multi-century age gap; gave birth to their half-Superd daughter Luicelia; authored the authoritative biographical history of Rudeus Greyrat and the Orsted Corporation.}
+
+PHYSIQUE: {Build: [Childhood: Age 0-7] Delicate, chubby toddler; [Adolescent: Age 8-14] Slender, average girl frame, self-conscious about lacking the prodigy physical vigor of Eris or Aisha; [Ranoa Student: Age 15-18] 158cm / 5'2", 49kg, feminine, graceful build closely mirroring Zenith's silhouette, often mentioned to look a lot like her mother Zenith, inheriting Zenith's figure; [Adult and Author: Age 20+] 158cm, 51kg, poised, dignified womanly figure with gentle curves; [Late Timeline: Age 60+] Gentle, graceful matriarch beside Ruijerd | Height & Weight: [Age 7] 116cm, 21kg; [Age 12] 144cm, 36kg; [Age 16+] 158cm, 49kg; [Adult] 158cm, 51kg | Breasts: [Childhood: Age 0-7] Prepubescent child, flat | [Adolescent Student: Age 8-14] Slender, flat-chested (A-cup) | [Ranoa Student / Youth: Age 15-18] Slender, developing curves (B-cup) | [Adult Author & Wife: Age 20+] Blossomed into Zenith's figure (full C-cup to D-cup) | [Motherhood: Marriage to Ruijerd Superdia] Full D-cup, softened from nursing Luicelia Superdia | [Late Timeline: Age 60+] Mature D-cup, dignified maternal figure | Vaginal Depth: [Childhood: Age 0-10] Undeveloped child anatomy | [Adolescent Student: Age 11-18] 4.9", Tightness: Tight | [Adult Marriage to Ruijerd: Age 23+] 5.3", Tightness: Snug | [Motherhood & Late Timeline] 5.5", Tightness: Accommodating | Skin: [All Eras] Fair | Face: [All Eras] Beautiful, resembling Zenith; has an ahoge like her mother and brother; soft fair complexion, round gentle cheeks that turn rosy when flustered, remarkably resembles a young Zenith Greyrat | Hair: [All Eras] Soft, wavy honey-blonde hair inherited from Zenith; [Adolescent] Tied in a high, bouncy ponytail; [Adult] Styled in an elegant half-up twist or loose waves | Eyes: [All Eras] Green, expressive and sensitive, inherited from Paul; earnest and determined | Distinguishing Traits: Strong resemblance to Zenith; dignified posture; ink calluses on right fingers from years of writing Ruijerd's biography | Outfits by Timeline: [Millis Travel Era: Age 7-10] Child's traveling clothes, warm traveling coat, woolen scarf, leather boots holding Paul's hand; [Ranoa Student and President Era: Age 12-18] Pristine Ranoa Magic Academy uniform (Magic University uniform), navy pleated skirt, red tie, embroidered Student Council President armband; [Adult and Wife Era: Age 20+] Refined scholar's coat over long pleated skirts and casual dresses at the Sharia home, carrying heavy leather-bound manuscripts and fountain pens}
+
+---
+
+# Aisha Greyrat
+
+SHORT_DESC: {Daughter of Paul and Lillia Greyrat, younger half-sister of Rudeus, and twin sister of Norn [Birth: K414]; a multi-disciplinary genius in administration, strategy, logistics, household stewardship, and social psychology; reared by Lillia with the conviction that her life purpose was to serve Rudeus as his personal maid and primary administrator; in divergent timelines without Rudeus, was destined to become the greatest magical prodigy of her century, inventing human lifespan-extension magic and living past 200 years; in the canon timeline, channeled her monumental intellect entirely into managing the Greyrat estate and directing the worldwide communications of the Orsted Corporation; possesses an extraordinary intellectual ceiling, cheerful charisma, and razor-sharp cunning, masking profound emotional vulnerabilities regarding her personal identity; entered a controversial romantic relationship with nephew Ars Greyrat, eventually reconciling with the family and bearing their son Leroy.}
+
+HISTORY: {[Age 0-7: Buena & Shirone Captivity] Born to Lillia; trained from toddlerhood in maidcraft, bookkeeping, and stealth; teleported to Shirone with Lillia; deduced Rudeus's identity from secret letters and assisted in their liberation from Prince Pax; [Age 7-15: Sharia Household Steward] Joined the Greyrat residence in Sharia, declining formal academy enrollment to single-handedly direct estate management, servant training, financial ledgers, and agricultural logistics; [Age 15-20+: Orsted Corporation Manager] Administered regional communications, mercenary contracts, and teleportation network relays for Rudeus's global operations; [Oldeus Timeline Devotion] In the dark future of the Diary, when Sylphiette died, Rudeus collapsed into alcoholic ruin, and the entire family moved out, Aisha was the sole family member who returned to his side, nursing him, managing the house, and keeping him alive for years at his lowest point, before being murdered alongside Julie, Ginger, and Zanoba by Milis Temple Knights; [Late Timeline: Elopement & Reconciliation] Fled with nephew Ars Greyrat after their forbidden relationship was discovered; reconciled after a tumultuous family crisis, returning to live as a respected matriarch and mother to Leroy Greyrat.}
+
+PHYSIQUE: {Build: [Childhood: Age 0-7] Small, nimble, energetic, quick-footed child; [Adolescent: Age 8-14] Slender, exceptionally graceful maid frame with agile reflexes; [Adult Steward: Age 16+] 157cm / 5'2", 47kg, compact, well-endowed, delightfully proportioned, and exceptionally nimble; agile waist, delicate hands, upright professional posture, mature for her age; [Late Timeline: Age 50+] Retains radiant youthful energy and quick steps | Height & Weight: [Age 7] 115cm, 20kg; [Age 12] 143cm, 35kg; [Age 16+] 157cm, 47kg | Breasts: [Childhood: Age 0-7] Prepubescent child, flat | [Adolescent Maid: Age 8-15] Slender, budding chest (A-cup gradually filling to small B-cup) | [Young Adult Steward: Age 16-17+ (Volume 18)] Blossomed into D-cup ("busty petite", tiny back, full bust approaching Lillia's size) | [Motherhood: Post-Marriage to Ars] Full D-cup, softened from nursing | [Epilogue: Late Timeline] Full D-cup, mature maternal figure | Vaginal Depth: [Childhood: Age 0-10] Undeveloped child anatomy | [Adolescent Maid: Age 11-15] 4.8", Tightness: Tight | [Young Adult Steward: Age 16+] 5.2", Tightness: Snug | [Motherhood & Epilogue] 5.5", Tightness: Accommodating | Skin: [All Eras] Fair | Face: [All Eras] Pretty, drawn with little fangs that make her look more adorable, canine tooth visible when smiling; fair youthful complexion, bright expressive smile, delicate features combining Paul's charm and Lillia's sharpness | Hair: [All Eras] Rich reddish-brown (maroon) hair inherited from Lillia, parted in the middle, framing the face and tied behind the head; [Youth] Styled in neat, perky twin side ponytails; [Adult] Styled in twin braids or a neat chignon tucked under a lace cap | Eyes: [All Eras] Green, the same green eyes as her father and his half-siblings, though she looks more like her mother; sparkling, razor-sharp and brimming with mischievous intelligence | Distinguishing Traits: Cat-like nimbleness; unerring eye contact; energetic, silent footwork | Outfits by Timeline: [Childhood and Shirone Kidnapping Era: Age 4-7] Frilly child-sized maid outfit sewn by Lillia with high-quality materials, small servant dress and apron, hiding behind Lillia; [Sharia Household Maid: Age 10-16] Impeccable traditional maid dress with snowy white apron, leather utility belt with keys, ledgers, and measuring tape; [Adult Steward and Orsted Corp Manager: Age 17+] Refined adult maid uniform echoing Lillia's with hairband and apron retained, high-class executive maid uniform of midnight-blue velvet, silver pocket watch, sleek leather boots; [Epilogue: Post-Marriage to Ars] Civilian dress, having hung up the maid uniform for good}
+
+---
+
+# Lucy Greyrat
+
+SHORT_DESC: {Eldest child of Rudeus and Sylphiette Greyrat, elder sister of Sieghart, and eldest among all six Greyrat siblings [Birth: K423]; inherits human, elf, and beastman ancestry; gifted with remarkable intelligence, sharp magical aptitude, and early self-discipline; reared in Sharia under the loving care of Sylphiette, Roxy, and Eris; deeply admired and slightly intimidated by her father Rudeus's legendary accomplishments; trained in swordsmanship by Eris and wind/healing magic by Sylphiette; graduated from the Magic University of Ranoa at the top of her class; married Clive Grimoire (son of Cliff and Elinalise) and relocated to the Holy Country of Milis, becoming a distinguished diplomatic figure.}
+
+HISTORY: {[Infancy & Early Years: Sharia] Born in Sharia shortly before the Begaritt expedition; her birth served as Rudeus's primary motivation to survive the labyrinth; reared alongside her siblings in a vibrant multi-wife home; formed an early bond with Clive Grimoire; [Adolescence: Ranoa Academy] Enrolled in Ranoa Magic Academy; initially struggled under the immense shadow of Rudeus's fame, striving tirelessly to prove her own worth without relying on parental favoritism; excelled in elemental and healing magic; [Adulthood: Marriage & Milis] Confessed her feelings to childhood companion Clive Grimoire; married Clive and moved to the Holy Land of Milis, acting as a respected bridge between the Greyrat family, the Milis Church, and the Orsted Corporation; [Oldeus Alternate Fate] In the dark future of the Diary, taken as an infant by Sylphiette to Asura; survived the capital massacre and was raised in hiding after Sylphie's public execution.}
+
+PHYSIQUE: {Build: [Infancy to Child: Age 0-7] Still growing, chubby, angelic quarter-elf child frame; [Adolescent: Age 10-15] Adolescent frame, slender and graceful, combining Sylphie's elven elegance with Rudeus's height; [Adult: Age 18+] 164cm / 5'4.5", 50kg, refined, slender figure with slight modest bust and graceful elven posture; [Late Timeline: Age 50+] Ages at one-third human rate, appearing as a youthful woman in her early 20s | Height & Weight: [Age 5] 108cm, 19kg; [Age 10] 140cm, 33kg; [Age 18+] 164cm, 50kg | Breasts: [Childhood: Age 0-9] Prepubescent child, flat | [Adolescent: Age 10-15] Slender, developing elven bust (A-cup) | [Adult: Age 18+] Modest B-cup, refined elven proportions | Vaginal Depth: [Childhood & Adolescent: Age 0-15] Undeveloped elven maiden anatomy | [Adult: Age 18+] 5.0", Tightness: Snug | Skin: [All Eras] Fair, porcelain pale | Face: [All Eras] Resembles a blend of Rudeus and Sylphiette; delicate elven jawline, proud noble cheekbones, serious responsible elder sister expression | Hair: [Childhood] Light golden-brown hair combining Rudeus's chestnut and Sylphie's blonde and white ancestry, like Rudeus's color, worn in twin braids as a child; [Adult] Long and loose | Eyes: [All Eras] Striking ruby-red eyes inherited from Sylphiette and Elinalise; sharp, earnest, deeply intelligent | Ears: [All Eras] Pointed, elven, shorter than Sylphiette's, from her elf heritage | Distinguishing Traits: Ahoge like her parents; only one of Rudeus's children to inherit his hair color; slight elven longevity | Outfits by Timeline: [Childhood] Pastel knitted dresses, soft bonnets, child's clothing worn around the Greyrat household; [Ranoa Student Era] University apprentice robes, wooden practice wand; [Late Timeline: Milis] High-class Milis scholarly attire, embroidered silver-white robes, modest jewelry, traveling attire for her move to Milis upon marriage to Clive}
+
+---
+
+# Lara Greyrat
+
+SHORT_DESC: {Second child of Rudeus Greyrat and first daughter of Roxy Migurdia [Birth: K427]; the prophesied 'Savior of the World' chosen by Sacred Beast Leo to spearhead the final defeat of the Man-God (Hitogami) in the distant future; born with bright blue hair, Migurd heritage, and innate telepathy, which manifested from birth and allowed her to communicate with Sacred Beast Leo; notoriously mischievous, deadpan, and enigmatic, frequently executing complex pranks across the Greyrat estate; possesses extraordinary latent divination, summoning, and elemental magic, deliberately concealing her genius beneath an aura of lethargy; destined to journey across the world alongside Sacred Beast Leo to unite the heroes who will permanently defeat Hitogami.}
+
+HISTORY: {[Birth & Sacred Beast Selection: Sharia] Conceived prior to the Biheiril campaign; heralded before birth by Sacred Beast Leo, who prostrated before pregnant Roxy and designated the unborn child as his master and the destined savior of humanity; born with the Migurd telepathic mana factor, enabling silent dialogue with Leo from infancy; [Childhood: Estate Prankster] Grew up in Sharia alongside her siblings; renowned for silent mischief, stealing panties, altering furniture with earth magic, and outsmarting adult family members while maintaining a placid, unreadable expression; [Prophecy & Departure: The Savior's Journey] Tutored by Roxy and Rudeus in advanced magic; possessed unique divination abilities that revealed glimpses of future battles; departed Sharia in early adulthood alongside Sacred Beast Leo, taking up the mantle of world savior to prepare the global alliances for the final war against Hitogami.}
+
+PHYSIQUE: {Build: [Childhood: Age 0-10] Petite, quiet half-Migurd child frame, frequently carried by Sacred Beast Leo; [Adolescent to Adult: Age 15+] 148cm / 4'10", 40kg, petite, doll-like demon silhouette closely mirroring Roxy, growing into the appearance of a 13-14 year old human girl due to her Migurd heritage (Rudeus confuses her with Roxy from behind); youthful demon longevity; [Late Timeline: Age 50+] Virtually unchanged appearance, looks like a teenage demon girl destined to lead the future war against Hitogami | Height & Weight: [Age 10] 130cm, 27kg; [Adult: Age 20+] 148cm, 40kg | Breasts: [Childhood & Lifelong Migurd Stature: Age 0-50+] Petite, flat-chested to modest A-cup, unchanging demon silhouette | Vaginal Depth: [Childhood: Age 0-14] Undeveloped demon child anatomy | [Adult Traveler: Age 15+] 4.8", Tightness: Snug | Skin: [All Eras] Fair, smooth pale demon complexion | Face: [All Eras] Mouth shaped like Rudeus's, otherwise a carbon copy of her mother and grandmother; sleepy doll-like facial features, rarely changes expression | Hair: [Childhood] Striking deep water-blue (light blue) Migurd hair covering most of the forehead except a single ahoge, worn in thick, messy twin braids draping down her chest adorned with beads; sometimes misperceived as Superd green; [Adulthood] Tied into a single braid to differentiate herself from her two-braided mother Roxy | Eyes: [All Eras] Large, mysterious deep blue-indigo (light blue) eyes like Roxy's; possesses innate racial Migurd telepathy and prophetic vision; drowsy, half-lidded expression | Distinguishing Traits: Natural telepathic resonance; often carried riding atop Sacred Beast Leo; carries the prophecy of the world savior | Outfits by Timeline: [Childhood] Soft oversized woolen sweaters, blue ribbons, child's clothing worn in the Greyrat household, sleeping on Leo's white back; [Prophesied Hero Era / Late Timeline] Wandering traveler robes, mage's traveling attire with the Aqua Heartia staff, customized wizard hat resembling Roxy's, riding Leo through the wilderness}
+
+---
+
+# Ars Greyrat
+
+SHORT_DESC: {First son of Rudeus Greyrat and firstborn of Eris Boreas Greyrat [Birth: K428]; named after the legendary human hero Ars; inherited Eris's ferocious physical strength, athletic instincts, and fiery red hair, paired with Rudeus's underlying lustfulness and unconventional resourcefulness; trained from early childhood in the Sword God Style under Eris and Ghislaine, achieving Master-tier swordsmanship at an extraordinarily young age; deeply attached to his half-aunt Aisha Greyrat, developing a passionate romantic devotion that culminated in their dramatic elopement; later served as an elite frontline operative for the Orsted Corporation, demonstrating fearsome martial skill and absolute loyalty to his family.}
+
+HISTORY: {[Childhood: Sharia & Sword Training] Born in Sharia; demonstrated overwhelming physical resilience and sword affinity from toddlerhood; sparred relentlessly with Eris, developing lightning-fast reflexes and aggressive Sword God combinations; clung tenaciously to Aisha, who nurtured and educated him with unmatched devotion; [The Elopement Crisis: Age 10-12] Confessed his romantic devotion to Aisha around age ten; engaged in a secret romantic relationship that resulted in Aisha's pregnancy; upon discovery by Rudeus, fled Sharia with Aisha in a desperate elopement, evading trackers across Ranoa before being cornered; earnestly defended his love before Rudeus and Eris, proving his maturity and willingness to bear the responsibilities of fatherhood; [Adulthood: Family Father & Orsted Operative] Reconciled with the Greyrat family; married Aisha and reared their son Leroy; undertook high-risk mercenary and security assignments across the Central Continent on behalf of the Orsted Corporation.}
+
+PHYSIQUE: {Build: [Childhood: Age 0-7] Energetic, broad-shouldered growing boy; [Adolescent: Age 10-15] 168cm, rapid muscular growth inheriting Eris's athletic power and Paul's physique; [Adult: Age 18+] 178cm / 5'10", 74kg, heavily muscled, athletic swordsman build, strong and good-looking; wide chest, powerful sword-arms; [Late Timeline: Age 50+] Sturdy veteran swordsman build, grizzled jaw | Height & Weight: [Age 10] 142cm, 36kg; [Age 15] 168cm, 62kg; [Adult] 178cm, 74kg | Penile: [Childhood: Age 0-9] Prepubescent boyish anatomy [Late Timeline: Age 10-15, teen] developing, immature | [Adult: Age 18+] average, intact, ~5" | [Post-marriage to Aisha: Epilogue] average, intact, slightly aged; father of Aisha's child | Skin: [All Eras] Fair; sun-tanned from training | Face: [Late Timeline / Adult] Handsome, blending Eris's strong features with Rudeus's, closely resembling his grandfather Paul but with red hair; sun-tanned ruggedly handsome face combining Rudeus's smile and Eris's fierce smirk | Hair: [All Eras] Wild, unruly dark reddish-brown (bright red) wavy hair flaring like Eris's but shaded darker by Rudeus's tones, tied in a ponytail | Eyes: [All Eras] Fierce, bright amber-red feline eyes inherited from Eris; intense, bold, and confident | Distinguishing Traits: Exceptional physical strength; natural aptitude for the Sword God style | Outfits by Timeline: [Childhood] Durable leather play tunics, wooden practice swords, child's clothing worn in the Greyrat household; [Adolescent / Soldier] Leather cuirass, combat greaves, double broadswords, Sword God Style swordsgear with twin sword belts echoing his mother's; [Adult Leader] High Asuran knight armor, red cape, custom steel broadsword}
+
+---
+
+# Sieghart Saladin Greyrat
+
+SHORT_DESC: {Second son of Rudeus Greyrat and second child of Sylphiette [Birth: K429]; born with bright emerald-green hair bearing the Laplace mana factor, initially terrifying Rudeus before being accepted and loved unconditionally; nicknamed 'Sieg'; named in honor of Saladin; possesses titanic physical strength, quiet humility, and an instinctive sense of justice; trained in the North God Style under Kalman II (Sandor von Grandeur), achieving the rank of North Emperor before succeeding Randolph Marianne as the Death God; wields the legendary Dragon-King Sword 'Dragon Slayer' with devastating mastery, becoming one of the most powerful martial figures of the post-Rudeus era.}
+
+HISTORY: {[Infancy: The Green Hair Crisis] Born in Sharia with vivid green hair identical to the Demon God Laplace; Rudeus initially panicked fearing Hitogami's curse, but Lord Perugius inspected the infant and blessed him with the name Saladin, averting catastrophe; [Youth: The Hero Complex & Sandor's Mentorship] Grew up quiet and contemplative, feeling detached from normal children due to his immense physical strength; mentored by North God Kalman II (Sandor), who instilled in him the philosophy of true heroism and defensive justice; mastered North God swordsmanship, effortlessly deflecting lethal blows and neutralizing armed bandits without killing; [Adulthood: The Death God & Global Champion] Traveled to the Shirone Republic and King Dragon Realm; intervened in geopolitical conflicts; inherited the legendary mantle of Death God from Randolph Marianne; stood as a monumental guardian of peace throughout the Six-Faced World.}
+
+PHYSIQUE: {Build: [Childhood: Age 0-7] Healthy, robust quarter-elf toddler with green hair; [Adolescent: Age 10-15] Tall, athletic swordsman frame trained by Kalman III, growing into a swordsman's frame; [Adult Death God Era: Age 20+] 183cm / 6'0", 82kg, towering, muscular warrior build combining elven agility and immense physical strength; [Late Timeline: Age 60+] Retains peak warrior condition due to Laplace Factor and elven longevity, Rank #5 Death God of the Seven Great Powers | Height & Weight: [Age 10] 145cm, 38kg; [Age 15] 172cm, 66kg; [Adult: Age 20+] 183cm, 82kg | Skin: [All Eras] Fair noble skin | Face: [All Eras] Resembles a blend of Rudeus and Sylphiette; sharp masculine jaw, noble facial structure | Hair: [All Eras] Striking emerald-green hair, his mother's original color, raising the concern he might be Laplace's reincarnation; [Youth] Kept short; [Adult Death God] Styled in a fierce, slicked-back warrior cut | Eyes: [All Eras] Green, like his father's; piercing and intense | Ears: [All Eras] Pointed, elven, from his mother's heritage | Distinguishing Traits: Green Laplace Factor hair; immense physical Touki capacity; titled Death God Sieg after succeeding Randolph Marianne in K460 | Outfits by Timeline: [Childhood] White blessing robes bestowed by Perugius, soft tunics, child's clothing worn around the Greyrat household; [North God Training Era] Practical traveler's leathers, North God Style swordsgear, practice rapiers; [Death God Era: Age 20+] Black-and-gold Death God duster coat, reinforced steel shoulder guards, dual enchanted blades}
+
+---
+
+# Lily Greyrat
+
+SHORT_DESC: {Second daughter and fifth child of Rudeus Greyrat and Roxy Migurdia Greyrat [Birth: K432]; inherited Roxy's signature aquatic-blue hair, large inquisitive eyes, and petite Migurd stature, combined with Rudeus's intense inventive focus; showed little interest in conventional martial arts or elemental combat casting, instead demonstrating extraordinary genius for magical tool engineering, rune carving, and automaton fabrication; became the prime apprentice and protégée of Prince Zanoba Shirone and Juliette in the Sharia Magical Workshop; collaborated in the mass-manufacturing of advanced prosthetic limbs, household magical appliances, and next-generation Magic Armor components; eventually succeeded Zanoba as Managing Director of the Sharia Magical Tool Corporation, revolutionizing industrial magical manufacturing across the Central Continent.}
+
+HISTORY: {[Childhood in Sharia Manor] Reared in the lively Greyrat estate; displayed an early fascination with gears, clockwork, and runic carvings rather than wand-casting; [Apprenticeship under Zanoba & Julie] Entered the Sharia Magical Tool Workshop as Zanoba's chief student; mastered delicate dwarven gem-cutting and mana-conductive alloy smithing alongside Julie; [The Industrial Magical Era] Designed mass-market prosthetic arms and automated farming golems; assumed direct leadership of the Sharia Toy and Tool Guilds, ensuring the lasting technological legacy of the Greyrat family.}
+
+PHYSIQUE: {Build: [Childhood to Adult] 147cm / 4'10", 39kg; petite half-Migurd demon frame closely resembling Roxy, growing into a Migurdian frame like her mother and older sister; youthful demon longevity; slender, bookish, slightly clumsy posture, often lost in thought; | Height & Weight: [Adult] 147cm / 4'10", 39kg | Breasts: [Childhood & Lifelong Migurd Stature: Age 0-50+] Petite, modest A-cup, resembles Roxy closely | Vaginal Depth: [Childhood: Age 0-14] Undeveloped demon child anatomy | [Adult Scholar: Age 15+] 4.8", Tightness: Snug | Skin: [All Eras] Fair, soft pale demon skin | Face: [All Eras] Resembles Roxy closely; round studious cheeks | Hair: [All Eras] Brilliant water-blue hair tied into twin braids draped over her shoulders, adorned with workshop clips | Eyes: [All Eras] Calm, studious aquamarine-blue eyes like Roxy's, behind round reading spectacles | Distinguishing Traits: Non-telepathic Migurd traits; magic item workshop grease stains on fingers | Outfits by Timeline: [Childhood] Simple cotton play smocks, canvas shoes, child's clothing worn in the Greyrat household; [Adult Researcher / Magician] Sturdy leather research apron, tool belts loaded with calipers and crystals, comfortable academic robes (mage's casual attire)}
+
+---
+
+# Christina Greyrat
+
+SHORT_DESC: {Second daughter of Rudeus Greyrat and Eris Boreas Greyrat, youngest of the six Greyrat siblings [Birth: K434]; inherited Eris's vibrant crimson hair and fiery athletic vitality, harmoniously balanced by an unexpected talent for noble court etiquette and statecraft; mentored and favored from early childhood by Queen Ariel Anemoi Asura; completed primary education at the Magic University of Ranoa before enrolling at the Royal Asuran Academy of Aristocracy in Ars; fell in love with and married First Prince Edward of Asura (son of Queen Ariel and Luke Notos Greyrat), eventually crowned Queen Consort of the Asuran Kingdom; stands as the political crowning achievement of the Greyrat family, cementing a perpetual alliance between House Asura, the Greyrat lineage, and the Orsted Corporation.}
+
+HISTORY: {[Childhood: Sharia Manor] Reared as the beloved youngest child in the bustling Sharia Greyrat estate; instructed in basic Sword God Style footwork and sword defense by Eris, while receiving thorough tutoring in diplomacy, etiquette, and literature from Sylphiette and Roxy; [Youth: Ranoa Academy & Ariel's Sponsorship] Enrolled at the Magic University of Ranoa; demonstrated sharp political acumen and natural charisma; caught the eye of Queen Ariel during royal visits to Sharia, who sponsored her transfer to the Royal Asuran Academy of Aristocracy in the capital of Ars; excelled in royal rhetoric, administrative law, and international diplomacy, winning over the conservative Asuran high aristocracy; [Adulthood: Marriage to Prince Edward & Queen of Asura] Formed a profound romantic bond with childhood friend Prince Edward of Asura; overcame minor court intrigues with the backing of Rudeus, Eris, and Queen Ariel; married Edward in a grand royal ceremony in the Silver Palace of Ars; crowned Queen Consort of Asura upon Edward's ascension to the throne, stewarding the realm through a golden era of educational expansion and global cooperation.}
+
+PHYSIQUE: {Build: [Childhood] Lively, affectionate noble girl, still growing; [Late Timeline / Adult] 168cm / 5'6", 54kg, athletic, voluptuous, graceful figure combining Eris's height with feminine poise, resembling Eris's figure | Height & Weight: [Age 10] 140cm, 32kg; [Adult] 168cm, 54kg | Breasts: [Childhood: Age 0-9] Prepubescent child, flat | [Adolescent: Age 10-15] Developing athletic curves (B-cup) | [Adult: Age 18+] Voluptuous D-cup to E-cup, inheriting Eris's figure | Vaginal Depth: [Childhood & Adolescent: Age 0-15] Undeveloped noble girl anatomy | [Adult: Age 18+] 5.4", Tightness: Snug | Skin: [All Eras] Fair; radiant as an adult | Face: [All Eras] Resembles Eris closely; gentle facial contours, bright warm smile | Hair: [All Eras] Fiery crimson red hair like Eris's, styled in elegant aristocratic curls framing her shoulders as an adult | Eyes: [All Eras] Warm, affectionate amber-red eyes like her mother Eris | Distinguishing Traits: Deeply attached to Rudeus; courtly grace; eventual Princess of Asura by marriage to Prince Edward | Outfits by Timeline: [Childhood] Cozy family dresses, child's clothing worn in the Greyrat household, hugging Rudeus; [Ranoa Student] Academy girl uniform; [Late Timeline: Asura Court Princess] Opulent gold-and-purple Asuran imperial court gowns, diamond tiara, traveling attire befitting a future princess of Asura}
+
+---
+
+# Ruijerd Superdia
+
+SHORT_DESC: {500+ year-old legendary Superd warrior, former elite war chief of the Superd battalion under Demon God Laplace, and husband of Norn Greyrat [Birth: pre-Laplace War era]; renowned and feared across the world as the bogeyman 'Dead End'; possesses pale-emerald hair, chalk-white skin, an athletic, scarred warrior physique, and a ruby-colored jewel on his forehead (the Devil's Eye) granting omnidirectional sensory perception; during the Laplace War, his unit was tricked by Demon God Laplace with cursed spears that turned them into frenzied, indiscriminate killers slaughtering allies and civilians alike, culminating in Ruijerd slaying his own son; his dying son snapped the cursed trident, freeing Ruijerd's mind; spent over four centuries roaming the world to clear the cursed stigma of the Superd race and locate any surviving kin; governed by an absolute code of honor, protecting children with terrifying martial ferocity; served as Rudeus and Eris's guardian across the Demon and Central Continents; later married Norn Greyrat and fathered Luicelia, restoring his race's honored place in history.}
+
+HISTORY: {[Laplace War Era: Cursed Spears & The Son's Sacrifice] Commanded the Superd shock-troop vanguard for Demon God Laplace; issued cursed tridents that clouded their minds with uncontrollable bloodlust; slaughtered demon allies and human civilians; mortally wounded his young son, who with his final breath shattered Ruijerd's trident with his teeth, breaking the curse; swore an eternal vow to hunt Laplace, clear his people's name, and protect children across all lands; [Wandering Centuries: The Dead End Legend] Traveled alone for over four hundred years; universally shunned and feared as a child-eating demon; [Dead End Party: K417-K419] Discovered 10-year-old Rudeus and Eris on the Demon Continent following the Mana Catastrophe; formed the 'Dead End' adventurer party; guarded the children across thousands of leagues through the Great Forest and across the ocean; stood firm against North Saint Gallus Cleaner; fought valiantly to protect Rudeus during their fatal clash with Dragon God Orsted in the Red Dragon's Lower Jaw; parted ways with tears in Fittoa after escorting Rudeus and Eris safely home; [Millis to Sharia Escort] Located young Aisha and Norn in Millis; escorted them across continents to Sharia, forming an unbreakable bond of trust and affection with Norn; [Biheiril Campaign & Superd Village Liberation] Reunited with Rudeus in the Biheiril Kingdom; found the hidden Superd refuge afflicted by a terminal plague engineered by Hitogami's apostle Geese; saved through Rudeus and Cliff's cure; fought on the frontlines alongside Kalman II against the Fighting God; [Marriage to Norn & Restored Honor] Married Norn Greyrat despite their vast age difference; fathered half-Superd daughter Luicelia, witnessing the complete redemption of the Superd name.}
+
+PHYSIQUE: {Build: [Laplace War to Rudeus Era: Age 500-560+] 190cm / 6'3", 92kg; towering, muscular, broad-shouldered, lean Superd frame built of rock-hard muscle, battle-scarred sinew, and boundless stamina, unchanged across centuries due to long Superd lifespan | Height & Weight: [Lifespan Constant] 190cm / 6'3", 92kg | Penile: [Pre-Story onward, all eras] average, intact, ~5" | [Laplace Era onward] unchanged across centuries of Superd lifespan | [Post-War, companion of Rudeus] average, intact, ~5", wise and weathered | Skin: [All Eras] Porcelain white, smooth throughout, weather-beaten alabaster demon skin crisscrossed with scars from five centuries of warfare | Face: [All Eras] Handsome, square-jawed, smooth oval chin, stern immovable jaw; [Laplace Era onward] Long scar trailing from the right top of the forehead across the glabella to the left cheek | Hair: [Laplace War Era] Emerald green, mid-length; [Dead End Odyssey: Age 10-13 of Rudeus] Shaven completely bald with a headband covering the forehead gemstone to conceal his feared emerald-green Superd hair and bypass anti-Superd stigma in human settlements; [Post-Biheiril and Late Timeline] Regrown into a thick, wild emerald-green Superd warrior mane tied back with leather cord | Eyes: [All Eras] Fierce, piercing ruby-red eyes| Forehead: [All Eras] Ruby-colored oval red gemstone third eye acting as a radar that detects mana, living beings, and life-force intent within hundreds of meters; [Post-War: Biheiril] Turns blue with ominous markings when possessed by Abyssal King Vita | Distinguishing Traits: Superd demon physiology; forked tail that hardened and detached to become his black Superd trident spear, which he considers his soul; formidable battle aura radiating intimidation | Outfits by Timeline: [Laplace War Era] Ancient Superd warrior tribal armor, obsidian pauldrons; [Dead End Odyssey] Brown travel cloaks, brown tribal vest covering back and sides only (exposing frontal torso and arms, never wears a shirt), leather harness, rugged fur-lined trousers, trail wraps, holding his black Superd tail spear, necklace gifted by Rudeus worn around the neck; [Biheiril and Marriage to Norn] Distinguished warrior attire, Superd clan tunic, polished spear, wedding medallion}
+
+---
+
+# Zanoba Shirone
+
+SHORT_DESC: {Former Third Prince of the Shirone Kingdom, Blessed Child (Miko) of monstrous physical might, and master artisan of magical craftsmanship [Birth: K397]; born with superhuman muscle density and absolute invulnerability to mundane physical harm, yet utterly incapable of regulating his output— resulting in the horrific childhood accident where he tore the head off his infant brother, earning the dreaded title 'Head Ripping Prince'; exiled to the Ranoa Magic Academy as a political outcast; possesses an ecstatic, worshipful adoration for carved figures, statues, and automatons, revering Rudeus Greyrat as his supreme idol, mentor, and 'Shishou' (Master); co-founded the Sharia Magical Tool Workshop with Rudeus and Julie; co-engineered the Zariff Prosthetic Arm and the historic Magic Armor (based on the Fighting God armor); an art connoisseur whose sincere aesthetic purism earned the genuine respect of Armored Dragon King Perugius Dola; supremely loyal to Rudeus, willingly renouncing royal privilege, family status, and life itself to defend the Greyrat household.}
+
+HISTORY: {[Age 0-20: Shirone Royal Court & Exile] Born into House Shirone as a Blessed Child; feared as a monster after accidentally killing his baby brother; discovered Rudeus's sculpted Roxy figurine, elevating it to a holy idol; revolted against Prince Pax's imprisonment of Rudeus, physically freeing him; exiled to Ranoa; [Age 22-26: Ranoa Academy & Doll Workshop] Greeted Rudeus in Sharia as his devoted disciple; purchased dwarf slave Juliette (Julie) and trained her as his sculpting hands; partnered with Cliff Grimoire and Rudeus to develop automated dolls and the Zariff Prosthetic Arm for Rudeus's severed left hand; [Age 26-27: Shirone Defense Campaign] Returned to Shirone to defend his kingdom against a coup orchestrated by Hitogami; renounced his royal rights to help Prince Pax establish a republic; [Age 27+: Orsted Corporation & Magic Armor Innovation] Engineered the colossal Magic Armor (Versions 1 and 2) alongside Rudeus to duel Dragon God Orsted and the Fighting God Badigadi; founded the Sharia Toy Guild and Ruijerd Figurine Corporation; [Oldeus Alternate Future] In the dark timeline of the Diary, remained by Rudeus's side through his drunken ruin; crafted an automaton in Sylphie's likeness (which Rudeus destroyed); died an immortal hero's death charred outside the Sharia cellar door, holding off Milis Temple Knights to the death to protect Aisha, Julie, and Ginger.}
+
+PHYSIQUE: {Build: [Adolescent to Adult] 185cm / 6'1", 98kg; hulking, stocky titan physique, tall and broad-shouldered with a slightly hunched posture and a large muscular build, dense god-blessed musculature impervious to blades and blunt force (Blessed Child / Miko brawn) | Height & Weight: [Adult] 185cm, 98kg | Penile: [Prince Era onward] average, intact, ~5" | [Academy Era onward] average, intact, ~5", regrew after severance | [Post-Graduation onward] average, intact, ~5", doll-maker's hands | Skin: [All Eras] Fair, slightly sallow | Face: [All Eras] Pale scholarly oval face with sharp visible cheekbones and a broad jaw; round glasses that obscure his eyes; often slack-jawed expression, deceptively calm countenance masking superhuman strength | Hair: [All Eras] Jet-black, dark and thick, cut in an unkempt bowl cut, neatly parted | Eyes: [All Eras] Round, studious, scholarly brown eyes behind thick wire spectacles, narrow throughout| Arms: [Academy Era] Severed by Rudeus during their duel at the Magic Academy; regrown within days via the Matis Palm curse | Distinguishing Traits: Miko superhuman durability and strength; inability to control delicate force without training; clay and chisel dust on palms | Outfits by Timeline: [Shirone Prince Era: K397-K417] Aristocratic royal doublet, gold chains, Shirone royal finery; [Ranoa University and Sharia Era] Heavy scholarly vest, Ranoa Academy uniform with scholar's robe, rolled-up linen sleeves, thick spectacles, sculptor's apron, carrying miniature figurines; [Biheiril Battle] Custom titan-sized steel breastplate, giant war club}
+
+---
+
+# Juliette (Julie)
+
+SHORT_DESC: {Coal-mine dwarf girl, adopted apprentice, sculptress, and surrogate daughter to Prince Zanoba Shirone and Rudeus Greyrat [Birth: K414]; purchased from the Sharia slave market at age five by Rudeus and Zanoba to serve as Zanoba's earth-sculpting hands, as Zanoba's Blessed Child strength constantly shattered delicate materials; affectionately named 'Julie'; nurtured with paternal love and taught common human speech, reading, arithmetic, and voiceless earth chant-casting by Rudeus; developed extraordinary artistic precision in sculpting, stone manipulation, and magical doll assembly; gentle, soft-spoken, and deeply grateful, she formed an unbreakable familial bond with Zanoba, caring for his daily needs while assisting his cutting-edge research; in mature life, mastered dwarven magical smithing and succeeded Zanoba in managing the Sharia Automated Doll Workshop.}
+
+HISTORY: {[Age 0-5: Coal Mine Slavery] Born into a destitute coal-mining dwarf clan on the Begaritt Continent; sold into human slavery due to crushing clan debts; starved and traumatized in a Sharia slave pen until discovered by Rudeus and Zanoba; [Age 5-10: Education & Apprenticeship] Welcomed into the Greyrat household and Zanoba's dormitory; nurtured with warm food, clothes, and patience; taught spoken language and earth magic by Rudeus; sculpted intricate clay figurines and automated doll joint components; treated Zanoba as her beloved father; [Age 10-15: Sharia Workshop Co-Founder] Assisted Zanoba in manufacturing the mass-market Ruijerd Superdia redemption figurines; constructed precision mana-conductive gears for the Zariff Prosthetic Arm and Magic Armor; [Age 15+: Master Artisan & Dwarf Matriarch] Traveled with Zanoba during the Biheiril campaign to provide field repairs for Rudeus's Magic Armor; inherited Zanoba's workshop and mentored Lily Greyrat in runic dollcraft; [Oldeus Alternate Fate] In the dark future of the Diary, remained loyal to Zanoba in the Sharia mansion; butchered by Milis Temple Knights in the cellar alongside Aisha and Ginger after Zanoba was immolated guarding the door.}
+
+PHYSIQUE: {Build: [Childhood Slave: Age 4-7] ~95cm, emaciated, malnourished dwarven child frame, very thin, barefoot when bought from the slave market; [Academy Era: K419+] ~100cm, slim, slightly filled out; [Post-Graduation] ~120cm, healthy child frame; [Post-War / Adult: Age 18+] 130cm / 4'3", 42kg, sturdy, compact, muscular dwarven sculptress build, slim and wiry; looks like an adorable little girl even after growing older, unlike male dwarves who look like short men with long beards | Height & Weight: [Age 5] 90cm, 14kg; [Academy Era] ~100cm, 18kg; [Adult] 130cm, 42kg | Breasts: [Childhood Slave: Age 4-7] Prepubescent, flat | [Adult Dwarven Sculptress: Age 18+] Compact, modest B-cup dwarven bust | Vaginal Depth: [Childhood: Age 4-15] Undeveloped dwarven child anatomy | [Adult: Age 18+] 4.9", Tightness: Snug | Skin: [All Eras] Warm tan dwarven complexion, soft throughout, smudged with clay dust and kiln soot | Face: [All Eras] Round, childish, adorable features; big expressive eyes full of loyalty and dedication | Hair: [All Eras] Sandy-blonde dwarven hair, long and feathery, tied into practical braids | Eyes: [All Eras] Big, expressive dark brown eyes full of loyalty and dedication | Distinguishing Traits: Dwarven physical strength; master earth sculptor hands | Outfits by Timeline: [Slave Market] Tattered slave rags, iron collar, barefoot; [Sharia Sculptor Apprentice] White one-piece sleeved dress with skirt and dark sandals, neat working dress, heavy leather apron, clay-carving chisels, small casting wand}
+
+---
+
+# Cliff Grimoire
+
+SHORT_DESC: {Human/dwarf hybrid magical prodigy, foremost curse and barrier researcher of the contemporary era, and husband of Elinalise Dragonroad [Birth: K406]; grandson of Pope Harry Grimoire of the Holy Land of Milis; born with dwarf blood giving him short stature, dark brown hair, and an innate genius for complex magical enchantments; adopted by the Milis Church hierarchy at age five following his parents' deaths; initially an arrogant, prideful brat claiming to be an unmatched genius, his core character was defined by fierce moral integrity, stubborn bravery, and absolute devotion to his loved ones; enrolled at Ranoa Magic Academy to escape Milis papal succession plots; fell deeply in love with Elinalise Dragonroad, accepting her mana buildup curse without hesitation and dedicating his career to curing her; inventor of the curse-suppressing artifact ring, the Zariff Prosthetic Arm, and Dragon God Orsted's curse-nullifying helmet; eventually returned to Milis to succeed his grandfather, reforming the Church into a global force of humanitarian aid and anti-Hitogami resistance.}
+
+HISTORY: {[Age 0-13: Milis Papal Ward] Raised in the Holy Land of Milis; demonstrated Saint-tier Fire and Advanced Healing magic as a child; clashed with church elders; sent to the Central Continent to evade rival church faction assassins; met Eris Boreas Greyrat in Roa during an assassination ambush, developing an unrequited crush; [Age 13-17: Ranoa Academy & Elinalise Romance] Enrolled at Ranoa Magic Academy; clashed with Rudeus over pride before recognizing his peerless skill; fell head-over-heels in love with Elinalise Dragonroad; learned of her curse requiring frequent sexual intimacy; vowed to cure her condition, proposing marriage with sincere dignity; [Age 17-23: Prosthetics & Curse Breakthroughs] Married Elinalise and fathered Clive Grimoire; collaborated with Zanoba and Rudeus to engineer the Zariff Prosthesis; invented a curse-suppression device that neutralized Elinalise's condition; created Orsted's signature curse-deflecting helmet that suppressed the Dragon God's aura of universal hatred; [Age 23+: Milis Reformation & Papal Succession] Accompanied Rudeus to the Holy Land of Milis; navigated the deadly conflict between Pope Harry's faction and Archbishop Latriea's extremists; ascended to high authority within the Milis Church, providing institutional backing for the Orsted Corporation; [Oldeus Alternate Tragedy] In the Diary's dark timeline, accompanied Rudeus to Milis to steal God-tier Detoxification scrolls for petrified Roxy; ambushed by Temple Knights and fatally poisoned, dying in the underground cathedral corridors.}
+
+PHYSIQUE: {Build: [Millis Youth: Age 13-15] Slender, aristocratic Millis scholar youth, short and lean-wiry for his age, often smug; [Ranoa Scholar & Adult: Age 18+] 170cm / 5'7", 62kg, lean, poised scholarly build, well-groomed; [Late Timeline: Milis Archbishop] 170cm, distinguished priest silhouette, confident posture | Height & Weight: [Age 15] 158cm, 50kg; [Adult: Age 20+] 170cm, 62kg | Penile: [Adult: Age 16+] average, intact, ~5" | Skin: [All Eras] Fair, aristocratic Millis complexion, smooth and well-kept | Face: [All Eras] Youthful, sharp-featured, handsome refined features; [Age 13-15] often smug, easily reddening expression; [Adult] composed scholarly bearing behind reading spectacles | Hair: [All Eras] Neatly parted, straight golden-blonde hair cut in a distinguished scholar style, slightly unkempt in his youth | Eyes: [All Eras] Sharp, proud hazel-gold eyes behind scholarly reading spectacles | Distinguishing Traits: Wears enchanted reading glasses; ink-stained fingers from magical circle research; youthful sharp features that mature into a noble, courageous scholar | Outfits by Timeline: [Pre-Academy: K406-K419] Milis religious acolyte robes, high-class noble vestments with a silver crucifix; [Academy Era: K419+] Ranoa Academy uniform with leather scroll satchel; [Post-Graduation onward] casual tunic and trousers; [Milis Church Leader / Adult] resplendent white-and-gold Millis priestly vestments, ceremonial stole, curse-dispelling magic tools}
+
+---
+
+# Elinalise Dragonroad
+
+SHORT_DESC: {Ancient high-elf warrior, grandmother of Sylphiette Greyrat, wife of Cliff Grimoire, and mother of Clive Grimoire [Birth: over 200 years ago]; an ageless, stunning beauty possessing golden-blonde curls and violet eyes, discovered over two centuries ago sealed inside a magical labyrinth crystal by Armored Dragon King Perugius Dola with total retrograde amnesia; afflicted with an ancient, incurable mana-crystallization curse that causes lethal internal mana accumulation unless regularly discharged through sexual intercourse and semen absorption; lived centuries as an adventurer, bearing numerous descendants across the world while earning an unfair reputation for extreme promiscuity; veteran frontline fighter of the legendary S-Rank party 'Fangs of the Black Wolf' alongside Paul Greyrat; an exceptional combatant wielding buckler shields, rapiers, and estocs with agile, acrobatic grace; despite her curse, possesses an intensely maternal, loyal, and romantic heart; found true, lifelong happiness with Cliff Grimoire, who loved her unconditionally and neutralized her curse through magical engineering.}
+
+HISTORY: {[Pre-Story: The Crystal Awakening] Found 200 years ago trapped inside an ancient labyrinth crystal by Perugius Dola; emerged with zero memory of her origin; discovered her mana buildup curse; wandered the world seeking relief; [Fangs of the Black Wolf] Joined Paul Greyrat's S-rank adventurer party; had casual dalliances with Paul before stepping aside when Paul fell for Zenith; clashed with straight-laced party members while shielding them with her agile buckler techniques; [Fittoa Search & Begaritt Expedition] Partnered with Roxy Migurdia to cross the Demon Continent searching for Paul's family; enrolled at Ranoa Magic Academy; reunited with her granddaughter Sylphiette, acting as her protective, worldly elder; [Marriage to Cliff Grimoire] Courted earnestly by young Cliff Grimoire; deeply moved when Cliff embraced her curse without judgment; married Cliff, settled in Sharia, and gave birth to their son Clive; [Teleport Labyrinth & Milis Reformation] Accompanied Rudeus and Paul into the Teleport Labyrinth in Begaritt; assisted in slaying the Manatite Hydra; later relocated to the Holy Country of Milis with Cliff, managing high-society diplomatic networks and standing as a revered matriarch of the extended Greyrat-Grimoire lineage.}
+
+PHYSIQUE: {Build: [Ancient Era to Present: 200+ Years] 168cm / 5'6", 54kg; voluptuous, stunning elven bombshell physique - curvy, athletic, wide hips, shapely legs, narrow waist, sculpted hips; completely ageless porcelain skin, unchanged across millennia due to her long elf-adjacent lifespan | Height & Weight: [Constant] 168cm / 5'6", 54kg | Breasts: [Lifelong Cursed High Elf: 200+ Years] Modest B-cup, perky; slender elven ribcage | Vaginal Depth: [Lifelong Cursed High Elf: 200+ Years] 5.5", Tightness: Accommodating, deeply experienced; devoted to husband Cliff Grimoire | Skin: [All Eras] Fair, smooth, completely ageless and unlined, radiant porcelain elven complexion | Face: [All Eras] Ageless, radiant elven beauty; full sensual lips, delicate cheekbones, confident knowing smile that never ages | Hair: [All Eras] Long golden-blonde hair worn in big ringlets, plus a pair of smaller ojou ringlets in front of her shoulders, cascading voluminous curls tumbling past her waist, with an ahoge standing up on top of her head | Eyes: [All Eras] Seductive, sparkling ruby-red elven eyes with an amused, predatory glint | Distinguishing Traits: Long pointed elven ears; curse of mana crystallization requiring sexual release through intercourse; mother of Laws, grandmother of Sylphiette; millennia of combat experience behind a flirtatious exterior | Outfits by Timeline: [Black Wolf & Adventurer Era] Black shorts and frilled stockings up to mid-thigh, small red and white corset exposing her midriff to show off her womanly charms, skirt that doesn't cover the front of her legs, gold-colored forearm bands, ornate form-fitting leather cuirass and daring combat skirt with high boots, always carries an estoc and buckler; [Academy Era: K419+] Ranoa Academy uniform worn over her traveling gear; [Ranoa & Married to Cliff] Elegant, alluring high-class gowns with plunging necklines, refined jewelry, loving motherly attire}
+
+---
+
+# Nanahoshi Shizuka
+
+SHORT_DESC: {High school student summoned whole-body from modern Earth, research scholar, and inventor [Birth: Earth, modern Japan]; the very student whom Rudeus Greyrat died saving from a speeding truck in his previous life; summoned directly into the Six-Faced World in Year K417 during the Mana Catastrophe; does not possess a mana pool and cannot cast magic, but uniquely does not age—her body, hair, and nails remain frozen in the exact state of her arrival; discovered unconscious in the wilderness by Dragon God Orsted, who recognized her foreign existence and became her guardian; adopted the alias 'Silent Seven Star' at Ranoa Magic Academy, achieving A-rank status in the Magic Guild through her profound knowledge of magic circles and summoning mechanics; single-mindedly obsessed with finding a way back home to Japan and her boyfriend Akito Shinohara; introduced modern Japanese cuisine (karaage, gyudon, ramen, pizza) to the world, revolutionizing food culture across the Northern Lands; afflicted with Drain Syndrome (Dry-Skin Curse) caused by mana starvation, which Rudeus cured using Sokas fruit tea; eventually placed herself in suspended animation under Perugius's care until the prophesied hero arrives.}
+
+HISTORY: {[Earth: Modern Japan] High school student in Tokyo; walked home with friends Akito Shinohara and Seiji Kuroki; saved from a fatal truck impact when an overweight NEET (Rudeus's past self) tackled them; [Summoning Arrival: Year K417] Transported directly into the Central Continent during the Fittoa Transfer Incident; rescued by Dragon God Orsted; learned the Human God tongue within a year; [Ranoa Academy & Research: K419-K423] Enrolled as a special student at Ranoa under Orsted's patronage; conducted groundbreaking experiments reversing summoning circles to return matter to Earth; partnered with Rudeus to supply the massive mana needed for her experiments; successfully summoned Earth objects (water, plastic bottles, tea leaves); [The Drain Syndrome Crisis] Succumbed to the fatal Dry-Skin disease caused by her body's rejection of environmental mana; saved when Rudeus and Kishirika secured Sokas fruit tea from the Demon Continent; [The Dragon General Revelation] Realized through Orsted and Perugius that she cannot return home until the future era when Akito Shinohara is summoned and the timeline resolves; placed herself in a temporal stasis pod in Perugius's Chaos Breaker fortress, awakening for one day every decade to review progress.}
+
+PHYSIQUE: {Build: [Summoned / Perpetual Japanese High School Body: Age 16] 160cm / 5'3", 48kg; slender, slim, average Japanese build with an un-aged adolescent physique; zero mana capacity ('dry body'), chronically tired posture; unchanged across the years in this world; [Chaos Breaker Stasis] preserved in suspended animation, body frozen at 16 | Height & Weight: [Perpetually Frozen at Age 16] 160cm / 5'3", 48kg | Breasts: [Perpetual Age 16 Body] Modest A-cup to B-cup, slim Japanese high-school physique | Vaginal Depth: [Perpetual Age 16 Body] 4.9", Tightness: Tight, unexercised | Skin: [All Eras] Smooth, fair East Asian complexion, pale and washed-out from stress and poor sleep | Face: [All Eras] Above-average Japanese features, delicate and pretty, dark circles beneath her eyes, perpetually weary skeptical expression; [Academy Era onward] masked in public by a featureless white mask | Hair: [All Eras] Long, straight, silky pitch-black Japanese hair with neat blunt bangs across the forehead | Eyes: [All Eras] Dark brown Japanese eyes with intellectual and homesick melancholy, sharp and tired | Distinguishing Traits: Completely ageless, body frozen at 16; lacks mana veins; featureless white porcelain mask worn in public; unmistakably foreign (Japanese) in manner and dress | Outfits by Timeline: [Summoned / Travel with Orsted] Featureless white mask, hooded traveler cloak over her Japanese high school sailor uniform; [Academy / Research Era] Ranoa Academy uniform, lab coats over modified school uniform, traveling cloak for fieldwork, comfortable indoor slippers; [Chaos Breaker Stasis] Ceremonial stasis robes, preserved in suspended animation}
+
+---
+
+# Pursena Adoldia
+
+SHORT_DESC: {Princess of the Doldia Beast race (Dog tribe), daughter of Chief Gustav Adoldia, and delinquent leader of Ranoa Magic Academy [Birth: K407]; possesses golden hair, floppy dog ears, a wagging tail, and a perpetually hungry, meat-obsessed disposition; habitually ends sentences with the distinctive verbal tick '...nano'; partnered with her feline rival Linia Dedoldia as the co-rulers and dorm bosses of the beastfolk students at Ranoa; an instinctual close-quarters fighter utilizing beastfolk physical reinforcement, sonic howling attacks, and earth/wind magic; challenged Rudeus upon his academy arrival and was thoroughly disciplined alongside Linia, transforming into his loyal, obedient underling; served as an elite bodyguard and reconnaissance scout for Princess Ariel and the Orsted Corporation; later succeeded her father as an honored elder and tribal leader in the Great Forest.}
+
+HISTORY: {[Great Forest Childhood] Reared in Doldia Village as the chief's daughter; trained in tribal hunting, vocal combat, and beast body reinforcement; sent to the Magic University of Ranoa for foreign study; [Academy Dorm Boss: K419-K424] Terrorized new students alongside Linia; challenged Rudeus to a duel in the gymnasium, where Rudeus easily neutralized both using Quagmire and stone bindings; stripped of their boss status and punished by being tied up in their dorms; developed a submissive reverence for Rudeus, calling him 'Boss'; [Ariel Succession & Frontline Combat] Accompanied Rudeus, Sylphiette, and Princess Ariel to Asura; provided critical perimeter scouting and VIP protection during the royal succession struggle; [Biheiril War & Mercenary Service] Mobilized by Rudeus to fight in the Biheiril Kingdom campaign, tracking Geese Nukadia and clashing with Badigadi's vanguard; returned to the Great Forest in mature adulthood to guide tribal diplomacy with the Central Continent.}
+
+PHYSIQUE: {Build: [Childhood: Great Forest] Small cub frame, tribal cub of the Adoldia branch; [Pre-Academy: Doldia Village] Growing beastfolk adolescent, unruly delinquent; [Ranoa Student: Age 15-18] 165cm / 5'5", 56kg, voluptuous, curvy, athletic dog-beastfolk frame, well-padded and healthy appetite; [Adult: Age 20+] 165cm, 58kg, curvaceous, powerful beastwoman build | Height & Weight: [Adult] 165cm, 56kg | Breasts: [Childhood: Great Forest] Small cub, flat | [Adult Beast Vanguard: Age 16+] Ample bosom, exceptional F-cup (seen from afar, exceptional even among beastkin) | Vaginal Depth: [Childhood: Age 0-14] Undeveloped cub anatomy | [Adult Beast Vanguard: Age 16+] 5.5", Tightness: Accommodating, robust beastkin build | Skin: [All Eras] Light tan, smooth, sun-warmed throughout | Face: [All Eras] Attractive, soft features, often smirking, adorable button nose, constantly chewing on dried meat | Hair: [All Eras] Long, thick, fluffy light golden-brown hair; [Childhood] scruffy cub fuzz | Eyes: [All Eras] Big, droopy, relaxed brown eyes, sharp when troublemaking | Ears & Tail: [All Eras] Drooping dog ears atop her head; fluffy wagging tail throughout | Distinguishing Traits: Fluffy golden dog ears and wagging tail; abrasive, haughty troublemaker with a vulgar mouth who shifts blame when caught; caretaker of the Sacred Beast Leo in the late timeline | Outfits by Timeline: [Academy Era] Ranoa Academy uniform with black tights, skirt tailored for her tail, dried meat pouch at hip; [Pre-Graduation] Casual tribal tunic; [Post-Graduation onward] Maid uniform when serving Rudeus, Vice-Director attire of the Rudo Mercenary Company; [Tribal Leader / Adult] Doldia beastfolk leather hunting armor, bone beads, war mantle}
+
+---
+
+# Linia Dedoldia
+
+SHORT_DESC: {Princess of the Doldia Beast race (Cat tribe), niece of Sword King Ghislaine Dedoldia, and daughter of the Cat Tribe Elder [Birth: K407]; possesses fiery feline reflexes, sharp cat ears, a sleek tail, and an arrogant, mischievous attitude; habitually punctuates sentences with the verbal tick '...nya'; co-leader of the beastfolk students at Ranoa Magic Academy alongside Pursena Adoldia; skilled in lightning-fast claw strikes, Water and Wind elemental magic, and beast screech disorientations; initially an insufferable academy bully until soundly humbled and disciplined by Rudeus Greyrat; possessed disastrous business instincts, falling into astronomical merchant debt after graduation and recklessly selling herself into slavery; purchased at auction by Rudeus and brought into the Greyrat household to serve as managing director of the Orsted Mercenary Guild Sharia Branch; evolved into a dependable logistics manager and fiercely loyal lieutenant.}
+
+HISTORY: {[Great Forest Childhood] Raised in Doldia Village under high expectations as Ghislaine's kin; sent to Ranoa Magic Academy to mature; [Ranoa Academy Years: K419-K424] Ruled student dorms with Pursena; humiliated by Rudeus after challenging him; served as his obedient lackey; assisted in mediating conflicts between beastfolk and human students; [Post-Graduation Debt & Slavery Crisis] Attempted to establish a luxury export business in the Central Continent; defrauded by corrupt merchants, accumulating catastrophic debt; willingly sold herself into criminal slavery in Sharia to pay her creditors; discovered by Rudeus at a slave auction, who purchased her contract and put her to work as a maid and mercenary dispatcher; [Orsted Mercenary Guild Director] Managed recruitment, field dispatches, and intelligence gathering for the Orsted Corporation; redeemed her debts and became a permanent, trusted fixture of the Sharia community.}
+
+PHYSIQUE: {Build: [Childhood: Great Forest] Small cub frame, niece of Ghislaine, pampered royal beast bloodline; [Pre-Academy: Doldia Village] Growing beastfolk adolescent, delinquent and bully; [Ranoa Student: Age 15-18] 162cm / 5'4", 50kg, lithe, acrobatic, athletic cat-beastfolk frame, slender with curves, flexible feline waist; [Adult: Age 20+] 162cm, 52kg, nimble, agile huntress build | Height & Weight: [Adult] 162cm, 50kg | Breasts: [Childhood: Great Forest] Small cub, flat | [Adult Beast Warrior: Age 16+] Generous D-cup (typical of royal Dedoldia females) | Vaginal Depth: [Childhood: Age 0-14] Undeveloped cub anatomy | [Adult Beast Warrior: Age 16+] 5.1", Tightness: Snug, agile feline build | Skin: [All Eras] Fair with a light tan, lightly tanned from training and travel | Face: [All Eras] Cat-like, mischievous, often grinning, fierce-cute feline smirk | Hair: [All Eras] Short, thick, spiky wild golden hair, a tomboyish delinquent's untidy crop; [Childhood] scruffy cub fuzz | Eyes: [All Eras] Sharp, mischievous feline amber eyes with slitted pupils | Ears & Tail: [All Eras] Cat ears atop her head; long grey cat tail swishing throughout | Distinguishing Traits: Golden cat ears and swishing feline tail; royal beast bloodline that earned her special-student privileges at Ranoa; sharp claws, punk attitude | Outfits by Timeline: [Academy Era] Ranoa Academy uniform worn loosely with punk flair, claws exposed; [Pre-Graduation] Casual beast-tribe tunic; [Rudo Merc Era onward] Servant/maid apron over common clothes when serving Rudeus; [Doldia Warrior] Leather huntress leathers, twin daggers}
+
+---
+
+# Ghislaine Dedoldia
+
+SHORT_DESC: {Legendary Sword King of the Sword God Style, Beast race warrior of the Doldia Cat Tribe, and former bodyguard of Eris Boreas Greyrat [Birth: K380]; known across the world as the 'Black Dog' and the fearsome dark-furred Sword King; possesses an imposing, muscular, and athletic physique clad in minimal leather armor; bearer of a rare Demon Eye (the Demon Eye of Magic Perception) gifted by Kishirika Kishirisu, allowing her to see mana flows and concealed spells; former wild delinquent who abandoned her village, joining Paul Greyrat's S-Rank party 'Fangs of the Black Wolf'; completely illiterate and innumerate until hired by Philip Boreas Greyrat in Roa, where 7-year-old Rudeus taught her basic reading, writing, and arithmetic in exchange for advanced sword lessons; intensely loyal, blunt, and honorable, she served as Eris's martial mentor and maternal protector; an unstoppable whirlwind in melee combat wielding the enchanted Longsword of Light.}
+
+HISTORY: {[Great Forest Rebel] Rebelled against tribal traditions in Doldia Village; fled to become an adventurer; [Fangs of the Black Wolf] Formed the legendary party with Paul, Elinalise, and Talhand; developed a fierce rivalry and physical relationship with Paul; parted ways when the group disbanded; [Sword Sanctum & Roa Bodyguard] Studied under Sword God Gal Farion, attaining the rank of Sword King; hired by House Boreas Greyrat to protect young Eris; tutored Rudeus in advanced swordsmanship while learning arithmetic and language from him; [Mana Catastrophe & Asuran Search] Teleported to the Asuran royal palace during the incident; imprisoned by political factions before escaping; joined the royal knight corps to search for Eris and the Boreas family; [Reunion & Biheiril Campaign] Reunited with Eris after Eris became a Sword King; fought side-by-side with Eris and Rudeus in the battle against North God Kalman III and the Fighting God; served as chief martial instructor for the royal Asuran guards and the Greyrat children.}
+
+PHYSIQUE: {Build: [Childhood: Doldia Village] Tribal cub who behaved like a wild animal, never learned to speak at first, ran away from home; [Pre-Story: Gal Farion Apprentice] Taken in at age 10 by the wandering swordsman Gal Farion, achieved Sword King rank; [S-Rank Adventurer & Bodyguard: Pre-Story onward] 182cm / 6'0", 76kg, towering, overwhelmingly muscular, ripped amazon feline beastwoman physique; chiseled six-pack abs, dense warrior musculature, slender with rippling muscles, amazonian frame exposed by her revealing outfit; raced across rooftops, shattered a sword in midair and decapitated attackers with a shockwave that tore up the stone road; [Post-War: Seven Knights] Veteran Sword King, still physically terrifying | Height & Weight: [Adult Constant] 182cm / 6'0", 76kg | Breasts: [Childhood: Doldia Village] Feral cub, flat | [Adult Sword King: Age 20+] Full bosom, heavy F-cup (canonically her biggest feature, full bosom over shredded abs) | Vaginal Depth: [Childhood: Doldia Village] Undeveloped cub anatomy | [Adult Sword King: Age 20+] 5.4", Tightness: Snug, muscular beastkin pelvic floor | Skin: [All Eras] Deep dark-bronze/chocolate skin, tanned throughout, crisscrossed with battle scars; several major scars from her youth as an adventurer, in particular a large one on her stomach | Face: [All Eras] Sculpted, intimidating, delinquent-boss vibe; feline fangs; eye patch over her right eye concealing a Demon Eye | Hair: [All Eras] Shaggy, wild grey-and-black fur-like hair cascading down her back | Eyes: [All Eras] Left eye wild amber with a sharp slitted pupil; [All Eras] right eye covered by an eyepatch concealing a Demon Eye | Ears & Tail: [All Eras] Grey beast-like feline ears atop her head; large cat-like tail; thick fur throughout | Distinguishing Traits: Muscular cat tail; eyepatch concealing a Demon Eye; towering amazon presence radiating Sword King Touki; Rudeus compared the feel of her butt to a rock | Outfits by Timeline: [Pre-Story / Black Wolf Era] Revealing leather outfit exposing torso and limbs - the upper half only consists of two straps over her breasts, never wears shirts; minimalist leather warrior harness and fur loincloth, sword belt with the Hiramune katana; [Roa Bodyguard Era] Revealed leather halter-top, leather combat shorts, high leather boots, black cape, greatsword on back; [Post-War] Seven Knights of Asura regalia worn over her traveling leathers, royal bodyguard cuirass}
+
+---
+
+# Ariel Anemoi Asura
+
+SHORT_DESC: {Second Princess and eventual supreme Queen of the Asura Kingdom [Birth: K405]; daughter of King Grabell and descendant of hero Kaunis Freean Asura; a peerless political prodigy possessing radiant platinum-blonde beauty, enchanting charismatic presence, and an iron Machiavellian intellect; survived dozens of childhood assassination attempts orchestrated by her corrupt half-brothers and Minister Darius Silva Ganius; saved during a palace garden assassination by a falling half-elf girl (Sylphiette), whom she recruited as her masked protector 'Silent Fitz'; exiled to the Magic University of Ranoa, where she served as beloved Student Council President and built an elite faction of foreign scholars, knights, and mages; backed by Rudeus Greyrat, Sylphiette, and Dragon God Orsted in a high-stakes return to Asura, systematically crushing Minister Darius's coup and ascending to the throne as Queen; an exceptionally capable, visionary monarch who ushered in a golden age of legal reform, educational expansion, and anti-Hitogami alliances.}
+
+HISTORY: {[Palace Childhood: Assassination Gauntlet] Raised in the treacherous court of Ars; targeted repeatedly by poison and assassins; saved by Sylphiette during the Fittoa Incident; formed an unbreakable emotional reliance on Sylphiette; [Ranoa Exile & Political Organization: K419-K423] Fled to Ranoa with Sylphiette and Luke; established the Ariel Faction; recruited foreign nobility and secured the backing of the Magic Guild; [The Silver Palace Coronation Campaign] Formed a historic compact with Dragon God Orsted through Rudeus; returned to Ars for the royal banquet; exposed Minister Darius's treason and Water God Reida Lia's coup; ascended the throne as Queen of Asura; [Reign & Global Alliances] Established universal elementary education; curbed noble corruption; provided state financing, naval fleets, and intelligence networks for the Orsted Corporation; mother of Prince Edward (her sovereign consort being Luke Notos Greyrat).}
+
+PHYSIQUE: {Build: [Childhood: K405-K416] Small, slender child princess frame, flat-chested, fragile-looking and solemn; [Exile Princess / Fitz Era: Age 15-18] 165cm / 5'5", 51kg, regal, hourglass aristocratic figure with alluring feminine curves, elegant and perfectly proportioned; [Queen of Asura: Age 20+] 165cm, 53kg, commanding, majestic royal queen physique, radiant posture; ages slowly, poised bearing throughout | Height & Weight: [Adult] 165cm, 52kg | Breasts: [Childhood: Age 0-12] Delicate royal princess, flat | [Exile Princess & Queen: Age 15+] Shapely C-cup to D-cup, accentuated by corseted royal silk gowns | Vaginal Depth: [Childhood: Age 0-14] Undeveloped royal child anatomy | [Exile Princess & Queen: Age 15+] 5.2", Tightness: Accommodating, refined noble build | Skin: [All Eras] Immaculately white, smooth, porcelain noble complexion, unblemished and luminous | Face: [All Eras] The most beautiful princess in Asuran history; slender nose, subtle lips, slightly rounded jawline, sculpted cheekbones, naturally reassuring smile that doubles as captivating royal charm | Hair: [All Eras] Long radiant golden-blonde hair falling to the small of the back, smooth and shiny; [Queen Era] styled in elaborate, flawless imperial curls draping over shoulders | Eyes: [All Eras] Piercing, charismatic amber-gold eyes radiating royal authority and seductive political charm | Distinguishing Traits: Incomparable charismatic aura; royal scent of rare Asuran blossoms; deep intelligence behind a gentle smile; Illusionary Ring (gift from Sylphiette) worn from the Epilogue onward | Outfits by Timeline: [Childhood: K405-K416] Luxurious gowns in white, royal blue, and gold with refined jewelry; [Fitz Era / Ranoa Exile] Ranoa Academy uniform worn with elegance, elegant tailored purple academy princess gown with ermine fur collar and silver tiara; [Coronation & Queen Era: K425+] Queen regalia in white and gold beneath a breathtaking coronation gown of purple velvet with pure gold embroidery, the Imperial Asuran Crown, holding the royal sceptre}
+
+---
+
+# Luke Notos Greyrat
+
+SHORT_DESC: {Scion of House Notos Greyrat, knight bodyguard and sovereign consort of Queen Ariel Anemoi Asura, and first cousin of Rudeus Greyrat [Birth: K405]; son of Pilemon Notos Greyrat and nephew of Paul Greyrat; an impeccably dressed, handsome nobleman renowned for his charming womanizing habits and courtly etiquette; an accomplished swordsman proficient in Water God Style parries and North God trickery, wielding an enchanted rapier; served Princess Ariel with absolute, unyielding devotion from early childhood, willingly sharing her foreign exile at Ranoa; conflicted by hidden family obligations to House Notos and manipulated by Hitogami's whisperings during the Asuran succession crisis; ultimately broke free of Hitogami's mental trap to stand beside Ariel, marrying her as her official consort and fathering First Prince Edward; a flawed, prideful, yet fundamentally noble knight whose devotion ensured Ariel's survival.}
+
+HISTORY: {[Childhood: Notos Court & Bodyguard Appointment] Reared in the aristocratic heart of Asura; appointed personal guardian knight to Second Princess Ariel at age ten; [Ranoa Exile & Silent Fitz Collaboration] Accompanied Ariel and Sylphiette into exile at Ranoa; served as Ariel's chief social aide and security vanguard; suspicious of Rudeus upon his academy arrival before recognizing his honorable intentions; [The Asuran Succession Crisis] Manipulated by Hitogami through dream visions, urging him to assassinate Ariel or betray Orsted to save his father Pilemon; broke down in tears before Rudeus, confessing the Man-God's threats; chose loyalty to Ariel over Hitogami, fighting valiantly during the Silver Palace confrontation; [Consort to the Queen & Later Years] Married Queen Ariel as her consort, fathering Crown Prince Edward; governed royal security and maintained close diplomatic ties with Rudeus and the Greyrat family; [Oldeus Alternate Fate] In the Diary's dark timeline, remained loyal to Ariel in her ill-fated coup, slain in battle defending her before her public execution.}
+
+PHYSIQUE: {Build: [Childhood: Asura Palace: K404-K416] Child noble frame, page of the Asura court; [Fitz Era: Academy: Age 16-20] 178cm / 5'10", 70kg, tall, slender, handsome courtly knight build, well-built and athletic; [Post-War: Age 22+] 178cm, 73kg, polished swordsman physique, refined posture; Guardian Knight to Princess Ariel throughout | Height & Weight: [Adult] 178cm, 72kg | Penile: [Childhood: Age 0-10] Prepubescent child anatomy [Fitz Era: Age 16-20, pre-marriage] above average, intact, ~6" | [Post-marriage to Ariel, father of Edward] above average, intact, ~6", matured | [Post-War: Age 22+] stable, fatherly | Skin: [All Eras] Fair, smooth, well-kept; clean-shaven throughout | Face: [All Eras] Extremely handsome, standard ikemen; combed-back hairline, charming smile, confident courtly expression | Hair: [All Eras] Flamboyant, wavy golden-blonde hair styled to perfection, combed back | Eyes: [All Eras] Charming, expressive amber eyes with long lashes, sharp and confident | Distinguishing Traits: Flirtatious playboy demeanor, follows a crowd of fangirls; Notos Greyrat noble lineage; fervent, self-sacrificing in his duty to Ariel despite his arrogance | Outfits by Timeline: [Childhood: K404-K416] Asuran noble page finery; [Fitz Era: Academy] Ranoa Academy uniform, white-and-purple knight doublet with rapier at hip, student council member; [Guardian Knight] Asuran knight armor with the Notos seal for combat, polished silver-and-gold Asuran knight plate, feathered cavalier hat, fine nobleman's tunic and trousers, Guardian Knight regalia; [Post-War: Hitogami Apostle Episode] Apostle of Hitogami garb briefly}
+
+---
+
+# Akito Shinohara
+
+SHORT_DESC: {High school student from modern Earth and classmate of Nanahoshi Shizuka [Birth: Earth, modern Japan]; the foundational catalytic figure of the entire temporal causality loop of Mushoku Tensei; struck by a truck alongside Nanahoshi and Seiji Kuroki on Earth, an event that led to the death and subsequent reincarnation of Rudeus Greyrat; summoned across space-time into the Six-Faced World in a distant future era by the Playback Miko (Riria) to serve as a foreign hero to alter the tragic history of the world; formed an intense, tragic romantic bond with the Playback Miko; his violent death in that future world prompted the Miko to burn her entire life force and temporal soul to rewrite the past, creating the cosmic dimensional rift (the Fittoa Transfer Incident) that pulled Nanahoshi into the world and allowed Rudeus's soul to slip into the stillborn child of Paul and Zenith; his existence represents the ultimate anchor of Nanahoshi's quest and the cosmic origin of the entire Mushoku Tensei story.}
+
+HISTORY: {[Earth: Modern Japan] Ordinary high school student in Tokyo; close friends with Nanahoshi Shizuka; walked home on the fateful day the truck lost control; [The Future Summoning & Playback Miko] Summoned centuries in the future into the Central Continent by a foreign war faction; enslaved and forced into battle; comforted by the young Playback Miko, who possessed the ability to rewind time by 24 hours; taught the Miko modern empathy and human warmth, becoming her only beloved companion; [Tragic Death & The Cosmic Rewind] Slain in battle despite the Miko's repeated temporal rewinds; his agonizing death caused the Miko to awaken her absolute power, expending her soul to send a temporal causality ripple into the ancient past to alter history so Akito could live; [The Causality Ripple] The Miko's cosmic distortion created the Mana Catastrophe in Year K417, transporting Nanahoshi to prepare the world and allowing Rudeus's soul to reincarnate— creating the timeline where Hitogami is defeated and peace is secured before Akito's future arrival.}
+
+PHYSIQUE: {Build: [Earth: Modern Japan] Average Japanese teenage frame, 172cm / 5'7.5", 64kg, lean, slightly stooped from screen-bound habits; [Six-Faced World: Summoned] Same lean frame on the battlefield, untrained and unprepared; [Adulthood] Slim but healthy young adult, quiet confidence in his posture | Height & Weight: [Age 16] 172cm, 64kg | Penile: [Adult: Age 16+] average, intact | Skin: [All Eras] Fair Japanese complexion, indoor pallor that warms with sun | Face: [All Eras] Average Japanese features, friendly resting expression, earnest and easy-going | Hair: [All Eras] Messy black hair, short and unkempt | Eyes: [All Eras] Dark brown eyes, warm and sincere | Distinguishing Traits: Summoned soul from modern Japan; Nanahoshi's classmate; one of the few people in this world who shares her origin | Outfits by Timeline: [Earth] Japanese school uniform, sneakers; [Six-Faced World] Simple combat tunic issued by the summoners, barefoot on the battlefield for lack of preparation time; [Later Era] Future traveler robes}
+
+---
+
+# Grabell Zafin Asura
+
+SHORT_DESC: {First Prince of the Asura Kingdom, eldest son of King Grabell, and bitter political rival to Second Princess Ariel Anemoi Asura [Birth: K400]; frontrunner for the Asuran royal succession heavily backed by corrupt Prime Minister Darius Silva Ganius, Water God Reida Lia, and the North God Style swordmasters of the court; characterized by extreme aristocratic arrogance, entitlement, and violent paranoia; orchestrated numerous covert assassination attempts against his half-sister Ariel throughout her childhood, forcing her into foreign exile at the Magic University of Ranoa; served as an unwitting political pawn of Hitogami via Minister Darius's backroom manipulation; during the Silver Palace coronation banquet in Ars, his faction collapsed when Rudeus Greyrat, Dragon God Orsted, and Princess Ariel exposed Darius's treachery, crushing the Water God's coup and leading to Grabell's complete political ruin and house arrest.}
+
+HISTORY: {[Age 0-16: Asuran Court Ascendancy] Reared in the opulent Silver Palace of Ars as the favored eldest son; allied closely with Minister Darius Silva Ganius to secure the military and noble votes; viewed Ariel's growing popularity and keen intellect as an intolerable threat to his divine right of succession; [Age 16-22: Assassination Plots & Ariel's Exile] Directed covert death squads, poisoned banquets, and hired assassins against Ariel, culminating in the palace garden monster ambush; celebrated when Ariel fled to the Northern Lands, consolidating control over the Asuran Royal Guard and regional noble houses; [Age 22-23: Silver Palace Confrontation & Fall] Stood alongside Minister Darius and Water God Reida Lia during the grand royal banquet to seal his coronation; paralyzed in horror when Dragon God Orsted manifested, effortlessly executing Water God Reida Lia; stripped of his succession rights following Ariel's ascendance; placed under perpetual noble detention as a disgraced prince, ending his bid for the Asuran throne.}
+
+PHYSIQUE: {Build: [Asura Palace onward] 175cm / 5'9", 78kg, tall for a noble but slightly fleshy, pampered imperial prince frame; athletic potential buried under courtly indulgence; regal bearing carried with arrogance | Height & Weight: [Adult] 175cm, 78kg | Penile: [Adult: Age 16+] above average, intact | Skin: [All Eras] Fair, soft, smooth court complexion untouched by labor | Face: [All Eras] Sharp-featured and handsome in a severe way, softened by pampering; arrogant sneer, narrow calculating eyes; regal resting affect | Hair: [All Eras] Oiled blonde hair parted pompously | Eyes: [All Eras] Narrow, arrogant blue eyes, sharp and imperious | Distinguishing Traits: Puppet-prince posture; consumes attention and expects deference; first Asura prince, leader of the faction opposed to Ariel | Outfits by Timeline: [Asura Palace] Formal Asuran prince regalia in white, royal blue, and gold; flamboyant imperial doublet with oversized puffed sleeves and diamond medals; combat situations call for knight's plate over the formal wear}
+
+---
+
+# Tristina Purplehorse
+
+SHORT_DESC: {Noble heiress turned slave, thief, and key prosecution witness in the downfall of Minister Darius Silva Ganius [Birth: K407]; daughter of Count Purplehorse of the Asuran Kingdom; possesses silver hair and delicate, refined noble features; framed and sold into brutal human trafficking after her family fell victim to Minister Darius's extortion schemes; escaped captivity by utilizing acrobatic agility and covert stealth, living as an underground thief in the capital of Ars; rescued and sheltered by Rudeus Greyrat, Luke Notos Greyrat, and Princess Ariel during their covert infiltration into Asura; provided incontrovertible testimony and documentary evidence exposing Darius's pedophilic exploitation, illegal slave networks, and treasonous corruption before the Asuran high aristocracy; restored to nobility following Ariel's coronation, serving as an administrator in the reformed royal welfare and anti-trafficking bureaus.}
+
+HISTORY: {[Childhood: Noble Fall & Enslavement] Raised as the daughter of Count Purplehorse; ruined when Minister Darius engineered her family's bankruptcy; captured by royal slavers and subjected to horrific abuse in Darius's clandestine pleasure dungeons; [Escape & Street Thief] Broke free using sharp wits and nimble dexterity; survived in the slums of Ars as a phantom thief, stealing ledgers and survival rations while evading royal bounties; [Rescue & Asuran Succession Infiltration] Discovered by Rudeus and Luke during the Orsted Corporation's covert operation to install Queen Ariel; safeguarded in a secure safehouse; agreed to testify against Darius in exchange for justice and rehabilitation; [Silver Palace Testimony & Rehabilitation] Took the stand before the Asuran noble assembly in the Silver Palace, presenting irrefutable proof of Darius's atrocities; elevated by Queen Ariel upon her coronation, receiving a royal pardon and full restoration of the Purplehorse family honor.}
+
+PHYSIQUE: {Build: [Childhood: Asura Palace: K409] Small child, daughter of the Purplehorse noble house, sold at age 8 into slavery; [Post-Metastasis Bandit Era: K417+] Athletic, lean bandit's frame, ~160cm / 5'3", 48kg, quick and aggressive; tomboyish ladette physique; [Late Timeline: Alias 'Tris'] Slender, guarded former slave's bearing, hardened by the thieves' guild | Height & Weight: [Adult] 160cm, 48kg | Breasts: [Childhood: Age 0-10] Small child, flat | [Bandit & Royal Court: Age 16+] Lean B-cup, wiry and athletic | Vaginal Depth: [Childhood: Age 0-14] Undeveloped child anatomy | [Adult: Age 16+] 5.0", Tightness: Snug | Skin: [All Eras] Fair, pale, marked by years outdoors after her enslavement | Face: [All Eras] Tomboyish, sharp features, often smirking; aggressive, vulgar expression; privately carries the trauma of noble-born child slavery | Hair: [All Eras] Wavy violet-purple hair, cut short in a boyish style | Eyes: [All Eras] Sharp, alluring violet eyes, fierce when challenged | Distinguishing Traits: Agile, dagger-fast fingers; slave mark from her years in Darius's service; aggressive, vulgar, tomboyish bandit ladette who swears and drinks with her men; key witness whose testimony brought down Darius and Grabell | Outfits by Timeline: [Childhood / Slave Era] Ragged dress; [Post-Metastasis: Bandit Crew] Skimpy midriff-baring bandit's top, leather trousers, light armor, dagger belt; [Royal Service / Late Timeline] Silk attendant gown with hidden daggers, thief's cloak}
+
+---
+
+# Vierra
+
+SHORT_DESC: {Senior personal maid and elite combat guard to Queen Ariel Anemoi Asura [Birth: K401]; a stoic, impeccably trained noble retainer proficient in Water God Style parrying and defensive knife-work; alongside her partner Shierra, accompanied Princess Ariel and Luke Notos Greyrat into exile at the Magic University of Ranoa following the palace assassination crisis; managed Ariel's daily diplomatic wardrobe, food poison screening, secret correspondence, and royal security protocols; possesses unwavering loyalty to Ariel, prioritizing the princess's life above all else and maintaining absolute discretion during high-stakes geopolitical maneuvering; supported the Ariel Faction through the Silver Palace coronation banquet, subsequently appointed Chief of the Royal Bedchamber and Senior Attendant to the Queen of Asura.}
+
+HISTORY: {[Asuran Court Service] Inducted into royal retainer training at an early age; assigned to Second Princess Ariel's personal guard; foiled multiple covert poisoning attempts by First Prince Grabell's faction; [Ranoa Exile: K419-K423] Traveled to the Northern Lands alongside Sylphiette (Fitz) and Luke; established the princess's student quarters in Sharia; screened all student council visitors and coordinated private meetings with the Ariel Faction; [Silver Palace Operation & Royal Appointment] Accompanied Ariel's vanguard into Ars; provided direct personal security during the banquet confrontation; elevated to Chief of the Royal Bedchamber upon Ariel's coronation, stewarding the royal household through decades of reform.}
+
+PHYSIQUE: {Build: [Adolescent: Fittoa Era] Slender adventurer-in-training frame; [Adult] Attractive, buxom, athletic, ~170cm, strong Fittoa adventurer's build with a firm core and graceful martial posture | Height & Weight: [Adult] 170cm / 5'7", 60kg | Breasts: [Adolescent] Slender, developing | [Adult Adventurer] Voluptuous F-cup, generous cleavage | Vaginal Depth: [Adolescent: Age 0-15] Undeveloped adolescent anatomy | [Adult: Age 16+] 5.5", Tightness: Accommodating | Skin: [All Eras] Fair, tanned from outdoor adventurer life | Face: [All Eras] Attractive, often winking or smirking; confident and quick to laugh | Hair: [All Eras] Long, thick dark brown hair worn loose or in a high ponytail bound with leather ties | Eyes: [All Eras] Amber, bright and mischievous | Distinguishing Traits: Fittoa adventurer sister of Shierra; buxom, battle-ready and cheerful; coordinates seamlessly with her sibling in a fight | Outfits by Timeline: [Adventurer Era] Chainmail bikini armor exposing the midriff and most of the bust; light cloak and boots; dagger at the hip for combat; light chest armor over a short tunic}
+
+---
+
+# Shierra
+
+SHORT_DESC: {Personal maid, bodyguard, and tactical retainer to Queen Ariel Anemoi Asura [Birth: K402]; twin-like partner to Vierra in service to the Asuran royal court; trained in concealed weaponry, agile North God evasion, and high-society noble etiquette; shared Princess Ariel's arduous foreign exile at the Magic University of Ranoa, managing domestic logistics, catering, and counter-espionage for the Ariel Faction; deeply loyal, alert, and observant, working in seamless synchronization with Vierra to ensure Princess Ariel's physical safety against assassins; assisted Rudeus and Sylphiette during the covert return to the capital of Ars, later appointed Senior Lady-in-Waiting and Supervisor of Royal Etiquette in the reformed Silver Palace.}
+
+HISTORY: {[Early Royal Service] Selected from loyal knightly lineage to serve Princess Ariel; trained rigorously in courtly manners, poison identification, and personal defense; [The Ranoa Years: K419-K423] Handled household management and intelligence filtering for Ariel's political circle at Ranoa Magic Academy; collaborated closely with Silent Fitz (Sylphiette) to maintain 24-hour guard shifts; [Coronation Confrontation & Silver Palace Steward] Stood guard during the tense royal succession banquet in Ars; ensured the safety of the royal entourage during Water God Reida's attack; rewarded with the title of Senior Lady-in-Waiting upon Ariel's ascension to the Asuran throne.}
+
+PHYSIQUE: {Build: [Adolescent: Fittoa Era] Small, timid child adventurer frame; [Adult] Slim, petite, ~158cm, light and quick, unassuming beside her buxom sister | Height & Weight: [Adult] ~158cm (restored - the updated block's 168cm royal-guard frame belonged to mis-copied content) | Breasts: [Adolescent] Small, flat | [Adult Adventurer] Modest B-cup, compact | Vaginal Depth: [Adolescent: Age 0-15] Undeveloped adolescent anatomy | [Adult: Age 16+] 5.0", Tightness: Snug | Skin: [All Eras] Fair | Face: [All Eras] Timid, eyes partially hidden behind her long bangs; easily flustered, watchful | Hair: [All Eras] Long, thick, feathery, falling over the eyes | Eyes: [All Eras] Amber, shy and alert beneath her bangs | Distinguishing Traits: Fittoa adventurer sister of Vierra; shy and unassuming, hides behind her hair; steadier and more cautious than her sister | Outfits by Timeline: [Adventurer Era] Loose modest tunic and trousers, hood drawn up in mixed company; staff for travel support; light boots}
+
+---
+
+# Kishirika Kishirisu
+
+SHORT_DESC: {The Great Emperor of the Demon World, Empress of Demon Eyes, and eternal sovereign of the Demon Race [Birth: Mythic Age]; fiancée of Demon King Badigadi and immortal ruler possessing a child-like, dark-skinned, purple-haired body that regenerates across millennia following every death; infamously eccentric, theatrical, and starved for delicious human food, possessing a grandiose laugh ('Mwahahaha!') and an insatiable appetite; creator and master of all Demon Eyes, capable of implanting legendary ocular powers (such as the Demon Eye of Foresight, Demon Eye of Magic Perception, and Demon Eye of Distant Vision) into individuals who offer her satisfying tributes or meals; encountered Rudeus Greyrat at Wind Port on the Demon Continent, gifting him the Eye of Foresight for a warm meal; later gifted him the Eye of Distant Vision and provided crucial geographical intelligence regarding Zenith's location and Hitogami's disciples; an immortal mythic force whose seemingly comical demeanor conceals vast knowledge of the Six-Faced World's cosmic origins.}
+
+HISTORY: {[Mythic Age: The Great Demon Empress] Ruled the Demon World during the ancient Great Human-Demon Wars; slain multiple times and resurrected in cycles; betrothed to Immortal Demon King Badigadi; [Wind Port Encounter: Year K417] Wandered the Demon Continent destitute and starving; fed a hot meal by 10-year-old Rudeus Greyrat; in overwhelming gratitude, performed ocular surgery to implant the Demon Eye of Foresight into Rudeus's right eye, transforming his combat reaction speed forever; [Ranoa & Begaritt Intelligence: Year K422-K423] Discovered by Rudeus in the Northern Lands; rewarded him with the Demon Eye of Distant Vision; used her omniscient Demon Eye Network to locate Zenith Greyrat trapped in the Teleport Labyrinth of Begaritt; [Biheiril Campaign Assistance] Consulted by Rudeus during the global pursuit of Hitogami's apostles; provided critical intelligence on Badigadi's armor and Geese's movements; continues her carefree, wandering life across continents, bestowing Demon Eyes upon fortunate souls.}
+
+PHYSIQUE: {Build: [Current Incarnation] Prepubescent child, ~135cm / 4'5", 30kg, slender, extremely skinny and unkempt; regenerates fully after each rebirth, appearing as a young girl each time; [Ancient Great Empress Form] Towering, voluptuous demon empress with immense mana | Height & Weight: [Current Story Era] 135cm / 4'5", 30kg | Breasts: [Current Reincarnation: Child] Flat, bony demon-child chest, visible ribs | [True Prime Empress Form] Colossal F-cup demonic cleavage | Vaginal Depth: [Current Reincarnation: Child] Undeveloped demon-child anatomy | [True Prime Empress Form] 6.0", Tightness: Accommodating | Skin: [All Eras] Ash-grey demon complexion with a faint luminous pallor, pale and otherworldly | Face: [All Eras] Childlike, large expressive eyes with heterochromia, pointed chin, shark-like pointed teeth visible when smiling; comically exaggerated expressions | Hair: [All Eras] Wild, tangled, spiky purple hair mid-length, with two strands sticking up like antennae | Eyes: [All Eras] Heterochromic multi-ringed demon eyes, glowing crimson-gold; possesses 12 demon eyes throughout her body; [True Sight] her left eye shifts to a target-reticle design| Forehead: [All Eras] Goat-like curved black demon horns protruding from the forehead| Distinguishing: Handcuffs with broken chains on the wrists, a Chained by Fashion affectation; stomach growling with hunger | Distinguishing Traits: Regenerates after each death; bestows demon eyes as favors; speaks in an archaic Japanese dialect; perpetual feud with Atofe over castle and drinks | Outfits by Timeline: [Lifelong] Skimpy black leather tube top barely covering the chest, short shorts, thigh-high boots, choker, broken-chain handcuffs - the entire ensemble dressed like a dominatrix, an outfit Rudeus internally calls 'Bondage girl'}
+
+---
+
+# Sara
+
+SHORT_DESC: {A-rank archer of the adventurer party 'Counter Arrow', expert huntress, and former romantic interest of Rudeus Greyrat in the Northern Lands [Birth: K407]; a golden-blonde, sharp-eyed commoner girl who lost her parents to corrupt nobles, harboring a fierce initial distrust of aristocracy; wields enchanted shortbows and composite bows with deadly pinpoint accuracy, tracking game and monsters across snowbound tundra; met depressed 13-year-old Rudeus in Rosenburg following Eris's departure; initially antagonistic toward him before Rudeus rescued her from a snow buffalo pack; developed deep mutual romantic feelings for Rudeus, culminating in an intimate encounter where Rudeus suffered erectile dysfunction due to severe psychological trauma; a painful misunderstanding led to a bitter estrangement, sending both into deep sorrow; reunited years later in Sharia, where both cleared the misunderstanding with mature grace, acknowledging their past affection and finding emotional closure; subsequently married a hunter/merchant in the North, living a fulfilling and peaceful life.}
+
+HISTORY: {[Childhood: Noble Trauma] Orphaned at a young age when corrupt Asuran nobles ruined her family's village; joined Counter Arrow to survive by her bow; [Rosenburg & Counter Arrow: K420-K421] Welcomed the brooding, depressed Rudeus into party quests; saved from a fatal snow buffalo ambush by Rudeus's earth and fire magic; fell in love with him and invited him to an intimate evening in an inn; devastated and humiliated when Rudeus's ED prevented intercourse and a drunken argument followed; left Rosenburg in tears; [Reunion in Sharia: Year K426] Encountered Rudeus in Sharia while working an escort commission; spoke privately in an alleyway, sharing an honest, heartfelt conversation where Rudeus explained his trauma and apologized sincerely; forgave Rudeus completely, smiling warmly and blessing his marriage to Sylphiette, achieving complete emotional peace; [Late Timeline] Retired from high-risk dungeon adventuring, settling down in the Northern Lands with her husband and family.}
+
+PHYSIQUE: {Build: [Childhood / Adolescent: Age 12-15] Tomboyish commoner adventurer girl, hardened by the Northern Lands after losing her parents in the Teleport Incident; [Northern Lands Archer: Age 15-18] 160cm / 5'3", 49kg, lean, athletic archer's build with flexible shoulders and quick reflexes; [Adult Adventurer: Age 22+] 160cm, 51kg, mature, graceful archer frame | Height & Weight: [Age 16] 158cm, 47kg; [Adult] 160cm, 51kg | Breasts: [Childhood / Adolescent: Age 12-15] Slender northern archer, flat | [Adult Adventurer: Age 16+] Modest B-cup, soft, distinct sun-tan lines framing pale skin | Vaginal Depth: [Adolescent: Age 12-15] Undeveloped adolescent anatomy | [Adult Adventurer: Age 16+] 5.0", Tightness: Snug | Skin: [All Eras] Fair, tanned and wind-tanned from outdoor adventurer life, lightly freckled | Face: [All Eras] Tomboyish, expressive, often scowling or skeptical; cute, spirited facial features that flash a reluctant smile | Hair: [All Eras] Short, lively strawberry-blonde hair cut in a practical bob | Eyes: [All Eras] Bright, determined hazel-green eyes, sharp and watchful | Distinguishing Traits: Archer's calluses on the right fingers; energetic stride; hostile-then-tender pride, Rudeus's second love interest | Outfits by Timeline: [Counter Arrow Era] Practical leather adventurer's gear with arm guards for archery, reinforced leather jerkin over a green tunic, short tunic and trousers, knee-high boots, light chest armor, quiver slung across the back, composite hunting bow; [Late Reunion Era] High-grade adventurer leathers, fur-trimmed mantle}
+
+---
+
+# Suzanne
+
+SHORT_DESC: {Vice-leader and heavy vanguard defender of the B-to-A-rank adventurer party 'Counter Arrow', wife of party leader Timothy [Birth: K395]; a seasoned, muscular, and exceptionally compassionate warrior woman clad in heavy plate armor, wielding broadswords and tower shields; acted as an indispensable maternal and protective figure to young archer Sara and teenage Rudeus during his darkest depressed period in Rosenburg; possesses keen emotional intuition, practical survival wisdom, and unwavering loyalty to her comrades; comforted Rudeus after his falling out with Sara, urging him to keep living and helping him secure letters of introduction for higher adventurer tiers; continued leading Counter Arrow through decades of successful expeditions across the Northern Lands, maintaining lifelong friendly ties with Rudeus.}
+
+HISTORY: {[Adventurer Career & Counter Arrow Formation] Founded Counter Arrow alongside husband Timothy; conquered Northern wilderness quests, protecting commoners from monster raids; [Rosenburg Mentorship: K420-K421] Recruited the isolated, grieving Rudeus into party operations; acted as his emotional anchor and protective elder; intervened during the aftermath of Sara's botched intimate encounter with Rudeus, preventing Rudeus from committing suicide and counseling him on female psychology; [Sharia Escort & Lifelong Friendship] Accompanied Counter Arrow on merchant escort caravans to Sharia; reunited with Rudeus in his prime, celebrating his marriage and family success; maintained regular correspondence with the Greyrat household while continuing active guild leadership in the North.}
+
+PHYSIQUE: {Build: [Early Career] Average, healthy adult woman, new to northern adventuring; [Northern Lands Vanguard: Age 25-35+] 172cm / 5'7.5", 66kg, sturdy, muscular, broad-shouldered female warrior build capable of holding the frontline against wild beasts | Height & Weight: [Adult Adventurer] 172cm / 5'7.5", 66kg | Breasts: [Adult Vanguard: Age 25+] Healthy C-cup to D-cup, sturdy and maternal under plate armor | Vaginal Depth: [Adult Vanguard: Age 25+] 5.5", Tightness: Mature, accommodating for husband Timothy | Skin: [All Eras] Tanned and sun-bronzed, wind-weathered from outdoor adventurer life | Face: [All Eras] Warm, friendly, often smiling gently; motherly expression with slight battle scars across the knuckles | Hair: [All Eras] Medium-length brown hair tied back for practicality, cut above the collar to fit under a helmet | Eyes: [All Eras] Warm, gentle, reliable chocolate-brown eyes, watchful on the frontlines | Distinguishing Traits: Heavy shield-arm callus; reliable veteran posture; calm motherly aura toward young adventurers like Rudeus and Sara | Outfits by Timeline: [Early Adventuring Career] Scuffed leather cuirass, fitted tunic, wool trousers, iron round shield, leather armor with bare midriff, adventurer's belt with pouches; [Counter Arrow Northern Quests: K417-K422] Hardened studded leather armor reinforced with iron plates, fur-lined winter traveling cloak, large steel heater shield, short broadsword, knee-high boots, light traveling cloak; [Later Timeline / Ranoa Settlement] Casual northern wool tunics, sheepskin vests, durable walking boots}
+
+---
+
+# Nina Falion
+
+SHORT_DESC: {Sword King of the Sword God Style, daughter of Sword God Gal Farion, and eventual wife of Sword God Gino Britz [Birth: K406]; a fiery, prideful, and fiercely competitive sword prodigy raised in the Holy Land of Swords; wields the Longsword of Light with blinding speed and aggressive momentum; formed an intense rivalry and lasting bond with Eris Boreas Greyrat after Eris brutally defeated her in their initial dojo spar; traveled to the Ranoa Magic Academy to challenge Rudeus Greyrat to test Eris's lover, where she was casually knocked unconscious by Demon King Badigadi, humbling her arrogance; part of the triangular sparring dynamic where Nina defeated Water King Isolde Cluel, while Isolde defeated Eris, and Eris defeated Nina; eventually married her cousin Gino Britz after he defeated Gal Farion to become the new Sword God, managing the Holy Land of Swords dojo.}
+
+HISTORY: {[Holy Land of Swords Upbringing] Reared from infancy by Gal Farion to inherit the Sword God Style; defeated all peers until teenage Eris arrived; humiliated when Eris beat her so severely she lost control of her bladder in front of the disciples; developed fierce respect and friendship with Eris; [Journey to Ranoa: Year K422] Traveled to Sharia to test Rudeus; provoked Demon King Badigadi in the courtyard and was knocked unconscious with a single flick, realizing the vastness of the world; [Asuran Succession Guard] Traveled with Isolde Cluel to Asura, assisting in VIP security during Ariel's coronation banquet; [Marriage to Gino Britz & Dojo Matriarch] Supported her cousin Gino Britz during his obsessive training; witnessed Gino slay Gal Farion to claim the title of Sword God; married Gino, bearing his children and running the world's supreme sword academy.}
+
+PHYSIQUE: {Build: [Childhood: Holy Land of Swords] Raised in the Sword God's dojo as Gal Farion's daughter, hot-blooded and confrontational; [Holy Land Swordswoman: Age 15-19] 168cm / 5'6", 57kg, lean, fiercely athletic muscular swordsman frame; [Sword Master & Wife to Gino: Age 22+] 168cm, 59kg, mature, deadly Sword King silhouette | Height & Weight: [Adult] 168cm, 58kg | Breasts: [Childhood: Holy Land] Flat, fiery dojo brat | [Sword King & Wife to Gino: Age 15+] Athletic B-cup, muscular under dojo robes; married to Gino Britz | Vaginal Depth: [Childhood: Age 0-14] Undeveloped dojo girl anatomy | [Swordswoman & Wife: Age 15+] 5.1", Tightness: Tight, athletic swordsman build | Skin: [All Eras] Fair, tanned from training yards | Face: [All Eras] Tomboyish, often intense or scowling; sharp cheekbones, confident haughty smirk; family eye-and-jaw resemblance to her father Gal Farion | Hair: [All Eras] Straight black hair tied in a high, fierce warrior ponytail, messy from training | Eyes: [All Eras] Proud, sharp, competitive dark eyes with the flared, fierce Tsurime eye shape her father passes on | Distinguishing Traits: High-speed Sword God footwork; lightning-fast draw; cannot read, like most people in the Holy Land of Swords; hot-blooded temperament that contrasts with the cooler Sword God Style practitioners | Outfits by Timeline: [Dojo Era] Practical dogi training clothes, white Sword God style canvas gi, knee-length hakama, wooden practice blade; [Traveling] Light armor, katana at the hip; [Sword Master Era] Premium master's gi, black leather armguards, enchanted holy sword}
+
+---
+
+# Reida Lia
+
+SHORT_DESC: {The supreme Water God of the contemporary era, grandmother and master of Isolde Cluel, and apex master of the Water God Style [Birth: K360 - Death: K423]; bearer of the hereditary title 'Reida Lia', passed down to the reigning grandmaster of the style; an elderly, slight woman whose frail, wrinkled appearance completely belies god-tier physical reinforcement (touki) and peerless counter-strike capability; master of the ultimate esoteric secret art 'Deprivation Sword Realm' (Flash), a god-tier defensive domain where any entity within her sensory field that initiates an offensive action is instantaneously intercepted and decapitated; allied with Minister Darius Silva Ganius out of lifelong personal gratitude and romantic nostalgia; unleashed her Deprivation Sword Realm during the Silver Palace coronation banquet, freezing Rudeus, Sylphiette, Ghislaine, and Isolde in place; slain in a split-second counter by Dragon God Orsted, passing the legacy of the Water God Style to her granddaughter Isolde.}
+
+HISTORY: {[Ascension to Water God] Mastered all five secret techniques of the Water God Style in her youth; inherited the sacred mantle of Reida Lia; celebrated across the world as an insurmountable defensive wall; trained numerous Water Kings, including Isolde Cluel; [Pact with Minister Darius] Formed a deep personal allegiance with Darius Silva Ganius, swearing her blade to his protection; [The Silver Palace Coup & Tragic Fall] Manifested during Ariel's coronation banquet in Ars to execute Prince Grabell's coup; activated the god-class secret technique 'Deprivation Sword Realm', immobilizing Rudeus, Sylphiette, and royal guards under threat of instant death; when Dragon God Orsted manifested, she launched her supreme god-strike, but Orsted drew the God Blade and severed her torso in a single flash, ending her legendary reign.}
+
+PHYSIQUE: {Build: [Youth] Once a voluptuous beauty comparable to her granddaughter Isolde in her prime; [Current: Elderly, Age 65+] 155cm / 5'1", 46kg, frail-looking, slight, hunched elderly woman frame that conceals peerless god-class counter-striking speed and supreme touki concentration | Height & Weight: [Elderly] 155cm / 5'1", 46kg | Breasts: [Youth: Prime Water God] Voluptuous D-cup | [Elderly: Age 65+] Modest, diminished with age | Skin: [All Eras] Weathered, aged, fine lines and heavy wrinkles, parchment-like in old age | Face: [All Eras] Stern, lined with age, sharp eyes still piercing; deceptively genial granny smirk masking ruthless lethal instinct | Hair: [All Eras] White, thinning with age, wispy silver-grey hair tied back in a severe traditional bun with a decorative wooden hairpin | Eyes: [All Eras] Clear, observant, sharp despite age; milky grey-blue and squinting until flashing with supreme killing intent | Distinguishing Traits: Slouching, relaxed posture and deceptive absence of Battle Aura until she activates the god-tier Water God Secret Technique 'Depriving Sword'; master-level touki beneath a frail exterior | Outfits by Timeline: [Lifelong / Prime Water God Era] Water God Style dogi in deep blue with white wave crests, formal hakama, the traditional Water God master's haori with the style crest; [Late Asura Court: K425 Succession Banquet] Opulent gold-and-azure formal Asuran court kimono-style robes, the Water God sacred blade hidden under voluminous sleeves}
+
+---
+
+# Isolde Cluel
+
+SHORT_DESC: {Water God (successor to Reida Lia), Royal Shield of the Seven Knights of Asura, close companion to Eris and Nina, and wife of North Emperor Doga [Birth: K406]; granddaughter and premier disciple of Water God Reida Lia; an exceptionally graceful, proper noblewoman possessing dark blue hair, gentle closed eyes that open sharply in combat, and absolute mastery of Water God counter-attacks; a devout follower of the Milis Church whose strict moral principles initially made her fiercely outraged by Rudeus's polygamy; defended Princess Ariel during the Silver Palace succession crisis, standing against her own grandmother Reida Lia; inherited the sacred title of Water God (Reida Lia) following her grandmother's death, elevating the Water God Style to new heights; fell in love with and married the gentle, colossal North Emperor Doga, serving as the invincible defensive vanguard of Queen Ariel's royal court.}
+
+HISTORY: {[Water God Dojo Training] Tutored rigorously by grandmother Reida Lia; attained the rank of Water King; formed a legendary training trio with Eris Boreas Greyrat and Nina Falion; countered Eris's aggressive Sword God rushes effortlessly while struggling against Nina's versatile speed; [Silver Palace Banquet & Succession] Served as Royal Shield for Princess Ariel; stood in anguish when grandmother Reida Lia initiated a coup; shielded Ariel and Luke from assassin crossfire; inherited the title of Water God upon Reida's passing; [Biheiril Campaign & Marriage to Doga] Joined Rudeus's coalition in the Biheiril Kingdom to battle Hitogami's apostles; courted by the massive North Emperor Doga, whose earnest chivalry and pure heart won her love; married Doga in Asura, standing as the realm's supreme martial couple.}
+
+PHYSIQUE: {Build: [Childhood / Youth: Holy Land] Daughter of the Water God line, trained from girlhood; [Holy Land & Asura Knight: Age 18-24] 165cm / 5'5", 53kg, slender, exceptionally poised noblewoman frame with flowing aristocratic grace, D-cup bust, looks remarkably delicate beside her towering husband Dohga; [Water God Master Era: Age 26+] 165cm, 54kg, dignified, graceful master swordswoman silhouette | Height & Weight: [Adult] 165cm / 5'5", 53kg | Breasts: [Youth: Holy Land] Developing Water God disciple, modest | [Water King & Knight: Age 18+] Voluptuous D-cup, elegant under silver plate armor; married to Dohga | Vaginal Depth: [Youth: Age 0-16] Undeveloped noble girl anatomy | [Knight & Wife to Dohga: Age 18+] 5.4", Tightness: Snug, muscular swordsman build | Skin: [All Eras] Fair, noble-pale, immaculate and smooth | Face: [All Eras] Elegant, Proper Lady expression, eyes usually closed in a serene half-smile; refined features masking inner anxiety about marriage | Hair: [All Eras] Long, lustrous raven-black hair in a traditional hime cut with even cheek-length side locks framing her face and a long back | Eyes: [All Eras] Usually closed; opens in serious moments, snapping wide open with piercing steel-blue focus in battle | Distinguishing Traits: Closed-eye posture; sudden explosive defensive counter-stance; graceful, unflappable composure befitting Reida Lia's granddaughter | Outfits by Timeline: [Holy Land Dojo] Deep navy-blue Water God Style dogi, knee-length hakama, white haori with the Water God style crest; [Asura Knight] Formal silver-and-blue royal guard uniform with the Royal Shield insignia worn over the dogi, ceremonial rapier; [Water God Master Era] Ceremonial Water God grand robes, delicate hair ornaments}
+
+---
+
+# Claire Latreia
+
+SHORT_DESC: {Matriarch of House Latreia, mother of Zenith Greyrat and Therese Latreia, and maternal grandmother of Rudeus, Norn, and Aisha [Birth: K368]; an imposing, severe, and iron-willed high noblewoman of the Holy Country of Milis; governed House Latreia with unyielding aristocratic discipline and dogmatic Milis piety, driving daughters Zenith and Therese away into adventuring and military service; initially aligned with the Demon Race Expulsion Faction of the Milis Church, viewing Rudeus and his mixed-race family with suspicion; orchestrated the temporary kidnapping of telepathic Zenith to secure church sanctuary and test Rudeus's familial devotion; despite her harsh, cold demeanor and refusal to apologize, her actions were rooted in fierce, desperate maternal love to protect Zenith from exploitation; reconciled with Rudeus after understanding his genuine filial devotion, becoming a stalwart political patron of the Greyrat family in Milis.}
+
+HISTORY: {[Milis Aristocratic Reign] Reared House Latreia through decades of church factional warfare; strictly trained children to uphold high nobility standards; grieved bitterly when Zenith fled home to become an adventurer; [The Milis Family Crisis: Year K425] Reunited with Rudeus and mute Zenith in Milis; clashed violently with Rudeus over Zenith's custody, engineering a covert abduction to place Zenith under church Miko protection; held hostage during Archbishop Latriea's extremist coup; rescued by Rudeus and Dragon God Orsted; [Reconciliation & Matriarchal Blessing] Recognized Rudeus's profound integrity and love for Zenith; granted her official blessing to the Greyrat household, reforming House Latreia to support the Demon Race Acceptance Faction and backing Cliff Grimoire's church ascension.}
+
+PHYSIQUE: {Build: [Elderly Millis Matriarch: Age 60+] 160cm / 5'3", 52kg, tall and dignified in her youth, now a rigid, upright, aristocratic noblewoman frame maintaining unyielding posture despite advanced years | Height & Weight: [Elderly] 160cm / 5'3", 52kg | Breasts: [Elderly Millis Matriarch: Age 60+] Modest, diminished with age | Skin: [All Eras] Pale, aged, lined; porcelain aristocratic skin with pronounced frown lines and dignified age wrinkles | Face: [All Eras] Stern, perpetual frown, sharp eyes often glaring; cold, judgmental expression that softens only when Zenith's safety or family honor is tested | Hair: [All Eras] Gray fading to silver-blonde, elegantly styled in an elaborate, severe high noble coiffure adorned with Millis pearl hairpins | Eyes: [All Eras] Sharp, cold, evaluating, icy blue-violet | Distinguishing Traits: Unwavering aristocratic posture; clutches Millis prayer beads, an ornate gold parasol, or a walking cane carried more for status than support; chillingly formal gaze | Outfits by Timeline: [Lifelong] Refined Milis noblewoman's gown in deep conservative colors, high collar, family crest of Latria embroidered, lace trim; severe high-collared velvet gowns in deep Millis navy and gold, starched lace ruffs, silk shawls, pearl rosaries; [Latreia Manor Crisis: K427] Dark mourning silk day dresses with delicate gold filigree embroidery and embroidered prayer cloaks}
+
+---
+
+# Therese Latreia
+
+SHORT_DESC: {Company Commander of the Milis Temple Knights (Anastasia Keep), personal protector of the Blessed Child of Memory, and maternal aunt to Rudeus and Norn Greyrat [Birth: K393]; fourth daughter of Claire Latreia and younger sister of Zenith Greyrat; shares a striking physical resemblance to Zenith, distinguished by a beauty mark near her eye and her athletic knight physique; rebelled against House Latreia's noble marriage expectations to join the Holy Knights of Milis, mastering Water God Style swordsmanship; first encountered 11-year-old Rudeus in Milis (saved by Eris from kidnappers in the capital of Millishion), developing a doting, affectionate bond with her nephew; served as Rudeus's crucial insider ally within the Milis Church hierarchy during the papal succession crisis, helping neutralize extremist anti-demon factions.}
+
+HISTORY: {[Youth: Knightly Rebellion] Refused aristocratic court life, enlisting in the Milis Temple Knights; rose through merit to command the elite Anastasia Keep; [Millishion Encounter: Year K418] Rescued alongside the Memory Miko by Eris Boreas Greyrat; met toddler/child Rudeus, noticing his resemblance to sister Zenith and issuing him a royal pass; [The Papal Succession Conflict: Year K425] Welcomed Rudeus to Milis; provided critical military intelligence on Archbishop Latriea's treasonous plot; coordinated with Rudeus and Cliff to liberate the Pope and protect telepathic Zenith; [Senior Commander & Family Ally] Maintained high authority in the reformed Milis military; visited Sharia frequently to shower her grand-nephews and nieces with gifts.}
+
+PHYSIQUE: {Build: [Youth: Millis] Slender, athletic girl with the striking Latreia looks; [Millis Temple Knight: Age 25-35] 165cm / 5'5", 54kg, athletic, graceful temple knight frame, generous bust, striking resemblance to her older sister Zenith | Height & Weight: [Adult] 165cm / 5'5", 54kg | Breasts: [Youth: Millis] Slender noble maiden, modest | [Temple Knight Captain: Age 25+] Shapely C-cup to D-cup under golden Millis breastplate | Vaginal Depth: [Youth: Age 0-18] Undeveloped noble anatomy | [Temple Knight Captain: Age 25+] 5.3", Tightness: Snug | Skin: [All Eras] Fair, slightly weathered from knight training, youthful noble complexion | Face: [All Eras] Resembles Zenith strongly - the family resemblance is striking; bright radiant smile that instantly puts others at ease; beauty mole positioned differently from her sister's | Hair: [All Eras] Radiant honey-blonde (Zenith's blonde) styled in a chic, elegant bob closely resembling Zenith's youth | Eyes: [All Eras] Warm, intelligent sky-blue eyes filled with affection and noble resolve | Distinguishing Traits: Striking facial resemblance to Zenith Greyrat; noble swordswoman presence; warm maternal manner toward Rudeus; the family mole, set apart from her sister's placement | Outfits by Timeline: [Youthful Temple Knight] Pristine white Millis holy order tunic, silver chainmail, blue sash; [Temple Knight Captain] Milis Order of the Temple knight's armor in white and silver with the Anastasia Keep heraldry, polished silver-and-blue plate engraved with the holy Millis cross, white silk cape, gold-plated ceremonial longsword, practical sword-fighting underclothes beneath, knight's saber at the hip; [Off-Duty / Family Visits] Elegant pale cream silk noble gowns, lavender riding mantles, leather riding boots}
+
+---
+
+# Hilda Boreas Greyrat
+
+SHORT_DESC: {Wife of Philip Boreas Greyrat, mother of Eris Boreas Greyrat, and daughter-in-law of Lord Sauros Boreas Greyrat [Birth: K385 - Death: K417]; a stunning noble beauty of House Boreas possessing fiery crimson hair, noble elegance, and an extraordinarily voluptuous figure (which Eris inherited in adulthood); suffered profound emotional trauma after her two eldest sons were forcibly taken away at birth by the Greyrat main house in Ars per noble inheritance customs; initially treated 7-year-old tutor Rudeus with icy glares and cold disdain, bitter that Paul's son roamed freely while her own sons were stolen; melted completely on Rudeus's tenth birthday when she realized Rudeus's gentle care for Eris, embracing him warmly as her future son-in-law; tragically perished alongside Philip in the conflict-ridden displaced zones of the Conflict Realm following the Fittoa Mana Catastrophe.}
+
+HISTORY: {[Boreas Noble Marriage & Trauma] Married Philip Boreas Greyrat in Roa; gave birth to two sons, both immediately seized by House Boreas leadership; reared daughter Eris with fierce emotional intensity; [Rudeus's Tutoring Years: K414-K417] Kept a cold, resentful distance from Rudeus in the Roa mansion; witnessed Rudeus transform Eris from a violent delinquent into a literate, disciplined swordswoman; on Rudeus's tenth birthday banquet, broke down in tears of joy, hugging Rudeus to her chest and pleading with Philip to make Rudeus Eris's husband; [The Fittoa Catastrophe & Death] Transported alongside Philip to the war-torn Conflict Realm during the Mana Catastrophe; slain by local warlords while defending each other, leaving Eris orphaned and fueling Eris's fierce resolve to master the sword.}
+
+PHYSIQUE: {Build: [Adult Noblewoman: Age 30-35] 168cm / 5'6", 58kg, slender, noblewoman's figure with prominent bust and alluring curves; voluptuous, regal bearing, proud aristocratic posture passed on to her daughter Eris | Height & Weight: [Adult] 168cm, 58kg | Breasts: [Adult Noblewoman: Age 30-35] Generous E-cup, proud under Boreas velvet gowns | Vaginal Depth: [Adult Noblewoman: Age 30-35] 5.5", Tightness: Mature | Skin: [All Eras] Fair, noble-pale, smooth and well-kept | Face: [All Eras] Proud aristocratic beauty with high cheekbones; stern, perpetually frowning for three years, softening into a warm smile when she accepts Rudeus at his tenth birthday | Hair: [All Eras] Thick, wavy crimson-auburn red hair (the trait Eris inherits), long and elegantly styled | Eyes: [All Eras] Fierce amber eyes displaying classic Boreas intensity and passion | Distinguishing Traits: Voluptuous figure and red hair passed down to Eris; passionate, temperamental demeanor; deep emotional vulnerability regarding lost children | Outfits by Timeline: [Roa Citadel Era / Boreas Court] Refined Asuran noblewoman's gown in deep red and gold with the Boreas family crest embroidered, lace collar, gemstone jewelry befitting her station; sumptuous crimson and deep purple court gowns cut with plunging necklines, gold lace trimmings, pearl necklaces, feather fans; [Metastasis Disaster / Conflict Zone] Torn noble traveling silks, dirt-stained crimson bodice and mantle before her tragic demise in the Conflict Zone}
+
+---
+
+# Sylvaril of the Void
+
+SHORT_DESC: {First familiar of Armored Dragon King Perugius Dola, Void spirit of the Heavenly race, and primary seneschal of the floating fortress Chaos Breaker [Birth: Mythic Dragon Era]; manifests as a dignified, winged humanoid woman wearing pure white robes and an intricate avian/bird mask concealing her facial features; responsible for fortress administration, portal wardenship, magical barrier maintenance, and diplomatic protocol for all mortal visitors seeking audience with Lord Perugius; deeply respectful yet fiercely vigilant regarding the sanctity of the Dragon King's realm; supervised Nanahoshi Shizuka's summoning research within Chaos Breaker and assisted Rudeus Greyrat during his visits to secure ancient dragon magic, serving as the unbreakable administrative pillar of the floating citadel.}
+
+HISTORY: {[Ancient Dragon World Era] Created by Perugius Dola as his foremost spiritual familiar and master of the Void; participated in the ancient Laplace War, maintaining the defensive barrier matrices of Chaos Breaker; [Chaos Breaker Stewardship: Contemporary Era] Welcomed Nanahoshi Shizuka upon her arrival, assisting her laboratory setup; granted safe passage to Rudeus Greyrat and his companions, inspecting infant Sieghart Saladin's green hair before Lord Perugius's divine blessing; facilitated temporal stasis procedures for Nanahoshi, standing eternal vigil beside Perugius through the centuries.}
+
+PHYSIQUE: {Build: [Ancient Familiar Spirit] 170cm / 5'7", 52kg, tall, slender, regal Heaven Race physique; ethereal, otherworldly humanoid frame that glides effortlessly above the ground; unchanged across 400+ years of service | Height & Weight: [Immortal Constant] 170cm / 5'7", 52kg | Breasts: [Immortal Constant] Modest B-cup, slender Heaven Race build | Vaginal Depth: [Heaven Race Spirit Form] 5.0", Tightness: Snug | Skin: [All Eras] Pale, faintly luminous, a Heaven Race trait; pure flawless alabaster visible along the jawline | Face: [All Eras] Never seen - hidden behind a white bird mask, never removed in front of mortals; only the calm jawline shows | Hair: [All Eras] Long hair worn beneath the mask, shimmering silver-white, cascading down her back in pristine locks| Wings: [All Eras] A pair of jet black wings on the back, a Heaven Race trait | Distinguishing Traits: Porcelain avian mask never removed in front of mortals; graceful floating or gliding strides; complete silence in motion; the only one of Perugius's twelve servants who is flesh and blood | Outfits by Timeline: [Lifelong] Flowing white robes with the Floating Fortress Chaos Breaker's insignia, trimmed with jade and embroidered with ancient Dragon race talismans, gold armlets, white bird mask covering the entire face; bare feet or soft sandals, silver slippers for ceremony}
+
+---
+
+# Hitogami
+
+SHORT_DESC: {The Man-God, self-proclaimed supreme entity residing in the Void World at the metaphysical core of the Six-Faced World, and the ultimate antagonist of Mushoku Tensei [Birth: Primordial Era]; appears in dreamscapes as an indistinct, featureless white silhouette possessing an innate passive psychic charm that induces instant trust and obedience in living mortals; possesses near-omniscience regarding future timelines, viewing countless branching possibilities and manipulating individuals like pieces on a cosmic chessboard; driven by sheer terror of his prophesied demise at the hands of Dragon God Orsted and the descendants of Rudeus Greyrat; operates strictly through covert apostles—offering honeyed, seemingly beneficial advice that covertly leads to the ruin, despair, and slaughter of his enemies; orchestrated the murder of pregnant Roxy in the alternate future of the Diary and dispatched apostles across continents to eliminate Rudeus's bloodline, standing as the cruel, manipulative architect of global catastrophe.}
+
+HISTORY: {[Primordial Era: The Void Usurpation] Usurped the divine power of the original Man-God; triggered the destruction of the five other worlds, leaving only the Human World and the central Void; locked in an eternal, looping metaphysical war against Dragon God Orsted; [Dream Manipulations: K417-K423] Appeared to Rudeus following the Fittoa Incident, guiding him across the Demon Continent with helpful tips to win his unyielding trust; subtly maneuvered Rudeus to Begaritt to engineer Paul's death and Roxy's eventual demise; [The Basement Rat Scheme & Alternate Timeline] In the Diary's timeline, instructed Rudeus to inspect the cellar, allowing an infected demon rat to transmit Petrification Syndrome to pregnant Roxy, destroying Rudeus's soul and driving him into dark vengeance; [The Global Apostle War] After Oldeus's time travel thwarted the rat plot, Hitogami mobilized his three primary apostles (Geese, Gal Farion, and Badigadi in the Fighting God Armor) in a desperate war in the Biheiril Kingdom; defeated when Rudeus, Orsted, and the coalition crushed his forces, leaving Hitogami sealed and awaiting execution by Lara Greyrat.}
+
+PHYSIQUE: {Build: [Creation Era onward] Vaguely humanoid; tall, slender frame manifested only in the dream world and the Void; [Void Astral Avatar] 175cm / 5'9", featureless, smooth white silhouette radiating a faint astral glow; lacks anatomical flesh, organs, or muscle definition| Gender: [All Eras] Genderless; the humanoid silhouette is a manifested abstraction with no biological sex | [Creation Era onward] genderless | [Void Dimension Astral Avatar] genderless | [All eras, dreamspace] genderless | [Present] genderless; no biological sex whatsoever | Height & Weight: [All Eras] Appears as an average human height, 175cm / 5'9"; weightless, incorporeal entity | Skin: [All Eras] Pure white, faintly luminous | Face: [All Eras] Blank white surface with a perpetual grin that eludes memory; mosaic impression over features - a blank mosaic of shifting light and shadow that forces the viewer's brain to project an amicable, utterly trustworthy stranger; no fixed nose, mouth, or eyes visible | Hair: [All Eras] None visible; smooth featureless scalp, completely bald with no hair follicles | Eyes: [All Eras] Suggested in form, never directly shown; perceived as closed or smiling slits - featureless glowing white slits, since human brains project a smiling, trusted acquaintance onto him due to the passive psychological trust curse | Distinguishing Traits: Incorporeal white glowing outline; unearthly cheerful demeanor; horrifying reveal of malevolent desperation when thwarted; invisible to Hitogami's own sight-blocking curses in reverse| Attire: [All Eras] Simple loose robe of pale fabric when fully manifested in dreamspace, otherwise a barefoot, luminous white human silhouette against a pitch-black void; faint outline against the void backdrop}
+
+---
+
+# Orsted
+
+SHORT_DESC: {The 100th Dragon God, Rank 2 of the Seven Great World Powers, and the undisputed strongest living entity in the Six-Faced World [Birth: Ancient Dragon Era]; son of the First Dragon God and Dragon General Lunaria; born with silver-white hair, golden reptilian eyes, and terrifying physical and magical dominance; afflicted by three cosmic curses: the Curse of Hatred (instilling instinctual revulsion and terror in all living beings except otherworldly souls), the Curse of Slow Mana Regeneration (mana recovers at a fraction of normal speed, forcing extreme conservation across centuries), and the Curse of the 200-Year Reincarnation Loop (resets to the Roa outskirts upon death or failure, repeating his quest across tens of thousands of years); sworn to exterminate Hitogami by breaching the Void World using the secret treasures of the Five Dragon Generals; founded the Orsted Corporation alongside his most trusted lieutenant Rudeus Greyrat, discovering true companionship, warmth, and the key to breaking his eternal loop.}
+
+HISTORY: {[Ancient Era: Dragon Heritage & Cosmic Mission] Sent to the future by the First Dragon God with the mission to avenge the Dragon World and destroy Hitogami; spent over 20,000 years repeating the 200-year cycle, mastering every martial style, magic system, and geopolitical contingency across hundreds of loops; [Red Dragon's Lower Jaw: Year K419] Encountered Dead End in the mountain pass; recognized Rudeus as an anomaly speaking Hitogami's name; pierced Rudeus's chest in combat before reviving him at Eris's desperate plea; [Cabin Duel & Alliance: Year K423] Clashed with Rudeus in the Sharia basin after Rudeus attacked in the Magic Armor MK-I; spared Rudeus upon Eris's intervention and accepted him as his premier operative, forming the Orsted Corporation; [Silver Palace & Global Battles] Executed Water God Reida Lia with a single God-Blade draw during the Asuran coronation; fought alongside Rudeus against Fighting God Badigadi in the Biheiril Kingdom, sealing the armor and securing his ultimate path to victory alongside the Greyrat lineage.}
+
+PHYSIQUE: {Build: [All Eras: Perpetual 200-Year Loop] 195cm / 6'5", 105kg, tall, imposing, broad-shouldered, martial posture; towering, immense, god-like warrior physique radiating terrifying physical and magical pressure, dense dragon-touki musculature | Height & Weight: [Constant across loops] 195cm / 6'5", 105kg | Skin: [All Eras] Pale, chiseled; small scales along the neck concealed by the coat collar | Face: [All Eras] Stern, sharp-featured, overpowering resting gaze; intimidating jaw, impassive stare; slit pupils hidden under normal lighting; forked tongue concealed behind closed lips | Hair: [All Eras] Long, wild silvery-white hair, straight, reaching down to his shoulder blades | Eyes: [All Eras] Golden sanpaku eyes, amber-tinted and intense, the whites visible below the iris; slitted vertical pupils in certain light | Distinguishing Traits: Three ancient curses - the hatred aura that makes all living beings instinctively fear and revile him, invisibility to Hitogami, and near-zero mana recovery; overwhelming presence that stops people mid-sentence | Outfits by Timeline: [All Eras] Long white coat with thick fur trim at the collar and cuffs to conceal the neck scales, crafted from impenetrable dragon scales; plain dark tunic and trousers beneath; reinforced combat boots; face-concealing helmet worn among strangers to suppress the curse; carries no visible weapon or armor, generating God Cross techniques with his bare hands}
+
+---
+
+# Laplace
+
+SHORT_DESC: {The Demon Dragon King, creator of the Seven Great World Powers ranking monument, and legendary architect of modern magical and martial systems [Birth: Mythic Age]; one of the original Five Dragon Generals serving the Dragon World; during the ancient Great Human-Demon War, his soul was shattered into two distinct entities during a catastrophic battle against the Fighting God in the Fighting God Armor: the Technique God (who inherited his memories, techniques, and martial encyclopedias, becoming Rank 1 of the Seven Great Powers) and the Demon God Laplace (who inherited his immense demonic mana pool and hatred for humanity, becoming Rank 4); sealed four hundred years ago by the Three Heroes (Armored Dragon King Perugius, Dragon God Urupen, and North God Kalman I); prophesied to reincarnate around Year K500, setting the cosmic stage for the final war against Hitogami.}
+
+HISTORY: {[Mythic Age: Five Dragon Generals] Served as the brilliant scholar and warrior of the Dragon Race; developed magical runes, barrier matrices, and the Seven Great Powers system; [The Great Human-Demon War & Soul Shattering] Battled the Fighting God in a cataclysmic duel that bisected the Central Continent; his spirit fragmented into the memory-holding Technique God and the wrathful Demon God; [The Laplace War: 400 Years Ago] As the Demon God, waged a devastating war against humanity; manipulated the Superd race with cursed tridents; defeated and sealed at the continent's edge by Perugius Dola, Urupen, and Kalman I; his impending reincarnation remains the focal horizon for Orsted's preparation.}
+
+PHYSIQUE: {Build: [Pre-Story: Ancient Demon Dragon King] Over two meters tall - 210cm / 6'11", 130kg; powerful, colossal frame, intimidating draconic physique combining draconic scales, demonic horns, and superhuman brawn; fewer scales than a pure Dragon Tribe member; bears fangs, claws, and a set of wings; [Laplace Era split onward] Split into the Demon God form and the Dragon God half | Height & Weight: [Prime God Era] 210cm / 6'11", 130kg | Skin: [Pre-Story onward] Pale scaly skin with draconic ridges along the brow, proud and regal draconic features; transparent-white pallor to the scales | Hair: [Pre-Story] Silver with patches of green; [Laplace Era split onward] Demon God form solid shimmering emerald-green flowing wildly to mid-back - the original genetic source of the Laplace Factor; Dragon God half retains silver-green | Eyes: [Pre-Story] Two golden eyes, reptilian with slitted pupils radiating immense draconic aura; [Laplace Era split onward] Demon God form gentle and emerald| Wings: [Pre-Story onward] A set of wings on the back, carried by the Demon God form | Distinguishing Traits: Dragon horns curving back from temples; fangs and claws; emerald hair that became the Laplace Factor reappearing across human newborns for centuries; an unmatched magical aura capable of tearing reality | Outfits by Timeline: [Pre-Story / Laplace Era] Bare-chested warrior garb in battle, loose robes when in court, obsidian and gold Dragon King ceremonial vestments and draconic mantle; [War God Form] Heavy draconic armor forged of god-class metals, wreathed in roaring mana aura; [Sealed Era onward] Demon God form bound in seal within the Floating Castle of Perugius; Dragon God half concealed in the world's background}
+
+---
+
+# Badigadi
+
+SHORT_DESC: {Immortal Demon King of the Demon Continent, Demon King of Wisdom, fiancé of Great Empress Kishirika Kishirisu, and wielder of the Fighting God Armor [Birth: Mythic Age]; a colossal, six-armed demon giant possessing obsidian-black skin, booming laughter ('Gwahahaha!'), and absolute cellular immortality—regenerating from complete vaporization; younger brother of Immortal Demon Lord Atoferatofe; possesses an expansive, carefree, and philosophical soul masked beneath a boisterous hedonistic exterior; enrolled at the Ranoa Magic Academy as a special student, testing Rudeus's devastating Stone Cannon; secretly bound by an ancient life debt to Hitogami, forcing him to don the cursed Golden Fighting God Armor in the Biheiril campaign to challenge Orsted and Rudeus; defeated and sealed beneath the earth, maintaining his deep respect and affection for Rudeus.}
+
+HISTORY: {[Mythic Age: Fighting God War] Donned the Fighting God Armor during the Great Human-Demon War; fought Demon Dragon King Laplace to a mutual shattering; [Ranoa Academy Interlude: Year K422] Traveled to Sharia; challenged Rudeus to pierce his immortal body; pulverized by Rudeus's Stone Cannon and regenerated laughing, declaring Rudeus a true champion; mentored student swordsmen and enjoyed the peaceful academy life; [The Biheiril Final Battle: Hitogami's Apostle] Bound by his sacred oath to Hitogami; equipped the Fighting God Armor, assuming Rank 3 of the Seven Great Powers; waged a titanic war against Rudeus in the Magic Armor MK-Zero, Eris, Ruijerd, and Kalman II; permanently disarmed and sealed inside a magical barrier cube by Dragon God Orsted, content in the glorious battle.}
+
+PHYSIQUE: {Build: [All Eras] Incredibly tall, broad-shouldered, six muscular arms (top pair folded across chest, middle pair stretched as if flexing, bottom pair resting on hips); large muscular ogre-ish frame - 220cm / 7'3", 145kg, a colossal six-armed black demon titan with dense obsidian muscles immune to physical damage; [Fighting God Armor Equipped] Enclosed inside the gleaming three-meter Golden Fighting God Armor, over 300kg | Height & Weight: 220cm / 7'3", 145kg (over 300kg in Fighting God Armor) | Penile: [All Eras] Large, oversized in proportion to his six-armed frame | [Laplace Era / Pre-Story] large | [Fighting God Armor equipped era] large, confined by golden carapace | [Rudeus Era] large | [Immortal Demon King, all eras] large, unaltered by immortality | Skin: [All Eras] Jet black shading to black-purple, obsidian skin as hard as diamond; turns brown when drunk | Face: [All Eras] Broad, grinning jaw with a hearty, booming laugh; big, bright eyes set in a dark giant's skull-like visage | Hair: [All Eras] Wild black hair standing up like a crown, worn long and loose | Eyes: [All Eras] Big, bright golden eyes gleaming with hearty, boisterous laughter, deep-set in hollow sockets | Distinguishing Traits: Six fully articulated muscular arms; absolute physical immortality and immense physical brawn; boomingly cheerful demeanor; bound by a millennia-old blood debt to Hitogami | Outfits by Timeline: [Laplace Era / Pre-Story] Loose demon garments wrapped across the chest and hips, bare arms on display; minimalist tribal loincloth and gold bangles on all six wrists; Fighting God Armor (golden plate) when outfitted for war; [Rudeus Era] Academy student robes over loose demon garments}
+
+---
+
+# Atoferatofe Rybak
+
+SHORT_DESC: {Immortal Demon King of the Necros Fortress in the Demon Continent, widow of North God Kalman I, and mother of North God Kalman II (Sandor) [Birth: Mythic Age]; daughter of ancient demon lord Necros Lacross and older sister of Badigadi; possesses a monstrously dense, black-viscous slime body capable of instant regeneration and overwhelming physical force; infamously dim-witted, reckless, and short-tempered, flying into violent rages whenever her intelligence is questioned; loves direct physical brawling above all else, forcing defeated challengers to swear eternal vassalage in her undead demon army; sworn rival of Armored Dragon King Perugius Dola; persuaded to assist the Orsted Corporation during the Biheiril campaign through Kalman II's familial mediation, standing as an unstoppable, chaotic battering ram on the battlefield.}
+
+HISTORY: {[Mythic Age to Laplace War] Ruled the Necros Fortress on the Demon Continent; defeated by North God Kalman I, whom she passionately married and bore Kalman II; [Necros Fortress Duel: Year K423] Ambushed Rudeus and his party when they visited her castle seeking alliances; shattered into pieces by Rudeus's lightning and shotgun stone cannons before regenerating; subdued by Dragon God Orsted's overwhelming aura; [Biheiril Reinforcement: Year K427] Mobilized her demonic royal guard to reinforce Rudeus against Fighting God Badigadi and Geese; clashed violently with North God Kalman III, helping turn the tide of the great campaign.}
+
+PHYSIQUE: {Build: [All Eras] Average height for a mature woman - 175cm / 5'9", 65kg, about Rudeus's height; large ogre-ish frame, voluptuous, battle-sculpted demoness physique with a narrow waist, muscular thighs, and a full bust kept under battered armor; athletic and battle-hardened across countless deaths | Height & Weight: [Immortal Constant] 175cm / 5'9", 65kg | Breasts: [Immortal Demon Lord] Full, firm, E-cup under battered armor | Vaginal Depth: [Immortal Demon Lord] 5.8", Tightness: Accommodating, regenerates intact due to immortal demon biology | Skin: [All Eras] Blue-black obsidian demon skin, scarred from countless deaths; scars accumulate as faint white marks before fading | Face: [All Eras] Strong, battle-hardened features with sharp demonic fangs visible when laughing uproariously; the horns give a demonic silhouette | Hair: [All Eras] Wild, cascading silver-white mane worn loose and long down her back | Eyes: [All Eras] Burning, ferocious crimson eyes, sharp and filled with bloodlust and battle hunger| Wings: [All Eras] A pair of bat-like black wings on the back| Horn: [All Eras] Sweeping obsidian horns protruding from the forehead | Distinguishing Traits: Immortal body that liquefies and regenerates instantly upon bisection; brash, bloodthirsty, battle-obsessed; forces anyone she defeats into eternal blood-oath servitude contracts; perpetual rival of Kishirika | Outfits by Timeline: [All Eras] Armor covered in scratches with decorative trim long ripped off - spiked demonic black iron plate bikini-armor, armored shoulder pauldrons with skull motifs, battle greaves, crimson cape torn at edges; carries the Immortal Sword in an extravagant sheath across her back}
+
+---
+
+# Pax Shirone
+
+SHORT_DESC: {Seventh Prince of the Shirone Kingdom, later King and founder of the short-lived Shirone Republic [Birth: K402 - Death: K427]; half-brother of Prince Zanoba; former student of Roxy Migurdia, whom he obsessed over and sought to possess; initially a spoiled, cruel, and hedonistic prince who held maid Lillia and Aisha hostage to capture Rudeus; exiled following Zanoba's revolt; studied statecraft and military tactics in the King Dragon Realm, marrying Princess Benedict Kingdragon; executed a successful coup to seize the Shirone throne, aiming to establish an egalitarian republic free from corrupt aristocratic exploitation; driven to despair by betrayal, military collapse, and Hitogami's mocking visions, ultimately leaping to his death from the royal palace balcony— a tragic monarch whose potential greatness was crushed by fate.}
+
+HISTORY: {[Shirone Prince & Exile: K414-K417] Ruled as a tyrannical prince in Shirone; took Lillia hostage; humiliated when Zanoba joined Rudeus to liberate them; exiled in disgrace; [King Dragon Realm Maturation] Rebuilt his life in King Dragon Realm; earned the deep love of Princess Benedict; studied governance and progressive military reforms; [The Shirone Coup & Tragic Suicide: Year K427] Returned to Shirone with revolutionary troops, establishing a reformed republic; targeted by neighboring monarchies and betrayed by his own generals; abandoned by Hitogami when his utility ran dry; refusing to let Benedict and his unborn child Pax Jr. die in vain, jumped from the palace tower to his death, leaving Rudeus and Roxy in mournful contemplation.}
+
+PHYSIQUE: {Build: [Age 12-16: Prince] Short, round, short-limbed, compared to a hobbit and a dwarf stitched together; chubby, unpleasant boy build; [Age 17: Exile] Leaner, lost weight, gained muscle after being cast out; [Age 20+: King] 168cm / 5'6", 72kg, slightly stocky then lean, harder and slightly more intimidating; gaunt from stress by the end | Height & Weight: [Adult] 168cm, 72kg | Penile: [Age 15: Prince] Immature, chubby adolescent royal anatomy (4.8"); filling out slightly into a stressed adult build (5.2", soft) | [Age 17: Exile] developing, lean | [Age 20+: King] average, intact, consistent with his small-framed physique | [Post-marriage to Benedict Kingdragon] average, intact | [Late Timeline: stressed king] average, diminished by stress and his obsession with Roxy | [Age 27: suicide] diminished | Skin: [All Eras] Pale, sickly, sweaty complexion | Face: [Age 15] Rounder, soft, fleshy cheeks; [Age 17 exile onward] Harder and sharper after exile; [Age 25 king] Gaunt from stress, tragic sorrowful expression before his suicide | Hair: [All Eras] Greasy, thinning light brown hair | Eyes: [All Eras] Bulging, insecure brown eyes filled with desperation and longing for validation | Distinguishing Traits: Severe inferiority complex; obsession with Roxy; spoiled brat who hardened into a tragic, guilt-wracked king | Outfits by Timeline: [Age 15 prince] Fine silken robes in Shirone colors, tight royal silk doublet and gold chains; [Age 17 exile] Rags and traveler's wear; [Age 25 king] Somber purple-and-black Shirone royal vestments, ceremonial royal garb with a sword belt, heavy crown}
+
+---
+
+# Gal Farion
+
+SHORT_DESC: {The Sword God, master of the Holy Land of Swords, and apex practitioner of the Sword God Style [Birth: K380 - Death: K427]; Rank 6 of the Seven Great World Powers; father of Nina Falion; a hardened, cynical, and ferocious warrior who elevated the Longsword of Light to its deadliest, most absolute velocity; mentored Eris Boreas Greyrat and Nina, forging them into peerless Sword Kings through brutal, unrelenting combat training; dethroned in a shocking, single-stroke duel by his young disciple Gino Britz; consumed by wounded pride and manipulated by Hitogami via apostle Geese Nukadia, joined the ambush force in the Biheiril Kingdom to slay Dragon God Orsted; mortally wounded by Eris Boreas Greyrat and North Emperor Doga, dying with warrior's honor on the snowy battlefield.}
+
+HISTORY: {[Holy Land Master & Seven Great Powers] Reigned supreme at the Sword Sanctum; refined the Sword God Style into the world's most feared offensive martial system; [Mentorship of Eris: K419-K423] Trained Eris following her departure from Fittoa, recognizing her wild beast potential and conferring the title of Sword King; [Dethronement by Gino Britz] Challenged by disciple Gino Britz; overwhelmed by Gino's unprecedented velocity in a single stroke, forfeiting his title as Sword God; [The Biheiril Ambush & Death: Year K427] Recruited as Hitogami's apostle by Geese; ambushed Rudeus and Orsted in the Biheiril mountains; engaged in a deadly sword duel against his former student Eris; intercepted and struck down by Eris and Doga, passing away as a true swordsman.}
+
+PHYSIQUE: {Build: [All Eras] Adult male, athletic, lean with a swordsman's conditioned frame; tall - 185cm / 6'1", 85kg; shredded, sinewy, explosive frame honed to pure lethal instinct | Height & Weight: 185cm, 85kg | Penile: [All Eras] Average, consistent with his athletic swordsman build | [Peak Sword God: Age 35-50] average, intact, ~5" | [Dethroned by Gino, Hitogami apostle era] average, intact | [Biheiril, slain by Eris and Ruijerd] severed at death | Skin: [All Eras] Weathered, tanned from training yards; weather-scarred with dueling cuts across the bridge of the nose and cheeks; prominent scar running from below the left eye to below the left ear, second scar at the tip of the right eye | Face: [All Eras] Fierce, likened to a ferocious wolf; prominent left-eye scar and right-eye scar; ferocious predator grin | Hair: [All Eras] Wild, shaggy jet-black hair, cropped short in his youth and tied loosely in a short topknot as Sword God | Eyes: [All Eras] Sharp, predatory hawk-like golden eyes that never blink | Distinguishing Traits: Peerless Longsword of Light stance; lightning-fast draw reflexes; dethroned by his own disciple Gino Britz, then manipulated by Hitogami into becoming an apostle | Outfits by Timeline: [All Eras] Plain training gi / simple white master's gi at the Holy Land of Swords, black hakama, straw sandals; carries the Nodobue (Windpipe), a slender wind-blade sword; carries the Sword of Light (Holy Blade of the Sword God) longsword for formal duels and rank challenges; [Biheiril Hitogami Apostle] Worn dark traveling gi, ragged black cloak, wielding the Holy Blade until slain by Eris and Ruijerd}
+
+---
+
+# Soldat Heckler
+
+SHORT_DESC: {S-Rank adventurer, leader of the elite Northern adventurer party 'Stepped Leader', and staunch elder brother figure to Rudeus Greyrat [Birth: K398]; a tall, muscular, and scarred heavy swordsman wielding two-handed greatswords with aggressive North God Style mastery; frequently projects a foul-mouthed, abrasive, and bullying persona that conceals exceptional tactical brilliance, chivalry, and deep empathy for hurting comrades; intervened during Rudeus's lowest point in Rosenburg, dragging him out of suicidal despair, introducing him to brothels, and forcing him to confront his psychological grief; partnered with Rudeus on legendary Red Dragon hunts, becoming his most trusted adventuring brother across the Northern Lands.}
+
+HISTORY: {[Northern Adventurer Rise] Led Stepped Leader through brutal dungeon conquests across the Northern Lands, achieving prestigious S-Rank status; [Rosenburg Intervention: Year K421] Confronted teenage Rudeus during his depressive spiral; scolded him for playing the lone martyr; took Rudeus drinking and helped him process his emotional wounds; formed an inseparable brotherhood during high-tier dragon hunts; [Reunions & Biheiril Support] Supported Rudeus during his return trips to the North; mobilized mercenary units to aid the Greyrat family logistics, remaining a beloved lifelong brother and confidant to the Quagmire.}
+
+PHYSIQUE: {Build: [All Eras] Tall for an average person - 182cm / 6'0", 84kg, muscular, broad across the shoulders; heavy-set, rugged northern swordsman build, S-rank veteran of the Stepped Leader clan | Height & Weight: 182cm, 84kg | Penile: [All Eras] Average, consistent with his broad-shouldered northern build | [Early career: Stepped Leader leader] average, intact | [Counter Arrow era, mentoring Rudeus] average, intact | [Later Timeline] average, weathered, aging soldier | Skin: [All Eras] Fair, Northern complexion, weather-roughened; scar running across the left cheek, stubbled jaw | Face: [All Eras] Sharp features, hard jaw often set in a frown; weary, sharp, cynical expression that softens when caring for comrades | Hair: [All Eras] Short, messy sandy-blonde hair, medium length in his youth | Eyes: [All Eras] Weary, sharp, cynical dark grey eyes, blue and sharp in his earlier years | Distinguishing Traits: Rough, booming voice; scent of northern ale and pipe leaf; big-brother presence who pulled Rudeus back from the brink of suicide | Outfits by Timeline: [All Eras] Practical adventurer's leather armor over a heavy shirt; sword belt across the chest; travel-worn boots; cloak bearing the Stepped Leader insignia in cold climates; heavy fur-lined leather-and-steel coat, studded armguards, reinforced travel trousers, heavy greatsword on back}
+
+---
+
+# Gallus Cleaner
+
+SHORT_DESC: {North Saint of the North God Style, ruthless smuggler captain, and covert apostle of Hitogami [Birth: K385 - Death: K418]; a cunning, charming, and duplicitous mercenary operating extensive illicit human and beast trafficking rings through Zant Port and the Holy Country of Milis; approached Rudeus's party 'Dead End' in Zant Port, offering passage across the ocean in exchange for liberating contraband goods; revealed to have orchestrated the kidnapping of Sacred Beast beastfolk children in the Great Forest under Hitogami's direct dream instructions; fought Ruijerd Superdia in a vicious duel in the burning port warehouse, utilizing North God feints and poison before being slain by the Superd warrior.}
+
+HISTORY: {[North God Dojo & Smuggling Empire] Attained the rank of North Saint; turned his martial skills toward profitable international slave trafficking; [Hitogami's Directives] Contacted in dreams by Hitogami to orchestrate the capture of beastfolk children in Doldia Village and sabotage Dead End's journey; [The Battle of Zant Port: Year K418] Conspired with corrupt port officials to ambush Dead End; faced Ruijerd Superdia in single combat; outmaneuvered by Ruijerd's Devil Eye and spear mastery, dying on the docks as the trafficking ring was destroyed.}
+
+PHYSIQUE: {Build: [All Eras] Small, broad, compact dwarf frame - ~130-140cm; barrel-chested; short thick limbs; master of the North God Style dojo, dwarf craftsman and swordsmith who built his dojo's smithy with his own hands | Height & Weight: [All Eras] ~130-140cm, dwarf proportions (the updated block's 175cm smuggler frame contradicted his SHORT_DESC and was restored) | Penile: [All Eras] Average for dwarf proportions | [Smuggler/Cleaner era] average for dwarf proportions, ~130-140cm frame | [North God Dojo Master era] average for dwarf proportions | [All eras] dwarf-proportioned | Skin: [All Eras] Ruddy, weathered from forge heat and training yards | Face: [All Eras] Craggy, deeply lined, broad flat nose; small dark eyes under a heavy brow | Hair: [All Eras] Iron-gray, long, worn loose under a forge hood| Beard: [All Eras] Full, long, braided at the tip; iron-gray matching the hair | Distinguishing Traits: Taciturn, gruff, terse dwarf demeanor - speaks little, strikes decisively; inspects every blade that enters his grounds; stubbornly loyal to his dojo and craft | Outfits by Timeline: [All Eras] Heavy leather forge apron over training gi; thick gloves on the hip; short gladius-length sword at the belt; iron-shod boots}
+
+---
+
+# The Old Man (Future Rudeus Greyrat)
+
+SHORT_DESC: {Rudeus Greyrat from fifty years in a catastrophic divergent timeline ('Oldeus'), legendary time-traveler, and tragic martyr [Birth: K407 - Death: K423]; arrived through a one-way temporal rift in Rudeus's Sharia basement to avert the horrific future engineered by Hitogami; in his timeline, Hitogami tricked him into opening the cellar door, allowing a demon rat to infect pregnant Roxy with lethal Petrification Syndrome; the resulting grief drove him into alcoholism, domestic violence, and bitter estrangement from Sylphiette and his family; Sylphiette died in a failed Asuran coup, Eris sacrificed her life taking a lethal blow from Atoferatofe, and his entire life collapsed into madness; spent decades mastering forbidden gravity magic, electric spells, and ancient Dragon time-space teleportation; sacrificed his internal organs and life force to travel back in time, delivering his guilt-ridden Diary to present Rudeus to save his family before dying peacefully.}
+
+HISTORY: {[The Tragedy of Roxy & Household Collapse] Tricked by Hitogami in Year K423; lost pregnant Roxy to Magic Stone Disease; fell into alcoholic ruin; lost Sylphiette to public execution in Ars and Eris to Demon Lord Atofe's mortal blow; [Decades of Dark Vengeance] Mastered gravity magic, silent lightning, and forbidden research; waged a one-man war against Hitogami's apostles across the world; [The Temporal Leap & Salvation] Developed time-reversal magic using ancient dragon ruins; ripped open a temporal gate at the cost of his lungs, stomach, and life energy; materialized in present Rudeus's basement; delivered the Diary detailing Hitogami's traps, advised Rudeus to reconcile with Eris and contact Orsted, and passed away with a smile; buried with honor beside Paul's grave in Buena/Sharia.}
+
+PHYSIQUE: {Build: [Future Era: Age 17-63] 175cm / 5'9", 52kg; originally tall, muscular and scarred from decades of battle, by the end emaciated, skeletal, a harrowing scarred frame missing several internal organs from dark magic backlash and temporal magic abuse | Height & Weight: 175cm / 5'9", 52kg (severely wasted away from organ failure and temporal magic backlash) | Penile: [Future Era: Age 17] average, intact (young alternate-timeline Rudeus) | [Age 25-40s: decades of battle] above average, intact, cavorted with prostitutes and ranked them in his diary | [Age 63: emaciated, pre-jump] above average, intact, diminished by organ failure | [Post-temporal jump to Age 17] restored to young-adult, intact | Skin: [All Eras] Weathered, scarred across the entire body from decades of combat; gaunt, deathly pale, covered in burns and deep claw scars; missing teeth | Face: [All Eras] Rugged, aged beyond his years, hardened expression carrying the despair of his dead timeline; gaunt, sunken cheeks | Hair: [All Eras] White, long, unkempt - disheveled, brittle, filthy silver-white hair falling past his shoulders in tangled mats | Eyes: [All Eras] Heterochromatic demon eyes, both functional; bloodshot and hollow from terminal regret, hatred, and sorrow, burning with a weary gaze | Distinguishing Traits: Scorched flesh; coughing up blood; missing internal organs; aura of absolute despair; the future diary strapped to his chest | Outfits by Timeline: [Future Era] Tattered traveling cloak over worn armor - tattered black traveling rags reeking of dried blood and scorch marks; the future diary strapped to his chest; burnt leather boots, barefoot in his final hours; wields an improvised dark staff before collapsing in front of young Rudeus}
+
+---
+
+# Armored Dragon King Perugius Dola
+
+SHORT_DESC: {One of the Three Heroes of the Laplace War, Armored Dragon King, and master of the legendary airborne citadel Chaos Breaker [Birth: Ancient Dragon Era]; a majestic, golden-haired dragon lord adorned in regal white armor, possessing unmatched mastery of ancient summoning magic, barrier matrices, and anti-demon dragon arts; assisted Dragon God Urupen and North God Kalman I in sealing Demon God Laplace four hundred years ago; rules the skies aboard the floating fortress Chaos Breaker, commanding twelve mythical familiars (including Sylvaril and Arumanfi); deeply cultured, proud, and discerning, appreciating pure artistic beauty (befriending Zanoba Shirone) while harboring ancient hatred for the Demon God; bestowed the auspicious name Saladin upon Rudeus's green-haired son Sieghart, averting familial tragedy, and served as an essential geopolitical ally to Queen Ariel and the Orsted Corporation.}
+
+HISTORY: {[Laplace War Triumph] Commanded Chaos Breaker during the war against Demon God Laplace 400 years ago; struck the final sealing blow alongside Urupen and Kalman I; [Steward of the Skies & Nanahoshi's Haven] Reared his twelve familiars; granted sanctuary to foreign summon Nanahoshi Shizuka; [Rudeus's Audience & The Green Hair Blessing] Welcomed Rudeus to Chaos Breaker; tested infant Sieghart Saladin, declaring the child free of Laplace's curse and bestowing the name Saladin; [Asuran Succession & Anti-Hitogami Compact] Provided airborne diplomatic intimidation during Queen Ariel's coronation banquet in Ars; safeguarded Nanahoshi in temporal stasis, preparing his citadel for the future war against Laplace and Hitogami.}
+
+PHYSIQUE: {Build: [Ancient Dragon King: Laplace Era to Present (400+ Years)] 185cm / 6'1", 80kg; regal, upright, immaculate royal dragon posture radiating overwhelming ancient majesty; tall, slender, ageless and unmoving across the centuries, poised with an arrogant carriage | Height & Weight: [Constant] 185cm / 6'1", 80kg | Penile: [All Eras] Ancient draconic anatomy; refined, dormant dragon-king physiology; unburdened by mortal urges aboard Floating Fortress Chaos Breaker (6.0", noble form) | Skin: [All Eras] Pale alabaster dragon complexion, unlined by age, immortal and spotless | Face: [All Eras] Sharp aristocratic bone structure, majestic and immortal; imperious, condescending expression unchanged in a thousand years | Hair: [All Eras] Gleaming, pure silver-white hair combed neatly back from his brow, falling smoothly over his nape | Eyes: [All Eras] Piercing, golden reptilian eyes with slitted vertical pupils, radiating immense magical depth and cold authority | Distinguishing Traits: Subtle draconic features; imperial dragon aura; commanding presence aboard the Floating Fortress Chaos Breaker; obsessive hatred of Demon God Laplace and the demon race; summoner of twelve divine familiar spirits; master of board games such as Asuran chess | Outfits by Timeline: [Laplace War] Heavy white-and-silver dragon scale plate armor, dragon lance; [Chaos Breaker Sovereign Era] Resplendent white and silver ceremonial draconic dragon-scale robes trimmed in crimson silk, ornate silver dragon circlet on his brow}
+
+---
+
+# Geese Nukadia
+
+SHORT_DESC: {Last survivor of the Nukadia monkey demon tribe, former rogue vanguard of the S-Rank party 'Fangs of the Black Wolf', and final apostle of Hitogami [Birth: K380 - Death: K427]; a wiry, scarred monkey beastman with a perpetually relaxed, street-smart demeanor, gambling addiction, and distinct cooking mastery; completely devoid of combat touki and magical power, surviving instead through unmatched stealth, espionage, psychological cunning, and underworld connections; mediated the emotional reunion between Paul and Rudeus in Millis, acting as a beloved 'Uncle Geese' to the Greyrat family; secretly served as Hitogami's lifelong master apostle, executing dream directives that orchestrated the tragedies of the Begaritt Labyrinth and the Biheiril ambush; unmasked in the Biheiril Kingdom, leading a desperate, brilliant coalition of master warriors against Rudeus before falling in battle.}
+
+HISTORY: {[Fangs of the Black Wolf Era] Traveled as scout, cook, and thief alongside Paul, Elinalise, and Ghislaine; resolved internal party disputes with his easygoing charm; [The Great Forest Jail & Millis Mediation: Year K418] Imprisoned in Doldia Village alongside Rudeus; helped Rudeus navigate tribal relations; intervened during Paul and Rudeus's violent tavern brawl in Millishion, restoring their father-son bond; [The Begaritt Labyrinth Letter: Year K423] Dispatched the fateful distress letter to Sharia, baiting Rudeus to Begaritt per Hitogami's plan; [The Final Biheiril Campaign & Death: Year K427] Revealed his allegiance as Hitogami's final apostle in a heartbreaking letter to Rudeus; rallied Fighting God Badigadi, Sword God Gal Farion, and North God Kalman III to crush Orsted; mortally wounded during the final clash in the Biheiril forests, sharing a poignant final dialogue with Rudeus before passing away.}
+
+PHYSIQUE: {Build: [Monkey-Demon Adventurer: Age 40-55+] 165cm / 5'5", 54kg; slight, wiry, agile demon build with quick acrobatic reflexes and zero physical brawn - a scout's frame rather than a fighter's | Height & Weight: [Adult] 165cm, 54kg | Penile: [Adult: Age 40-55+] Lean, wiry monkey-demon anatomy; modest, proportional build (5.0", agile demon physiology) | Skin: [All Eras] Brownish demon skin with prominent monkey-like facial contours | Face: [All Eras] Flat snout, wide permanent grin, squinting canny expression; monkey-demon features | Hair: [All Eras] Scruffy, matted, unkempt dark brown hair sticking out under a bandana | Eyes: [All Eras] Cunning, squinting, expressive hazel eyes that dart constantly to assess exits | Distinguishing Traits: Monkey-demon features; nimble thief fingers; master-class thief skills, cooking talent and wilderness survival; absolutely no combat ability and no aptitude for magic; an Apostle of Hitogami who hid it behind a brotherly smile | Outfits by Timeline: [Doldia Jail & Traveling] Patchwork earth-toned traveler leathers, checkered bandana around his head, utility belt with lockpicks, dice, and cooking spice jars; [Biheiril Final Battle] Concealed chain vest under a dark duster, multiple throwing knives, poison smoke pellets}
+
+---
+
+# Talhand of the Cliff
+
+SHORT_DESC: {S-Rank veteran dwarf warrior-mage, former frontline defender of the legendary adventurer party 'Fangs of the Black Wolf', and lifelong comrade of Paul Greyrat [Birth: K370]; a heavily armored, stout dwarf possessing a thick braided beard, wielding reinforced battleaxes and specialized defensive earth/fire spells; known for his gruff, no-nonsense temperament, unyielding loyalty to comrades, and profound weakness for high-proof spirits; served as the indispensable tactical balance in Fangs of the Black Wolf, mediating clashes between Paul and Elinalise; reunited with Roxy Migurdia and Elinalise to scour the Demon Continent following the Fittoa Incident; braved the deadly Teleport Labyrinth in Begaritt alongside Paul and Rudeus, providing crucial defensive cover during the Manatite Hydra raid.}
+
+HISTORY: {[Fangs of the Black Wolf Days] Joined Paul, Elinalise, and Ghislaine in conquering S-Rank dungeons; acted as the party's defensive core; [Search for Paul's Family: K417-K423] Traveled the Demon Continent with Roxy and Elinalise searching for displaced Fittoa survivors; [Teleport Labyrinth Expedition] Plunged into the Begaritt Labyrinth; held off guardian monsters and manatite golems; mourned Paul's heroic sacrifice deeply; [Later Years] Settled in the Northern Lands and Sharia, drinking with veteran adventurers and mentoring dwarf apprentices.}
+
+PHYSIQUE: {Build: [Dwarven Mage: Age 60-80+] 135cm / 4'5", 75kg; exceptionally wide, barrel-chested, muscular dwarven build capable of running in full plate armor; heavy beer belly over rock-hard muscle; short thick limbs | Height & Weight: [Adult] 135cm / 4'5", 75kg | Penile: [Adult: Age 60-80+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded for this character | [Dwarven Mage era] Unspecified in canon text; consistent with racial anatomy | [Black Wolf & Begaritt Expedition era] Unspecified in canon text; consistent with racial anatomy | [Sharia Visiting era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Ruddy, weathered from forge heat, training yards, and drink | Face: [All Eras] Weathered dwarven face, bulbous nose, scarred forehead, bushy iron-gray eyebrows | Hair: [All Eras] Iron-gray, matching his beard, kept short and bristling| Beard: [All Eras] Dense, bristling iron-gray beard braided with copper rings reaching his belt, matching bushy eyebrows | Eyes: [All Eras] Stern, stony dark brown eyes softened by alcohol and camaraderie | Distinguishing Traits: Unique ability to cast offensive earth/fire magic while enclosed head-to-toe in heavy metal plate; blunt, sarcastic, heavy-drinking, yet fiercely loyal; former vanguard mage of the Fangs of the Black Wolf; quiet romantic devotion toward Paul Greyrat | Outfits by Timeline: [Black Wolf & Begaritt Expedition] Complete suit of heavy blackened dwarven plate armor with reinforced visor, carrying an iron wand rod; [Rikarisu / World Search with Roxy] Traveling plate and mule-tack; [Sharia Visiting] Sturdy dwarven leather tunic, heavy wool kilt, tankard at hip}
+
+---
+
+# Alexander Rybak (North God Kalman III / Alec)
+
+SHORT_DESC: {The North God Kalman III, son of North God Kalman II (Sandor) and descendant of Immortal Demon Lord Atoferatofe [Birth: K405]; Rank 7 of the Seven Great World Powers, wielder of the mythical Dragon King Sword 'Kajakut' (Gravity Blade); an exceptionally handsome, half-demon youth possessing incredible physical speed, regenerative vigor, and romantic delusions of heroic grandeur; obsessed with becoming a legendary hero who rights all worldly wrongs, making him vulnerable to manipulation; recruited by Geese Nukadia as Hitogami's final apostle in the Biheiril Kingdom; waged a cataclysmic duel against Rudeus in the Magic Armor MK-Zero and Dragon God Orsted, having his gravity blade shattered and suffering defeat; humbled by his father Sandor, he repented and joined the Orsted Corporation as Orsted's loyal vanguard knight.}
+
+HISTORY: {[Heroic Delusions & Ascension to North God] Mastered the North God Style under his father; claimed the title of Kalman III and the Dragon King Sword Kajakut; [The Biheiril Apostle Campaign: Year K427] Recruited by Geese; believed defeating Orsted would usher in world peace; clashed with Rudeus's Magic Armor MK-Zero, severing its limbs before Rudeus countered with a Gatling stone barrage; defeated by Dragon God Orsted in single combat; [Reconciliation & Orsted Corporation Vanguard] Reconciled with father Sandor; accepted a subordinate role under Orsted, guarding the Greyrat family and fighting rogue demon beasts across the continent.}
+
+PHYSIQUE: {Build: [Teenager / Early Swordsman] Youthful, lean frame carrying a childlike romantic obsession with becoming a 'True Hero of Justice'; [North God Kalman III: Age 18-25+] 180cm / 5'11", 76kg, athletic, graceful swordsman build combining demon endurance and human agility; [Fighting God Battle] Enclosed within the golden carapace of the Fighting God Armor | Height & Weight: [Adult] 180cm, 76kg | Penile: [Teenager / Early Swordsman: Age 14-17] undeveloped, adolescent | [North God Kalman III: Age 18-25+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Fighting God Battle era] Unspecified in canon text; consistent with racial anatomy | [Orsted Corporation Security Guard era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Light olive demon skin from his mother Atofe, giving him her rapid regenerative healing | Face: [All Eras] Handsome noble face inherited from Sandor, bright youthful features carrying starry-eyed idealism | Hair: [All Eras] Shimmering ash-blonde hair tied in an aristocratic, heroic topknot | Eyes: [All Eras] Bright, starry amber eyes shining with youthful idealism and ambition | Distinguishing Traits: Demon regeneration inherited from Atofe; youthful hero complex; manipulated by Hitogami into believing Dragone was the great evil; wielder of the Dragon King Sword Kajakut | Outfits by Timeline: [North God Champion Era] Regal traveling doublet with gold embroidery, dueling cape, Dragon King Sword Kajakut sheathed at the hip; [Fighting God Battle] The golden Fighting God Armor; [Orsted Corporation Security Guard] Dark, practical high-collared bodyguard coat with dragon crest}
+
+---
+
+# Alexander (North God Kalman II / Sandor von Grandeur)
+
+SHORT_DESC: {The North God Kalman II, son of North God Kalman I and Immortal Demon Lord Atoferatofe, father of Kalman III [Birth: K380]; a charismatic, scarred, and cheerful warrior who traveled the world under the alias 'Sandor von Grandeur'; inherited his mother's immense demonic regeneration and his father's peerless North God improvisation, wielding an enchanted longsword; one of the greatest martial heroes in history, having slain the legendary Behemoth of the King Dragon Realm; allied with Rudeus Greyrat and Dragon God Orsted in the Biheiril campaign, providing crucial tactical leadership and emotional discipline to his headstrong son Alec; stands as a paragon of pragmatic heroism, valuing the protection of common lives above hollow glory.}
+
+HISTORY: {[Wandering Hero of the World] Traveled across all six continents; slew legendary calamity monsters and defeated corrupt warlords; passed the Dragon King Sword to his son Alec while taking on the disguise of traveling knight Sandor; [Biheiril Kingdom Defense: Year K427] Joined Rudeus's alliance to counter Geese; fought alongside Ruijerd and Eris against Fighting God Badigadi; disciplined his son Alec after Alec's defeat by Orsted, guiding him back toward genuine righteousness; [Senior Advisor to Orsted] Managed international diplomacy and military training for the Orsted Corporation's allied kingdoms.}
+
+PHYSIQUE: {Build: [Legendary Hero / Itinerant Sellsword: Age 150+] 182cm / 6'0", 82kg; weathered, broad-shouldered, rugged warrior frame with half-demon longevity; lean, pragmatic sellsword conditioning that has outlived half a century of battles | Height & Weight: [Adult] 182cm, 82kg | Penile: [Legendary Hero / Itinerant Sellsword: Age 150+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Heroic Kalman II era] Unspecified in canon text; consistent with racial anatomy | [Sellsword Sandor era] Unspecified in canon text; consistent with racial anatomy | [Asuran Succession War / Biheiril era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Weather-beaten, sun-browned, lined with dueling scars | Face: [All Eras] Weather-beaten face with dueling scars; easygoing, deeply lined grin; rugged stubble on the jaw | Hair: [All Eras] Salt-and-pepper brown hair, messy and windblown | Eyes: [All Eras] Calm, perceptive, deeply experienced hazel eyes | Distinguishing Traits: Pragmatic swordsman posture - a genuine hero is one who survives and uses whatever tools are at hand; half-demon vitality granting extreme longevity; former Rank #7 of the Seven Great Powers who voluntarily stepped down | Outfits by Timeline: [Heroic Kalman II Era] Resplendent hero's mantle, Dragon King Sword Kajakut; [Sellsword Sandor Era] Practical worn mercenary armor of scuffed leather and steel plates, dusty brown cloak, carrying standard steel swords; [Asuran Succession War / Biheiril] Traveling mercenary gear allied with Rudeus}
+
+---
+
+# Gino Britz (Sword God Gino)
+
+SHORT_DESC: {The supreme Sword God (successor to Gal Farion), nephew of Gal Farion, and husband of Nina Falion [Birth: K407]; initially a timid, insecure, and unassuming apprentice at the Holy Land of Swords, constantly overshadowed by Nina and Eris Boreas Greyrat; fueled by an all-consuming, desperate love for Nina after Gal Farion decreed that only a man stronger than himself could marry his daughter; underwent years of solitary, obsessive training, refining the Longsword of Light to unprecedented, blinding velocity; challenged and defeated Sword God Gal Farion in a historic single-stroke duel, claiming the mantle of Sword God (Rank 6 of the Seven Great World Powers); married Nina Falion and restructured the Holy Land of Swords into a disciplined, politically neutral sword academy.}
+
+HISTORY: {[Holy Land Underdog] Reared in the Sword Sanctum; lacked confidence and lost repeatedly in sparring to Nina and Eris; [The Obsessive Quest for Love] Given an impossible ultimatum by Gal Farion to defeat him to marry Nina; retreated into solitary, fanatical sword practice; mastered the absolute purest release of the Longsword of Light; [Dethronement of Gal Farion: Year K426] Challenged Gal Farion before the entire sanctum; severed Gal's defense in a split-second draw, crowned the new Sword God; [Marriage & Neutrality] Married Nina Falion; refused Geese's summons to join Hitogami's war, safeguarding the dojo and maintaining peaceful relations with the Greyrat family.}
+
+PHYSIQUE: {Build: [Dojo Apprentice: Age 14-15] 176cm / 5'9", ~62kg, compact, shy adolescent frame lacking competitive bloodlust; [Solitary Mountain Training: Age 16-19] Lean, hypersonic-conditioning regimen in the frozen peaks, tendon-and-sinew build; [Peak Sword God #6: Age 20+] 176cm, 70kg, compact, explosive swordsman frame honed to pure speed, untouchable hypersonic body | Height & Weight: [Adult] 176cm, 69kg | Penile: [Dojo Apprentice: Age 14-15, pre-relationship] undeveloped, adolescent | [Peak Sword God: Age 20+, pre-marriage] average, intact, ~5" | [Marriage to Nina, post-marriage] average, intact, ~5", matured; father of Nina's child}
+
+---
+
+# Randolph Marianne (Death God)
+
+SHORT_DESC: {The Death God (Rank 5 of the Seven Great World Powers), Great-Grandson of Immortal Demon Lord Atoferatofe and North God Kalman I [Birth: K385]; resides in the King Dragon Realm, serving as personal chef and royal protector to King Pax Jr. and Queen Benedict; a tall, pale, and mournful swordsman who combines North God unpredictable feints with Water God defensive counters into his deadly 'Death God Style'; harbors little interest in martial prestige, preferring culinary arts and tavern management; tested Rudeus Greyrat and Roxy during their diplomatic mission to the King Dragon Realm, yielding peacefully and ensuring the safety of Pax Shirone's heir; an honorable, melancholy master who safeguards the innocent from the shadows.}
+
+HISTORY: {[Ascension to Death God] Inherited partial demonic blood and supreme martial aptitude; attained Rank 5 of the Seven Great Powers; retired from active bloodshed to run the royal palace kitchen in King Dragon Realm; [King Dragon Realm Encounter: Year K427] Confronted Rudeus and Roxy when they sought Prince Pax's family; sparred with Rudeus, testing his resolve before offering delicious food and pledging to protect Benedict and young Pax Jr.; [Allied Neutrality] Maintained peaceful relations with the Orsted Corporation, preserving the legacy of the Shirone royal bloodline.}
+
+PHYSIQUE: {Build: [Strife Zone General Era: Age 40-60+] 188cm / 6'2", 72kg; tall, gaunt, skeletal warrior physique with exceptionally long limbs; a deceptively sleepy posture over lethal King-tier swordsmanship; [Shirone Chef Era] Same gaunt frame rechanneled into kitchen work, calmer and softer | Height & Weight: [Adult] 188cm, 72kg | Penile: [Adult: Age 40-60+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Strife Zone General era] Unspecified in canon text; consistent with racial anatomy | [Shirone Chef Era] Unspecified in canon text; consistent with racial anatomy | [Late Retirement] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Sallow, deathly pale skin, hollow cheeks | Face: [All Eras] Sunken, corpse-like features; drooping, drowsy eyes that read as boredom rather than lethality | Hair: [All Eras] Straggly, ash-grey hair hanging loosely over his sunken face | Eyes: [All Eras] Drooping, drowsy, corpse-like dark eyes | Distinguishing Traits: Bewitching Sword disorientation aura - illusory sensory feints and lethal speed; grandson of the original Death God and of North God Kalman I; grew weary of killing and retired to a humble kitchen | Outfits by Timeline: [Strife Zone General Era] Black-and-crimson battle armor, Death God rapier; [Shirone Chef Era] Clean white chef's apron and linen tunic over concealed lightweight mail, holding a chef's knife or rapier; [Late Retirement] Simple civilian clothes, no weapons}
+
+---
+
+# Auber Corvette (North Emperor / Peacock Swordsman)
+
+SHORT_DESC: {North Emperor of the North God Style, known as the flamboyant 'Peacock Swordsman', and elite mercenary commander [Birth: K378 - Death: K423]; distinguished by multi-colored peacock-feather cloaks, flamboyant face paint, and an arsenal of dirty trickery (blinding powders, oil sprays, concealed daggers, and smoke pellets); former martial mentor to Paul Greyrat and Luke Notos Greyrat; hired by Minister Darius Silva Ganius to assassinate Princess Ariel and eliminate Rudeus during the Asuran royal succession crisis; ambushed Rudeus and Eris in the royal villa, utilizing disorienting optical illusions and toxic powders; slain in combat by Eris Boreas Greyrat and Ghislaine Dedoldia, meeting his end as a consummate professional mercenary.}
+
+HISTORY: {[North God Dojo & Royal Tutoring] Mastered the North God Style; tutored young nobles including Paul Greyrat in deceptive swordcraft; [Darius's Retainer: Asuran Succession] Contracted by Darius to eliminate the Ariel Faction; staged multiple lethal ambushes; [The Villa Ambush & Death: Year K423] Infiltrated the royal villa to assassinate Ariel; clashed violently with Rudeus, disorienting him with flash powders; intercepted by Sword King Eris and Sword King Ghislaine; outmatched by their dual Longsword of Light, falling in battle.}
+
+PHYSIQUE: {Build: [North Emperor Swordsman: Age 35-45] 178cm / 5'10", 71kg; wiry, exceptionally flexible, gymnastic swordsman frame built for contortionist evasion and dirty fighting | Height & Weight: [Adult] 178cm / 5'10", 71kg | Penile: [Adult: Age 35-45] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [North Emperor era] Unspecified in canon text; consistent with racial anatomy | [Asura Palace Intrigue era] Unspecified in canon text; consistent with racial anatomy | [Assassination Mission era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Chalk-white theatrical face paint over pallid skin | Face: [All Eras] Exaggerated smirking lips, cunning mocking eyes rimmed with theatrical eyeliner, a performer's mask of a face | Hair: [All Eras] Gaudy, flamboyant dyed hair in vibrant green, gold, and purple plumes | Eyes: [All Eras] Cunning, mocking dark eyes rimmed with eyeliner | Distinguishing Traits: Bizarre contortionist flexibility; multiple hidden pouches across his costume storing blinding powder, caltrops, poison vials, smoke screens, and rations; master of psychological warfare and distraction; instructor of unorthodox North God techniques to Eris and Luke | Outfits by Timeline: [Early North God Training] Bright mismatched training dogi; [Asura Palace Intrigue / North Emperor Peak] Wildly colorful patchwork harlequin mantle resembling a peacock's plumage, billowing silk pantaloons, soft-soled acrobatic boots, multiple concealed short blades and distraction tools; [Assassination Mission] Disguising street clothes}
+
+---
+
+# Sauros Boreas Greyrat
+
+SHORT_DESC: {Lord of the Fittoa Region, Mayor of the fortress city of Roa, and grandfather of Eris Boreas Greyrat [Birth: K350 - Death: K417]; an imposing, booming-voiced, and fiercely hot-tempered patriarch of House Boreas Greyrat; notoriously prone to shouting commands and violent disciplinary outbursts, yet possessed profound paternal warmth and deep civic responsibility for his people; hired young Rudeus Greyrat to tutor unruly granddaughter Eris, showering Rudeus with boisterous affection upon seeing Eris's miraculous progress; framed by corrupt Asuran court ministers (including Darius Silva Ganius) for the Fittoa Mana Catastrophe, facing execution with noble defiance.}
+
+HISTORY: {[Lord of Roa] Governed the Fittoa region with an iron fist and fierce civic devotion; protected borderlands from bandit raids; [Hiring Rudeus: Year K414] Welcomed 7-year-old Rudeus to Roa; delighted when Rudeus tamed Eris's wild temperament; showered both with royal banquets; [The Fittoa Catastrophe & Execution: Year K417] Transported during the incident; returned to Ars to find his territory vaporized; falsely scapegoated by Minister Darius for treasonous magical negligence; executed by royal decree, dying with head held high.}
+
+PHYSIQUE: {Build: [Lord of Roa: Age 60-65] 185cm / 6'1", 94kg; hulking, barrel-chested, imposing elderly nobleman with formidable shoulder width; a boisterous, thunderous frame that shouts every command at deafening volume | Height & Weight: [Elderly] 185cm / 6'1", 94kg | Penile: [Elderly: Age 60-65] Virile, robust Boreas patriarch build; broad, imposing noble anatomy (6.0", vigorous even in advanced age) | Skin: [All Eras] Weather-beaten, florid ruddy complexion, prominent laugh and scowl furrows | Face: [All Eras] Craggy, commanding face; wide fiery intimidating amber eyes that bug out when roaring; deep furrowed brow | Hair: [All Eras] Bristling, lion-like grey-white mane and heavy walrus mustache | Eyes: [All Eras] Wide, fiery, intimidating amber eyes | Distinguishing Traits: Thunderous bellowing voice; habit of yelling at the top of his lungs; crushing bear hugs; deep paternal warmth and genuine honor beneath the bluster; patron of Sword King Ghislaine Dedoldia | Outfits by Timeline: [Roa Citadel Era] Grand fur-trimmed crimson Boreas noble coats, gold-braided velvet waistcoats, heavy signet rings, knee-high leather riding boots; [Execution at Asura Capital: K419] Plain white linen prisoner smock, heavy iron manacles, facing the executioner's block with dignified defiance}
+
+---
+
+# Philip Boreas Greyrat
+
+SHORT_DESC: {Mayor-adjoint of Roa, father of Eris Boreas Greyrat, son of Sauros Boreas Greyrat, and first cousin to Paul Greyrat [Birth: K380 - Death: K417]; a cunning, sharp-witted, and pragmatic aristocrat possessing refined courtly manners and deep political ambition; schemed to elevate his branch of House Boreas over the main house in Ars, orchestrating Rudeus's employment to secure a marriage alliance for Eris; deeply loved wife Hilda and daughter Eris despite his calculating political veneer; teleported to the war-torn Conflict Realm during the Mana Catastrophe, perishing heroically defending Hilda from local marauders.}
+
+HISTORY: {[Roa Politics & Greyrat Schemes] Managed regional administration for father Sauros; recognized Rudeus's immense magical talent; arranged the mock kidnapping to test Rudeus and bind him to Eris; [The Roa Years: K414-K417] Guided Rudeus in noble etiquette and language; supported Eris's education; [Catastrophe & Death] Displaced into the Conflict Realm during the incident; slain alongside Hilda defending each other in battle, leaving Eris as his proud living legacy.}
+
+PHYSIQUE: {Build: [Mayor of Roa: Age 35-40] 176cm / 5'9", 68kg; slender, poised, impeccably refined noble frame; the neat, controlled build of a career politician | Height & Weight: [Adult] 176cm / 5'9", 68kg | Penile: [Adult: Age 35-40] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Mayor of Roa era] Unspecified in canon text; consistent with racial anatomy | [Metastasis Disaster / Conflict Zone era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Fair noble skin, smooth and well-kept | Face: [All Eras] Sharp aristocrat chin, subtle cynical smirk, shrewd calculating features hiding genuine affection beneath a Machiavellian veneer | Hair: [All Eras] Slicked-back crimson-burgundy hair parted cleanly | Eyes: [All Eras] Sharp, analytical, calculating amber eyes behind a calm gaze | Distinguishing Traits: Deceptive political composure; razor-sharp Machiavellian mind; orchestrated the fake kidnapping test that cemented Rudeus's employment as Eris's tutor; hidden fondness for his turbulent daughter Eris | Outfits by Timeline: [Roa Civic Administration] Tailored deep navy and burgundy doublets embroidered with silver Boreas wolf crests, silk cravats, fitted breeches; [Metastasis Disaster / Conflict Zone] Torn noble wool mantle, travel-stained doublet as he sought to protect Hilda in the lawless Conflict Zone}
+
+---
+
+# Darius Silva Ganius
+
+SHORT_DESC: {Prime Minister of the Asura Kingdom, leader of the First Prince Grabell faction, and puppet of Hitogami [Birth: K370 - Death: K423]; a corpulent, decadent, and ruthlessly corrupt statesman who controlled the Asuran treasury, noble appointments, and illicit slave markets; orchestrated the execution of Lord Sauros, engineered multiple assassination attempts against Princess Ariel, and maintained private pleasure dungeons; backed by Water God Reida Lia and North Emperor Auber Corvette; exposed before the high nobility during Ariel's coronation banquet in Ars, captured while attempting to flee, and executed for high treason.}
+
+HISTORY: {[Corrupt Ascendancy] Built an iron grip on Asuran politics through bribery, extortion, and royal favor; allied with Prince Grabell; [Persecution of Ariel & Sauros: K417-K423] Seized Fittoa lands after framing Sauros; dispatched death squads to hunt Ariel in Ranoa; [The Silver Palace Fall & Execution: Year K423] Orchestrated the banquet coup using Water God Reida; shattered when Orsted executed Reida; captured in the palace gardens by Ghislaine and executed, ending his corrupt reign.}
+
+PHYSIQUE: {Build: [Chief Minister of Asura: Age 45-52] 172cm / 5'8", 92kg; corpulent, flabby, hedonistic aristocratic frame reeking of perfumed oils; soft, unused to exertion, carried with pompous authority | Height & Weight: [Adult] 172cm / 5'8", 92kg | Penile: [Adult: Age 45-52] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Ministerial Court Prime era] Unspecified in canon text; consistent with racial anatomy | [Flight & Demise: K425] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Pasty, sweating pale skin under heavy cosmetic powders, multiple double chins | Face: [All Eras] Fleshy jowls, heavy jowled sneer; lecherous, greedy expression permanently fixed in appraisal | Hair: [All Eras] Thinning, oiled black hair combed over the scalp | Eyes: [All Eras] Beady, greedy dark eyes sunken into fleshy jowls | Distinguishing Traits: Labored breathing; lecherous greedy sneer; perfumed handkerchief perpetually dabbing sweat; shadow ruler of the imperial court who traded in embezzlement, political assassination, and slave trafficking; key Apostle of Hitogami | Outfits by Timeline: [Ministerial Court Prime] Extravagant silk and velvet Asuran ministerial robes lined with rare white ermine fur, heavy gem-encrusted gold necklaces, gemmed rings on every finger; [Flight & Demise in the Royal Palace: K425] Disheveled brocade night robe, muddied velvet slippers as he fled Orsted and Dohga}
+
+---
+
+# Moore
+
+SHORT_DESC: {Chief retainer, battlefield commander, and supreme logistics aide to Immortal Demon Lord Atoferatofe Rybak [Birth: Mythic Age]; a stoic, polite, and exceptionally intelligent demon mage wearing immaculate butler attire; serves as the indispensable brain and voice of reason for the chaotic and dim-witted Atofe, managing fortress defense, supply chains, and legal contracts; proficient in advanced Earth and Water barrier magic, capable of subduing powerful challengers; mediated negotiations with Rudeus Greyrat and Dragon God Orsted, ensuring Atofe's army deployed effectively during the Biheiril campaign.}
+
+HISTORY: {[Centuries of Necros Service] Governed Necros Fortress administration; cleaned up after Atofe's impulsive brawls; [The Rudeus Audience: Year K423] Prevented full-scale disaster during Rudeus's visit to Necros; negotiated terms when Orsted appeared; [Biheiril Deployment: Year K427] Commanded Atofe's demon legion during the battle against Fighting God Badigadi, coordinating frontline support with Rudeus.}
+
+PHYSIQUE: {Build: [Demon Seneschal: Age 100+] 180cm / 5'11", 74kg; upright, dignified, disciplined demon gentleman frame, always poised at attention | Height & Weight: [Immortal Constant] 180cm / 5'11", 74kg | Penile: [Adult: Age 100+] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | [Demon Seneschal era] Unspecified in canon text; consistent with racial anatomy | [Biheiril Campaign era] Unspecified in canon text; consistent with racial anatomy | [Present] Unspecified in canon text; consistent with racial anatomy | Skin: [All Eras] Ash-grey demon skin, smooth and composed | Face: [All Eras] Composed gentlemanly expression, neat pointed demon chin, polite tired sigh etched into his features | Hair: [All Eras] Slicked-back dark grey hair parted immaculately | Eyes: [All Eras] Narrow, stoic, observant dark eyes behind wire-rimmed spectacles| Forehead: [All Eras] Small curved demon horns tucked behind his slicked hair | Distinguishing Traits: Dignified butler manners; the sole voice of reason and intellectual governance in the chaotic Atofe domain; accomplished Earth and Water combat mage commanding Atofe's demon legions; polite sighs at Atofe's antics | Outfits by Timeline: [Necros Fortress / Centuries of Service] Pristine double-breasted black demon butler frock coat, starched white wing-collar shirt, silk cravat, white gloves, polished black leather boots; [Biheiril Campaign] Same uniform worn in the field with a campaign mantle}
+
+---
+
+# Arumanfi the Bright
+
+SHORT_DESC: {One of the twelve mythical familiars of Armored Dragon King Perugius Dola, known as 'The Bright' or 'The Lightning Scout' [Birth: Mythic Age]; a luminous spirit warrior clad in golden feathered armor and an ornate avian mask; possesses the supernatural ability to transform his physical body into pure light, traveling across continents instantaneously along direct sightlines; wields an enchanted solar bow capable of firing lightspeed piercing arrows; dispatched by Perugius to investigate the Fittoa Mana Catastrophe, encountering young Rudeus and Ghislaine in Roa, and served as Perugius's premier global courier.}
+
+HISTORY: {[Laplace War Reconnaissance] Served as Perugius's high-speed aerial scout during the war against Demon God Laplace; [Roa Investigation: Year K417] Manifested over Roa following the mana anomaly; clashed briefly with Ghislaine before confirming Rudeus was not the summoner; [Chaos Breaker Envoy] Carried royal invitations to Queen Ariel and guided the Greyrat family to the floating fortress.}
+
+PHYSIQUE: {Build: [First Familiar Light Spirit] 175cm / 5'9", weightless; translucent, ethereal humanoid silhouette composed of blinding pure photonic radiance, maintaining a slender humanoid shape at will | Height & Weight: [Spirit Constant] 175cm / 5'9", weightless light | Skin: [All Eras] Luminous golden light approximating human contours, warm and radiating visible photons instead of flesh | Face: [All Eras] Humanoid light-form behind a bird-like mask, eye-slits blazing with pure solar radiance | Hair: [All Eras] Streamers of glowing golden-white light falling like silk | Eyes: [All Eras] Pure solar radiance shining through the eye-slits of his mask | Distinguishing Traits: Instantaneous light-speed teleportation within line of sight; can traverse any visible distance instantly, serving as Perugius's scout and divine messenger; piercing light beams capable of incinerating targets from miles away; never touches the ground | Outfits by Timeline: [Ancient Dragon Era to Modernity] Ethereal white-and-gold Dragon race ceremonial tunics woven from pure light mana, golden shoulder pauldrons, carrying a sunstone light lance}
+
+---
+
+# Sacred Beast Leo
+
+SHORT_DESC: {The legendary Sacred Beast of the Great Forest, divine protector of the Beast Race, and devoted guardian of the Greyrat household [Birth: Mythic Beast Era]; manifests as a massive, snow-white wolf possessing profound sapience, terrifying physical might, and natural immunity to mental corruption and curses; revered for millennia by the Doldia tribe, destined to recognize and safeguard the savior of the world; summoned to Sharia and immediately recognized infant Lara Greyrat as the prophesied chosen one, adopting the name 'Leo'; served as an inseparable mount and loyal bodyguard to Lara and the Greyrat children, neutralizing demonic threats and stealth assassins.}
+
+HISTORY: {[Great Forest Worship] Reared in the holy sanctuary of Doldia Village as the sacred guardian of the beast race; [Summoning & Lara's Guardian: Year K423] Manifested in Sharia; knelt before baby Lara Greyrat, accepting her as his supreme master; integrated into the Greyrat family estate, playing with the children while maintaining perimeter guard; [Anti-Hitogami Defense] Detected disguised demon pests and assassins targeting the estate; accompanied Lara into her adult wandering quest to defeat Hitogami.}
+
+PHYSIQUE: {Build: [Doldia Divine Beast] Enormous, quad-eared divine canine measuring over 2.2 meters in length and weighing over 320kg; 140cm at the shoulder; massive paws capable of silent tread or crushing stone; a powerfully built white wolf frame | Height & Weight: [Adult Beast] 140cm at the shoulder, 2.2m length, 320kg | Skin: [All Eras] Covered in impossibly soft, luxurious snow-white divine fur that repels dirt, stains, and minor magical elements | Face: [All Eras] Noble lupine muzzle with dark pads; four ears - two upright canine ears and two pendulous hearing ears | Hair: [All Eras] Pure white gleaming pelt, thick and pristine throughout | Eyes: [All Eras] Deep sapphire-blue, highly intelligent canine eyes filled with gentle wisdom and devotion | Ears: [All Eras] Quad-eared head - two upright canine ears plus two pendulous hearing ears | Distinguishing Traits: Quad-eared head and pure white gleaming fur; gentle disposition toward children; ferocious battle growl against Hitogami disciples; prophetic awareness and instinctive telepathic communion; detects Hitogami's astral influence as an infallible early-warning system | Outfits by Timeline: [Doldia Sacred Grove] Natural pristine white pelt; [Greyrat Household Pet / Guardian Era] Decorated leather harness woven by Sylphiette, colorful bell collar presented by Lara, baby saddle for carrying toddler Lara on rides}
+
+---
+
+# Timothy
+
+SHORT_DESC: {Leader and chief tactician of the B-to-A-rank adventurer party 'Counter Arrow', husband of vanguard warrior Suzanne [Birth: K393]; a calm, bespectacled human mage specializing in Intermediate Fire and Wind area-of-effect spells, providing ranged artillery and battlefield coordination; welcomed the depressed, isolated teenage Rudeus into Counter Arrow in Rosenburg, treating him with professional respect and patience; maintained strict party safety protocols, ensuring the survival and prosperity of his members through treacherous northern monster contracts; continued leading Counter Arrow for decades, maintaining lifelong friendly ties with the Greyrat family.}
+
+HISTORY: {[Counter Arrow Leadership] Formed Counter Arrow with Suzanne; led successful hunts across the Northern Lands; [Rosenburg Expeditions: Year K420-K421] Accepted Rudeus into party missions; coordinated spells during the snow buffalo crisis; offered calm support during the fallout between Sara and Rudeus; [Later Expeditions] Led caravan escorts to Sharia; celebrated Rudeus's successes in the Magic Guild.}
+
+PHYSIQUE: {Build: [B-Rank Counter Arrow Leader: Age 22-26] 175cm / 5'9", 68kg; lean, athletic ranger build with a calm, upright posture; the dependable frame of a veteran northern archer | Height & Weight: [Adult Adventurer] 175cm / 5'9", 68kg | Penile: [Adult] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | Skin: [All Eras] Sun-tanned northern skin, weathered by northern winters | Face: [All Eras] Earnest, friendly smile; open, level-headed features that put younger adventurers at ease | Hair: [All Eras] Short, tidy light brown hair combed neatly | Eyes: [All Eras] Kind, focused hazel eyes, quick to read a battlefield | Distinguishing Traits: Calm leadership demeanor; quick-draw archery gloves; dependable veteran manner; level-headed tactical judgment; harbored a quiet protective affection for Sara | Outfits by Timeline: [Early Adventuring] Simple leather archer's tunic, quivered recurve bow; [Counter Arrow Northern Quests: K417-K422] High-grade boiled leather armor, green wool hooded cloak, fur-trimmed bracers, reinforced composite longbow; [Later Ranoa Era] Clean wool shirts, traveling coats, walking staff}
+
+---
+
+# Nokopara
+
+SHORT_DESC: {Horse-headed demon adventurer of the Pincer Demon tribe, former leader of the B-rank party 'Tokurabu', and smuggler [Birth: K390]; a scheming, unscrupulous demon operating out of Rikarisu on the Demon Continent; discovered Dead End's identity and attempted to blackmail Rudeus and Ruijerd for adventurer points and gold; thoroughly intimidated and reformed by Ruijerd's terrifying aura and Rudeus's stone magic; later assisted Dead End in securing covert port transport across the sea, abandoning extortion to survive as a cautious information broker.}
+
+HISTORY: {[Rikarisu Guild Extortion: Year K417] Blackmailed Dead End over illegal quest swaps; cornered by Ruijerd in an alley and forced into submission; [Port Logistics Assistance] Assisted Rudeus in evading local corrupt guilds to reach Wind Port; [Later Life] Relocated to the Central Continent, working as an underworld informant while warning all fellow rogues never to cross the Quagmire.}
+
+PHYSIQUE: {Build: [Pettan Stamp Leader: Age 400+] 185cm / 6'1", 73kg; lanky, slightly hunched demon adventurer frame; long-limbed with a shifty, untrustworthy posture | Height & Weight: [Adult Demon] 185cm / 6'1", 73kg | Penile: [Adult] Unspecified in canon text; consistent with racial anatomy - no canonical detail recorded | Skin: [All Eras] Mottled grey equine demon skin, coarse along the neck and muzzle | Face: [All Eras] Equine demon face with an elongated horse-like snout and a perpetual sly smirk | Hair: [All Eras] Stringy, thinning dark mane along the back of the neck | Eyes: [All Eras] Shifty, calculating, wide dark eyes with horizontal equine pupils | Distinguishing Traits: Horse face; nervous neighing chuckle; scheming criminal opportunism; former warrior under Ruijerd Superdia who degenerated into a blackmail-hustling adventurer; leader of the party Pettan Stamp | Outfits by Timeline: [Demon Continent Adventuring] Shabby leather vest with worn copper studs, stained linen trousers, mismatched leather greaves, rusty scimitar and a blackmail ledger; [Port Zant Smuggling Conspiracies] Faded green adventurer coat with deep concealed pockets for bribes and smuggled goods}
+
+---
+
+# Locations
+
+---
+
+# Central Continent
+
+DESC: {The primary, most populous, and politically dominant landmass of the Six-Faced World, bordered by the Ringus Sea to the east, the Great Ocean to the west, the Heaven Continent to the north, and the Milis Sea to the south. Geographically bisected into three distinct geopolitical sectors by the colossal Red Dragon Mountain Range: 1. Western Sector: Dominated entirely by the superpower Kingdom of Asura, a paradise of fertile plains, endless agricultural wealth, mild climate, and vast river networks. 2. Northern Sector (The Northern Lands): A harsh, sub-arctic, and martial wilderness comprising the Three Northern Magic Triumvirate nations (Kingdom of Ranoa, Basherant Dukedom, Neris Kingdom), alongside the martial Biheiril Kingdom, Karon Kingdom, and the Holy Land of Swords. 3. Southern Sector: A volatile, fractured region of competing realms including the military powerhouse Dragon King Kingdom, Shirone Kingdom, Sanakia Kingdom, Kikka Kingdom, and the perpetually disputed Strife Zone (Conflict Realm). Serves as the epicenter of human civilization, global commerce, magical academia, and the primary stage for the historical struggles between the Orsted Corporation and Hitogami.}
+
+MAP: {Western Region: Kingdom of Asura (Ars, Fittoa, Buena, Roa) | Northern Region: Magic Triumvirate (Ranoa, Sharia), Biheiril Kingdom, Holy Land of Swords | Southern Region: Dragon King Kingdom, Shirone, Sanakia, Strife Zone | Dividing Feature: Red Dragon Mountain Range (Upper & Lower Jaws)}
+
+HISTORY: {[Ancient Era to Laplace War] United under ancient human dynasties before being devastated during the Great Human-Demon Wars; bisected by the cataclysmic duel between Demon Dragon King Laplace and the Fighting God; [Pre-Metastasis Era] Asura established undisputed hegemony as the wealthiest empire; the Northern Lands banded together into academic and mercenary leagues; the South remained in continuous border skirmishes; [Fittoa Mana Catastrophe: Year K417] A catastrophic spatial anomaly centered in Roa teleported over 100,000 citizens across all four continents, destabilizing regional politics; [The Orsted-Hitogami War Era: K423-K427] Became the battlefield for global succession crises, the Asuran coup installing Queen Ariel, and the final coalition war in the Biheiril Kingdom.}
+
+---
+
+# Demon Continent
+
+DESC: {The harsh, desolate, and monster-infested ancestral homeland of the Demon Race (Magic Race), situated across the Ringus Sea east of the Central Continent. Characterized by arid wastelands, towering black mountain ridges, toxic volcanic valleys, crystallized mana crags, and an extraordinarily dense concentration of high-tier aggressive monsters. Populated by hundreds of unique demon tribes (including the telepathic Migurd, the emerald-haired Superd, the burly Immortal Demon Clan, and multi-limbed beast-demons). Lacks centralized unified governance, organized instead around territorial Demon Lords (such as Immortal Demon Lord Atoferatofe in Necros Fortress) and nominal fealty to the Great Empress Kishirika Kishirisu. Features major fortified oasis settlements such as Rikarisu City, Kurasuma Town, and Wind Port, connected by dangerous overland caravan trails.}
+
+MAP: {Northwest: Wind Port, coastal docks | Central Wastelands: Rikarisu City, Petrified Forest, Migurd Village | Northeast: Necros Fortress (Atofe's Domain) | Southern Ridge: Dragon King border approaches}
+
+HISTORY: {[Mythic Age: The Great Empress Reign] Ruled by Great Empress Kishirika Kishirisu; launched multiple Human-Demon Wars across millennia; [The Laplace War: 400 Years Ago] Demon God Laplace mobilized the demon clans against humanity; the Superd were corrupted by cursed spears, resulting in continental isolation and global prejudice; [Dead End's Odyssey: Year K417-K419] Following the Fittoa Catastrophe, 10-year-old Rudeus Greyrat, Eris Boreas Greyrat, and Ruijerd Superdia traversed the entire length of the continent, slaying S-rank calamity beasts, registering Dead End, and slowly rehabilitating the Superd race's honorable reputation; [Modern Era] Remains an untamed, resource-scarce frontier where only hardened warriors, demon clans, and high-rank adventurers survive.}
+
+---
+
+# Milis Continent
+
+DESC: {The sacred southern continent of the Six-Faced World, bordered to the north by the Great Forest and separated from the Central Continent by the ocean. Comprises two distinctly governed geographical realms: 1. Northern Half (The Great Forest): A colossal, primeval rain forest inhabited by the Beast Race (Doldia Tribe, Dedoldia, Adoldia), governed from the holy tree city of Doldia Village under the protection of the Sacred Beast. 2. Southern Half: The Holy Country of Milis (Saint Kingdom of Milis), the global heart of the Milis Church, centered around the breathtaking white stone capital of Millishion. Enforces strict religious canon, monotheistic Milis doctrine, advanced healing/detoxification hospitals, and elite Temple Knight legions. Connected to the Central Continent via Zant Port (Saint Port) and Westport.}
+
+MAP: {Northern Realm: The Great Forest, Doldia Sacred Village, Zant Port | Mountain Boundary: Blue Dragon Mountain Range | Southern Realm: Holy Country of Milis, Millishion Capital, Anastasia Keep, Westport}
+
+HISTORY: {[Saint Milis Foundation] Established thousands of years ago by Saint Milis following the mythical subjugation of continental beasts; [Dead End Crossing: Year K418] Rudeus, Eris, and Ruijerd traversed the Great Forest; imprisoned and befriended the Doldia tribe; fought Gallus Cleaner in Zant Port; reunited with Paul Greyrat in Millishion amidst emotional turmoil; [The Papal Succession Crisis: Year K425] Rudeus returned to Millishion to rescue telepathic Zenith and protect the Blessed Child of Memory, thwarting Archbishop Latriea's anti-demon extremist coup and aligning the Milis Church with Cliff Grimoire and the Orsted Corporation.}
+
+---
+
+# Begaritt Continent
+
+DESC: {An unforgiving, sun-scorched desert continent located southwest of the Central Continent, encircled by tempestuous ocean currents and lethal sandstorm zones. Consists of endless rolling dune seas, subterranean glass caverns, razor-sharp sandstone canyons, and ancient underground ruins. Infested by giant scorpions, sand drakes, succubi, and ancient magical anomalies, boasting a survival difficulty on par with the Demon Continent. The local economy revolves entirely around Labyrinth excavation, centered in the bustling frontier hub of Rapan (Labyrinth Town Rapanear). Contains the infamous Teleport Labyrinth, where ancient magical teleportation arrays and lethal guardian monsters lurk.}
+
+MAP: {Coastal Port: Eastport / Desert Gateway | Inland Oasis: Labyrinth Town Rapanear, Mercenary Guild Quarters | Subterranean: The Teleport Labyrinth (Manatite Hydra Lair)}
+
+HISTORY: {[Ancient Labyrinth Formation] Formed during primordial magical cataclysms when ancient underground structures condensed ambient mana into hyper-dense crystal labyrinths; [The Begaritt Rescue Expedition: Year K423] Paul Greyrat, Roxy Migurdia, Elinalise, Talhand, and later Rudeus Greyrat plunged into the 6-floor Teleport Labyrinth to rescue Zenith; conquered the labyrinth at the tragic cost of Paul's life and Rudeus's left forearm, slaying the Manatite Hydra and recovering Zenith; [Post-Conquest Boom] Rapan transitioned into a major magical research and mining outpost under international adventurer syndicates.}
+
+---
+
+# Heaven Continent
+
+DESC: {The highest, most isolated continent in the Six-Faced World, situated atop colossal sheer cliffs rising over 3,000 meters above sea level in the northern polar seas. Perpetually shrouded in freezing gale-force blizzards, thin oxygen atmosphere, and glowing aurora borealis. Homeland of the Heavenly Race (Winged People), who possess feathered wings, hollow lightweight bones, and innate Wind/Lightning magic mastery. Virtually inaccessible to non-winged mortals except via ancient teleportation circles or airborne constructs like Armored Dragon King Perugius's Chaos Breaker. Possesses pristine, untouched natural landscapes, high-tier floating stone deposits, and ancient ruins from the primordial Heavenly World.}
+
+MAP: {High Plateaus: Feathered Roosts, Heavenly Sanctum, High Cliff Passes | Surrounding Barrier: 3,000m Sheer Basalt Sea Cliffs}
+
+HISTORY: {[Primordial Heavenly Realm] Originally part of the mythical Sky World before its destruction and merger into the Six-Faced World; [Ancient Dragon Alliance] Reared spiritual familiars and retainers who allied with the Five Dragon Generals; [Isolationist Millennia] Maintained absolute neutrality throughout the Human-Demon and Laplace Wars, rarely descending to the surface world.}
+
+---
+
+# East Continent / East Country
+
+DESC: {An enigmatic, distant maritime landmass and island chain located far to the eastern edge of the world map, beyond the perilous monster seas of the Ringus. Characterized by temperate coastal islands, dense bamboo and cherry blossom forests, volcanic hot springs, and distinctive feudal architecture. Inhabited by isolationist human clans and seafaring demon tribes practicing unique sword-drawing arts, spiritual paper talismans, and specialized culinary traditions (rice, soy, seafood dishes). Maintains limited trade with coastal ports of the Central and Demon Continents, exporting exotic raw materials, silk textiles, and specialized forged blades.}
+
+MAP: {Maritime Archipelagos, Feudal Clan Estates, Volcanic Harbors}
+
+HISTORY: {[Ancient Seafaring Migration] Founded by ancient human refugees who crossed eastern seas to escape continental wars; [Culinary & Cultural Influence] Provided culinary techniques and exotic foodstuffs rediscovered by Rudeus Greyrat and Nanahoshi Shizuka during their rice and miso research.}
+
+---
+
+# Kingdom of Asura
+
+DESC: {The supreme superpower of the Six-Faced World, occupying the fertile western third of the Central Continent west of the Red Dragon Mountain Range. Possesses unmatched agricultural wealth, an inexhaustible food supply with zero famine, breathtaking architectural marvels, and the world's most sophisticated noble court in the capital of Ars. Governed by the Asura Royal Family and the Four Great Noble Houses of Greyrat (Boreas of Fittoa, Notos of the South, Durdard of the North, and Zephyrus of the West). Militarily defended by the elite Asuran Royal Guard, the Royal Water God Knights, and imperial legions. Despite its glittering cultural refinement, the court was notoriously plagued by decadent bribery, ruthless succession assassination plots, and backroom political corruption before Queen Ariel Anemoi Asura seized the throne and instituted sweeping meritocratic reforms.}
+
+MAP: {Royal Capital: Ars (Silver Palace) | Eastern Border Duchy: Fittoa Region (Roa, Buena) | Southern Estates: Notos Territory | Northern Estates: Durdard Territory | Western Estates: Zephyrus Territory}
+
+HISTORY: {[Imperial Golden Age] Rose to continental supremacy over a millennium through vast agricultural surpluses and Water God martial traditions; [The Fittoa Mana Catastrophe: Year K417] The mysterious mana explosion in Roa wiped out the Boreas Greyrat domain, triggering nationwide noble maneuvering and the execution of Lord Sauros; [The Asuran Succession Crisis: Year K423] Princess Ariel returned from exile backed by Rudeus Greyrat and Dragon God Orsted; during the Silver Palace banquet, exposed Prime Minister Darius's treason, defeated Water God Reida's coup, and ascended as Queen Ariel, transforming Asura into the primary political and financial ally of the Orsted Corporation.}
+
+---
+
+# Kingdom of Ranoa
+
+DESC: {The leading nation of the Northern Magic Triumvirate, situated in the northeastern sector of the Central Continent. A cold, temperate realm renowned as the global intellectual capital of magical research, education, and spellcraft innovation. Governed from the grand Magic City of Sharia by an elected Magic Council alongside a constitutional monarchy. Houses the world-famous Ranoa Magic Academy (Magic University), the International Magician Guild Headquarters, and extensive magical tool manufacturing workshops. Maintains an open, progressive social policy welcoming humans, demons, beastfolk, and dwarves alike, fostering peaceful multicultural coexistence.}
+
+MAP: {Capital: Magic City of Sharia | Academic Quarter: Ranoa Magic Academy Campus, Student Dormitories | Guild District: Magician Guild HQ | Residential: Greyrat Family Estate}
+
+HISTORY: {[Foundation of the Magic Triumvirate] Formed alongside Basherant and Neris to establish an independent northern sanctuary for magical academia; [The Golden Academic Era: Year K419+] Welcomed Princess Ariel's exiled court and teenage Rudeus Greyrat; became the focal center for advanced research in silent casting, summoning arrays, Magic Armor engineering, and telepathic linguistics; [Headquarters of the Greyrat Lineage] Served as Rudeus's permanent hometown, where he raised his children and coordinated global Orsted Corporation operations.}
+
+---
+
+# Dragon King Kingdom
+
+DESC: {A massive, militaristic southern superpower occupying the southern peninsula of the Central Continent, bordering the Strife Zone. Possesses vast standing armies, disciplined knightly orders, and impenetrable coastal cliff bastions. Militarily influenced by the North God Style and Water God Style; historically home to legendary Dragon King warriors and North God Kalman masters. Maintains an aggressive, expansionist foreign policy, perpetually engaging in proxy wars across neighboring smaller states (Shirone, Sanakia, Kikka) to maintain southern hegemony.}
+
+MAP: {Capital: Royal Dragon Fortress | Border Passes: Strife Zone Frontiers | Northern Border: Shirone and Sanakia Gateways}
+
+HISTORY: {[Ancient Martial Empire] Founded by dragon-slaying warrior kings; expanded through constant southern military campaigns; [Proxy Wars of the South: K400-K427] Manipulated political factions in Shirone; sheltered exiled princes including Pax Shirone; stabilized into a cautious diplomatic truce with the Orsted Corporation following North God Kalman II's mediation.}
+
+---
+
+# Shirone Kingdom
+
+DESC: {A medium-sized southern kingdom situated in the fertile river basin north of the Dragon King Kingdom, functioning as a strategic buffer state. Governed from the royal citadel of Shirone by a hereditary monarchy historically dominated by military factions and royal concubine intrigues. Birthplace of Prince Zanoba Shirone (the Miko of Superhuman Strength) and Seventh Prince Pax Shirone; former employer of Roxy Migurdia as royal magic tutor. Possessed fertile grain fields and strategic highway crossroads, making it a constant target for foreign espionage and coups. Briefly transitioned into the Shirone Republic under King Pax before political collapse and annexation.}
+
+MAP: {Capital: Shirone Royal Citadel | Northern Gateway: Strife Zone Border | Southern Gateway: Dragon King Highway}
+
+HISTORY: {[Prince Pax's Tyranny: Year K418] Prince Pax held Lillia and Aisha hostage; Rudeus and Zanoba rebelled, liberating the hostages and sending Pax into exile; [The Republican Coup & Fall: Year K427] Pax returned with progressive revolutionary forces, claiming the throne and declaring the Shirone Republic; besieged by reactionary neighboring states and betrayed from within; Pax committed suicide from the palace balcony, leading to foreign military partition.}
+
+---
+
+# Basherant Dukedom (Basherant)
+
+DESC: {One of the Three Northern Magic Triumvirate nations, located adjacent to the Kingdom of Ranoa. A rugged, snowbound dukedom renowned for its specialized barrier magic research, dwarven stone-masonry fortresses, and tactical mercenary guilds. Collaborates closely with Ranoa and Neris in international trade, academic conferences, and mutual border defense against northern tundra beast hordes.}
+
+MAP: {Ducal Castle: Basherant Keep | Eastern Road: Ranoa Border | Northern Border: Tundra Wilderness}
+
+HISTORY: {[Triumvirate Compact] Formed defensive alliances to protect the northern magic academies; [Modern Research Hub] Supplied advanced barrier stones and runic defensive matrices for the Magic Armor MK projects developed in Sharia.}
+
+---
+
+# Sanakia Kingdom
+
+DESC: {A small southern kingdom nestled between the Dragon King Kingdom and the Strife Zone. Heavily reliant on agricultural exports, spice trade routes, and mercenary contracts with larger empires. Its court politics are perpetually entangled in espionage and proxy conflicts between the Dragon King Kingdom and the Asuran commercial guilds.}
+
+MAP: {Capital: Sanakia City | Trade Roads: Dragon King Southern Highway}
+
+HISTORY: {[Southern Border Struggles] Navigated centuries of vassalage and shifting military alliances to preserve its sovereignty amidst southern power struggles.}
+
+---
+
+# Kikka Kingdom
+
+DESC: {A minor southern principality located along the northern periphery of the Strife Zone. Known for its fortified river checkpoints, livestock ranches, and seasonal warrior hiring fairs. Frequently serves as a forward staging ground and supply depot for mercenary companies deploying into southern regional skirmishes.}
+
+MAP: {Fortified Border Towns, River Tollgates, Mercenary Encampments}
+
+HISTORY: {[Mercenary Economy] Maintained economic survival by leasing garrison outposts and supply lines to international adventurer and mercenary guilds.}
+
+---
+
+# Biheiril Kingdom
+
+DESC: {A remote, heavily forested, and mountainous kingdom located at the far northeastern tip of the Central Continent. Governed from the capital of Irelia by a feudal king under the heavy religious and military influence of the Ogre God and Demon King retainers. Possesses dense ancient woodlands (the Forest of the Ogre God), towering coastal crags, and isolated villages of the Ogre race and Superd refugees. Served as the climactic battlefield for the final showdown between the Orsted Corporation and Hitogami's premier apostles (Geese, Badigadi, Gal Farion, Kalman III).}
+
+MAP: {Capital: Royal City of Irelia | Sacred Grounds: Forest of the Ogre God | Superd Settlement: Hidden Superd Village | Coastal Fortress: Ringus Bay Bastion}
+
+HISTORY: {[Isolationist Martial Realm] Preserved ancient demon-human treaties allowing the Ogre God and Superd remnants to inhabit deep mountain valleys; [The Great Biheiril War: Year K427] Hitogami dispatched Geese to orchestrate an ambush against Orsted; Rudeus deployed the Magic Armor MK-Zero; joined by Eris, Ruijerd, Kalman II, and Atofe's demon legion, they crushed Hitogami's forces, sealing Badigadi and securing the Superd's future.}
+
+---
+
+# Kingdom of Neris
+
+DESC: {The third member of the Northern Magic Triumvirate, situated east of Ranoa. Distinguished by its high-altitude alpine valleys, crystal-clear glacial lakes, and specialized alchemy and magical potion breweries. Houses world-renowned alchemical research institutes supplying high-grade mana potions, healing salves, and enchanted ink across the world.}
+
+MAP: {Capital: Neris Alchemical Center | Mountain Passages: Ranoa Alpine Road}
+
+HISTORY: {[Alchemical Innovation] Pioneered mass-refining techniques for magic stones and restorative draughts utilized by high-ranking adventurers and mages worldwide.}
+
+---
+
+# Saint Kingdom of Milis (Holy Milis Kingdom)
+
+DESC: {The divine theocracy dominating the southern half of the Milis Continent, functioning as the religious capital of the global Milis Church. Governed from the immaculate white stone holy city of Millishion by the Pope, the Council of Cardinals, and high noble houses (including House Latreia). Enforces strict monotheistic Milis doctrine, complete prohibition of polygamy, and rigorous moral purity laws. Maintains formidable military forces divided between the Order of Temple Knights (Sword, Shield, and Bow Companies) and the Church Inquisitors. A land of architectural splendor, clean paved aqueducts, advanced divine healing cathedrals, and deep-seated political factionalism between Demon Expulsion and Acceptance factions.}
+
+MAP: {Holy Capital: Millishion (Great Milis Cathedral, Anastasia Keep, Latreia Manor) | Northern Boundary: Blue Dragon Mountains | Maritime Port: Westport}
+
+HISTORY: {[Foundation by Saint Milis] Established thousands of years ago as the sanctuary of human purity; [Internal Factional Strife] Split into hardline anti-demon extremists and moderate integrationists; [The Papal Intervention: Year K425] Rudeus and Cliff Grimoire foiled Archbishop Latriea's plot, rescuing the Pope and establishing Cliff as a rising reformist leader in the holy see.}
+
+---
+
+# Kingdom of Biyakuya
+
+DESC: {A small, sub-arctic kingdom nestled in the northeastern mountain passes of the Northern Lands. Features severe permafrost winters, pine timber forestry, and seasonal fur hunting guilds. Maintains friendly diplomatic and trade ties with the Kingdom of Ranoa and the adventurer outposts of the North.}
+
+MAP: {Fortified Timber Towns, Mountain Hunting Passes}
+
+HISTORY: {[Northern Frontier Outpost] Maintained steady fur trade and monster pelt supply lines for northern adventurer guilds.}
+
+---
+
+# Karon Kingdom
+
+DESC: {A rugged northern monarchy bordering the Holy Land of Swords. Renowned for its heavy iron mines, specialized weapon smithies, and disciplined garrison infantry. Supplies forged steel blades, armor plates, and raw ore to the martial dojos of the Sword Sanctum and the magic workshops of Sharia.}
+
+MAP: {Capital: Karon Iron City | Northern Trail: Holy Sword Highway to Sword Sanctum}
+
+HISTORY: {[Smithing Hub of the North] Forged ceremonial and combat blades for generations of Sword Saints and Sword Kings hailing from the Holy Land of Swords.}
+
+---
+
+# Ars
+
+DESC: {The magnificent royal capital of the Kingdom of Asura, widely celebrated as the largest, most opulent, and architecturally dazzling metropolis in the Six-Faced World. Centered around the colossal Silver Palace, a breathtaking complex of ivory marble towers, gilded domes, lush botanical pleasure gardens, and impenetrable subterranean vaults. Divided into sprawling concentric rings: the High Aristocratic District (housing the opulent manors of the Greyrat branches and ministers), the Imperial Commercial Quarter (the nexus of global luxury goods, silk, spices, and banking guilds), and the outer Commoners' Ring. The focal point of global high society, fashion, fine arts, and covert imperial intrigue.}
+
+MAP: {Center: The Silver Palace (Throne Room, Royal Banquet Hall, Imperial Vaults) | Inner Ring: High Noble Estates (Notos, Boreas, Zephyrus, Durdard) | Outer Ring: Commercial Grand Bazaar, Royal Barracks}
+
+HISTORY: {[Centuries of Imperial Splendor] Reigned as the cultural beacon of human civilization; [The Silver Palace Coronation Banquet: Year K423] The stage for Queen Ariel's historic coup; Rudeus Greyrat and Dragon God Orsted dismantled Minister Darius's treason, slew Water God Reida Lia, and crowned Queen Ariel, initiating an unprecedented golden age of clean governance and economic prosperity.}
+
+---
+
+# Sharia
+
+DESC: {The vibrant Magic City of Sharia, capital of the Kingdom of Ranoa and the cultural capital of the Northern Lands. Built in a massive circular layout surrounded by reinforced granite battlements and warming mana conduits that stave off the harsh northern chill. World-famous as the home of the Ranoa Magic Academy (Magic University), the International Magician Guild Headquarters, the Neris Magical Workshop, and bustling international markets. A progressive, cosmopolitan metropolis where humans, beastfolk, elves, demons, and dwarves live, study, and trade together without racial discrimination. The beloved permanent hometown and base of operations for Rudeus Greyrat and his extended family.}
+
+MAP: {Northeast: Ranoa Magic Academy Campus | West: Magician Guild HQ & Mercenary Board | South: Residential District (The Greyrat Estate) | Center: Grand Market Bazaar}
+
+HISTORY: {[Rise as Academic Capital] Established around the Magic University to foster non-verbal casting and magical device engineering; [The Greyrat Family Settlement: Year K422+] Rudeus purchased his spacious estate on the city outskirts; constructed his magical tool laboratory, welcomed his wives Sylphiette, Roxy, and Eris, raised his six children, and headquartered the Orsted Corporation's international telecommunications network.}
+
+---
+
+# Millishion
+
+DESC: {The holy capital city of the Saint Kingdom of Milis, celebrated as the 'White Granite Jewel' of the southern world. Built upon the scenic shores of Lake Gran, the city is characterized by immaculate white stone architecture, towering cathedral spires, paved crystal-clear aqueducts, and the imposing Great Cathedral of Saint Milis. Divided into distinct districts: the Holy Cathedral Quarter, the Noble Estate Enclave (including the ancestral mansion of House Latreia), the Anastasia Keep garrison, and the lakeside merchant docks. Maintains absolute civic cleanliness, strict public morality enforcement, and zero open tolerance for illegal underworld operations.}
+
+MAP: {Center: Great Milis Cathedral | East: High Nobility Quarter (House Latreia Estate) | North: Anastasia Keep (Order of the Temple HQ) | South: Gran Lake Docks}
+
+HISTORY: {[Holy City Foundation] Erected in antiquity by Saint Milis upon the subjugation of southern monster threats; [Dead End's Tearful Reunion: Year K418] The site where Rudeus and Paul reunited in an emotional tavern clash, healing their familial bond; [The Papal Liberation: Year K425] The battleground where Rudeus thwarted Archbishop Latriea's anti-demon coup, securing protection for Zenith and the Pope.}
+
+---
+
+# Citadel of Roa
+
+DESC: {The former fortified capital of the Fittoa Region in eastern Asura, situated atop strategic crossroads overlooking the Buena farming basin. Governed by Lord Sauros Boreas Greyrat and Mayor-adjoint Philip Boreas Greyrat from the imposing red-stone Boreas Manor. Encircled by massive stone ramparts and bustling with regional grain merchants, blacksmiths, and knightly patrols. The vibrant regional center where 7-year-old Rudeus Greyrat served as private tutor to Eris Boreas Greyrat for three transformative years. Ground zero for the catastrophic Fittoa Mana Catastrophe, which completely vaporized the citadel into a desolate mana crater.}
+
+MAP: {Center: Boreas Greyrat Manor (Sauros & Philip's Estate) | North: Commercial Market Quarter | South: Buena Highway Gate}
+
+HISTORY: {[Boreas Regional Hub] Reigned for centuries as the fortress capital of eastern Asura; [Rudeus's Tutoring Years: K414-K417] The setting where Rudeus educated Eris, learned advanced swordcraft and etiquette, and celebrated his tenth birthday banquet; [The Fittoa Mana Catastrophe: Year K417] A massive column of light erupted over the city, instantly teleporting every building and citizen across the world, leaving a barren crater subsequently garrisoned by Asuran royal reclamation outposts.}
+
+---
+
+# Buena Village
+
+DESC: {A peaceful, picturesque farming village nestled in the rolling green meadows of the Fittoa Region in eastern Asura. The beloved birthplace and childhood home of Rudeus Greyrat. Characterized by rich wheat and vegetable fields, clear babbling brooks, rustic wooden cottages, and a small watermill. The rural community where former S-rank adventurer Paul Greyrat and his wife Zenith settled as village knight-commander; where maid Lillia raised Aisha, where Roxy Migurdia arrived as 3-year-old Rudeus's magical tutor, and where Rudeus first met and befriended young Sylphiette. Completely displaced during the Fittoa Incident and later lovingly rebuilt by returning survivors.}
+
+MAP: {Northwest: The Greyrat Family Residence & Yard | East: Sylphiette's Childhood Home | Center: Village Square & Watermill | Outskirts: Wheat Fields and Forest Borders}
+
+HISTORY: {[Buena Village Golden Days: K407-K414] The setting of Rudeus's rebirth; where he practiced silent elemental casting, learned water magic from Roxy, and befriended Sylphiette; [The Fittoa Mana Catastrophe: Year K417] Entire village population teleported across the globe; [Post-War Reconstruction] Reclaimed and rebuilt in the modern era, standing as a tranquil memorial to Paul Greyrat and the dawn of Rudeus's journey.}
+
+---
+
+# Rikarisu City
+
+DESC: {A massive, ancient fortress city carved directly into the petrified skeleton of a colossal primordial demon beast, situated in the central wastelands of the Demon Continent. Enclosed by towering fossilized bone ramparts, the city serves as the primary trade and adventuring nexus for hundreds of demon tribes. Houses the regional Adventurers Guild Hall, crowded open-air bazaars selling monster meat and desert herbs, weapon smithies, and underground betting dens. The pivotal frontier city where 10-year-old Rudeus Greyrat and Eris Boreas Greyrat first registered as official adventurers under the party name 'Dead End' alongside Ruijerd Superdia.}
+
+MAP: {Center: Fossilized Ribcage Plaza & Adventurers Guild | North Gate: Wasteland Caravan Trail | South Gate: Petrified Forest Road}
+
+HISTORY: {[Ancient Beast Settlement] Built in the carcass of a primordial behemoth slain during ancient wars; [Dead End's First Guild Registration: Year K417] Rudeus, Eris, and Ruijerd registered Dead End; took on local subterranean pet-finding and monster-clearing quests; outsmarted corrupt adventurer Nokopara to secure funds for their journey.}
+
+---
+
+# Kurasuma Town
+
+DESC: {A fortified desert frontier town located along the northern overland trade route of the Demon Continent, bordering the dangerous Petrified Forest. Constructed from sun-baked clay, hardened obsidian blocks, and monster-hide tents around a subterranean sulfur spring. Serves as an essential resupply station for merchant caravans and monster-hunting expeditions traveling toward Wind Port.}
+
+MAP: {Oasis Well Square, Caravan Stables, Monster Butchery Quarter}
+
+HISTORY: {[Frontier Waystation] Sheltered traveling merchant convoys navigating between Rikarisu and the northern coast across centuries.}
+
+---
+
+# Rapan / Labyrinth Town Rapanear
+
+DESC: {The bustling, cutthroat labyrinth boomtown located in the scorching central plateau of the Begaritt Continent. Built entirely around the exploitation and excavation of surrounding magical crystal labyrinths (including the deadly 6-floor Teleport Labyrinth). Populated by thousands of grizzled international adventurers, alchemists, magic stone merchants, and mercenary guilds. Atmosphere is defined by gold rushes, sudden dungeon fortunes, tavern brawls, and rampant vice. The operational staging base for Paul Greyrat's Begaritt search party and the tragic rescue of Zenith Greyrat.}
+
+MAP: {North: Adventurers Guild HQ & Quest Board | Center: Crystal Trade Exchange & Smelting Mills | South: Desert Caravan Depot | Outskirts: Teleport Labyrinth Entrance}
+
+HISTORY: {[Labyrinth Rush Era] Expanded rapidly following the discovery of deep mana crystal veins in the Begaritt bedrock; [The Zenith Rescue Expedition: Year K423] Staged Paul, Roxy, Elinalise, Talhand, and Rudeus's descent into the Teleport Labyrinth; the tavern where Rudeus and Roxy consummated their mutual love amidst grief following Paul's funeral; [Modern Mining Hub] Evolved into a permanent fortified city managing regulated labyrinth resource extraction.}
+
+---
+
+# Migurd Village
+
+DESC: {A peaceful, isolated tribal village situated in a sheltered depression of the central wastelands of the Demon Continent. The ancestral homeland of the Migurd Tribe, including Roxy Migurdia and her parents Rowell and Rokari. Characterized by modest domed clay houses, sweet-scented desert berry fields, and a tranquil, timeless communal culture. Inhabitants possess dark aquatic-blue hair, childlike lifespans spanning over two centuries, and innate biological telepathy (which Roxy uniquely lacked). Visited by 10-year-old Rudeus, Eris, and Ruijerd during their journey across the Demon Continent, receiving warm hospitality and the sacred talisman wand.}
+
+MAP: {Village Center: Communal Well & Meeting Hearth | West: Rowell & Rokari's Residence | Perimeter: Protective Monster Warding Fences}
+
+HISTORY: {[Tribal Sanctuary] Preserved ancestral Migurd traditions and telepathic communal harmony for hundreds of years; [Dead End's Visit: Year K417] Rudeus arrived bearing Roxy's master wand; met Roxy's tearful parents, reassuring them of Roxy's safety and receiving supplies; [Lifelong Kinship] Maintained regular courier contact with Roxy and Rudeus's household in Sharia.}
+
+---
+
+# Wind Port
+
+DESC: {The premier maritime port city on the northwestern coast of the Demon Continent, perched along the cliffs overlooking the Ringus Sea. Functions as the primary international naval gateway between the Demon Continent and the Central/Milis Continents. Dominated by massive sea-dragon docks, international customs warehouses, bustling fish markets, and multi-racial sailor taverns. Enforces strict maritime immigration tariffs, weapon inspections, and anti-smuggling patrols. The fateful port where Rudeus Greyrat encountered the starving Great Empress Kishirika Kishirisu (receiving his Demon Eye of Foresight) and secured passage to Milis aboard a merchant vessel.}
+
+MAP: {Harbor: Sea-Dragon Docks & Smuggler Quays | Upper District: Customs House & Merchant Guild | Lower Alley: Street Stalls (Kishirika's Encounter)}
+
+HISTORY: {[International Maritime Gateway] Handled continental trade routes for centuries under local Demon Lord charters; [Dead End's Departure: Year K417] Rudeus fed Empress Kishirika in an alley, receiving the Demon Eye of Foresight; negotiated passage for Ruijerd by coordinating with Ruijerd's reformed reputation and crossing the ocean to Zant Port.}
+
+---
+
+# Zanto Port / Saint Port
+
+DESC: {A major fortified seaport located on the northern coast of the Milis Continent, serving as the main entry point from the Demon Continent. Governed jointly by the Milis Temple Knights and local port commissioners under strict religious and racial inspection protocols. Features deep-water berths, stone lighthouses, quarantine barracks, and cargo warehouses. The site where Rudeus's party clashed with corrupt smuggler Gallus Cleaner and liberated captured beastfolk children from trafficking ships.}
+
+MAP: {Harbor Docks, Temple Knight Inspection Barrier, Contraband Warehouses}
+
+HISTORY: {[Milis Continental Gate] Managed northern immigration and trade with the Demon Continent; [The Battle of Zant Port: Year K418] Gallus Cleaner ambushed Dead End; Ruijerd slew Gallus in the burning warehouse, liberating kidnapped beast children.}
+
+---
+
+# Westport
+
+DESC: {A major oceanic port city situated on the western coast of the Milis Continent, connecting Milis maritime trade to the southern Central Continent and the Begaritt Continent. Characterized by expansive shipyard drydocks, high-speed passenger galleons, and bustling international banking houses.}
+
+MAP: {Western Quays, Naval Shipyards, Passenger Customs Depot}
+
+HISTORY: {[Southern Maritime Nexus] Served as the departure point for expeditions heading toward the Begaritt desert and Asuran western ports.}
+
+---
+
+# Eastport
+
+DESC: {The primary eastern harbor outpost on the Begaritt Continent, nestled in a sheltered rocky bay on the eastern coast. Serves as the vital supply line and entry port for all incoming ships carrying food, fresh water, and adventurer reinforcements bound for Labyrinth Town Rapan.}
+
+MAP: {Dune Docks, Desalination Cisterns, Caravan Supply Staging Yards}
+
+HISTORY: {[Begaritt Gateway] Handled incoming merchant ships from Milis and the Central Continent supporting the Begaritt labyrinth excavations.}
+
+---
+
+# Fittoa Region
+
+DESC: {A historically fertile, picturesque eastern province of the Kingdom of Asura, formerly governed by Lord Sauros Boreas Greyrat. Encompassed rolling green grasslands, prosperous farming villages (including Buena Village), and the fortified regional capital of Roa. Renowned for its bountiful wheat harvests, high-grade wool, and equestrian breeding ranches. Completely devastated during the Fittoa Mana Catastrophe, which teleported all inhabitants across the world and left the land a barren mana crater before modern restoration.}
+
+MAP: {West: Buena Village | East: Citadel of Roa | Borders: Red Dragon Mountain Foot-passes}
+
+HISTORY: {[Boreas Prosperity: Pre-K417] Flourished as Asura's eastern breadbasket and military garrison; [Fittoa Mana Catastrophe: Year K417] A cataclysmic mana rift vaporized Roa and Buena, dispersing over 100,000 souls globally; [Reclamation Era] Gradually rebuilt under royal Asuran charters and the Orsted Corporation's regional welfare programs.}
+
+---
+
+# Strife Zone (Strief Region)
+
+DESC: {A perpetually war-torn, chaotic buffer region situated on the southern Central Continent between the Dragon King Kingdom and northern realms. Characterized by ruined fortresses, scarred trenches, shifting warlord encampments, and lawless mercenary bands. Lacks any unified legal authority; control shifts constantly between rival mercenary companies and proxy puppet regimes. The tragic displacement zone where Philip and Hilda Boreas Greyrat were teleported and slain during the Fittoa Incident.}
+
+MAP: {Warlord Strongholds, Burned Farmlands, Disputed Fortresses}
+
+HISTORY: {[Centuries of Proxy Warfare] Acted as the endless testing ground for mercenary armies and southern warlords; [The Greyrat Tragedy: Year K417] Philip and Hilda materialized in this war zone and were killed by marauders while defending each other.}
+
+---
+
+# Great Forest
+
+DESC: {A colossal, primeval rainforest covering the entire northern half of the Milis Continent. Dominated by colossal ironwood trees reaching hundreds of meters into the sky, torrential seasonal monsoon rains, and dense magical foliage. Ancestral territory of the Beast Race, centered around the holy tree capital of Doldia Village. Protected by fierce beast warrior clans (Dedoldia and Adoldia) and the divine Sacred Beast. Traversed by Dead End during a three-month rainy season, forging deep alliances between Rudeus and the beast chieftains.}
+
+MAP: {Center: Doldia Sacred Village (Great Tree) | North: Zant Port Highway | South: Blue Dragon Mountain Pass}
+
+HISTORY: {[Primeval Beast Dominion] Inhabited exclusively by beastfolk clans for millennia under the guardianship of the Sacred Beast; [Dead End's Rainy Season Stay: Year K418] Rudeus imprisoned and befriended the Doldia tribe; tutored young beast girls; formed lasting bonds with Ghislaine's family.}
+
+---
+
+# Red Dragon Mountain Range
+
+DESC: {The massive, impassable spine of jagged basalt mountains bisecting the Central Continent from east to west. Infested with ferocious Red Dragon flocks, wyverns, and high-altitude apex predators. Features only two navigable overland passes: the Red Dragon's Upper Jaw (northern route) and the Red Dragon's Lower Jaw (southern route).}
+
+MAP: {Northern Route: Upper Jaw Pass | Southern Route: Lower Jaw Pass | High Peaks: Red Dragon Nesting Crags}
+
+HISTORY: {[Continental Barrier] Served as the natural geographical wall separating Asura from the Northern and Southern Kingdoms for millennia.}
+
+---
+
+# Red Dragon's Upper Jaw
+
+DESC: {The perilous high northern canyon pass carving through the Red Dragon Mountain Range, connecting the Kingdom of Asura with the Northern Magic Triumvirate (Ranoa). Flanked by sheer vertical cliffs, howling winds, and nesting perches of predatory Red Dragons. Heavily fortified at both ends by royal garrison tollgates.}
+
+MAP: {Garrison Gatehouses, High Canyon Chokepoints, Cliffside Guard Towers}
+
+HISTORY: {[Northern Trade Artery] Handled diplomatic envoys, magic students, and merchant caravans traveling between Ars and Sharia.}
+
+---
+
+# Red Dragon's Lower Jaw
+
+DESC: {The narrow, treacherous southern canyon pass through the Red Dragon Mountain Range, connecting eastern Asura with the southern kingdoms. Characterized by jagged red sandstone cliffs, deep shadows, and thin air. The historic location of the fateful first confrontation between party Dead End and Dragon God Orsted (alongside Nanahoshi Shizuka), where Rudeus Greyrat was mortally impaled before being saved by Eris's desperate intervention.}
+
+MAP: {Narrow Canyon Defile, Ambush Boulders, Dragon Cave Overhangs}
+
+HISTORY: {[The Fateful Orsted Clash: Year K419] Dead End encountered Orsted; Orsted recognized Rudeus speaking Hitogami's name; pierced Rudeus's chest in a violent duel; revived Rudeus at Eris's plea, permanently changing Eris's destiny to pursue the sword.}
+
+---
+
+# Blue Dragon Mountain Range
+
+DESC: {The imposing mountain range running across the Milis Continent, forming the natural border between the Great Forest and the Holy Country of Milis. Characterized by azure-tinted granite peaks, misty waterfalls, and rich mana crystal deposits.}
+
+MAP: {High Alpine Passes, Milis Border Watchtowers, Mountain Dragon Ridges}
+
+HISTORY: {[Milis Frontier Wall] Defined the peaceful demarcation line between the Beast Race territory and the Saint Kingdom of Milis.}
+
+---
+
+# Dragon King Mountain Range
+
+DESC: {A rugged, volcanic mountain chain located along the southern border of the Dragon King Kingdom. Rich in dense iron ore, mithril veins, and ancient wyvern nesting caverns, supporting the kingdom's military smithing industries.}
+
+MAP: {Volcanic Smelting Towns, Mountain Fortresses, Wyvern Crags}
+
+HISTORY: {[Martial Smithing Cradle] Supplied weapons and armor for generations of Dragon King knights.}
+
+---
+
+# Holy Sword Highway
+
+DESC: {The ancient, wind-swept stone highway extending north through the Karon Kingdom into the icy peaks of the Holy Land of Swords. Lined with frozen memorials, stone monoliths of legendary swordmasters, and waystation inns catering to aspiring martial disciples.}
+
+MAP: {Stone Paved Highway, Pilgrim Hostels, Sword Saint Monoliths}
+
+HISTORY: {[Path of the Swordsman] Traversed by thousands of sword apprentices seeking training at the Sword God dojo.}
+
+---
+
+# Holy Land of Swords
+
+DESC: {The supreme martial sanctuary of the Sword God Style, perched in the freezing, snowbound mountain heights of the northern Central Continent. Centered around the massive timber and stone Sword Sanctum dojo ruled by the reigning Sword God (Gal Farion, and later Gino Britz). Characterized by sub-zero blizzards, spartan living quarters, endless sword sparring pits, and an absolute meritocracy where strength dictates authority. The rigorous training ground where Eris Boreas Greyrat spent five brutal years attaining the rank of Sword King alongside Nina Falion and Isolde Cluel.}
+
+MAP: {Center: The Grand Sword Sanctum Dojo | North: Sword God's Solitary Quarters | South: Disciple Barracks & Sparring Rings | Perimeter: Frozen Snow Drifts}
+
+HISTORY: {[Cradle of the Sword God Style] Refined the deadliest offensive sword techniques across generations; [Eris's Five-Year Asceticism: K419-K423] Eris trained fanatically to stand as Rudeus's equal; attained Sword King under Gal Farion; [Gino Britz's Triumph] Gino defeated Gal Farion in a single strike to become Sword God; established dojo neutrality.}
+
+---
+
+# Ringus Sea
+
+DESC: {The vast, monster-infested ocean separating the Central Continent from the Demon Continent to the east. Notorious for treacherous whirlpools, gale-force typhoons, and titanic sea serpents (such as the King Sea Dragon). Navigated exclusively by heavily armored dragon-galley fleets operating between Wind Port, Zant Port, and Asuran eastern ports.}
+
+MAP: {Central Ocean Basin, Sea Serpent Trenches, Maritime Shipping Lanes}
+
+HISTORY: {[Maritime Trial] Traversed by Dead End and international merchant convoys under high-risk naval escort.}
+
+---
+
+# Floating Fortress (Chaos Breaker)
+
+DESC: {The mythical, colossal airborne citadel of Armored Dragon King Perugius Dola, cruising silently through the clouds of the Six-Faced World. Constructed from ancient dragon-carved white stone and powered by floating magic stones and ancient Dragon arrays. Houses immaculate banquet halls, vast libraries of ancient lore, summoning chambers, and botanical gardens. Garrisoned by Lord Perugius's twelve mythical familiars (including Sylvaril and Arumanfi). Served as the research sanctuary for Nanahoshi Shizuka, the naming site of Sieghart Saladin, and an intimidating aerial bastion during Ariel's coronation.}
+
+MAP: {Center: Perugius's Throne Room | West: Nanahoshi's Laboratory & Stasis Chamber | East: Familiar Quarters & Summoning Hall | Outer: Sky Terraces & Barrier Generators}
+
+HISTORY: {[Laplace War Flagship] Commanded by Perugius during the ancient war against Demon God Laplace 400 years ago; [Nanahoshi's Haven & Rudeus's Audience: Year K422+] Granted sanctuary to summon Nanahoshi; hosted Rudeus for ancient dragon magic research; blessed infant Sieghart Saladin; provided aerial deterrence over Ars during Queen Ariel's coronation.}
+
+---
+
+# Floating Island / Rosberg Mansion
+
+DESC: {A mysterious, elevated natural plateau and ancient noble estate located in the northern borderlands. Surrounded by protective magical mists and high altitude winds, serving as a private retreat and research outpost.}
+
+MAP: {Manor Grounds, Botanical Terraces, Highland Cliffs}
+
+HISTORY: {[Noble Retreat] Maintained as a private sanctuary for high-ranking scholars and noble researchers.}
+
+---
+
+# Ranoa Magic Academy (Magic University)
+
+DESC: {The world's foremost institution of higher magical education, located within the Magic City of Sharia in the Kingdom of Ranoa. A sprawling, castle-like academic campus featuring towering marble lecture halls, vast subterranean spell-testing arenas, extensive magical libraries, student dormitories, and specialized research laboratories. Enrolls thousands of students across all races (humans, beastfolk, elves, demons, dwarves) studying elemental magic, barrier matrices, healing, summoning, and magical tool engineering. The academic sanctuary where Rudeus Greyrat enrolled as a Special Student, cured his psychological ED, reunited and married Sylphiette (Silent Fitz), and conducted groundbreaking research alongside Cliff Grimoire, Zanoba Shirone, and Nanahoshi Shizuka.}
+
+MAP: {Main Quad: Central Library & Headmaster Tower | West: Spell Testing Grounds & Dueling Arena | East: Special Student Quarters & Laboratories | South: Student Dormitories & Dining Halls}
+
+HISTORY: {[Academic Foundation] Established to advance international magical research and racial equality; [Rudeus's Golden University Years: K421-K424] Rudeus enrolled; defeated Badigadi in duel; cured his trauma through Sylphiette's love; pioneered non-verbal casting curricula, automated prosthetics, and Magic Armor MK designs; [Lifelong Patronage] Remained the premier academic center of the world, supported by the Greyrat family for generations.}
+
+---
+
+# Labyrinth of Teleportation (Teleport Labyrinth)
+
+DESC: {A lethal, hyper-dense 6-floor subterranean dungeon located beneath the desert wastes of the Begaritt Continent near Labyrinth Town Rapan. Renowned among S-rank adventurers as one of the deadliest labyrinths in history due to its shifting architecture, lethal monster guardians, and hundreds of interlocking ancient teleportation circles that scatter parties into monster-filled death traps. Its deepest sixth floor contained the crystal core prison of telepathic Zenith Greyrat, guarded by the gargantuan, magic-nullifying Manatite Hydra. The site of the tragic Begaritt Rescue Expedition, where Paul Greyrat sacrificed his life to save Rudeus.}
+
+MAP: {Floors 1-3: Teleport Maze & Crystal Grottoes | Floor 4-5: Shifting Stone Chambers & Trap Rooms | Floor 6: Manatite Hydra Chamber & Zenith's Crystal Core}
+
+HISTORY: {[Primordial Mana Condensation] Formed in antiquity when deep mana veins solidified into crystal teleport arrays; [The Begaritt Rescue Campaign: Year K423] Paul, Roxy, Elinalise, Talhand, and Rudeus conquered all six floors using the Labyrinth Book; slew the Manatite Hydra; rescued Zenith from the crystal stasis at the cost of Paul's heroic death and Rudeus's left forearm; [Post-Conquest Depletion] Mana crystal core collapsed following the Hydra's demise, neutralizing its teleportation traps.}
+
+---
+
+# World Lore
+
+---
+
+# Human
+
+DESC: {The most populous, politically dominant, and technologically versatile race in the Six-Faced World. Originating from the ancestral Human World before the cosmic collapse, humans are physically among the physically frailest of the sentient races, lacking innate biological armor, natural night vision, or intrinsic demonic regeneration. To compensate, humans possess unmatched reproductive adaptability, rapid generational innovation, and unparalleled institutional organization— founding the greatest empires (such as the Kingdom of Asura and the Holy Kingdom of Milis), the global Adventurers Guild, the Magician Guild, and establishing the standardized universal language (Human Tongue).}
+
+HISTORY: {[Creation Era to War of the Gods] Inhabited the Human World; became the primary surviving terrestrial race following the collapse into the Six-Faced World; [The Great Human-Demon Wars] Clashed across millennia against the Demon Race for continental supremacy; [Modern Era] Dominates the fertile Central and Milis Continents, steering global commerce, legal treaties, and magical scholarship.}
+
+---
+
+# Elf
+
+DESC: {A graceful, long-lived humanoid race hailing from the ancient Forest and Demon World biomes. Characterized by pointed ears, slender athletic builds, fair skin, and natural longevity spanning multiple centuries (500 to 1,000+ years). Possess exceptional visual acuity, stealth in dense woodlands, and natural affinity for Wind, Earth, and Archery arts. Include notable lineages such as Elinalise Dragonroad and Sylphiette (quarter-elf). Due to their extended lifespans, pure-blooded elves perceive the passage of mortal time at a detached, melancholy pace.}
+
+HISTORY: {[Ancient Woodland Heritage] Inhabited primeval forests across the Central and Demon Continents; [The Labyrinth Curse Lineage] Certain ancient elven bloodlines became entangled with ancient labyrinth magic, resulting in unique bodily conditions (such as Elinalise's mana-discharge curse).}
+
+---
+
+# Dwarf
+
+DESC: {A stout, exceptionally strong, and long-lived race renowned as the supreme craftsmen, miners, and earth-mages of the world. Distinguished by muscular, low-center-of-gravity builds, dense bone structure, thick braided facial hair, and lifespans averaging 300 to 500 years. Possess innate biological resistance to poisons, high alcohol tolerance, and intuitive mastery over metallurgy, gem-cutting, and magical alloy smithing. Responsible for forging the world's most durable plate armors, dragon-slaying ballistas, and runic tool conduits (exemplified by Talhand of the Cliff and apprentice Juliette).}
+
+HISTORY: {[Ancient Subterranean Forges] Carved impenetrable mountain keeps across the Blue Dragon and Red Dragon ranges; [Modern Industrial Partnership] Collaborated with the Magic University of Ranoa and Prince Zanoba in fabricating Magic Armor plating and automated prosthetics.}
+
+---
+
+# Halfling (Hobbit)
+
+DESC: {A diminutive, nimble, and peaceful humanoid race characterized by short statures (standing roughly one meter tall), agile dexterous fingers, and warm communal cultures. Known for culinary excellence, agriculture, leathercraft, and lightfoot scouting. Generally avoid violent warfare, thriving instead in peaceful agrarian settlements and urban trade quarters.}
+
+HISTORY: {[Peaceful Agrarian Life] Maintained tranquil farming enclaves and culinary guilds across the Central Continent's fertile river basins.}
+
+---
+
+# Half-breed
+
+DESC: {Individuals born of mixed racial parentage (such as human-elf, human-beast, human-demon, or elf-beast unions). Inherit diverse combinations of physical traits, extended lifespans, altered mana capacities, and unique facial or ear structures. Prominent examples include Sylphiette (quarter-elf, quarter-beast, half-human) and Alexander Rybak (half-demon, half-human North God Kalman III). Historically subjected to varying degrees of social prejudice in conservative realms like the Holy Country of Milis, while thriving in multicultural hubs like Sharia.}
+
+HISTORY: {[Multicultural Integration] Increased significantly in the post-war era as international trade and adventurer migration blurred racial borders.}
+
+---
+
+# Migurd
+
+DESC: {A distinctive, telepathic demon tribe native to the arid wastelands of the central Demon Continent. Characterized by silky dark aquatic-blue hair, childlike physical appearances that remain virtually unchanged across their 200+ year lifespans, and innate biological telepathy. Communicate silently across miles using thought-waves, fostering tight-knit, peaceful village communities (such as Migurd Village). Rare individuals born without telepathic ability (such as Roxy Migurdia) experience profound isolation in youth, often inspiring them to leave the village to explore the wider world and master spoken languages and advanced magic.}
+
+HISTORY: {[Ancient Demon Continent Settlement] Preserved peaceful, isolated village customs through millennia; [Roxy's Journey & Reconnection] Roxy's global achievements as a Water King magician and royal tutor brought widespread renown to the Migurd heritage.}
+
+---
+
+# Superd (Speard)
+
+DESC: {A legendary warrior tribe of the Demon Race, distinguished by emerald-green hair, pale skin, a ruby-red third eye on their foreheads (the Devil Eye, capable of detecting mana and life signatures), and lethal tridents formed from their own biological body parts from birth. Possess peerless physical reflexes, agility, and instinctive close-quarters spear mastery. Historically framed and cursed during the Laplace War four hundred years ago when Demon God Laplace supplied them with corrupt spears that drove them into mindless bloodlust, causing global fear and hatred of the Superd. Rehabilitated through the tireless, heroic efforts of Ruijerd Superdia, Rudeus Greyrat, and Eris Boreas Greyrat across their Dead End journey.}
+
+HISTORY: {[Laplace War Betrayal] Corrupted by Laplace's cursed spears; slaughtered friend and foe alike; Ruijerd liberated his people at the cost of demonic infamy; [Dead End's Journey of Redemption: K417-K419] Traversing three continents, Rudeus and Eris publicized Ruijerd's true noble honor; [Biheiril Settlement & Modern Peace] The Superd established a secure homeland in Biheiril under Queen Ariel and Orsted's protection, restoring their rightful place in history.}
+
+---
+
+# Demon Race (Mazoku)
+
+DESC: {A broad umbrella term encompassing hundreds of diverse, magical non-human tribes originating from the primordial Demon World. Characterized by high natural mana densities, unique racial traits (such as horns, extra limbs, scales, telepathy, immortality, or elemental breath), and physical durability surpassing baseline humans. Governed historically by Great Empress Kishirika Kishirisu and regional Demon Kings (such as Badigadi and Atoferatofe). Inhabits primarily the Demon Continent and northern territories, maintaining distinct cultural customs and warrior codes.}
+
+HISTORY: {[The Great Human-Demon Wars] Waged centuries of warfare against humanity for territorial dominance; [Modern Integration] Gradual reduction of historical prejudice following the Laplace War, supported by secular academies like Ranoa Magic University.}
+
+---
+
+# Dragon Tribe (Dragon Race / Dragonfolk)
+
+DESC: {The ancient, supreme martial race hailing from the primordial Dragon World, considered the most powerful beings in the Six-Faced World. Possess silver-white hair, golden reptilian slitted pupils, impenetrable dragon-scale touki, immense natural mana pools, and biological longevity spanning tens of thousands of years. Creators of ancient dragon magic (including secret barrier arrays, time-space teleportation, and dragon-gate summoning). Led by the Five Dragon Generals and the Dragon God lineage (exemplified by Orsted and Armored Dragon King Perugius Dola).}
+
+HISTORY: {[Primordial Dragon World] Ruled the supreme realm under the First Dragon God; [The Anti-Hitogami Compact] Following the destruction of the Dragon World, the surviving Dragon Generals swore eternal vengeance against Hitogami, passing down sacred techniques through millennia.}
+
+---
+
+# Beast Race (Beastfolk / Doldia Tribe)
+
+DESC: {A proud, agile, and fiercely loyal race native to the Great Forest on the Milis Continent. Possess animalistic ears and tails (feline, canine, vulpine), enhanced sensory perception, exceptional night vision, and natural vocal howling attacks (Voice of Shock / Stun Howl). Organized into tribal clans under chieftains (such as the Dedoldia and Adoldia clans of Doldia Village) under the spiritual protection of the Sacred Beast. Renowned for hand-to-hand combat, rapid tree-running mobility, and fierce maternal and communal bonds (exemplified by Ghislaine, Linia, and Pursena).}
+
+HISTORY: {[Millennia of Great Forest Dominion] Preserved their sacred territory and matriarchal warrior culture; [Alliances with Rudeus Greyrat] Forged unbreakable diplomatic and familial bonds following Dead End's rescue of beast children and Linia/Pursena's time in Sharia.}
+
+---
+
+# Ogre
+
+DESC: {A colossal, formidable humanoid sub-race of the Demon Clan inhabiting the dense mountain forests of the Biheiril Kingdom. Characterized by towering muscular builds, single or dual forehead horns, immense brute strength, and thick battle-hardened skin. Led by the Ogre God, a legendary martial master practicing brutal, heavy weapon strikes and unyielding defensive touki.}
+
+HISTORY: {[Biheiril Mountain Enclaves] Maintained isolationist treaties with the Biheiril monarchy, defending their sacred woodlands against outside invaders.}
+
+---
+
+# Magic Ranks
+
+DESC: {The standardized global classification system establishing seven hierarchical tiers of magical mastery across all elemental and specialized schools: 1. Beginner (Elementary): Basic manipulation of elements (small sparks, water droplets, gusts, pebbles). 2. Intermediate: Practical combat and utility spells (Excombo, Fireball, Water Ball, Earth Wall). 3. Advanced: High-impact battlefield magic (Exodus Flame, Cumulonimbus, Sonic Boom, Stone Cannon). 4. Saint: Large-scale climatic and geographical alteration affecting entire city districts (Thunderstorm, Blizzard, Flash Fire). 5. King: Strategic-scale spells capable of obliterating armies or altering weather over an entire province (Lightning, Absolute Zero). 6. Imperial (Emperor): Cataclysmic spells altering continental topography or vaporizing fortresses. 7. God: Mythical, world-shaping magic capable of creating or destroying landmasses and altering cosmic laws.}
+
+HISTORY: {[Standardization by Magician Guild] Established by ancient academies to categorize spell efficacy and issue guild qualifications across nations.}
+
+---
+
+# Fire Magic
+
+DESC: {One of the four core elemental magic disciplines, focused on heat generation, rapid combustion, thermal expansion, and explosive destruction. Spells range from basic sparks and Fireballs to Saint-rank Flash Fire and Imperial-rank volcanic incinerations. Highly favored for offensive destruction and siege warfare, often combined with Wind magic to intensify flame vortexes.}
+
+HISTORY: {[Foundational Elemental Discipline] Utilized across all human and demon armies for direct battlefield bombardment.}
+
+---
+
+# Water Magic
+
+DESC: {One of the four primary elemental schools, governing liquid manipulation, condensation, frost, and atmospheric moisture. Encompasses defensive water shields, ice projectiles, healing synergy, and Saint-rank meteorological storms (such as Cumulonimbus and Lightning). Mastered to the King tier by Roxy Migurdia and utilized as the primary offensive base for Rudeus Greyrat's hybrid spellcraft.}
+
+HISTORY: {[Climatic Mastery] Advanced by generations of Water King mages to control maritime navigation and agricultural rainfall.}
+
+---
+
+# Wind Magic
+
+DESC: {The elemental discipline governing air currents, atmospheric pressure, sonic shockwaves, and vacuum blades. Favored for high-speed evasion, cutting projectiles (Wind Slice), deflection barriers, and enhancing arrow velocity. Mastered by Sylphiette to create pressurized concussive blasts and defensive sound dampeners.}
+
+HISTORY: {[Aerial & Evasive Spellcraft] Developed by Heavenly and human mages for reconnaissance, mobility, and long-range sniping.}
+
+---
+
+# Earth Magic
+
+DESC: {The elemental school governing stone, soil, minerals, physical density, and structural shaping. Encompasses defensive earth bastions, subterranean tunnels, quicksand traps, and dense solid projectiles. Rudeus Greyrat revolutionized Earth Magic by applying modern physics principles—compressing earth into hyper-dense, rifled, and armor-piercing Stone Cannons capable of penetrating God-class defenses.}
+
+HISTORY: {[Engineering & Demolition Art] Historically used for fortress construction; elevated to God-slaying lethality through Rudeus's rotational rifling.}
+
+---
+
+# Healing Magic
+
+DESC: {The specialized life-restoration magic school that stimulates cellular regeneration, mends torn flesh, knits broken bones, and stops fatal hemorrhaging. Classified from Beginner flesh-mending to Saint-tier limb reattachment and God-tier resurrection of fresh biological damage. Heavily governed and researched by the Milis Church, requiring high mana precision and anatomical visualization.}
+
+HISTORY: {[Milis Divine Legacy] Preserved and codified in the great cathedrals of Millishion to provide medical miracles across the world.}
+
+---
+
+# Detoxification Magic
+
+DESC: {The medical magic discipline dedicated to neutralizing biological toxins, venoms, parasitic infections, and magical diseases (such as Magic Stone Disease / Petrification Syndrome). Ranks range from basic antivenoms to Advanced neutralizers and Saint/King-tier cellular purges. Clinically mastered by Cliff Grimoire during his groundbreaking medical research in Sharia.}
+
+HISTORY: {[Medical Sanctuary] Developed to counteract virulent monster venoms in the Demon and Begaritt continents.}
+
+---
+
+# Summoning Magic
+
+DESC: {The complex, esoteric school of magic that opens dimensional pathways to call forth spiritual entities, magical beasts, familiars, or inorganic materials from other coordinates. Requires intricate circular summoning arrays, precise mana frequencies, and contract catalyst runes. Practiced at the supreme level by Armored Dragon King Perugius Dola and researched intensely by foreign summon Nanahoshi Shizuka.}
+
+HISTORY: {[Ancient Dragon Science] Pioneered by ancient Dragon scholars; formed the theoretical basis for the otherworldly summoning events that brought Rudeus and Nanahoshi.}
+
+---
+
+# Voiceless Incantation (Chantless / Silent Magic)
+
+DESC: {The extremely rare and powerful casting technique that completely bypasses verbal incantations, allowing a mage to manifest spells instantly through pure mental visualization and direct mana manipulation. The caster follows a four-step internal sequence: forming the spell's shape, infusing mana to scale its volume, adjusting velocity/trajectory, and releasing. Grants zero casting delay, continuous multi-spell output, and total flexibility to modify spell density, heat, and rotation mid-cast. Virtually impossible for adults to learn due to ingrained neural habits, but mastered in early childhood by Rudeus Greyrat and Sylphiette.}
+
+HISTORY: {[Rudeus's Childhood Breakthrough] Discovered independently by 3-year-old Rudeus in Buena Village; taught to Sylphiette; [Pedagogical Revolution] Formally researched at the Ranoa Magic Academy, altering the global understanding of mana pathways.}
+
+---
+
+# Touki (Battle Aura / Fighting Spirit)
+
+DESC: {The unconscious or deliberate shroud of mana infused throughout a warrior's musculature, nervous system, and equipment, granting superhuman physical strength, blinding velocity, and near-impervious defensive durability. The foundational power source for all high-ranking swordsmen in the Sword God, Water God, and North God styles. Rudeus Greyrat possessed a unique biological limitation preventing him from wrapping his body in natural Touki, a weakness he overcame by engineering the mechanized Magic Armor MK series to artificially emulate God-class Touki.}
+
+HISTORY: {[Universal Martial Foundation] Refined over millennia by human, demon, and beast warriors to combat giant monsters and hostile mages.}
+
+---
+
+# Magic Circles
+
+DESC: {Complex, geometric runic arrays inscribed on surfaces, parchment, or metallic plates to channel, condense, and automate magical effects without direct human casting. Form the structural foundation for teleportation gates, barrier wards, summoning rituals, automated magical appliances, and the control circuits of the Magic Armor.}
+
+HISTORY: {[Ancient Runic Inscriptions] Developed during the Laplace War; preserved in ancient ruins and refined into modern mass-market magical tools.}
+
+---
+
+# God Rank Magic
+
+DESC: {The mythical, supreme pinnacle of magical power, representing spells of cataclysmic, world-altering scale. Capable of creating permanent geographical landmasses, parting oceans, sealing immortal deities, or piercing through dimensional barriers between worlds. Wielded only by legendary figures such as the Dragon God, Demon God Laplace, and the ancient Gods of the Six-Faced World.}
+
+HISTORY: {[Cosmic Creation & Destruction] Used in primordial eras to reshape continental borders and forge the cosmological barriers of the Human World.}
+
+---
+
+# Composite Magic (Melded Magic)
+
+DESC: {The advanced technique of simultaneously blending two or more distinct elemental schools into a unified, synergistic spell effect. Examples include combining Water and Fire to produce blinding scalding steam clouds, fusing Earth and Wind to create abrasive sandstorms, or layering Earth and Fire to fire molten magma projectiles. Requires extraordinary mana control and rapid conceptualization, championed extensively by Rudeus Greyrat.}
+
+HISTORY: {[Tactical Spell Synergy] Elevated battlefield magic from rigid incantations into dynamic tactical problem-solving.}
+
+---
+
+# Magic Ward (Defensive Barrier)
+
+DESC: {Specialized abjuration magic that projects translucent force fields or runic containment domes capable of deflecting kinetic strikes, absorbing elemental explosions, or neutralizing incoming spellcraft. Ranging from individual personal shields to city-wide fortress barriers (such as the defensive matrices of Chaos Breaker).}
+
+HISTORY: {[Fortress Defense Science] Standardized by Basherant and Asuran military academies to defend royal citadels against dragon attacks.}
+
+---
+
+# Saint-tier Magic
+
+DESC: {The fourth hierarchical tier of magical mastery, representing the threshold where spells transcend individual targets to alter environmental weather, climatic conditions, and broad geographical areas. Encompasses iconic grand spells like Cumulonimbus (Thunderstorm), Flash Fire, and regional Blizzards. Requires extensive chanting or massive silent mana infusion, marking a mage as a nationally recognized strategic asset.}
+
+HISTORY: {[Strategic Military Threshold] Nations actively recruit Saint-rank magicians to control crop weather and serve as siege deterrents.}
+
+---
+
+# Magic Implements (Magic Tools / Magic Items)
+
+DESC: {Inorganic devices, weapons, prosthetics, and household appliances embedded with mana crystals and runic circuits to perform magical functions automatically. Include enchanted swords, communication tablets, auto-cooking hearths, refrigeration boxes, and advanced prosthetic limbs. Mass-manufactured and popularized globally by Prince Zanoba Shirone, Juliette, and Lily Greyrat through the Sharia Magical Tool Corporation.}
+
+HISTORY: {[The Technological Renaissance] Transformed magic from an exclusive martial art into an everyday industrial standard improving civilian quality of life.}
+
+---
+
+# Sword God Style
+
+DESC: {One of the Three Great Sword Styles of the world, founded on the aggressive philosophy: 'Victory belongs to he who strikes first.' Emphasizes overwhelming velocity, blinding acceleration, and devastating single-stroke decapitations, prioritizing offense above all defense. Practitioners wear lightweight clothing and reject heavy armor to maximize kinetic speed. Its supreme technique is the 'Longsword of Light' (Hikari no Tachi), where the blade accelerates beyond the speed of sound, slicing through armor, bone, and spells. Headquartered at the Holy Land of Swords; mastered by Sword Gods Gal Farion and Gino Britz, and Sword Kings Eris Boreas Greyrat and Ghislaine Dedoldia.}
+
+HISTORY: {[Holy Land Hegemony] Reigned as the most popular and feared offensive sword style across the Northern and Central Continents; [Eris's Mastery] Eris refined the style with feral instincts, integrating it into the core security of the Orsted Corporation.}
+
+---
+
+# Water God Style
+
+DESC: {One of the Three Great Sword Styles, centered around absolute defensive parrying, kinetic redirection, and instantaneous counter-strikes. Follows the principle: 'Never attack first; wait for the enemy to commit, then sever them.' Possesses five secret counter techniques capable of deflecting all physical weapons, projectiles, and magic spells. Its god-tier secret art is 'Deprivation Sword Realm' (Flash), creating a sensory domain where any offensive move is instantaneously intercepted. Favored by the Asuran Royal Guard and Milis Temple Knights; mastered by Water God Reida Lia and successor Isolde Cluel.}
+
+HISTORY: {[Royal Defensive Pillar] Served as the martial foundation of Asuran royal palace security and noble duel etiquette for centuries.}
+
+---
+
+# North God Style
+
+DESC: {One of the Three Great Sword Styles, founded by North God Kalman I on the philosophy of pragmatic survival, tactical adaptability, and unconventional warfare. Rejects rigid dogma in favor of environmental improvisation, trickery, thrown weapons, blinding powders, concealed blades, and utilizing heavy armor or dual weapons. Highly popular among mercenaries, dungeon adventurers, and bodyguards. Led by the Kalman lineage (Kalman I, Kalman II / Sandor, Kalman III / Alec) and masters like Auber Corvette and North Saint Gallus Cleaner.}
+
+HISTORY: {[The Mercenary's Creed] Spread across all continents as the ultimate practical combat system for real-world survival against monsters and assassins.}
+
+---
+
+# Church of Milis (Milis Religion)
+
+DESC: {The largest, most influential monotheistic religious organization in the Six-Faced World, headquartered in the holy capital of Millishion. Worships Saint Milis as the divine creator and moral shepherd of humanity. Enforces strict religious dogma, mandatory monogamy (strictly forbidding polygamy), racial purity doctrines, and charitable healing hospital networks. Governed by the Pope and Cardinals, supported militarily by the elite Order of the Temple Knights. Historically divided between the hardline anti-demon 'Expulsion Faction' and the reformist 'Acceptance Faction' (championed by Cliff Grimoire).}
+
+HISTORY: {[Saint Milis Evangelism] Unified the southern continent under religious law; [The Modern Reformation: Year K425+] Shifted toward international racial tolerance following the liberation of the Pope by Rudeus and Cliff.}
+
+---
+
+# Dragon Faith
+
+DESC: {An ancient, esoteric belief system revering the Dragon Race, the Five Dragon Generals, and the Dragon God as supreme cosmic arbiters. Practiced primarily among ancient dragon-descended enclaves, mountain hermitages, and secret martial orders. Emphasizes duty, martial excellence, mastery of ancient runic lore, and resistance against the deceiver Hitogami.}
+
+HISTORY: {[Ancient Lineage Preservation] Passed down sacred rites and teleportation array coordinates across tens of thousands of years.}
+
+---
+
+# Beast Faith
+
+DESC: {The animistic and ancestor-venerating spiritual tradition practiced by the Beast Race across the Great Forest. Centers upon deep reverence for nature, ancestral warrior spirits, and the living incarnation of the divine Sacred Beast (Leo). Emphasizes strength, tribal loyalty, communal protection, and living in ecological harmony with the primeval ironwood forests.}
+
+HISTORY: {[Sacred Beast Lineage] Maintained unbroken continuity through millennia in Doldia Village.}
+
+---
+
+# Hitogami Cult
+
+DESC: {A clandestine, fragmented network of individuals, rogue nobles, and covert operatives who unwittingly or knowingly serve the Man-God (Hitogami). Lacks centralized public churches; operates instead through covert dream visitations, manipulated merchant guilds, mercenary contracts, and assassinations. Members are promised wealth, status, or salvation, only to be discarded or driven to ruin once their utility to Hitogami's grand design is fulfilled.}
+
+HISTORY: {[Covert Disruption] Orchestrated continental succession crises, wars, and targeted assassinations against Orsted and the Greyrat lineage.}
+
+---
+
+# Three Original Gods
+
+DESC: {The primordial, cosmic deities who presided over the creation and dawn of the Six-Faced World: the First Dragon God (ruler of the Dragon World), the Creation God / First Beast God, and the Original Human God. Beings of unfathomable cosmic power whose divine wars reshaped the dimensional fabric of existence.}
+
+HISTORY: {[Creation Era Cataclysm] Clashed during the primordial War of the Gods, resulting in the destruction of the outer worlds.}
+
+---
+
+# Hitogami (Man-God)
+
+DESC: {The overarching cosmological antagonist of the Six-Faced World, a parasitic usurper entity residing in the central Void World. Possesses near-omniscience of future timelines and an innate passive psychic charm inducing instant trust in mortal dreamers. Manipulates apostles to extinguish threats to his existence—specifically targeting Dragon God Orsted and the descendants of Rudeus Greyrat.}
+
+HISTORY: {[Void World Isolation] Sealed within the metaphysical center, waging an eternal looping war against Orsted.}
+
+---
+
+# Laplace (Demon God)
+
+DESC: {The reincarnation of Demon Dragon King Laplace's wrathful demonic aspect, possessing immense mana reserves and boundless hatred for humanity. Rank 4 of the Seven Great World Powers; creator of the cursed Superd spears and leader of the Demon Race in the Laplace War. Defeated and sealed 400 years ago by Perugius, Urupen, and Kalman I; prophesied to resurrect around Year K500.}
+
+HISTORY: {[The Laplace War] Shattered human kingdoms before being sealed; his impending return drives Orsted's millennia-long preparations.}
+
+---
+
+# Orsted (Dragon God)
+
+DESC: {The 100th Dragon God, Rank 2 of the Seven Great World Powers, and the strongest living warrior in existence. Son of the First Dragon God; bound by the 200-year reincarnation loop, the Curse of Hatred, and severely restricted mana regeneration. Dedicated his eternal existence across tens of thousands of years to destroying Hitogami; founded the Orsted Corporation alongside Rudeus Greyrat.}
+
+HISTORY: {[The 20,000-Year Loop] Traversed hundreds of iterations to assemble the Five Dragon Treasures and secure victory.}
+
+---
+
+# Heaven God (Sky God)
+
+DESC: {The ancient primordial deity who governed the Heavenly World and the Winged Race. Possessed supreme mastery over atmospheric manipulation, spatial barriers, and divine lightning before the Heavenly World merged into the Six-Faced World.}
+
+HISTORY: {[Mythic Era] Presided over the sky realms during the ancient era of cosmic unity.}
+
+---
+
+# First Dragon God
+
+DESC: {The supreme primordial progenitor of the Dragon Race and creator of the Dragon World. An omnipotent entity who created ancient dragon magic, secret barrier seals, and the reincarnation loop array to ensure the eventual destruction of Hitogami.}
+
+HISTORY: {[Cosmic Vengeance] Dispatched his son Orsted and loyal Dragon Generals into the future before the fall of the Dragon World.}
+
+---
+
+# Seven Great Heroes
+
+DESC: {The legendary coalition of champions who fought during the ancient Laplace War to defend humanity and seal the Demon God. Includes Armored Dragon King Perugius Dola, Dragon God Urupen, North God Kalman I, and their allied legendary warriors, symbolizing inter-racial cooperation between dragons, humans, and beastfolk in the defense of mortal civilization.}
+
+HISTORY: {[The Sealing of Laplace & Legacy] Achieved victory at the edge of the continent, establishing modern political stability; immortalized in songs, statues, and royal annals across the Central and Milis continents.}
+
+---
+
+# Adventurer's Guild
+
+DESC: {The largest international non-governmental organization in the Six-Faced World, operating guildhalls in virtually every major city and frontier outpost. Issues standardized adventurer identification cards (F-rank to S-rank), mediates monster bounties, escort contracts, and dungeon exploration rights. Enforces strict political neutrality and cross-border identification recognition.}
+
+HISTORY: {[Post-War Foundation] Established to organize independent warriors and protect civilian trade routes across borders.}
+
+---
+
+# Magician Guild (Magic Guild)
+
+DESC: {The premier international scholarly and professional guild for spellcasters, headquartered in the Magic City of Sharia. Standardizes spell classification, issues formal magic rank certifications (Beginner to God-tier), regulates magical research patents, and coordinates international academic conferences.}
+
+HISTORY: {[Academic Leadership] Advanced modern non-verbal theory, magical tool engineering, and alchemical refining.}
+
+---
+
+# Rudo Mercenary Company (Orsted Corporation)
+
+DESC: {The covert international intelligence, security, and magical logistics corporation founded jointly by Rudeus Greyrat and Dragon God Orsted. Operates under the public front of the 'Rudo Mercenary Company' in Sharia, managing high-ranking mercenary deployments, undercover communications networks, magical tool distribution, and regional security for allied rulers (including Queen Ariel and the Milis Holy See). The primary geopolitical instrument orchestrating the defeat of Hitogami's global apostles.}
+
+HISTORY: {[Establishment: Year K423] Founded following Rudeus and Orsted's alliance; [Global Expansion] Neutralized Hitogami's schemes in Asura, Milis, Shirone, and Biheiril, safeguarding future generations.}
+
+---
+
+# Hitogami Apostles
+
+DESC: {Individuals contacted in dreams by Hitogami and manipulated through promises, deception, or coercion to act as his physical agents in the mortal world. Hitogami can influence up to three apostles simultaneously. Notable historical apostles include Prime Minister Darius, Gallus Cleaner, Geese Nukadia, Sword God Gal Farion, and North God Kalman III.}
+
+HISTORY: {[Apostle Mobilization] Dispatched to orchestrate the deaths of Rudeus's family and prevent Orsted from reaching the Laplace reincarnation.}
+
+---
+
+# Boreas Greyrat Family
+
+DESC: {The fierce, militaristic eastern branch of the Four Great Noble Houses of Asura, formerly ruling the Fittoa Region from Roa. Characterized by crimson hair, fiery temperaments, martial pride, and a notorious custom where younger sons and daughters were traded to the main house in Ars. Led by Lord Sauros and Philip Boreas Greyrat; birthplace of Sword King Eris Boreas Greyrat.}
+
+HISTORY: {[Boreas Reign & Tragedy] Governed Fittoa with fierce pride until the Fittoa Mana Catastrophe wiped out their regional base, leaving Eris as the sole surviving heir.}
+
+---
+
+# Notos Greyrat Family
+
+DESC: {The southern aristocratic branch of the Greyrat noble family of Asura, governing vast fertile estates in southern Asura. Known for refined courtly diplomacy, high society patronage, and intense political ambition. Ancestral lineage of Paul Greyrat and his first cousin Luke Notos Greyrat.}
+
+HISTORY: {[Courtly Ambition] Backed Princess Ariel's royal faction, solidifying immense influence upon Ariel's coronation.}
+
+---
+
+# Six-Faced World
+
+DESC: {The unique cosmological structure of the Mushoku Tensei universe: a single giant cube-like celestial body comprising six distinct world faces: Human World, Demon World, Dragon World, Beast World, Heavenly World, and Sea World, surrounding the central metaphysical Void World. Following the ancient War of the Gods, the outer worlds collapsed, merging into a single terrestrial reality (the Human World) with the Void World sealed at its center.}
+
+HISTORY: {[Primordial Collapse] Reshaped by the First Dragon God's vengeance against Hitogami, creating the modern global map.}
+
+---
+
+# War of the Gods
+
+DESC: {The ancient, mythical cataclysm that occurred tens of thousands of years ago among the primordial Gods of the Six-Faced World. Triggered by Hitogami's covert manipulation, which incited the First Dragon God to wage war across the dimensions, destroying five of the six worlds and sealing the cosmic structure into its present form.}
+
+HISTORY: {[Cosmic Genesis] Marked the end of the primordial divine era and the beginning of the mortal historical timeline.}
+
+---
+
+# Orsted-Hitogami Conflict
+
+DESC: {The monumental, multi-millennial metaphysical struggle between Dragon God Orsted and the Man-God Hitogami. Orsted repeats 200-year time loops to breach the Void World and execute Hitogami; Hitogami manipulates mortal apostles and historical variables to eliminate Orsted and his allies before the Laplace reincarnation.}
+
+HISTORY: {[The Turning Point: Year K423+] Rudeus Greyrat's alliance with Orsted fundamentally broke Hitogami's predictive grip, establishing the Orsted Corporation.}
+
+---
+
+# Human-Demon War
+
+DESC: {A series of devastating, world-spanning military conflicts fought thousands of years ago between the Human Race and the Demon Race for continental supremacy. Marked by legendary battles between Great Empress Kishirika Kishirisu and human hero kings, resulting in the partitioning of the Central and Demon Continents.}
+
+HISTORY: {[Continental Partition] Established modern racial borders and deep-seated cultural treaties across continents.}
+
+---
+
+# Metastasis Event / Teleport Disaster
+
+DESC: {The catastrophic spatial-magical anomaly that erupted over the Citadel of Roa in the Fittoa Region in Year K417. Caused by a massive dimensional rift linked to the future summoning of foreign soul Nanahoshi Shizuka and Rudeus Greyrat's soul migration. Instantly vaporized Roa and Buena Village, scattering over one hundred thousand citizens across all four continents, igniting international rescue expeditions and reshaping global geopolitics.}
+
+HISTORY: {[The Catalyst of Destiny: Year K417] Scattered the Greyrat family globally, driving Rudeus and Eris across the Demon Continent and forging their legendary strength.}
+
+---
+
+# Laplace War
+
+DESC: {The cataclysmic war fought four hundred years ago when Demon God Laplace united the demon clans to exterminate humanity. Devastated human kingdoms across the Central and Milis continents until the Three Heroes (Perugius Dola, Dragon God Urupen, and North God Kalman I) struck down and sealed Laplace at the edge of the continent.}
+
+HISTORY: {[Sealing of Laplace] Established the Four Great Powers balance and initiated the modern peaceful era.}
+
+---
+
+# Orsted's Curse (Hatred)
+
+DESC: {The primary cosmic curse afflicting Dragon God Orsted, causing every living being born within the Six-Faced World to feel an instinctive, overwhelming terror, revulsion, and hatred toward him upon sight or presence. Only beings with otherworldly souls (such as Rudeus Greyrat and Nanahoshi Shizuka) and individuals born with altered fate immunities (Rudeus's children) are naturally immune to the curse.}
+
+HISTORY: {[Millennia of Solitude] Forced Orsted into total social isolation across tens of thousands of years until meeting Rudeus.}
+
+---
+
+# Seven Great Powers
+
+DESC: {The prestigious global ranking monument created by Demon Dragon King Laplace, carving the titles of the seven strongest living combatants into sacred stone monoliths: Rank 1: Technique God | Rank 2: Dragon God (Orsted) | Rank 3: Fighting God (Badigadi in Golden Armor) | Rank 4: Demon God (Laplace - sealed) | Rank 5: Death God (Randolph Marianne) | Rank 6: Sword God (Gal Farion, then Gino Britz) | Rank 7: North God (Kalman III / Alec, then Quagmire Rudeus Greyrat).}
+
+HISTORY: {[Global Martial Standard] Anyone who slays or definitively defeats a ranked power automatically inherits their rank and title on the stone monuments.}
+
+---
+
+# Magi Armor (Magic Armor MK Series)
+
+DESC: {The revolutionary mechanized heavy combat suits engineered jointly by Rudeus Greyrat, Zanoba Shirone, Cliff Grimoire, and master dwarf smiths. Designed to bypass Rudeus's inability to wear natural Touki by channeling his immense mana reserves through runic circuitry and magic stones, granting God-class physical strength, blinding thruster velocity, and impenetrable armor plating. Iterated from the colossal MK-I (used to battle Orsted) to the compact everyday MK-II, the ultra-heavy MK-Zero (used against Fighting God Badigadi), and the mass-market MK-III.}
+
+HISTORY: {[Engineering Breakthrough: Year K423+] Created to equalize mortal physical limits against God-class opponents; changed the future of military science.}
+
+---
+
+# The Floating Fortress (Chaos Breaker)
+
+DESC: {The legendary airborne castle of Armored Dragon King Perugius Dola, cruising high above the clouds of the Six-Faced World. Constructed with ancient dragon-stone and powered by floating magic stones, it serves as an impenetrable haven of ancient scholarship, sanctuary for foreign summon Nanahoshi, and an imposing aerial vanguard against demonic threats.}
+
+HISTORY: {[Ancient Flagship] Commanded by Perugius throughout the Laplace War and the contemporary anti-Hitogami alliance.}
+
+---
+
+# Currency
+
+DESC: {The international monetary system of the Six-Faced World, standardized around gold, silver, iron, and stone coinage issued by major empires. The highest standard is the Asuran Gold Coin (worth 10 Asuran Silver Coins or 100 Asuran Iron Coins / 10,000 Green Ore Coins), widely recognized across all continental markets, adventurer guilds, and maritime trade ports.}
+
+HISTORY: {[Economic Foundation] Regulated by the Merchant Guilds of Ars and Sharia to support international commerce.}
+
+---
+
+# Languages
+
+DESC: {The primary spoken and written languages across the Six-Faced World: 1. Human Tongue: The universal lingua franca spoken across the Central Continent, Asura, and Milis. 2. Demon Tongue (God Tongue): The harsh, guttural language of the Demon Continent. 3. Beast Tongue: The tonal dialect of the Great Forest beast tribes. 4. Heavenly Tongue: The melodic language of the Winged Race. 5. Dragon Tongue: The ancient, resonant runic language of the Dragon Tribe. Rudeus Greyrat mastered all five primary languages in early childhood, enabling seamless global diplomacy.}
+
+HISTORY: {[Linguistic Diversity] Preserved tribal independence across continents while the Human Tongue facilitated global trade.}
+
+---
+
+# Magic Stone Disease
+
+DESC: {A lethal magical pathology (also known as Petrification Syndrome) caused when an individual's body over-accumulates ambient mana, gradually crystallizing biological tissues into solid magic stone from the extremities inward until cardiac failure. In the Diary's alternate future, Hitogami infected pregnant Roxy Migurdia via a demon rat, resulting in her agonizing death. Successfully researched, cured, and eradicated in the main timeline through Cliff Grimoire's medical breakthroughs.}
+
+HISTORY: {[The Medical Miracle] Cliff developed a cure using ancient Milis detoxification arrays, saving Nanahoshi and countless patients.}
+
+---
+
+# Teleport Labyrinth
+
+DESC: {A hyper-dense 6-floor subterranean crystal dungeon located beneath the Begaritt desert near Rapan. Infamous for hundreds of shifting teleportation trap circles, high-tier guardian beasts, and the Manatite Hydra guarding its deepest crystal core. The site of the Begaritt Rescue Campaign where Paul Greyrat sacrificed his life to save Rudeus and free Zenith Greyrat.}
+
+HISTORY: {[Conquest: Year K423] Conquered by Paul and Rudeus; its crystal core collapsed following the Hydra's defeat.}
+
+---
+
+# Laplace Era (Era Marker)
+
+DESC: {The historical epoch spanning approximately 500 to 400 years prior to the main story, characterized by the devastating global campaigns of Demon God Laplace, the corruption of the Superd clan, and the heroic rise of the Three Heroes (Perugius, Urupen, Kalman I) culminating in the sealing of Laplace.}
+
+HISTORY: {[Historical Watershed] Established the modern political boundaries and martial traditions of the contemporary era.}
+
+---
+
+# Rudeus Era (Era Marker)
+
+DESC: {The contemporary historical epoch beginning with the reincarnation of Rudeus Greyrat (Year K407 onward). Marked by the Fittoa Mana Catastrophe, the rise of silent casting, the creation of the Magic Armor series, the reformation of Asura and Milis, the founding of the Orsted Corporation, and the decisive geopolitical victories neutralizing Hitogami's global apostles.}
+
+HISTORY: {[The Age of the Quagmire] Brought unprecedented peace, technological advancement, and inter-racial harmony across the Six-Faced World.}
+
+---
+
+# Items
+
+---
+
+# Magic Wands / Staves
+
+DESC: Specialized conduits crafted from monster bones, ancient treant wood, and mana-conductive gems designed to amplify, focus, and stabilize a magician's mana output.
+
+EFFECT: Lowers the mana activation threshold for complex incantations, accelerates invocation speed, narrows projectile dispersion, and boosts destructive potency. Ranging from apprentice short-wands to master-crafted Saint and King-grade staves.
+
+HISTORY: Standardized across human and demon academies to help magicians compete against supersonic swordsmen; mastered by staff-wielders like Roxy Migurdia.
+
+---
+
+# Magic Stones
+
+DESC: Crystalline mineral nodes harvested from the hearts of slain monsters or extracted from deep subterranean labyrinth veins.
+
+EFFECT: Store dense, pressurized elemental mana capable of powering automated magical tools, barrier wards, heating hearths, and industrial automaton engines. Graded by purity and color (red fire stones, blue water stones, green wind stones, brown earth stones, clear pure stones).
+
+HISTORY: Form the foundational economic and technological currency of modern magical civilization.
+
+---
+
+# Rudeus's Wand (Arrogant Water Dragon King / Aqua Heartia)
+
+DESC: An extraordinary, master-crafted A-to-King-rank magic staff gifted to Rudeus Greyrat by Eris Boreas Greyrat and Philip on his tenth birthday in Roa.
+
+CONSTRUCTION: The shaft is carved from the fossilized, bony ironwood of the Elder Treant from the Great Forest; the tip mounts a massive, flawless azure Water Dragon magic stone harvested from a King-tier aquatic leviathan.
+
+EFFECT: Drastically reduces mana dissipation, quadruples the expansion velocity and rotational torque of Water and Earth spells, and enhances environmental temperature manipulation. Rudeus's lifelong primary casting focus in all major global battles.
+
+---
+
+# Magic Armor (MK Series)
+
+DESC: Rudeus Greyrat's revolutionary mechanized power armors, engineered in Sharia alongside Prince Zanoba Shirone, Cliff Grimoire, and dwarf master smiths.
+
+VARIANTS:
+- MK-I: A colossal, 3-meter-tall heavy bipedal fortress equipped with Gatling stone cannons, shield plates, and rock drills, built specifically to duel Dragon God Orsted.
+- MK-II: A streamlined, wearable reinforced suit prioritizing mobility, stealth, and everyday tactical dungeon exploration.
+- MK-Zero: An ultra-heavy, experimental God-slaying titan armor powered directly by Rudeus's ocean-like mana reserves, used to battle Fighting God Badigadi in the Biheiril Kingdom.
+- MK-III: A standardized, mass-producible combat exoskeleton distributed to Orsted Corporation vanguards.
+
+EFFECT: Grants God-class physical strength, near-impervious defense against legendary blades, and supersonic thruster acceleration, completely overcoming Rudeus's lack of natural Touki.
+
+---
+
+# Golden Armor / Fighting God Armor
+
+DESC: The mythical, sentient golden battle armor crafted by Demon Dragon King Laplace over ten thousand years to combat Hitogami.
+
+EFFECT: Grants its wearer absolute God-tier physical force, impenetrable defensive reinforcement, and infinite stamina, drawing upon its own self-sustaining mana matrix. However, it possesses an autonomous combat instinct that consumes the wearer's conscious mind, reducing them to an unstoppable, berserk killing machine.
+
+HISTORY: Stolen by Demon King Badigadi during the Second Great Human-Demon War under Hitogami's deception; clashed with Laplace, shattering the Demon Dragon King; donned again by Badigadi in the Biheiril campaign before being permanently sealed by Dragon God Orsted.
+
+---
+
+# Zariff Prosthetic Arm
+
+DESC: An advanced magical prosthetic forearm engineered by Cliff Grimoire and Zanoba Shirone to replace Rudeus Greyrat's severed left forearm lost in the Teleport Labyrinth.
+
+CONSTRUCTION: Fabricated from ancient Zariff alloy and dense manatite crystal circuits.
+
+EFFECT: Responds seamlessly to neural mana signals, mimicking natural flesh movement while incorporating a spring-loaded grapple, hidden stone cannon firing port, and interchangeable magical tool attachments.
+
+---
+
+# Beloved Sword (Paul's Sword)
+
+DESC: The signature enchanted longsword wielded by Paul Greyrat throughout his legendary S-Rank adventurer career with Fangs of the Black Wolf and during the Begaritt Labyrinth expedition.
+
+EFFECT: Exceptionally balanced, reinforced with wind-cutting enchantments that enhance edge penetration against thick monster scales. Passed down as a sacred family heirloom to Rudeus and his children.
+
+---
+
+# Immortal Sword (Atoferatofe's Weapon)
+
+DESC: The massive, serrated demon broadsword wielded by Immortal Demon Lord Atoferatofe Rybak.
+
+EFFECT: Forged from dense obsidian and demonic bone; indestructible under standard kinetic forces, channels Atofe's overwhelming brute strength and regenerative slime fluids into crushing shockwave strikes.
+
+---
+
+# Sword of Light (Gal Farion's Weapon)
+
+DESC: The masterwork katana wielded by Sword God Gal Farion at the Holy Land of Swords.
+
+EFFECT: Perfectly balanced for supersonic draw-speed; engineered to withstand the extreme friction and kinetic stress of the Longsword of Light technique without chipping or warping.
+
+---
+
+# Magic Scrolls
+
+DESC: Single-use parchment scrolls inscribed with compressed spell circles and pre-loaded mana charges.
+
+EFFECT: Allows any user—even non-magicians—to instantly unleash high-tier spells (such as Saint-tier healing, teleportation, or barrier shields) by tearing or unraveling the paper seal. Crucial tactical assets for adventurers and royal vanguards.
+
+---
+
+# Teleportation Circles
+
+DESC: Ancient runic geometric arrays embedded into stone pedestals that instantaneously transport physical matter across vast continental distances to a linked receiving circle.
+
+HISTORY: Created by the ancient Dragon Race; strictly banned and sealed across human nations following the Laplace War due to military invasion risks; secretly utilized and reactivated by Dragon God Orsted and Rudeus Greyrat to establish rapid global deployment routes.
+
+---
+
+# Devil Spear (Superd Tribe's Weapon)
+
+DESC: The legendary organic tridents born from the physical bodies of the Superd warrior clan.
+
+EFFECT: Nearly unbreakable, channels the wielder's innate Touki and the perceptual targeting of the third Devil Eye with deadly precision.
+
+HISTORY: Corrupted by Demon God Laplace during the Laplace War with bloodlust curses; reclaimed in honor by Ruijerd Superdia and passed to his daughter Norn/Sieghart generations.
+
+---
+
+# Dragon King Sword Kajakut
+
+DESC: One of the supreme 48 Magic Swords crafted by Demon Dragon King Laplace, forged from the core crystal and fossilized bones of an ancient Dragon King.
+
+EFFECT: Possesses the absolute enchantment of gravity manipulation. The wielder can freely alter the gravitational mass, inertia, and directional vector of the blade and surrounding physical objects—reducing its weight to zero for supersonic slashes or increasing its mass by thousands of kilograms for fortress-crushing cleaves.
+
+HISTORY: Wielded by North God Kalman III (Alec) in the Biheiril campaign; shattered during his climactic duel against Rudeus's Gatling cannon and Dragon God Orsted.
+
+---
+
+# The Diary (Oldeus's Journal / Future Diary)
+
+DESC: The bloodstained, guilt-ridden personal journal brought back fifty years through time by Future Rudeus Greyrat (Oldeus) to save his family.
+
+CONTENTS: Details the horrifying timeline orchestrated by Hitogami: Roxy's death from Magic Stone Disease via the cellar rat, Rudeus's alcoholic spiral, Sylphiette's execution in Asura, Eris's death against Demon Lord Atofe, decades of futile vengeance, and the secret instructions to reconcile with Eris, join Dragon God Orsted, and avoid Hitogami's traps.
+
+SIGNIFICANCE: The single most vital artifact that redirected destiny, securing the survival and happiness of the Greyrat household.
+
+---
+
+# The Diary
+
+---
+
+# The Diary - Entry 1: Peaceful Days & The Strange Mouse (Roxy's Infection)
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 1):
+Initial entries document a contented, peaceful domestic life in Sharia around Year K425. Rudeus writes about family life, visits to Lord Perugius's floating fortress with Zanoba to appreciate art, and preparing for the birth of Roxy's unborn child and his growing daughter Lucie.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Starting the Diary: Rudeus decides to start keeping a journal to track complex summoning and teleportation research, noting he had met Perugius and obtained clues regarding Zenith's condition.
+- The Mouse Incident: ["Aisha was pretty down this morning. She found some 'weird mouse' dead, I guess. Maybe she's not a fan of rodents."] Shortly afterward, reports surface in Sharia of a stray cat found petrified into solid stone.
+- Roxy Collapses: ["Roxy collapsed today."] While pregnant, Roxy suddenly succumbs to high fever and debilitating fatigue. Standard detoxification and intermediate-to-advanced healing spells produce zero effect.
+- The Diagnosis: Cliff Grimoire examines Roxy and discovers grey stone creeping up her foot and leg, identifying it as Petrification Syndrome (Magic Stone Disease). Cliff warns that without God-tier Detoxification magic—an arcane secret guarded exclusively within the Holy Land of Milis—she and her unborn child will perish within weeks.
+- Foreshadowing the Trap: In the true timeline, this mouse was an infected demon rat guided by the Man-God (Hitogami) into the cellar pantry when Rudeus opened the door on Hitogami's advice, contaminating Roxy's food.
+
+---
+
+# The Diary - Entry 2: Quest to Milis, Cliff's Death & Roxy's Demise
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 1):
+Records Rudeus's frantic expedition to the Holy Country of Milis to secure a cure for Roxy's terminal Petrification Syndrome, culminating in devastating betrayal and tragedy.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Departure for Milis: ["Leaving for the Holy Land of Millis tomorrow to get the incantation for the spell we need. Cliff and Zanoba are coming along with me. Sylphie wanted to go as well, but I asked her to stay and look after Roxy."]
+- Cathedral Infiltration: In Milis, the Church hierarchy stonewalls their pleas. Cliff uses his familial knowledge of church architecture to break into the cathedral's underground restricted archives to steal God-tier Detoxification scrolls.
+- The Ambush: ["We were ambushed."] An elite detachment of Temple Knights intercepts them in the subterranean corridors. In the desperate chaos, Cliff is poisoned by an assassin's blade and mortally injured.
+- Cliff's Death & First Human Kill: ["Cliff died today."] Rudeus is forced to kill a human opponent for the very first time in his life, blasting the ambushers to secure their escape. The escape route's teleportation magic circle is shattered in the crossfire.
+- The Horrific Return: Rudeus journeys back overland at breakneck speed, clutching the stolen scrolls, only to find Sharia quiet. ["I made it back to Sharia... Roxy died today."]
+- Agonizing Loss: Roxy's entire body had already petrified into cold grey stone, claiming both her and their unborn child. Rudeus breaks down into uncontrollable sobs, clutching her petrified remains in total despair.
+
+---
+
+# The Diary - Entry 3: Rudeus's Collapse, Sylphiette's Departure & Asuran Execution
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 1):
+Documents Rudeus's emotional disintegration following Roxy's funeral, the estrangement and departure of Sylphiette, and the catastrophic massacre in Asura.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Roxy's Funeral & Downward Spiral: Following the funeral, Rudeus drowns his sorrow in hard liquor at taverns. Sylphiette tries tirelessly to comfort him: ["Sylphie keeps trying to cheer me up. It’s not working... Sylphie keeps saying I can’t go on like this, but what does she know?"]
+- Eris's Unheeded Approach: Eris and Ghislaine arrive at Sharia's entrance; Eris attempts to approach him while drinking, but Rudeus dismisses her as a nuisance.
+- The Betrayal & Falling Apart: ["I slept with a prostitute today."] In his drunken haze, Rudeus frequents brothels. Sylphiette discovers the infidelity and confronts him in tears: ["Sylphie burst into tears. She asked me 'Am I not good enough for you?' and then locked herself in her room before I could say anything."]
+- Domestic Confrontation: ["Lilia gave me a real talking-to, and even Aisha scowled at me. I can still hear Sylphie sobbing in her room. She won’t answer when I knock."]
+- Sylphiette's Flight: ["Sylphie’s disappeared."] Finding her room empty, Rudeus discovers Sylphiette took young Lucie and departed for Asura to back Princess Ariel and Luke in their royal succession coup.
+- Pursuit to Ars: Rudeus resolves to chase after Sylphiette, travelling overland through the red-light districts to Ars. By the time he infiltrates the Asuran capital, Ariel's coup has collapsed, Luke is slain, and Ariel's faction is exterminated.
+- Sylphiette's Execution: ["Sylphie."] In the public square of the Silver Palace, Rudeus discovers Sylphiette's mutilated corpse hanging—missing an arm and lacerated—while commoners pelt her with stones.
+- The Ars Catastrophe: Losing all sanity, Rudeus detonates Emperor-class incendiary and stone spells, burning the crowd and leveling vast sections of the capital before fleeing as an international criminal.
+
+---
+
+# The Diary - Entry 4: Rock Bottom, Aisha's Devoted Return & Automaton Forty
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2):
+Details the years of desolation following Sylphiette's death, the dispersal of the Greyrat family, Aisha's profound loyalty, and Zanoba's automated doll research.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Dissolution of the Household: Following Sylphiette's death and the Asura incident, the family (Lilia, Zenith, Norn, and Lucie) moved out of the Sharia mansion. Rudeus lived in squalor, drinking heavily, patronizing brothels, and callously ranking prostitutes in the diary: ["It was the diary of a scumbag, in all honesty."]
+- AISHA'S DEVOTED RETURN AT ROCK BOTTOM: Amidst his complete isolation, one family member returned to his side: ["...I wish like hell I hadn’t fallen apart like that after Sylphie died. Aisha did come back to look after me eventually, but… I can’t imagine the others have forgiven me. Sending off a letter now wouldn’t do any good."]
+- Present Rudeus's Revelation: When reading this passage in Volume 15, 17-year-old Rudeus is moved to tears: ["This kid had been devoted enough to take care of me by herself even when I turned into a no-good lush. The old man hadn’t mentioned her, but she was effectively the only family he had for years. It must have meant a lot to have her around."] Aisha managed the house, cleaned up his drunken messes, and stood by him when everyone else had abandoned him.
+- The Sylphie Automaton Heartbreak: Zanoba pursues magical doll engineering to comfort his master. ["The first automaton’s complete. Zanoba made her in Sylphie’s image. She has her own will, and acts on her own initiative."] Seeing the doll mimic Sylphiette's autonomous movements completely shatters Rudeus: ["I destroyed the Sylphie automaton. I expected Zanoba to be furious, but he apologized instead. That just made me feel guiltier. I owe that man more than I can ever repay."]
+- Automaton Forty: They pivot to a non-humanoid model: ["We made a new automaton that isn’t based off of Sylphie or Roxy. Zanoba gave it the name Forty. Apparently, it’s his fortieth 'masterpiece,' according to him."]
+
+---
+
+# The Diary - Entry 5: Invention of Magic Armor & Global Apostle Manhunt
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2):
+Documents Rudeus and Zanoba's breakthrough development of the Magic Armor, followed by Rudeus embarking on a worldwide crusade to hunt down Hitogami's apostles.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Conception of the Armor: Studying legends of the Fighting God Badgergadi's golden battle armor that vastly enhanced physical stats, Zanoba proposes an audacious idea: expanding the Zariff Prosthetic Arm concept to envelop Rudeus's entire body.
+- Completion of the Prototype: ["With help from Zanoba, I’ve completed my personal suit of armor... I call it 'the Magic Armor.' If only Cliff was still alive. Maybe we could have made something more efficient… But there’s no point dwelling on that now, I guess."]
+- Combat Capabilities: The armor amplifies Rudeus's physical strength, speed, defense, and reaction time to rival Saint and King-tier swordsmen, powered entirely by his colossal mana pool.
+- Evolution of Lethal Magic: Concluding that standard large-scale spells were too unwieldy for duels, Rudeus invents Electric magic and refines hyper-dense stone bullets, combining them with ruthless close-quarters melee combat.
+- Beginning of the Global Crusade: Equipped with the Magic Armor, Rudeus leaves Sharia to roam the world, hunting down rumors of Hitogami's disciples, interrogating suspects with lethal torture, and cutting down bounty hunters and Milis Church assassins.
+
+---
+
+# The Diary - Entry 6: Clashes with Eris, Atoferatofe Ambush & Eris's Martyrdom
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2):
+Chronicles Eris's persistent pursuit of Rudeus across continents, their tragic estrangement, and her ultimate sacrifice on the Demon Continent.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Eris's Persistent Pursuit: Eris continuously appears along Rudeus's path, challenging him to duels in an attempt to snap him out of his self-destructive madness. In early years she defeats him easily, but over time Rudeus grows stronger with the Magic Armor.
+- The Harsh Interrogation: ["I made Eris cry. It’s been a long time since I saw her blubber like that... The woman’s been following me around and getting in my way ever since Sylphie died. What else could explain that? She clammed up repeatedly during the interrogation, too."] Suspecting her of being Hitogami's apostle, Rudeus restrains and interrogates her; Eris escapes the next day.
+- Audience with Atoferatofe: Seeking intelligence on the Man-God from ancient immortal beings, Rudeus secures an audience with Immortal Demon King Atoferatofe on the Demon Continent.
+- The Ambush: ["My audience with Atofe turned into a battle. I was up against her and her entire personal guard. I was confident I could handle the Demon King, but Moore threw me off completely... They had me on the ropes."]
+- Eris's Fatal Intervention: ["Eris is dead. They had me on the ropes when Eris jumped in out of nowhere. She took an attack meant for me, and died to save my life."] Eris throws herself in front of Atofe's lethal strike, taking the mortal blow for Rudeus.
+- Ghislaine's Revelation: Ghislaine arrives to secure the retreat and lays bare the heartbreaking truth: Eris never abandoned Rudeus after their night in Fittoa—she trained until her body broke at the Holy Land of Swords solely to become strong enough to protect him, loving him unconditionally every second of her life.
+- Overwhelming Remorse: ["Eris just wanted to be with me. I had it all wrong all this time. She never stopped loving me. Ever."] Rudeus is left completely crushed, holding her cold corpse in agonizing regret.
+
+---
+
+# The Diary - Entry 7: Sharia Mansion Raid & Deaths of Zanoba, Aisha, Julie & Ginger
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2):
+Records the ultimate destruction of Rudeus's home in Sharia, the murder of his final companions by Milis Temple Knights, and his total descent into vengeful rage.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Return to Sharia: After the loss of Eris, Rudeus returns to Ranoa only to witness black smoke rising over the horizon: the Greyrat estate has been torched to ash.
+- The Cellar Massacre: ["Zanoba’s gone. They’d burned the mansion to the ground. I found Zanoba’s charred body in front of the door to the basement. Ginger, Julie, and Aisha were lying inside it, their bodies cut to pieces."]
+- Zanoba's Final Stand: Zanoba had stood outside the basement threshold, using his superhuman Blessed Child physique to hold off the elite Church strike team until he was immolated, protecting Aisha, Julie, and Ginger who were trapped in the cellar before being butchered.
+- Brutal Retaliation: ["The Temple Knights were still in Ranoa, so I tracked them down and killed them all. But murdering those bastards didn’t bring anyone back."] Rudeus hunts down every single knight in the region and annihilates them without mercy.
+- Crushing Guilt & Vengeance: ["Zanoba did so much for me. He tried so hard to help me, and to protect my family. But I wasn’t there for him when he needed me... Losing both Zanoba and Aisha in such a horrible way must have been crushing. It’s all the Man-God’s fault. I have to kill that bastard, if it’s the last thing I do…"]
+- Total Solitude: With Aisha, Zanoba, Julie, and Ginger dead, Rudeus has lost every friend and household member from his youth.
+
+---
+
+# The Diary - Entry 8: Void World Cosmology, Perugius & Ancient Dragon Ruins
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2):
+Details Rudeus's decadelong pursuit of Hitogami's physical location, decoding the cosmology of the Six-Faced World and scouring ancient Dragon ruins.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Consultations with Perugius: Lord Perugius remains the sole living contact from his past with whom Rudeus can speak: ["Perugius is the only person left whom I can reminisce about the better days with. I don’t want to kill him."]
+- The Cosmology of the Void World: Rudeus uncovers the nature of their universe: ["The world was sort of like a hollow cube, with the Man-God at its center... the Void World."] Teleportation magic worked by dragging the traveler through the subterranean Void World and expelling them at target coordinates.
+- Dragon Ruins & The Five Dragon Generals: Rudeus scours ancient Dragon Race ruins across the Magic Continent and Begaritt. He discovers murals detailing the ancient Dragon God and the treasures created for the Five Dragon Generals.
+- The Missing General: Perugius reveals that the missing Dragon General is destined to appear within a few decades—cryptically foreshadowing Dragon God Orsted's cycle and Nanahoshi's summoning timeline.
+- The Lifespan Bottleneck: Rudeus realizes with bitter clarity that his human lifespan is running out; he cannot physically construct a portal into the Void World before aging into decrepitude.
+
+---
+
+# The Diary - Entry 9: Temporal Magic Breakthrough, Cellar Jump & The Averted Future
+
+CHRONICLE FROM OLDEUS'S JOURNAL (VOLUME 15, CHAPTER 2 & AFTERMATH):
+Documents the invention of temporal reverse-summoning magic, Oldeus's fatal leap to Year K425, and the salvation of the Greyrat family.
+
+KEY DIARY LOGS & CANONICAL EXCERPTS:
+- Theoretical Invention: Unable to reach the Void World, Rudeus redirects his remaining lifespan to reversing summoning circles across time coordinates, calculating the astronomical mana requirement.
+- Pre-Jump Preparations: ["It’s hard to even say if I’ll jump back in time as I am now, or just revert to my younger self. Assuming it’s the former, though, I need to go over what I’m going to say. At the very least, I need to cover the Petrification Syndrome incident, Eris, and the Man-God."]
+- The Temporal Jump: Oldeus activates the backwards time-travel circle, destroying his internal organs and draining his life force during the transit through space-time.
+- Materialization in the Sharia Basement: Oldeus appears in the cellar before 17-year-old Rudeus, coughing blood and missing organs; proves his identity by speaking their secret Japanese memories and delivers the blood-stained diary.
+- The Five Directives: Commands present Rudeus: (1) Do not inspect the basement cellar, (2) Exterminate the demon rat immediately, (3) Never trust Hitogami's advice, (4) Reconcile with Eris who loves him completely, and (5) Write a letter of cooperation to Dragon God Orsted.
+- THE AVERTED TRAGEDY: Present Rudeus and Sylphiette, assisted by Sacred Beast Leo, corner and incinerate the demon rat before it touches food, curing Roxy's fate. Rudeus reconciles with Eris, forms a lifelong pact with Dragon God Orsted, and seals the diary in the Greyrat vault.
+
+---
+
+# Guide
+
+---
+
+# Timeline Marking Convention
+
+Timeline markers indicate when information is true across the story:
+- [Age 0-7: Buena Village]: Childhood under Paul and Zenith, magic discovery, meeting Roxy and Sylphiette.
+- [Age 7-10: Roa / Fittoa]: Tutoring Eris Boreas Greyrat, language acquisition, aristocratic politics.
+- [Age 10: Metastasis Event]: Mana Calamity teleporting citizens across the Six-Faced World into the Demon Continent.
+- [Age 10-13: Dead End Journey]: Crossing the Demon Continent, Great Forest, Milis, and Central Continent with Eris and Ruijerd.
+- [Age 13-15: Northern Adventurer / Depressed Magician]: Rosenburg adventuring with Counter Arrow and Stepped Leader.
+- [Age 15-17: Ranoa Magic Academy]: University enrollment, curing ED, reunion and marriage with Sylphiette (Silent Fitz).
+- [Age 17: Begaritt Rescue Expedition]: Conquering the Teleport Labyrinth, Paul's death, rescuing Zenith, marriage to Roxy.
+- [Age 17-18: The Diary & Orsted Alliance]: Arrival of Oldeus, averting Roxy's death, MK-I duel, founding Orsted Corporation, marriage to Eris.
+- [Age 18-24: Global Geopolitical Campaigns]: Ariel's coronation in Asura, Milis Papal intervention, King Dragon Realm diplomacy, Biheiril Final War defeating Geese, Badigadi, and Kalman III.
+- [Age 24-74: Domestic Prosperity & Legacy]: Raising six children, technological industrialization in Sharia, preparing future generations for Laplace's reincarnation.
+
+Attribute Syntax:
+- SHORT_DESC: Summary of core identity, lineage, marital status, and narrative role.
+- HISTORY: Chronological canonical progression across major life stages.
+- PHYSIQUE: Anatomical measurements, bodily appearance, and physical traits.
+
+---
