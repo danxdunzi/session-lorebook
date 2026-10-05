@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danxdunzi.github.io/session-lorebook/sitemap.xml
