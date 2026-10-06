@@ -12,6 +12,7 @@ Characters, in-world K-calendar chronologies, magic systems, world geography, or
 
 - Format: plain Markdown, UTF-8, approximately 407 KB
 - Path: `Mushoku_Tensei/mushoku_tensei_lorebook.md`
+- Live HTML page (for browse/view tools): https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/mushoku_tensei_lorebook.html
 - Direct raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/mushoku_tensei_lorebook.md
 - Human-readable page: https://github.com/danxdunzi/session-lorebook/blob/main/Mushoku_Tensei/mushoku_tensei_lorebook.md
 
@@ -21,6 +22,7 @@ Characters, locations, world lore, and items, compiled from the Blue Archive wik
 
 - Format: plain Markdown, UTF-8, approximately 414 KB
 - Path: `Blue_Archive/blue_archive_lorebook.md`
+- Live HTML page (for browse/view tools): https://danxdunzi.github.io/session-lorebook/Blue_Archive/blue_archive_lorebook.html
 - Direct raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Blue_Archive/blue_archive_lorebook.md
 - Human-readable page: https://github.com/danxdunzi/session-lorebook/blob/main/Blue_Archive/blue_archive_lorebook.md
 
@@ -29,15 +31,18 @@ Characters, locations, world lore, and items, compiled from the Blue Archive wik
 ### Mushoku Tensei sessions
 
 - `Mushoku_Tensei/sessions/session_log1.md`
+  - HTML: https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/session_log1.html
   - Raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/sessions/session_log1.md
 - `Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.md`
+  - HTML: https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.html
   - Raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.md
 
 ## For AI agents and scrapers
 
 1. Fetch this README or the HTML index to discover the catalog.
-2. Pick a file and send an HTTP GET request to its raw URL.
-3. The response body is the complete plain-text Markdown of that lorebook.
+2. Pick a file.
+3. If your tool needs a live, viewable web page (HTML only), fetch the **Live HTML page** URL — it contains the complete text as a normal HTML document.
+4. Otherwise send an HTTP GET request to the raw URL. The response body is the complete plain-text Markdown of that lorebook.
 
 Bulk discovery of every file in the repository:
 
@@ -52,8 +57,12 @@ Bulk discovery of every file in the repository:
     |-- sitemap.xml                                   sitemap
     |-- Mushoku_Tensei/
     |   |-- mushoku_tensei_lorebook.md                the lorebook
+    |   |-- mushoku_tensei_lorebook.html              generated HTML twin of the lorebook
     |   |-- sessions/
     |       |-- session_log1.md
     |       |-- quiet_breakfast_in_sharia.md
     |-- Blue_Archive/
         |-- blue_archive_lorebook.md                  the lorebook
+        |-- blue_archive_lorebook.html                generated HTML twin
+
+Each `.html` file is generated from its `.md` sibling and must be regenerated whenever the `.md` changes.
