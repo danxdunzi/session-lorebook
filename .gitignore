@@ -1,2 +1,5 @@
 # SSH keys for this repository live here and must never be committed
 .ssh/
+
+# Local planning / working documents — never published
+PLAN_*.md
