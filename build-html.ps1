@@ -31,7 +31,8 @@ foreach ($i in $items) {
   $heading = if ($body -notmatch '<h1') { "<h1>$($i.title)</h1>`r`n" } else { '' }
 
   $relPath = ($i.md -replace '\\', '/')
-  $pageUrl = "https://danxdunzi.github.io/session-lorebook/" + ($relPath -replace '\.md$', '.html')
+  $mdUrl   = "https://danxdunzi.github.io/session-lorebook/" + $relPath
+  $pageUrl = $mdUrl -replace '\.md$', ''
 
   $html = @"
 <!DOCTYPE html>
@@ -43,7 +44,7 @@ foreach ($i in $items) {
 <meta name="description" content="$($i.desc)">
 <meta name="robots" content="index, follow, max-snippet:-1">
 <link rel="canonical" href="$pageUrl">
-<link rel="alternate" type="text/markdown" href="$($pageUrl -replace '\.html$', '.md')">
+<link rel="alternate" type="text/markdown" href="$mdUrl">
 </head>
 <body>
 $heading<p><a href="https://danxdunzi.github.io/session-lorebook/">Session Lorebook Index</a></p>

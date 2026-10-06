@@ -12,7 +12,7 @@ Characters, in-world K-calendar chronologies, magic systems, world geography, or
 
 - Format: plain Markdown, UTF-8, approximately 407 KB
 - Path: `Mushoku_Tensei/mushoku_tensei_lorebook.md`
-- Live HTML page (for browse/view tools): https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/mushoku_tensei_lorebook.html
+- Live page URL (extensionless, for browse/view tools): https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/mushoku_tensei_lorebook
 - Direct raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/mushoku_tensei_lorebook.md
 - Human-readable page: https://github.com/danxdunzi/session-lorebook/blob/main/Mushoku_Tensei/mushoku_tensei_lorebook.md
 
@@ -22,7 +22,7 @@ Characters, locations, world lore, and items, compiled from the Blue Archive wik
 
 - Format: plain Markdown, UTF-8, approximately 414 KB
 - Path: `Blue_Archive/blue_archive_lorebook.md`
-- Live HTML page (for browse/view tools): https://danxdunzi.github.io/session-lorebook/Blue_Archive/blue_archive_lorebook.html
+- Live page URL (extensionless, for browse/view tools): https://danxdunzi.github.io/session-lorebook/Blue_Archive/blue_archive_lorebook
 - Direct raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Blue_Archive/blue_archive_lorebook.md
 - Human-readable page: https://github.com/danxdunzi/session-lorebook/blob/main/Blue_Archive/blue_archive_lorebook.md
 
@@ -31,17 +31,17 @@ Characters, locations, world lore, and items, compiled from the Blue Archive wik
 ### Mushoku Tensei sessions
 
 - `Mushoku_Tensei/sessions/session_log1.md`
-  - HTML: https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/session_log1.html
+  - Page (extensionless): https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/session_log1
   - Raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/sessions/session_log1.md
 - `Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.md`
-  - HTML: https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.html
+  - Page (extensionless): https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/sessions/quiet_breakfast_in_sharia
   - Raw URL: https://raw.githubusercontent.com/danxdunzi/session-lorebook/main/Mushoku_Tensei/sessions/quiet_breakfast_in_sharia.md
 
 ## For AI agents and scrapers
 
 1. Fetch this README or the HTML index to discover the catalog.
 2. Pick a file.
-3. If your tool needs a live, viewable web page (HTML only), fetch the **Live HTML page** URL — it contains the complete text as a normal HTML document.
+3. If your tool needs a live, viewable web page, fetch the **Live page URL** (extensionless — some browse tools treat URLs ending in a file extension as files rather than pages). It contains the complete text as a normal HTML document.
 4. Otherwise send an HTTP GET request to the raw URL. The response body is the complete plain-text Markdown of that lorebook.
 
 Bulk discovery of every file in the repository:
