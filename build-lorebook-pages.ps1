@@ -44,8 +44,8 @@ $maxB     = 3        # fallback when 5 would be too big
 $charCap  = 17000    # source chars per page (~1/3 of the observed ~50k browse-tool limit)
 $htmlWarn  = 20480    # 20 KB rendered - warn (chunk pages)
 $htmlFail  = 30720    # 30 KB rendered - fail (chunk pages)
-$indexWarn = 40960    # 40 KB rendered - warn (index/catalog pages)
-$indexFail = 46080    # 45 KB rendered - fail (browse-tool fetch limit measured at ~56 KB)
+$indexWarn = 46080    # 45 KB rendered - warn (index/catalog pages; raw URLs are printed)
+$indexFail = 55296    # 54 KB rendered - fail (browse-tool fetch limit measured at ~56 KB)
 
 # ---------------------------------------------------------------------------
 # helpers
@@ -289,17 +289,18 @@ $bodyHtml
 function Get-Nav([object[]]$links) { return ('<p>' + (($links | Where-Object { $_ }) -join ' &middot; ') + '</p>') }
 
 function New-CatalogHtml {
-  # The catalogue page: every section, every entry name, every alias key - and each entry
-  # links straight to the batch page that holds it. No URL is printed as text; the batch is
-  # reached by clicking the entry, which is the whole point of the 3-level flow.
+  # The catalogue page: every section, every entry, every alias key. The link is NEVER hidden
+  # behind a label - the anchor text IS the raw batch URL, printed in full, so it can be read,
+  # copied or fetched straight from the page.
   $sb = New-Object System.Text.StringBuilder
   [void]$sb.AppendLine(('<h2>Mushoku Tensei entry catalogue - all {0} entries in {1} batch pages</h2>' -f $entriesAll.Count, $chunks.Count))
-  [void]$sb.AppendLine(('<p>Every entry of this lorebook, grouped by section. Each name links to the batch page that holds it, and a batch page carries at most {0} whole entries so a fetch is never truncated. Every URL has no file extension and no trailing slash.</p>' -f $maxA))
+  [void]$sb.AppendLine(('<p>Every entry of this lorebook, grouped by section. Each line prints the raw URL of the batch page that holds that entry - the URL is the link itself, not hidden behind any text. A batch page carries at most {0} whole entries so a fetch is never truncated. Every URL has no file extension and no trailing slash.</p>' -f $maxA))
   foreach ($sec in $sections) {
     [void]$sb.AppendLine('<h3>' + (Enc $sec.label) + ' &mdash; ' + $sec.entries.Count + ' entries</h3>')
     [void]$sb.AppendLine('<ul>')
     foreach ($en in $sec.entries) {
-      [void]$sb.AppendLine('<li><a href="' + $en.pageUrl + '">' + (Enc $en.title) + '</a> &mdash; Keys: ' + (Enc $en.keys) + '</li>')
+      $u = $en.pageUrl
+      [void]$sb.AppendLine('<li><a href="' + $u + '">' + $u + '</a> &mdash; ' + (Enc $en.title) + ' [Keys: ' + (Enc $en.keys) + ']</li>')
     }
     [void]$sb.AppendLine('</ul>')
   }
@@ -307,16 +308,17 @@ function New-CatalogHtml {
 }
 
 function New-CatalogMarkdown {
-  # same catalog as New-CatalogHtml, as Markdown for the README mirror
+  # same catalog as New-CatalogHtml, as Markdown for the README mirror: a bare URL per entry,
+  # which GitHub auto-links - no label hiding the target
   $sb = New-Object System.Text.StringBuilder
   [void]$sb.AppendLine(('#### Entry catalog - all {0} entries in {1} batch pages' -f $entriesAll.Count, $chunks.Count))
   [void]$sb.AppendLine('')
-  [void]$sb.AppendLine('Every entry of this lorebook, grouped by section. Each name links to the batch page that holds it (at most 5 whole entries per page, so a fetch is never truncated).')
+  [void]$sb.AppendLine('Every entry of this lorebook, grouped by section. Each line is the raw URL of the batch page that holds that entry (at most 5 whole entries per page, so a fetch is never truncated).')
   foreach ($sec in $sections) {
     [void]$sb.AppendLine('')
     [void]$sb.AppendLine(('**{0} - {1} entries**' -f $sec.label, $sec.entries.Count))
     foreach ($en in $sec.entries) {
-      [void]$sb.AppendLine(('- [{0}]({1}) - Keys: {2}' -f $en.title, $en.pageUrl, $en.keys))
+      [void]$sb.AppendLine(('- {0} - {1} [Keys: {2}]' -f $en.pageUrl, $en.title, $en.keys))
     }
   }
   return $sb.ToString()
@@ -356,7 +358,7 @@ $catalogMd   = New-CatalogMarkdown
 $idxSb = New-Object System.Text.StringBuilder
 [void]$idxSb.AppendLine($introHtml)
 [void]$idxSb.AppendLine($catalogHtml)
-[void]$idxSb.AppendLine('<p><a href="' + $rootUrl + '">All lorebooks</a></p>')
+[void]$idxSb.AppendLine('<p><a href="' + $rootUrl + '">' + $rootUrl + '</a></p>')
 
 $idxTitle = 'danxdunzi - Mushoku Tensei Lorebook Catalogue ({0} entries)' -f $entriesAll.Count
 $idxDesc  = Enc ('Mushoku Tensei lorebook catalogue: all {0} entries grouped by section, each linking to the batch page that holds it.' -f $entriesAll.Count)
@@ -455,15 +457,19 @@ $idxPlain = Get-PlainText $pages['entries_index']
 $idxMiss = @($sections | Where-Object { -not $idxPlain.Contains((Norm $_.label)) } | ForEach-Object { $_.label })
 Add-Check $checks 'all sections listed on the catalogue page' ($idxMiss.Count -eq 0) (($idxMiss -join ', '))
 
-# the catalogue must BE the whole catalogue: every entry name, every key, and every entry
-# name must be a link to the batch page that actually holds it (main -> catalogue -> batch)
+# the catalogue must BE the whole catalogue: every entry name, every key, and the batch URL
+# must be printed in the open as the clickable link itself - never hidden behind a label
 $idxPlainRaw = Get-PlainTextRaw $pages['entries_index']
 $idxMissT = @($entriesAll | Where-Object { -not $idxPlain.Contains((Norm $_.title)) })
-$idxMissL = @($entriesAll | Where-Object { $pages['entries_index'] -notmatch ('<a href="' + [regex]::Escape($_.pageUrl) + '">' + [regex]::Escape((Enc $_.title)) + '</a>') })
+$idxMissL = @($entriesAll | Where-Object {
+  $u = [regex]::Escape($_.pageUrl); $t = [regex]::Escape((Enc $_.title))
+  -not [regex]::IsMatch($pages['entries_index'], ('<a href="' + $u + '">' + $u + '</a>[^\r\n]*' + $t))
+})
 Add-Check $checks 'index lists every entry name (complete catalog)' ($idxMissT.Count -eq 0) (('missing: ' + ((@($idxMissT | ForEach-Object { $_.title }) | Select-Object -First 5) -join '; ')))
-Add-Check $checks 'every entry name on the index links its batch page' ($idxMissL.Count -eq 0) (('missing: ' + ((@($idxMissL | ForEach-Object { $_.title }) | Select-Object -First 5) -join '; ')))
+Add-Check $checks 'every batch URL printed as the clickable link text (never hidden)' ($idxMissL.Count -eq 0) (('missing: ' + ((@($idxMissL | ForEach-Object { $_.title }) | Select-Object -First 5) -join '; ')))
 Add-Check $checks 'index lists every alias key' (@($entriesAll | Where-Object { -not $idxPlain.Contains((Norm $_.keys)) }).Count -eq 0) ''
-Add-Check $checks 'index carries no printed batch URLs (links only)' ($idxPlainRaw -notmatch 'https://danxdunzi\.github\.io/session-lorebook/Mushoku_Tensei/entries_\d{3}') ''
+$idxMissU = @($chunks | Where-Object { -not $idxPlainRaw.Contains($chunkUrl[$_.slug]) })
+Add-Check $checks 'every batch URL visible as raw text on the index' ($idxMissU.Count -eq 0) (('missing: ' + ((@($idxMissU | ForEach-Object { $_.slug }) | Select-Object -First 5) -join '; ')))
 
 # root index.html is hand-maintained (the generator never writes it): it must stay a branch
 # catalogue - two links, no printed URL dump - so warn only if the catalogue link went missing
