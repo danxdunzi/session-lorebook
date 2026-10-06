@@ -52,72 +52,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  <!-- Mushoku Tensei: entry index + 10 section indexes -->
+  <!-- Mushoku Tensei: entry catalogue -->
   <url>
     <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_index</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_01</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_02</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_03</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_04</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_05</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_06</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_07</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_08</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_09</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_10</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <!-- Mushoku Tensei: 50 batch pages -->
   <url>
