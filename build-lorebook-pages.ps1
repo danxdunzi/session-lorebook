@@ -33,6 +33,7 @@ $outDir = Join-Path $root 'Mushoku_Tensei'
 $rootUrl    = $base                                                   # B3: never a trailing slash
 $dumpUrl    = "$base/Mushoku_Tensei/mushoku_tensei_lorebook"
 $indexUrl   = "$base/Mushoku_Tensei/entries_index"
+$secPrefix  = "$base/Mushoku_Tensei/"
 $mdUrl      = "$base/$mdRel"                                          # head-only alternate link
 
 $maxA     = 5        # preferred entries per page
@@ -286,7 +287,7 @@ foreach ($c in $chunks) {
   $navLinks = @(
     '<a href="' + $rootUrl + '">Session Lorebook Index</a>'
     '<a href="' + $indexUrl + '">Lorebook index</a>'
-    '<a href="' + $base + '/' + $sec.slug + '">Section: ' + (Enc $sec.label) + '</a>'
+    '<a href="' + $secPrefix + $sec.slug + '">Section: ' + (Enc $sec.label) + '</a>'
     $(if ($prev) { '<a href="' + $chunkUrl[$prev.slug] + '">&larr; ' + $prev.slug + '</a>' } else { '<span>&larr; previous</span>' })
     $(if ($next) { '<a href="' + $chunkUrl[$next.slug] + '">' + $next.slug + ' &rarr;</a>' } else { '<span>next &rarr;</span>' })
   )
@@ -305,15 +306,15 @@ foreach ($c in $chunks) {
 
 # --- section index pages ---
 foreach ($sec in $sections) {
-  $secUrl = "$base/$($sec.slug)"
+  $secUrl = $secPrefix + $sec.slug
   $secPrev = if ($sec.num -gt 1) { $sections[$sec.num - 2] } else { $null }
   $secNext = if ($sec.num -lt $sections.Count) { $sections[$sec.num] } else { $null }
 
   $navLinks = @(
     '<a href="' + $rootUrl + '">Session Lorebook Index</a>'
     '<a href="' + $indexUrl + '">Lorebook index</a>'
-    $(if ($secPrev) { '<a href="' + $base + '/' + $secPrev.slug + '">&larr; ' + (Enc $secPrev.label) + '</a>' } else { '<span>&larr; previous</span>' })
-    $(if ($secNext) { '<a href="' + $base + '/' + $secNext.slug + '">' + (Enc $secNext.label) + ' &rarr;</a>' } else { '<span>next &rarr;</span>' })
+    $(if ($secPrev) { '<a href="' + $secPrefix + $secPrev.slug + '">&larr; ' + (Enc $secPrev.label) + '</a>' } else { '<span>&larr; previous</span>' })
+    $(if ($secNext) { '<a href="' + $secPrefix + $secNext.slug + '">' + (Enc $secNext.label) + ' &rarr;</a>' } else { '<span>next &rarr;</span>' })
   )
 
   $sb = New-Object System.Text.StringBuilder
@@ -340,7 +341,7 @@ $idxSb = New-Object System.Text.StringBuilder
 [void]$idxSb.AppendLine('<ul>')
 foreach ($sec in $sections) {
   $range = $sec.chunks[0].slug + ' .. ' + $sec.chunks[$sec.chunks.Count - 1].slug
-  [void]$idxSb.AppendLine('<li><a href="' + $base + '/' + $sec.slug + '">' + (Enc $sec.label) + '</a> &mdash; ' + $sec.entries.Count + ' entries in ' + $sec.chunks.Count + ' pages (' + $range + ')</li>')
+  [void]$idxSb.AppendLine('<li><a href="' + $secPrefix + $sec.slug + '">' + (Enc $sec.label) + '</a> &mdash; ' + $sec.entries.Count + ' entries in ' + $sec.chunks.Count + ' pages (' + $range + ')</li>')
 }
 [void]$idxSb.AppendLine('</ul>')
 [void]$idxSb.AppendLine('<h2>Full document</h2>')
@@ -387,15 +388,20 @@ foreach ($p in ($perPage | Where-Object { $_.bytes -gt $htmlWarn -and $_.bytes -
 Add-Check $checks 'no liquid markers in output' (($allHtml -notmatch '\{\{') -and ($allHtml -notmatch '\{%')) ''
 
 # B4/B5: body links must be extensionless and must not end in '/'
-$badHref = @()
+$badHref = @(); $lostHref = @()
+$allowed = @($rootUrl, $dumpUrl, $indexUrl)
+foreach ($sec in $sections) { $allowed += $secPrefix + $sec.slug }
+foreach ($c in $chunks)     { $allowed += $secPrefix + $c.slug }
 foreach ($p in $pages.GetEnumerator()) {
   $m = [regex]::Match($p.Value, '<body>(.*)</body>', 'Singleline')
   foreach ($h in [regex]::Matches($m.Groups[1].Value, 'href="([^"]*)"')) {
     $u = $h.Groups[1].Value
     if ($u -match '\.(html|md|xml|txt)$' -or $u.EndsWith('/')) { $badHref += ($p.Key + ' -> ' + $u) }
+    if ($allowed -notcontains $u) { $lostHref += ($p.Key + ' -> ' + $u) }
   }
 }
 Add-Check $checks 'body links extensionless, no trailing slash (B4/B5)' ($badHref.Count -eq 0) ($badHref -join '; ')
+Add-Check $checks 'every body link points at a real page' ($lostHref.Count -eq 0) (($lostHref | Select-Object -First 5) -join '; ')
 
 # verbatim + fidelity: each entry's first content line must survive rendering
 $missing = @()
