@@ -47,7 +47,7 @@ foreach ($i in $items) {
 <link rel="alternate" type="text/markdown" href="$mdUrl">
 </head>
 <body>
-$heading<p><a href="https://danxdunzi.github.io/session-lorebook/">Session Lorebook Index</a></p>
+$heading<p><a href="https://danxdunzi.github.io/session-lorebook">Session Lorebook Index</a></p>
 $body
 </body>
 </html>
