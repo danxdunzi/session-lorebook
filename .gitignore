@@ -3,3 +3,6 @@
 
 # Local planning / working documents — never published
 PLAN_*.md
+
+# Build artifacts (URL manifest for live verification)
+.build/
