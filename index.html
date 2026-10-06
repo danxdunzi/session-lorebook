@@ -49,6 +49,37 @@
     <br><a href="https://github.com/danxdunzi/session-lorebook/blob/main/Blue_Archive/blue_archive_lorebook.md">https://github.com/danxdunzi/session-lorebook/blob/main/Blue_Archive/blue_archive_lorebook.md</a></li>
 </ul>
 
+<h2>Browse the Mushoku Tensei lorebook entry by entry</h2>
+
+<p>The full lorebook page is large (about 416 KB) and fetch tools usually truncate it around the first dozen entries. The same 200 entries are therefore published as small pages holding at most 5 entries each, wired together by an entry index. Start at the entry index, open a section index, then open the page that holds the entry you need. Every URL below has no file extension and no trailing slash.</p>
+
+<ul>
+  <li>Entry index (start here):
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_index">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_index</a></li>
+  <li>Characters — 51 entries in 15 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_01">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_01</a></li>
+  <li>Locations — 45 entries in 9 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_02">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_02</a></li>
+  <li>World Lore — 63 entries in 13 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_03">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_03</a></li>
+  <li>Items — 12 entries in 3 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_04">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_04</a></li>
+  <li>Guide — 1 entry in 1 page:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_05">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_05</a></li>
+  <li>Characters (secondary) — 16 entries in 4 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_06">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_06</a></li>
+  <li>Items (Dragon King Sword) — 1 entry in 1 page:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_07">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_07</a></li>
+  <li>Locations (Teleport Labyrinth) — 1 entry in 1 page:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_08">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_08</a></li>
+  <li>Items (The Diary) — 1 entry in 1 page:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_09">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_09</a></li>
+  <li>The Diary (Entry 1-9) — 9 entries in 2 pages:
+    <br><a href="https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_10">https://danxdunzi.github.io/session-lorebook/Mushoku_Tensei/entries_sec_10</a></li>
+</ul>
+
+<p>Each section index lists every entry name together with its alias keys (for example Fitz, Quagmire, Mad Dog) as plain text, and each name links directly to the page that holds it. The single-page lorebook above remains available for readers who want the whole document in one fetch.</p>
+
 <h2>Sessions (roleplay logs, grouped by lorebook)</h2>
 
 <h3>Mushoku Tensei sessions</h3>
@@ -64,11 +95,11 @@
 <h2>For AI agents and scrapers</h2>
 
 <ol>
-  <li>Fetch this page as plain HTML: <a href="https://danxdunzi.github.io/session-lorebook/">https://danxdunzi.github.io/session-lorebook/</a></li>
+  <li>Fetch this page as plain HTML: <a href="https://danxdunzi.github.io/session-lorebook">https://danxdunzi.github.io/session-lorebook</a></li>
   <li>Read the catalog above and pick a file.</li>
   <li>If your tool renders or requires a live web page, use the <strong>Live page URL</strong> (no file extension — some browse tools reject URLs ending in .html/.md as "files"). It is a normal HTML document with the full text.</li>
   <li>Otherwise send an HTTP GET request to the raw URL. The response body is the complete Markdown text of that lorebook. No authentication, no cookies, no JavaScript rendering required.</li>
-  <li>Follow the links in each lorebook entry (Keys comments and heading names) if you need to narrow your reading; every file is one flat text document with Markdown headings.</li>
+  <li>For a specific Mushoku Tensei entry, do not fetch the full page (it gets truncated). Fetch the entry index above, open the section index, then open the page holding that entry — pages contain at most 5 whole entries and the section index carries the alias keys.</li>
 </ol>
 
 <p>The same index is mirrored as plain Markdown at the repository README:
