@@ -39,8 +39,10 @@ $mdUrl      = "$base/$mdRel"                                          # head-onl
 $maxA     = 5        # preferred entries per page
 $maxB     = 3        # fallback when 5 would be too big
 $charCap  = 17000    # source chars per page (~1/3 of the observed ~50k browse-tool limit)
-$htmlWarn = 20480    # 20 KB rendered - warn
-$htmlFail = 30720    # 30 KB rendered - fail
+$htmlWarn  = 20480    # 20 KB rendered - warn (chunk pages)
+$htmlFail  = 30720    # 30 KB rendered - fail (chunk pages)
+$indexWarn = 40960    # 40 KB rendered - warn (index/catalog pages)
+$indexFail = 46080    # 45 KB rendered - fail (browse-tool fetch limit measured at ~56 KB)
 
 # ---------------------------------------------------------------------------
 # helpers
@@ -61,6 +63,14 @@ function Get-PlainText([string]$html) {
   $t = [regex]::Replace($html, '<[^>]+>', ' ')
   $t = [System.Net.WebUtility]::HtmlDecode($t)
   return (Norm $t)
+}
+function Get-PlainTextRaw([string]$html) {
+  # same extraction but WITHOUT markdown character stripping - Norm() removes '_' and would
+  # turn entries_001 into entries001, so URLs must be compared against raw extracted text
+  $t = [regex]::Replace($html, '<[^>]+>', ' ')
+  $t = [System.Net.WebUtility]::HtmlDecode($t)
+  $t = $t -replace '\s+', ' '
+  return $t.Trim()
 }
 function Invoke-Marked([string]$markdown) {
   $in  = [System.IO.Path]::GetTempFileName()
@@ -275,6 +285,45 @@ $bodyHtml
 }
 function Get-Nav([object[]]$links) { return ('<p>' + (($links | Where-Object { $_ }) -join ' &middot; ') + '</p>') }
 
+function New-CatalogHtml {
+  # Complete catalog in one page: every section, every batch URL (shown as literal text
+  # as well as href), every entry name and every alias key. No drilling: one line of the
+  # catalog is one fetch to the entries it holds.
+  $sb = New-Object System.Text.StringBuilder
+  [void]$sb.AppendLine(('<h2>Mushoku Tensei entry catalog - all {0} entries in {1} batch pages</h2>' -f $entriesAll.Count, $chunks.Count))
+  [void]$sb.AppendLine(('<p>Every entry of this lorebook, grouped by section, in batches of at most {0} entries per page. Each line gives the complete URL of one batch page together with the entries it holds and their alias keys (Fitz, Quagmire, Mad Dog, ...). Fetch that URL to read those entries in full - no further navigation is needed. Every URL has no file extension and no trailing slash.</p>' -f $maxA))
+  foreach ($sec in $sections) {
+    $secUrl = $secPrefix + $sec.slug
+    [void]$sb.AppendLine('<h3><a href="' + $secUrl + '">' + $secUrl + '</a> &mdash; ' + (Enc $sec.label) + ' &mdash; ' + $sec.entries.Count + ' entries in ' + $sec.chunks.Count + ' pages</h3>')
+    [void]$sb.AppendLine('<ul>')
+    foreach ($c in $sec.chunks) {
+      $u      = $chunkUrl[$c.slug]
+      $member = (@($c.entries | ForEach-Object { (Enc $_.title) + ' [Keys: ' + (Enc $_.keys) + ']' }) -join ' | ')
+      [void]$sb.AppendLine('<li><a href="' + $u + '">' + $u + '</a> &mdash; ' + $member + '</li>')
+    }
+    [void]$sb.AppendLine('</ul>')
+  }
+  return $sb.ToString()
+}
+
+function New-CatalogMarkdown {
+  # same catalog as New-CatalogHtml, as Markdown for the README mirror (raw-text fetches)
+  $sb = New-Object System.Text.StringBuilder
+  [void]$sb.AppendLine(('#### Entry catalog - all {0} entries in {1} batch pages' -f $entriesAll.Count, $chunks.Count))
+  [void]$sb.AppendLine('')
+  [void]$sb.AppendLine('Every entry of this lorebook, grouped by section. Each line is one batch page URL with the entries it holds and their alias keys. Fetch that URL to read those entries in full - no further navigation is needed. Every URL has no file extension and no trailing slash.')
+  foreach ($sec in $sections) {
+    [void]$sb.AppendLine('')
+    [void]$sb.AppendLine(('**{0} - {1} entries in {2} pages**' -f $sec.label, $sec.entries.Count, $sec.chunks.Count))
+    foreach ($c in $sec.chunks) {
+      $u      = $chunkUrl[$c.slug]
+      $member = (@($c.entries | ForEach-Object { $_.title + ' [Keys: ' + $_.keys + ']' }) -join ' | ')
+      [void]$sb.AppendLine(('- {0} - {1}' -f $u, $member))
+    }
+  }
+  return $sb.ToString()
+}
+
 $pages = @{}   # slug or 'entries_index' -> html content
 
 # --- chunk pages ---
@@ -297,10 +346,13 @@ foreach ($c in $chunks) {
   } else {
     $foot = '<p>End of section. <a href="' + $indexUrl + '">Back to the lorebook index</a>.</p>'
   }
-  $title    = 'Mushoku Tensei Lorebook - {0} (entries {1}-{2} of {3})' -f $sec.label, $c.firstSeq, $c.lastSeq, $sec.count
   $names    = (@($c.entries | ForEach-Object { $_.title }) -join ', ')
-  $desc     = Enc ($title + ': ' + $names)
-  $bodyHtml = ('<h1>' + (Enc $title) + '</h1>') + (Get-Nav $navLinks) + $c.htmlBody + $foot
+  # method 3: username + character names in <title>/<h1> so google_search("danxdunzi Hilda")
+  # returns this batch page directly (search results are whitelisted for the browse tool)
+  $title    = 'danxdunzi - Mushoku Tensei Lorebook - {0}: {1}' -f $sec.label, $names
+  $h1Text   = 'danxdunzi - Mushoku Tensei Lorebook - {0} (entries {1}-{2} of {3}): {4}' -f $sec.label, $c.firstSeq, $c.lastSeq, $sec.count, $names
+  $desc     = Enc $h1Text
+  $bodyHtml = ('<h1>' + (Enc $h1Text) + '</h1>') + (Get-Nav $navLinks) + $c.htmlBody + $foot
   $pages[$c.slug] = New-Page (Enc $title) $desc $url $bodyHtml
 }
 
@@ -328,27 +380,22 @@ foreach ($sec in $sections) {
   [void]$sb.AppendLine('</ul>')
   [void]$sb.AppendLine('<p><a href="' + $rootUrl + '">Session Lorebook Index</a></p>')
 
-  $title = '{0} - Mushoku Tensei Lorebook ({1} entries)' -f $sec.label, $sec.entries.Count
+  $title = 'danxdunzi - {0} - Mushoku Tensei Lorebook ({1} entries)' -f $sec.label, $sec.entries.Count
   $desc  = Enc ($title + '. Entries: ' + (@($sec.entries | Select-Object -First 8 | ForEach-Object { $_.title }) -join ', '))
   $pages[$sec.slug] = New-Page (Enc $title) $desc $secUrl $sb.ToString()
 }
 
-# --- main index page ---
+# --- main index page: the COMPLETE catalog (every batch, entry and key, one page) ---
+$catalogHtml = New-CatalogHtml
+$catalogMd   = New-CatalogMarkdown
 $idxSb = New-Object System.Text.StringBuilder
 [void]$idxSb.AppendLine($introHtml)
-[void]$idxSb.AppendLine('<h2>Browse by section</h2>')
-[void]$idxSb.AppendLine('<p>Each section index links every entry name and alias key to the page that contains it. Pages hold at most 5 entries, so a single fetch always returns whole entries.</p>')
-[void]$idxSb.AppendLine('<ul>')
-foreach ($sec in $sections) {
-  $range = $sec.chunks[0].slug + ' .. ' + $sec.chunks[$sec.chunks.Count - 1].slug
-  [void]$idxSb.AppendLine('<li><a href="' + $secPrefix + $sec.slug + '">' + (Enc $sec.label) + '</a> &mdash; ' + $sec.entries.Count + ' entries in ' + $sec.chunks.Count + ' pages (' + $range + ')</li>')
-}
-[void]$idxSb.AppendLine('</ul>')
+[void]$idxSb.AppendLine($catalogHtml)
 [void]$idxSb.AppendLine('<h2>Full document</h2>')
 [void]$idxSb.AppendLine('<ul><li><a href="' + $dumpUrl + '">Complete lorebook as one page (large - may be truncated by fetch tools)</a></li></ul>')
 [void]$idxSb.AppendLine('<p><a href="' + $rootUrl + '">Session Lorebook Index</a></p>')
 
-$idxTitle = 'Mushoku Tensei Lorebook Index ({0} entries)' -f $entriesAll.Count
+$idxTitle = 'danxdunzi - Mushoku Tensei Lorebook Index ({0} entries)' -f $entriesAll.Count
 $pages['entries_index'] = New-Page (Enc $idxTitle) (Enc $idxTitle) $indexUrl $idxSb.ToString()
 
 # ---------------------------------------------------------------------------
@@ -376,13 +423,15 @@ $allHtml = ''
 $perPage = @()
 foreach ($p in $pages.GetEnumerator()) {
   $bytes  = $utf8.GetByteCount($p.Value)
-  $perPage += [pscustomobject]@{ slug = $p.Key; bytes = $bytes }
+  $kind   = if ($p.Key -match '^entries_\d{3}$') { 'chunk' } else { 'index' }
+  $perPage += [pscustomobject]@{ slug = $p.Key; bytes = $bytes; kind = $kind }
   $allHtml += $p.Value + "`n"
 }
-$big = @($perPage | Where-Object { $_.bytes -gt $htmlFail })
-Add-Check $checks "rendered page <= $htmlFail bytes" ($big.Count -eq 0) ("largest = {0} ({1} bytes)" -f (($perPage | Sort-Object bytes -Descending)[0].slug), (($perPage | Sort-Object bytes -Descending)[0].bytes))
-foreach ($p in ($perPage | Where-Object { $_.bytes -gt $htmlWarn -and $_.bytes -le $htmlFail })) {
-  [void]$warns.Add(('{0} is {1} bytes (> 20 KB)' -f $p.slug, $p.bytes))
+$big = @($perPage | Where-Object { ($_.kind -eq 'chunk' -and $_.bytes -gt $htmlFail) -or ($_.kind -eq 'index' -and $_.bytes -gt $indexFail) })
+$largest = ($perPage | Sort-Object bytes -Descending)[0]
+Add-Check $checks "page size within budget (chunk <= $htmlFail, index <= $indexFail bytes)" ($big.Count -eq 0) ("largest = {0} ({1} bytes)" -f $largest.slug, $largest.bytes)
+foreach ($p in ($perPage | Where-Object { ($_.kind -eq 'chunk' -and $_.bytes -gt $htmlWarn -and $_.bytes -le $htmlFail) -or ($_.kind -eq 'index' -and $_.bytes -gt $indexWarn -and $_.bytes -le $indexFail) })) {
+  [void]$warns.Add(('{0} is {1} bytes' -f $p.slug, $p.bytes))
 }
 
 Add-Check $checks 'no liquid markers in output' (($allHtml -notmatch '\{\{') -and ($allHtml -notmatch '\{%')) ''
@@ -449,6 +498,43 @@ $idxPlain = Get-PlainText $pages['entries_index']
 $idxMiss = @($sections | Where-Object { -not $idxPlain.Contains((Norm $_.label)) } | ForEach-Object { $_.label })
 Add-Check $checks 'all sections linked from main index' ($idxMiss.Count -eq 0) (($idxMiss -join ', '))
 
+# the index page must BE the whole index: every entry name and every batch URL in one page
+$idxPlainRaw = Get-PlainTextRaw $pages['entries_index']
+$idxMissT = @($entriesAll | Where-Object { -not $idxPlain.Contains((Norm $_.title)) })
+$idxMissC = @($chunks | Where-Object { -not $idxPlainRaw.Contains($chunkUrl[$_.slug]) })
+Add-Check $checks 'index lists every entry name (complete catalog)' ($idxMissT.Count -eq 0) (('missing: ' + ((@($idxMissT | ForEach-Object { $_.title }) | Select-Object -First 5) -join '; ')))
+Add-Check $checks 'index lists every batch URL as visible text' ($idxMissC.Count -eq 0) (('missing: ' + ((@($idxMissC | ForEach-Object { $_.slug }) | Select-Object -First 5) -join '; ')))
+Add-Check $checks 'index lists every alias key' (@($entriesAll | Where-Object { -not $idxPlain.Contains((Norm $_.keys)) }).Count -eq 0) ''
+
+# root index.html is hand-maintained (the generator never writes it): warn only if its
+# pasted catalog has drifted out of sync with the generated batch plan
+$rootIdxPath = Join-Path $root 'index.html'
+if (Test-Path $rootIdxPath) {
+  $rootPlain    = Get-PlainText ([System.IO.File]::ReadAllText($rootIdxPath, $utf8))
+  $rootPlainRaw = Get-PlainTextRaw ([System.IO.File]::ReadAllText($rootIdxPath, $utf8))
+  $rootMissT = @($entriesAll | Where-Object { -not $rootPlain.Contains((Norm $_.title)) })
+  $rootMissC = @($chunks | Where-Object { -not $rootPlainRaw.Contains($chunkUrl[$_.slug]) })
+  if ($rootMissT.Count -eq 0 -and $rootMissC.Count -eq 0) {
+    Add-Check $checks 'root index.html carries the full catalog' $true ("{0} entries, {1} batch URLs" -f $entriesAll.Count, $chunks.Count)
+  } else {
+    [void]$warns.Add(('root index.html catalog out of sync: {0} entries and {1} batch URLs missing - re-paste .build/root-catalog.html into index.html' -f $rootMissT.Count, $rootMissC.Count))
+  }
+}
+
+# README.md mirrors the root index and is what Googlebot crawls on github.com -
+# same rule: warn (never fail) if its pasted catalog has drifted
+$readmePath = Join-Path $root 'README.md'
+if (Test-Path $readmePath) {
+  $rmText   = [System.IO.File]::ReadAllText($readmePath, $utf8)
+  $rmMissT  = @($entriesAll | Where-Object { -not $rmText.Contains($_.title) })
+  $rmMissC  = @($chunks | Where-Object { -not $rmText.Contains($chunkUrl[$_.slug]) })
+  if ($rmMissT.Count -eq 0 -and $rmMissC.Count -eq 0) {
+    Add-Check $checks 'README.md carries the full catalog' $true ("{0} entries, {1} batch URLs" -f $entriesAll.Count, $chunks.Count)
+  } else {
+    [void]$warns.Add(('README.md catalog out of sync: {0} entries and {1} batch URLs missing - re-paste .build/root-catalog.md into README.md' -f $rmMissT.Count, $rmMissC.Count))
+  }
+}
+
 # ---------------------------------------------------------------------------
 # 5. report
 # ---------------------------------------------------------------------------
@@ -481,6 +567,8 @@ Write-Output ('TOTALS  pages = 1 main + {0} section + {1} chunk = {2}' -f $secti
 Write-Output ('        largest page = {0} ({1} bytes / {2} KB)' -f $sorted[0].slug, $sorted[0].bytes, [math]::Round($sorted[0].bytes / 1024, 1))
 Write-Output ('        pages over {0} src chars = {1}' -f $charCap, $overCap.Count)
 Write-Output ('        total output = {0} bytes' -f (($perPage | Measure-Object bytes -Sum).Sum))
+$idxBytes = ($perPage | Where-Object { $_.slug -eq 'entries_index' }).bytes
+Write-Output ('        entries_index = {0} bytes / {1} KB (full catalog, fetch budget ~55 KB)' -f $idxBytes, [math]::Round($idxBytes / 1024, 1))
 Write-Output ''
 Write-Output 'SELF-CHECKS'
 foreach ($c in $checks) {
@@ -510,6 +598,10 @@ if ($Emit) {
   $manifest = ($order | ForEach-Object { "$base/Mushoku_Tensei/$_" }) -join "`n"
   [System.IO.File]::WriteAllText((Join-Path $manifestDir 'urls.txt'), $manifest + "`n", $utf8)
   Write-Output ('  manifest   .build/urls.txt ({0} urls)' -f $order.Count)
+  [System.IO.File]::WriteAllText((Join-Path $manifestDir 'root-catalog.html'), $catalogHtml, $utf8)
+  Write-Output ('  fragment   .build/root-catalog.html ({0} bytes - paste into index.html)' -f $utf8.GetByteCount($catalogHtml))
+  [System.IO.File]::WriteAllText((Join-Path $manifestDir 'root-catalog.md'), $catalogMd, $utf8)
+  Write-Output ('  fragment   .build/root-catalog.md ({0} bytes - paste into README.md)' -f $utf8.GetByteCount($catalogMd))
   Write-Output ('  result     {0} created, {1} updated, {2} unchanged' -f @($stats | Where-Object { $_ -eq 'created' }).Count, @($stats | Where-Object { $_ -eq 'updated' }).Count, @($stats | Where-Object { $_ -eq 'unchanged' }).Count)
 } else {
   Write-Output ''
